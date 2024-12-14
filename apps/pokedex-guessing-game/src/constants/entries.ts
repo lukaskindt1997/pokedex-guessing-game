@@ -1,6 +1,6 @@
 export const Entries = [
     {
-        "no": "#001",
+        "no": "#0001",
         "name": "Bulbasaur",
         "entries": {
             "red": "A strange seed was planted on its back at birth. The plant sprouts and grows with this Pokémon.",
@@ -10,7 +10,8 @@ export const Entries = [
             "gold": "The seed on its back is filled with nutrients. The seed grows steadily larger as its body grows.",
             "silver": "It carries a seed on its back right from birth. As it grows older, the seed also grows larger.",
             "crystal": "While it is young, it uses the nutrients that are stored in the seeds on its back in order to grow.",
-            "stadium2": "The seed on its back is filled with nutrients. The seed grows steadily larger as its body grows.",
+            "stadium2red": "The seed on its back is filled with nutrients. The seed grows steadily larger as its body grows.",
+            "stadium2blue": "It carries a seed on its back right from birth. As it grows older, the seed also grows larger.",
             "ruby": "Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun's rays, the seed grows progressively larger.",
             "sapphire": "Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun's rays, the seed grows progressively larger.",
             "emerald": "Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun's rays, the seed grows progressively larger.",
@@ -34,11 +35,13 @@ export const Entries = [
             "sword": "There is a plant seed on its back right from the day this Pokémon is born. The seed slowly grows larger.",
             "shield": "While it is young, it uses the nutrients that are stored in the seed on its back in order to grow.",
             "brilliantDiamond": "For some time after its birth, it grows by taking nourishment from the seed on its back.",
-            "shiningPearl": "For some time after its birth, it grows by taking nourishment from the seed on its back."
+            "shiningPearl": "For some time after its birth, it grows by taking nourishment from the seed on its back.",
+            "scarlet": "For some time after its birth, it uses the nutrients that are packed into the seed on its back in order to grow.",
+            "violet": "It carries a seed on its back right from birth. As its body grows larger, the seed does too."
         }
     },
     {
-        "no": "#002",
+        "no": "#0002",
         "name": "Ivysaur",
         "entries": {
             "red": "When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs.",
@@ -48,7 +51,8 @@ export const Entries = [
             "gold": "Exposure to sunlight adds to its strength. Sunlight also makes the bud on its back grow larger.",
             "silver": "If the bud on its back starts to smell sweet, it is evidence that the large flower will soon bloom.",
             "crystal": "The bulb on its back grows as it absorbs nutrients. The bulb gives off a pleasant aroma when it blooms.",
-            "stadium2": "Exposure to sunlight adds to its strength. Sunlight also makes the bud on its back grow larger.",
+            "stadium2red": "Exposure to sunlight adds to its strength. Sunlight also makes the bud on its back grow larger.",
+            "stadium2blue": "If the bud on its back starts to smell sweet, it is evidence that the large flower will soon bloom.",
             "ruby": "There is a bud on this Pokémon's back. To support its weight, Ivysaur's legs and trunk grow thick and strong. If it starts spending more time lying in the sunlight, it's a sign that the bud will bloom into a large flower soon.",
             "sapphire": "There is a bud on this Pokémon's back. To support its weight, Ivysaur's legs and trunk grow thick and strong. If it starts spending more time lying in the sunlight, it's a sign that the bud will bloom into a large flower soon.",
             "emerald": "To support its bulb, Ivysaur's legs grow sturdy. If it spends more time lying in the sunlight, the bud will soon bloom into a large flower.",
@@ -72,11 +76,13 @@ export const Entries = [
             "sword": "When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs.",
             "shield": "Exposure to sunlight adds to its strength. Sunlight also makes the bud on its back grow larger.",
             "brilliantDiamond": "When the bud on its back starts swelling, a sweet aroma wafts to indicate the flower's coming bloom.",
-            "shiningPearl": "When the bud on its back starts swelling, a sweet aroma wafts to indicate the flower's coming bloom."
+            "shiningPearl": "When the bud on its back starts swelling, a sweet aroma wafts to indicate the flower's coming bloom.",
+            "scarlet": "The more sunlight Ivysaur bathes in, the more strength wells up within it, allowing the bud on its back to grow larger.",
+            "violet": "The bulb on its back grows as it absorbs nutrients. The bulb gives off a pleasant aroma when it blooms."
         }
     },
     {
-        "no": "#003",
+        "no": "#0003",
         "name": "Venusaur",
         "entries": {
             "red": "The plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.",
@@ -86,7 +92,8 @@ export const Entries = [
             "gold": "By spreading the broad petals of its flower and catching the sun's rays, it fills its body with power.",
             "silver": "It is able to convert sunlight into energy. As a result, it is more powerful in the summertime.",
             "crystal": "As it warms itself and absorbs the sunlight, its flower petals release a pleasant fragrance.",
-            "stadium2": "By spreading the broad petals of its flower and catching the sun's rays, it fills its body with power.",
+            "stadium2red": "By spreading the broad petals of its flower and catching the sun's rays, it fills its body with power.",
+            "stadium2blue": "It is able to convert sunlight into energy. As a result, it is more powerful in the summertime.",
             "ruby": "There is a large flower on Venusaur's back. The flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower's aroma soothes the emotions of people.",
             "sapphire": "There is a large flower on Venusaur's back. The flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower's aroma soothes the emotions of people.",
             "emerald": "Venusaur's flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower's aroma soothes the emotions of people.",
@@ -110,11 +117,13 @@ export const Entries = [
             "sword": "Its plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.",
             "shield": "A bewitching aroma wafts from its flower. The fragrance becalms those engaged in a battle.",
             "brilliantDiamond": "After a rainy day, the flower on its back smells stronger. The scent attracts other Pokémon.",
-            "shiningPearl": "After a rainy day, the flower on its back smells stronger. The scent attracts other Pokémon."
+            "shiningPearl": "After a rainy day, the flower on its back smells stronger. The scent attracts other Pokémon.",
+            "scarlet": "While it basks in the sun, it can convert the light into energy. As a result, it is more powerful in the summertime.",
+            "violet": "By spreading the broad petals of its flower and catching the sun’s rays, it fills its body with power."
         }
     },
     {
-        "no": "#003mega",
+        "no": "#0003mega",
         "name": "Mega Venusaur",
         "entries": {
             "letsGoPikachu": "In order to support its flower, which has grown larger due to Mega Evolution, its back and legs have become stronger.",
@@ -122,7 +131,7 @@ export const Entries = [
         }
     },
     {
-        "no": "#003gmax",
+        "no": "#0003gmax",
         "name": "Gigantamax Venusaur",
         "entries": {
             "sword": "In battle, this Pokémon swings around two thick vines. If these vines slammed into a 10-story building, they could easily topple it.",
@@ -130,7 +139,7 @@ export const Entries = [
         }
     },
     {
-        "no": "#004",
+        "no": "#0004",
         "name": "Charmander",
         "entries": {
             "red": "Obviously prefers hot places. When it rains, steam is said to spout from the tip of its tail.",
@@ -140,7 +149,8 @@ export const Entries = [
             "gold": "The flame on its tail shows the strength of its life force. If it is weak, the flame also burns weakly.",
             "silver": "The flame on its tail indicates Charmander's life force. If it is healthy, the flame burns brightly.",
             "crystal": "If it's healthy, the flame on the tip of its tail will burn vigorously, even if it gets a bit wet.",
-            "stadium2": "The flame on its tail shows the strength of its life force. If it is weak, the flame also burns weakly.",
+            "stadium2red": "The flame on its tail shows the strength of its life force. If it is weak, the flame also burns weakly.",
+            "stadium2blue": "The flame on its tail indicates Charmander's life force. If it is healthy, the flame burns brightly.",
             "ruby": "The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when Charmander is enjoying itself. If the Pokémon becomes enraged, the flame burns fiercely.",
             "sapphire": "The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when Charmander is enjoying itself. If the Pokémon becomes enraged, the flame burns fiercely.",
             "emerald": "The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when Charmander is happy, and blazes when it is enraged.",
@@ -164,11 +174,13 @@ export const Entries = [
             "sword": "It has a preference for hot things. When it rains, steam is said to spout from the tip of its tail.",
             "shield": "From the time it is born, a flame burns at the tip of its tail. Its life would end if the flame were to go out.",
             "brilliantDiamond": "The fire on the tip of its tail is a measure of its life. If the Pokémon is healthy, its tail burns intensely.",
-            "shiningPearl": "The fire on the tip of its tail is a measure of its life. If the Pokémon is healthy, its tail burns intensely."
+            "shiningPearl": "The fire on the tip of its tail is a measure of its life. If the Pokémon is healthy, its tail burns intensely.",
+            "scarlet": "The flame on its tail shows the strength of its life-force. If Charmander is weak, the flame also burns weakly.",
+            "violet": "If Charmander is healthy, the flame on the tip of its tail will burn vigorously and won’t go out even if it gets a bit wet."
         }
     },
     {
-        "no": "#005",
+        "no": "#0005",
         "name": "Charmeleon",
         "entries": {
             "red": "When it swings its burning tail, it elevates the temperature to unbearably high levels.",
@@ -178,7 +190,8 @@ export const Entries = [
             "gold": "It is very hot-headed by nature, so it constantly seeks opponents. It calms down only when it wins.",
             "silver": "It has a barbaric nature. In battle, it whips its fiery tail around and slashes away with sharp claws.",
             "crystal": "If it becomes agitated during battle, it spouts intense flames, incinerating its surroundings.",
-            "stadium2": "It is very hot-headed by nature, so it constantly seeks opponents. It calms down only when it wins.",
+            "stadium2red": "It is very hot-headed by nature, so it constantly seeks opponents. It calms down only when it wins.",
+            "stadium2blue": "It has a barbaric nature. In battle, it whips its fiery tail around and slashes away with sharp claws.",
             "ruby": "Charmeleon mercilessly destroys its foes using its sharp claws. If it encounters a strong foe, it turns aggressive. In this excited state, the flame at the tip of its tail flares with a bluish white color.",
             "sapphire": "Charmeleon mercilessly destroys its foes using its sharp claws. If it encounters a strong foe, it turns aggressive. In this excited state, the flame at the tip of its tail flares with a bluish white color.",
             "emerald": "Without pity, its sharp claws destroy foes. If it encounters a strong enemy, it becomes agitated, and the flame on its tail flares with a bluish white color.",
@@ -202,11 +215,13 @@ export const Entries = [
             "sword": "It has a barbaric nature. In battle, it whips its fiery tail around and slashes away with sharp claws.",
             "shield": "If it becomes agitated during battle, it spouts intense flames, incinerating its surroundings.",
             "brilliantDiamond": "In the rocky mountains where Charmeleon live, their fiery tails shine at night like stars.",
-            "shiningPearl": "In the rocky mountains where Charmeleon live, their fiery tails shine at night like stars."
+            "shiningPearl": "In the rocky mountains where Charmeleon live, their fiery tails shine at night like stars.",
+            "scarlet": "When it swings its burning tail, the temperature around it rises higher and higher, tormenting its opponents.",
+            "violet": "It is very hotheaded by nature, so it constantly seeks opponents to battle against. Its aggression will not be quelled if it doesn’t win."
         }
     },
     {
-        "no": "#006",
+        "no": "#0006",
         "name": "Charizard",
         "entries": {
             "red": "Spits fire that is hot enough to melt boulders. Known to cause forest fires unintentionally.",
@@ -216,7 +231,8 @@ export const Entries = [
             "gold": "If Charizard becomes furious, the flame at the tip of its tail flares up into a whitish-blue color.",
             "silver": "Breathing intense, hot flames, it can melt almost anything. Its breath inflicts terrible pain on enemies.",
             "crystal": "It uses its wings to fly high. The temperature of its fire increases as it gains experience in battle.",
-            "stadium2": "If Charizard becomes furious, the flame at the tip of its tail flares up in a whitish-blue color.",
+            "stadium2red": "If Charizard becomes furious, the flame at the tip of its tail flares up in a whitish-blue color.",
+            "stadium2blue": "Breathing intense, hot flames, it can melt almost anything. Its breath inflicts terrible pain on enemies.",
             "ruby": "Charizard flies around the sky in search of powerful opponents. It breathes fire of such great heat that it melts anything. However, it never turns its fiery breath on any opponent weaker than itself.",
             "sapphire": "Charizard flies around the sky in search of powerful opponents. It breathes fire of such great heat that it melts anything. However, it never turns its fiery breath on any opponent weaker than itself.",
             "emerald": "A Charizard flies about in search of strong opponents. It breathes intense flames that can melt any material. However, it will never torch a weaker foe.",
@@ -240,11 +256,13 @@ export const Entries = [
             "sword": "It spits fire that is hot enough to melt boulders. It may cause forest fires by blowing flames.",
             "shield": "Its wings can carry this Pokémon close to an altitude of 4,600 feet. It blows out fire at very high temperatures.",
             "brilliantDiamond": "It is said that Charizard's fire burns hotter if it has experienced harsh battles.",
-            "shiningPearl": "It is said that Charizard's fire burns hotter if it has experienced harsh battles."
+            "shiningPearl": "It is said that Charizard's fire burns hotter if it has experienced harsh battles.",
+            "scarlet": "If Charizard becomes truly angered, the flame at the tip of its tail burns in a light blue shade.",
+            "violet": "It uses its wings to fly sky-high. The more experience it gains in battle, the greater the temperature at which its flames burn."
         }
     },
     {
-        "no": "#006megaX",
+        "no": "#0006megaX",
         "name": "Mega Charizard X",
         "entries": {
             "letsGoPikachu": "The overwhelming power that fills its entire body causes it to turn black and creates intense blue flames.",
@@ -252,7 +270,7 @@ export const Entries = [
         }
     },
     {
-        "no": "#006megaY",
+        "no": "#0006megaY",
         "name": "Mega Charizard Y",
         "entries": {
             "letsGoPikachu": "Its bond with its Trainer is the source of its power. It boasts speed and maneuverability greater than that of a jet fighter.",
@@ -260,7 +278,7 @@ export const Entries = [
         }
     },
     {
-        "no": "#006gmax",
+        "no": "#0006gmax",
         "name": "Gigantamax Charizard",
         "entries": {
             "sword": "This colossal, flame-winged figure of a Charizard was brought about by Gigantamax energy.",
@@ -268,7 +286,7 @@ export const Entries = [
         }
     },
     {
-        "no": "#007",
+        "no": "#0007",
         "name": "Squirtle",
         "entries": {
             "red": "After birth, its back swells and hardens into a shell. Powerfully sprays foam from its mouth.",
@@ -278,7 +296,8 @@ export const Entries = [
             "gold": "The shell is soft when it is born. It soon becomes so resilient, prodding fingers will bounce off it.",
             "silver": "The shell, which hardens soon after it is born, is resilient. If you poke it, it will bounce back out.",
             "crystal": "When it feels threatened, it draws its legs inside its shell and sprays water from its mouth.",
-            "stadium2": "The shell is soft when it is born. It soon becomes so resilient, prodding fingers will bounce off it.",
+            "stadium2red": "The shell is soft when it is born. It soon becomes so resilient, prodding fingers will bounce off it.",
+            "stadium2blue": "The shell, which hardens soon after it is born, is resilient. If you poke it, it will bounce back out.",
             "ruby": "Squirtle's shell is not merely used for protection. The shell's rounded shape and the grooves on its surface help minimize resistance in water, enabling this Pokémon to swim at high speeds.",
             "sapphire": "Squirtle's shell is not merely used for protection. The shell's rounded shape and the grooves on its surface help minimize resistance in water, enabling this Pokémon to swim at high speeds.",
             "emerald": "Its shell is not just for protection. Its rounded shape and the grooves on its surface minimize resistance in water, enabling Squirtle to swim at high speeds.",
@@ -302,11 +321,13 @@ export const Entries = [
             "sword": "When it retracts its long neck into its shell, it squirts out water with vigorous force.",
             "shield": "When it feels threatened, it draws its limbs inside its shell and sprays water from its mouth.",
             "brilliantDiamond": "It hides in its shell to protect itself, then strikes back with spouts of water at every opportunity.",
-            "shiningPearl": "It hides in its shell to protect itself, then strikes back with spouts of water at every opportunity."
+            "shiningPearl": "It hides in its shell to protect itself, then strikes back with spouts of water at every opportunity.",
+            "scarlet": "After birth, its back swells and hardens into a shell. It sprays a potent foam from its mouth.",
+            "violet": "Its shell is soft immediately after it is born. In no time at all, the shell becomes so resilient that a prodding finger will bounce right off it."
         }
     },
     {
-        "no": "#008",
+        "no": "#0008",
         "name": "Wartortle",
         "entries": {
             "red": "Often hides in water to stalk unwary prey. For swimming fast, it moves its ears to maintain balance.",
@@ -316,7 +337,8 @@ export const Entries = [
             "gold": "It is recognized as a symbol of longevity. If its shell has algae on it, that Wartortle is very old.",
             "silver": "It cleverly controls its furry ears and tail to maintain its balance while swimming.",
             "crystal": "Its long, furry tail is a symbol of longevity, making it quite popular among older people.",
-            "stadium2": "It is recognized as a symbol of longevity. If its shell has algae on it, that Wartortle is very old.",
+            "stadium2red": "It is recognized as a symbol of longevity. If its shell has algae on it, that Wartortle is very old.",
+            "stadium2blue": "It cleverly controls its furry ears and tail to maintain its balance while swimming.",
             "ruby": "Its tail is large and covered with a rich, thick fur. The tail becomes increasingly deeper in color as Wartortle ages. The scratches on its shell are evidence of this Pokémon's toughness as a battler.",
             "sapphire": "Its tail is large and covered with a rich, thick fur. The tail becomes increasingly deeper in color as Wartortle ages. The scratches on its shell are evidence of this Pokémon's toughness as a battler.",
             "emerald": "Its large tail is covered with rich, thick fur that deepens in color with age. The scratches on its shell are evidence of this Pokémon's toughness in battle.",
@@ -340,11 +362,13 @@ export const Entries = [
             "sword": "It is recognized as a symbol of longevity. If its shell has algae on it, that Wartortle is very old.",
             "shield": "It cleverly controls its furry ears and tail to maintain its balance while swimming.",
             "brilliantDiamond": "It is said to live 10,000 years. Its furry tail is popular as a symbol of longevity.",
-            "shiningPearl": "It is said to live 10,000 years. Its furry tail is popular as a symbol of longevity."
+            "shiningPearl": "It is said to live 10,000 years. Its furry tail is popular as a symbol of longevity.",
+            "scarlet": "Wartortle’s long, furry tail is a symbol of longevity, so this Pokémon is quite popular among older people.",
+            "violet": "It often hides in water to stalk unwary prey. While swimming quickly, it moves its ears to maintain balance."
         }
     },
     {
-        "no": "#009",
+        "no": "#0009",
         "name": "Blastoise",
         "entries": {
             "red": "A brutal Pokémon with pressurized water jets on its shell. They are used for high speed tackles.",
@@ -354,7 +378,8 @@ export const Entries = [
             "gold": "It deliberately makes itself heavy so it can withstand the recoil of the water jets it fires.",
             "silver": "The rocket cannons on its shell fire jets of water capable of punching holes through thick steel",
             "crystal": "It firmly plants its feet on the ground before shooting water from the jets on its back.",
-            "stadium2": "It deliberately makes itself heavy so it can withstand the recoil of the water jets it fires.",
+            "stadium2red": "It deliberately makes itself heavy so it can withstand the recoil of the water jets it fires.",
+            "stadium2blue": "The rocket cannons on its shell fire jets of water capable of punching holes through thick steel.",
             "ruby": "Blastoise has water spouts that protrude from its shell. The water spouts are very accurate. They can shoot bullets of water with enough accuracy to strike empty cans from a distance of over 160 feet.",
             "sapphire": "Blastoise has water spouts that protrude from its shell. The water spouts are very accurate. They can shoot bullets of water with enough accuracy to strike empty cans from a distance of over 160 feet.",
             "emerald": "The waterspouts that protrude from its shell are highly accurate. Their bullets of water can precisely nail tin cans from a distance of over 160 feet.",
@@ -378,11 +403,13 @@ export const Entries = [
             "sword": "It crushes its foe under its heavy body to cause fainting. In a pinch, it will withdraw inside its shell.",
             "shield": "The rocket cannons on its shell fire jets of water capable of punching holes through thick steel.",
             "brilliantDiamond": "The jets of water it spouts from the rocket cannons on its shell can punch through thick steel.",
-            "shiningPearl": "The jets of water it spouts from the rocket cannons on its shell can punch through thick steel."
+            "shiningPearl": "The jets of water it spouts from the rocket cannons on its shell can punch through thick steel.",
+            "scarlet": "It deliberately increases its body weight so it can withstand the recoil of the water jets it fires.",
+            "violet": "It has jet nozzles on its shell. This impressive Pokémon uses these jets to charge toward foes with all the force of a rocket."
         }
     },
     {
-        "no": "#009mega",
+        "no": "#0009mega",
         "name": "Mega Blastoise",
         "entries": {
             "letsGoPikachu": "The cannon on its back is as powerful as a tank gun. Its tough legs and back enable it to withstand the recoil from firing the cannon.",
@@ -390,7 +417,7 @@ export const Entries = [
         }
     },
     {
-        "no": "#009gmax",
+        "no": "#0009gmax",
         "name": "Gigantamax Blastoise",
         "entries": {
             "sword": "It's not very good at precision shooting. When attacking, it just fires its 31 cannons over and over and over.",
@@ -398,7 +425,7 @@ export const Entries = [
         }
     },
     {
-        "no": "#010",
+        "no": "#0010",
         "name": "Caterpie",
         "entries": {
             "red": "Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls.",
@@ -408,7 +435,8 @@ export const Entries = [
             "gold": "For protection, it releases a horrible stench from the antennae on its head to drive away enemies.",
             "silver": "Its feet have suction cups designed to stick to any surface. It tenaciously climbs trees to forage.",
             "crystal": "It crawls into foliage where it camouflages itself among leaves that are the same color as its body.",
-            "stadium2": "For protection, it releases a horrible stench from the antennae on its head to drive away enemies.",
+            "stadium2red": "For protection, it releases a horrible stench from the antennae on its head to drive away enemies.",
+            "stadium2blue": "Its feet have suction cups designed to stick to any surface. It tenaciously climbs trees to forage.",
             "ruby": "Caterpie has a voracious appetite. It can devour leaves bigger than its body right before your eyes. From its antenna, this Pokémon releases a terrifically strong odor.",
             "sapphire": "Caterpie has a voracious appetite. It can devour leaves bigger than its body right before your eyes. From its antenna, this Pokémon releases a terrifically strong odor.",
             "emerald": "Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.",
@@ -440,7 +468,7 @@ export const Entries = [
         }
     },
     {
-        "no": "#011",
+        "no": "#0011",
         "name": "Metapod",
         "entries": {
             "red": "This Pokémon is vulnerable to attack while its shell is soft, exposing its weak and tender body.",
@@ -450,7 +478,8 @@ export const Entries = [
             "gold": "Inside the shell, it is soft and weak as it prepares to evolve. It stays motionless in the shell.",
             "silver": "It prepares for evolution by hardening its shell as much as possible to protect its soft body.",
             "crystal": "This is its preevolved form. At this stage, it can only harden, so it remains motionless to avoid attack.",
-            "stadium2": "Inside the shell, it is soft and weak as it prepares to evolve. It stays motionless in the shell.",
+            "stadium2red": "Inside the shell, it is soft and weak as it prepares to evolve. It stays motionless in the shell.",
+            "stadium2blue": "It prepares for evolution by hardening its shell as much as possible to protect its soft body.",
             "ruby": "The shell covering this Pokémon's body is as hard as an iron slab. Metapod does not move very much. It stays still because it is preparing its soft innards for evolution inside the hard shell.",
             "sapphire": "The shell covering this Pokémon's body is as hard as an iron slab. Metapod does not move very much. It stays still because it is preparing its soft innards for evolution inside the hard shell.",
             "emerald": "Its shell is as hard as an iron slab. A Metapod does not move very much because it is preparing its soft innards for evolution inside the shell.",
@@ -482,7 +511,7 @@ export const Entries = [
         }
     },
     {
-        "no": "#012",
+        "no": "#0012",
         "name": "Butterfree",
         "entries": {
             "red": "In battle, it flaps its wings at high speed to release highly toxic dust into the air.",
@@ -492,7 +521,8 @@ export const Entries = [
             "gold": "It collects honey every day. It rubs honey onto the hairs on its legs to carry it back to its nest.",
             "silver": "Water-repellent powder on its wings enables it to collect honey, even in the heaviest of rains.",
             "crystal": "It flits from flower to flower, collecting honey. It can even identify distant flowers in bloom.",
-            "stadium2": "It collects honey every day. It rubs honey onto the hairs on its legs to carry it back to its nest.",
+            "stadium2red": "It collects honey every day. It rubs honey onto the hairs on its legs to carry it back to its nest.",
+            "stadium2blue": "Water-repellent powder on its wings enables it to collect honey, even in the heaviest of rains.",
             "ruby": "Butterfree has a superior ability to search for delicious honey from flowers. It can even search out, extract, and carry honey from flowers that are blooming over six miles from its nest.",
             "sapphire": "Butterfree has a superior ability to search for delicious honey from flowers. It can even search out, extract, and carry honey from flowers that are blooming over six miles from its nest.",
             "emerald": "It has a superior ability to search for delicious honey from flowers. It can seek, extract, and carry honey from flowers blooming over six miles away.",
@@ -524,7 +554,7 @@ export const Entries = [
         }
     },
     {
-        "no": "#012gmax",
+        "no": "#0012gmax",
         "name": "Gigantamax Butterfree",
         "entries": {
             "sword": "Crystallized Gigantamax energy makes up this Pokémon's blindingly bright and highly toxic scales.",
@@ -532,7 +562,7 @@ export const Entries = [
         }
     },
     {
-        "no": "#013",
+        "no": "#0013",
         "name": "Weedle",
         "entries": {
             "red": "Often found in forests, eating leaves. It has a sharp venomous stinger on its head.",
@@ -542,7 +572,8 @@ export const Entries = [
             "gold": "Its poison stinger is very powerful. Its bright-colored body is intended to warn off its enemies.",
             "silver": "It attacks using a two-inch poison barb on its head. It can usually be found under the leaves it eats.",
             "crystal": "The barb on top of its head secretes a strong poison. It uses this toxic barb to protect itself.",
-            "stadium2": "Its poison stinger is very powerful. Its bright-colored body is intended to warn off its enemies.",
+            "stadium2red": "Its poison stinger is very powerful. Its bright-colored body is intended to warn off its enemies.",
+            "stadium2blue": "It attacks using a two-inch poison barb on its head. It can usually be found under the leaves it eats.",
             "ruby": "Weedle has an extremely acute sense of smell. It is capable of distinguishing its favorite kinds of leaves from those it dislikes just by sniffing with its big red proboscis (nose).",
             "sapphire": "Weedle has an extremely acute sense of smell. It is capable of distinguishing its favorite kinds of leaves from those it dislikes just by sniffing with its big red proboscis (nose).",
             "emerald": "A Weedle has an extremely acute sense of smell. It distinguishes its favorite kinds of leaves from those it dislikes by sniffing with its big red proboscis (nose).",
@@ -568,7 +599,7 @@ export const Entries = [
         }
     },
     {
-        "no": "#014",
+        "no": "#0014",
         "name": "Kakuna",
         "entries": {
             "red": "Almost incapable of moving, this Pokémon can only harden its shell to protect itself from predators.",
@@ -578,7 +609,8 @@ export const Entries = [
             "gold": "Although it is a cocoon, it can move a little. It can extend its poison barb if it is attacked.",
             "silver": "From this form, it will grow into an adult. As its body becomes softer, the external shell hardens.",
             "crystal": "Nearly incapable of movement, it leans against stout trees while waiting for its evolution.",
-            "stadium2": "Although it is a cocoon, it can move a little. It can extend its poison barb if it is attacked.",
+            "stadium2red": "Although it is a cocoon, it can move a little. It can extend its poison barb if it is attacked.",
+            "stadium2blue": "From this form, it will grow into an adult. As its body becomes softer, the external shell hardens.",
             "ruby": "Kakuna remains virtually immobile as it clings to a tree. However, on the inside, it is extremely busy as it prepares for its coming evolution. This is evident from how hot the shell becomes to the touch.",
             "sapphire": "Kakuna remains virtually immobile as it clings to a tree. However, on the inside, it is extremely busy as it prepares for its coming evolution. This is evident from how hot the shell becomes to the touch.",
             "emerald": "It remains virtually immobile while it clings to a tree. However, on the inside, it busily prepares for evolution. This is evident from how hot its shell becomes.",
@@ -604,7 +636,7 @@ export const Entries = [
         }
     },
     {
-        "no": "#015",
+        "no": "#0015",
         "name": "Beedrill",
         "entries": {
             "red": "Flies at high speed and attacks using its large venomous stingers on its forelegs and tail.",
@@ -614,7 +646,8 @@ export const Entries = [
             "gold": "It can take down any opponent with its powerful poison stingers. It sometimes attacks in swarms.",
             "silver": "It has three poison barbs. The barb on its tail secretes the most powerful poison.",
             "crystal": "It uses sharp, poisonous stings to defeat prey, then takes the victim back to its nest for food.",
-            "stadium2": "It can take down any opponent with its powerful poison stingers. It sometimes attacks in swarms.",
+            "stadium2red": "It can take down any opponent with its powerful poison stingers. It sometimes attacks in swarms.",
+            "stadium2blue": "It has three poison barbs. The barb on its tail secretes the most powerful poison.",
             "ruby": "Beedrill is extremely territorial. No one should ever approach its nest - this is for their own safety. If angered, they will attack in a furious swarm.",
             "sapphire": "Beedrill is extremely territorial. No one should ever approach its nest - this is for their own safety. If angered, they will attack in a furious swarm.",
             "emerald": "A Beedrill is extremely territorial. For safety reasons, no one should ever approach its nest. If angered, they will attack in a swarm.",
@@ -640,7 +673,7 @@ export const Entries = [
         }
     },
     {
-        "no": "#015mega",
+        "no": "#0015mega",
         "name": "Mega Beedrill",
         "entries": {
             "letsGoPikachu": "Its legs have become poison stingers. It stabs its prey repeatedly with the stingers on its limbs, dealing the final blow with the stinger on its rear.",
@@ -648,7 +681,7 @@ export const Entries = [
         }
     },
     {
-        "no": "#016",
+        "no": "#0016",
         "name": "Pidgey",
         "entries": {
             "red": "A common sight in forests and woods. It flaps its wings at ground level to kick up blinding sand.",
@@ -658,7 +691,8 @@ export const Entries = [
             "gold": "It usually hides in tall grass. Because it dislikes fighting, it protects itself by kicking up sand.",
             "silver": "Common in grassy areas and forests, it is very docile and will chase off enemies by flapping up sand.",
             "crystal": "It rapidly flaps its wings in the grass, stirring up a dust cloud that drives insect prey out into the open.",
-            "stadium2": "It usually hides in tall grass. Because it dislikes fighting, it protects itself by kicking up sand.",
+            "stadium2red": "It usually hides in tall grass. Because it dislikes fighting, it protects itself by kicking up sand.",
+            "stadium2blue": "Common in grassy areas and forests, it is very docile and will chase off enemies by flapping up sand.",
             "ruby": "Pidgey has an extremely sharp sense of direction. It is capable of unerringly returning home to its nest, however far it may be removed from its familiar surroundings.",
             "sapphire": "Pidgey has an extremely sharp sense of direction. It is capable of unerringly returning home to its nest, however far it may be removed from its familiar surroundings.",
             "emerald": "It has an extremely sharp sense of direction. It can unerringly return home to its nest, however far it may be removed from its familiar surroundings.",
@@ -684,7 +718,7 @@ export const Entries = [
         }
     },
     {
-        "no": "#017",
+        "no": "#0017",
         "name": "Pidgeotto",
         "entries": {
             "red": "Very protective of its sprawling territorial area, this Pokémon will fiercely peck at any intruder.",
@@ -694,7 +728,8 @@ export const Entries = [
             "gold": "It has outstanding vision. However high it flies, it is able to distinguish the movements of its prey.",
             "silver": "It immobilizes its prey using well-developed claws, then carries the prey more than 60 miles to its nest.",
             "crystal": "It slowly flies in a circular pattern, all the while keeping a sharp lookout for prey.",
-            "stadium2": "It has outstanding vision. However high it flies, it is able to distinguish the movements of its prey.",
+            "stadium2red": "It has outstanding vision. However high it flies, it is able to distinguish the movements of its prey.",
+            "stadium2blue": "It immobilizes its prey using well-developed claws, then it carries the prey more than 60 miles to its nest.",
             "ruby": "Pidgeotto claims a large area as its own territory. This Pokémon flies around, patrolling its living space. If its territory is violated, it shows no mercy in thoroughly punishing the foe with its sharp claws.",
             "sapphire": "Pidgeotto claims a large area as its own territory. This Pokémon flies around, patrolling its living space. If its territory is violated, it shows no mercy in thoroughly punishing the foe with its sharp claws.",
             "emerald": "This Pokémon flies around, patrolling its large territory. If its living space is violated, it shows no mercy in thoroughly punishing the foe with its sharp claws.",
@@ -720,7 +755,7 @@ export const Entries = [
         }
     },
     {
-        "no": "#018",
+        "no": "#0018",
         "name": "Pidgeot",
         "entries": {
             "red": "When hunting, it skims the surface of water at high speed to pick off unwary prey such as Magikarp.",
@@ -730,7 +765,8 @@ export const Entries = [
             "gold": "Its well-developed chest muscles make it strong enough to whip up a gusty windstorm with just a few flaps.",
             "silver": "It spreads its beautiful wings wide to frighten its enemies. It can fly at Mach 2 speed.",
             "crystal": "Its outstanding vision allows it to spot splashing Magikarp, even while flying at 3,300 feet.",
-            "stadium2": "Its well-developed chest muscles make it strong enough to whip up a gusty windstorm with just a few flaps.",
+            "stadium2red": "Its well-developed chest muscles make it strong enough to whip up a gusty windstorm with just a few flaps.",
+            "stadium2blue": "It spreads its beautiful wings wide to frighten its enemies. It can fly at Mach 2 speed.",
             "ruby": "This Pokémon has a dazzling plumage of beautifully glossy feathers. Many Trainers are captivated by the striking beauty of the feathers on its head, compelling them to choose Pidgeot as their Pokémon.",
             "sapphire": "This Pokémon has a dazzling plumage of beautifully glossy feathers. Many Trainers are captivated by the striking beauty of the feathers on its head, compelling them to choose Pidgeot as their Pokémon.",
             "emerald": "This Pokémon has gorgeous, glossy feathers. Many trainers are so captivated by the beautiful feathers on its head that they choose Pidgeot as their Pokémon.",
@@ -756,7 +792,7 @@ export const Entries = [
         }
     },
     {
-        "no": "#018mega",
+        "no": "#0018mega",
         "name": "Mega Pidgeot",
         "entries": {
             "letsGoPikachu": "With its muscular strength now greatly increased, it can fly continuously for two weeks without resting.",
@@ -764,7 +800,7 @@ export const Entries = [
         }
     },
     {
-        "no": "#019",
+        "no": "#0019",
         "name": "Rattata",
         "entries": {
             "red": "Bites anything when it attacks. Small and very quick, it is a common sight in many places.",
@@ -774,7 +810,8 @@ export const Entries = [
             "gold": "It eats everything. Wherever food is available, it will settle down and produce offspring continuously.",
             "silver": "Living wherever there is food available, it ceaselessly scavenges for edibles the entire day.",
             "crystal": "This Pokémon's impressive vitality allows it to live anywhere. It also multiplies very quickly.",
-            "stadium2": "It eats everything. Wherever food is available, it will settle down and produce offspring continuously.",
+            "stadium2red": "It eats everything. Wherever food is available, it will settle down and produce offspring continuously.",
+            "stadium2blue": "Living wherever there is food available, it ceaselessly scavenges for edibles the entire day.",
             "ruby": "Rattata is cautious in the extreme. Even while it is asleep, it constantly listens by moving its ears around. It is not picky about where it lives - it will make its nest anywhere.",
             "sapphire": "Rattata is cautious in the extreme. Even while it is asleep, it constantly listens by moving its ears around. It is not picky about where it lives - it will make its nest anywhere.",
             "emerald": "A Rattata is cautious in the extreme. Even while it is asleep, it constantly moves its ears and listens for danger. It will make its nest anywhere.",
@@ -804,7 +841,7 @@ export const Entries = [
         }
     },
     {
-        "no": "#019alola",
+        "no": "#0019alola",
         "name": "Alolan Rattata",
         "entries": {
             "sun": "With its incisors, it gnaws through doors and infiltrates people's homes. Then, with a twitch of its whiskers, it steals whatever food it finds.",
@@ -816,7 +853,7 @@ export const Entries = [
         }
     },
     {
-        "no": "#020",
+        "no": "#0020",
         "name": "Raticate",
         "entries": {
             "red": "It uses its whiskers to maintain its balance. It apparently slows down if they are cut off.",
@@ -826,7 +863,8 @@ export const Entries = [
             "gold": "Gnaws on anything with its tough fangs. It can even topple concrete buildings by gnawing on them.",
             "silver": "Its whiskers help it to maintain balance. Its fangs never stop growing, so it gnaws to pare them down.",
             "crystal": "The webs on its hind legs enable it to cross rivers. It searches wide areas for food.",
-            "stadium2": "Gnaws on anything with its tough fangs. It can even topple concrete buildings by gnawing on them.",
+            "stadium2red": "Gnaws on anything with its tough fangs. It can even topple concrete buildings by gnawing on them.",
+            "stadium2blue": "Its whiskers help it to maintain balance. Its fangs never stop growing, so it gnaws to pare them down.",
             "ruby": "Raticate's sturdy fangs grow steadily. To keep them ground down, it gnaws on rocks and logs. It may even chew on the walls of houses.",
             "sapphire": "Raticate's sturdy fangs grow steadily. To keep them ground down, it gnaws on rocks and logs. It may even chew on the walls of houses.",
             "emerald": "A Raticate's sturdy fangs grow steadily. To keep them ground down, it gnaws on rocks and logs. It may even chew on the walls of houses.",
@@ -856,7 +894,7 @@ export const Entries = [
         }
     },
     {
-        "no": "#020alola",
+        "no": "#0020alola",
         "name": "Alolan Raticate",
         "entries": {
             "sun": "It forms a group of Rattata, which it assumes command of. Each group has its own territory, and disputes over food happen often.",
@@ -868,7 +906,7 @@ export const Entries = [
         }
     },
     {
-        "no": "#021",
+        "no": "#0021",
         "name": "Spearow",
         "entries": {
             "red": "Eats bugs in grassy areas. It has to flap its short wings at high speed to stay airborne.",
@@ -878,7 +916,8 @@ export const Entries = [
             "gold": "It flaps its short wings to flush out insects from tall grass. It then plucks them with its stubby beak.",
             "silver": "Very protective of its territory, it flaps its short wings busily to dart around at high speed.",
             "crystal": "To protect its territory, it flies around ceaselessly, making high-pitched cries.",
-            "stadium2": "It flaps its short wings to flush out insects from tall grass. It then plucks them with its stubby beak.",
+            "stadium2red": "It flaps its short wings to flush out insects from tall grass. It then plucks them with its stubby beak.",
+            "stadium2blue": "Very protective of its territory, it flaps its short wings busily to dart around at high speed.",
             "ruby": "Spearow has a very loud cry that can be heard over half a mile away. If its high, keening cry is heard echoing all around, it is a sign that they are warning each other of danger.",
             "sapphire": "Spearow has a very loud cry that can be heard over half a mile away. If its high, keening cry is heard echoing all around, it is a sign that they are warning each other of danger.",
             "emerald": "Its loud cry can be heard over half a mile away. If its high, keening cry is heard echoing all around, it is a sign that they are warning each other of danger.",
@@ -908,7 +947,7 @@ export const Entries = [
         }
     },
     {
-        "no": "#022",
+        "no": "#0022",
         "name": "Fearow",
         "entries": {
             "red": "With its huge and magnificent wings, it can keep aloft without ever having to land for rest.",
@@ -918,7 +957,8 @@ export const Entries = [
             "gold": "It shoots itself suddenly high into the sky, then plummets down in one fell swoop to strike its prey.",
             "silver": "It cleverly uses its thin, long beak to pluck and eat small insects that hide under the ground.",
             "crystal": "It uses its long beak to attack. It has a surprisingly long reach, so it must be treated with caution.",
-            "stadium2": "It shoots itself suddenly high into the sky, then plummets down in one fell swoop to strike its prey.",
+            "stadium2red": "It shoots itself suddenly high into the sky, then plummets down in one fell swoop to strike its prey.",
+            "stadium2blue": "It cleverly uses its thin, long beak to pluck and eat small insects that hide under the ground.",
             "ruby": "Fearow is recognized by its long neck and elongated beak. They are conveniently shaped for catching prey in soil or water. It deftly moves its long and skinny beak to pluck prey.",
             "sapphire": "Fearow is recognized by its long neck and elongated beak. They are conveniently shaped for catching prey in soil or water. It deftly moves its long and skinny beak to pluck prey.",
             "emerald": "Its long neck and elongated beak are ideal for catching prey in soil or water. It deftly moves this extended and skinny beak to pluck prey.",
@@ -948,7 +988,7 @@ export const Entries = [
         }
     },
     {
-        "no": "#023",
+        "no": "#0023",
         "name": "Ekans",
         "entries": {
             "red": "Moves silently and stealthily. Eats the eggs of birds, such as Pidgey and Spearow, whole.",
@@ -958,7 +998,8 @@ export const Entries = [
             "gold": "It can freely detach its jaw to swallow large prey whole. It can become too heavy to move, however.",
             "silver": "It always hides in grass. When first born, it has no poison, so its bite is painful, but harmless.",
             "crystal": "It flutters the tip of its tongue to seek out the scent of prey, then swallows the prey whole.",
-            "stadium2": "It can freely detach its jaw to swallow large prey whole. It can become too heavy to move, however.",
+            "stadium2red": "It can freely detach its jaw to swallow large prey whole. It can become too heavy to move, however.",
+            "stadium2blue": "It always hides in grass. When first born, it has no poison, so its bite is painful, but harmless.",
             "ruby": "Ekans curls itself up in a spiral while it rests. Assuming this position allows it to quickly respond to a threat from any direction with a glare from its upraised head.",
             "sapphire": "Ekans curls itself up in a spiral while it rests. Assuming this position allows it to quickly respond to a threat from any direction with a glare from its upraised head.",
             "emerald": "An Ekans curls itself up in a spiral while it rests. This position allows it to quickly respond to an enemy from any direction with a threat from its upraised head.",
@@ -982,11 +1023,13 @@ export const Entries = [
             "letsGoPikachu": "The older it gets, the longer it grows. At night, it wraps its long body around tree branches to rest.",
             "letsGoEevee": "The older it gets, the longer it grows. At night, it wraps its long body around tree branches to rest.",
             "brilliantDiamond": "It sneaks through grass without making a sound and strikes unsuspecting prey from behind.",
-            "shiningPearl": "It sneaks through grass without making a sound and strikes unsuspecting prey from behind."
+            "shiningPearl": "It sneaks through grass without making a sound and strikes unsuspecting prey from behind.",
+            "scarlet": "It can freely detach its jaw to swallow large prey whole. It can become too heavy to move, however.",
+            "violet": "A very common sight in grasslands and such. It flicks its tongue in and out to sense danger in its surroundings."
         }
     },
     {
-        "no": "#024",
+        "no": "#0024",
         "name": "Arbok",
         "entries": {
             "red": "It is rumored that the ferocious warning markings on its belly differ from area to area.",
@@ -996,7 +1039,8 @@ export const Entries = [
             "gold": "Transfixing prey with the face-like pattern on its belly, it binds and poisons the frightened victim.",
             "silver": "With a very vengeful nature, it won't give up the chase, no matter how far, once it targets its prey.",
             "crystal": "To intimidate foes, it spreads its chest wide and makes eerie sounds by expelling air from its mouth.",
-            "stadium2": "Transfixing prey with the face like pattern on its belly, it binds and poisons the poisoned victim.",
+            "stadium2red": "Transfixing prey with the face like pattern on its belly, it binds and poisons the poisoned victim.",
+            "stadium2blue": "With a very vengeful nature, it won't give up the chase, no matter how far, once it targets its prey.",
             "ruby": "This Pokémon is terrifically strong in order to constrict things with its body. It can even flatten steel oil drums. Once Arbok wraps its body around its foe, escaping its crunching embrace is impossible.",
             "sapphire": "This Pokémon is terrifically strong in order to constrict things with its body. It can even flatten steel oil drums. Once Arbok wraps its body around its foe, escaping its crunching embrace is impossible.",
             "emerald": "This Pokémon has a terrifically strong constricting power. It can even flatten steel oil drums. Once it wraps its body around its foe, escaping is impossible.",
@@ -1020,11 +1064,13 @@ export const Entries = [
             "letsGoPikachu": "The frightening patterns on its belly have been studied. Six variations have been confirmed.",
             "letsGoEevee": "The frightening patterns on its belly have been studied. Six variations have been confirmed.",
             "brilliantDiamond": "The pattern on its belly is for intimidation. It constricts foes while they are frozen in fear.",
-            "shiningPearl": "The pattern on its belly is for intimidation. It constricts foes while they are frozen in fear."
+            "shiningPearl": "The pattern on its belly is for intimidation. It constricts foes while they are frozen in fear.",
+            "scarlet": "The pattern on its belly appears to be a frightening face. Weak foes will flee just at the sight of the pattern.",
+            "violet": "This Pokémon is very tenacious. Once it targets its prey, it won't give up the chase, no matter how far the prey goes."
         }
     },
     {
-        "no": "#025",
+        "no": "#0025",
         "name": "Pikachu",
         "entries": {
             "red": "When several of these Pokémon gather, their electricity could build and cause lightning storms.",
@@ -1034,7 +1080,8 @@ export const Entries = [
             "gold": "This intelligent Pokémon roasts hard berries with electricity to make them tender enough to eat.",
             "silver": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
             "crystal": "When it is angered, it immediately discharges the energy stored in the pouches in its cheeks.",
-            "stadium2": "This intelligent Pokémon roasts hard Berries with electricity to make them tender enough to eat.",
+            "stadium2red": "This intelligent Pokémon roasts hard Berries with electricity to make them tender enough to eat.",
+            "stadium2blue": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
             "ruby": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
             "sapphire": "This Pokémon has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while Pikachu sleeps. It occasionally discharges electricity when it is dozy after waking up.",
             "emerald": "It stores electricity in the electric sacs on its cheeks. When it releases pent-up energy in a burst, the electric power is equal to a lightning bolt.",
@@ -1063,11 +1110,13 @@ export const Entries = [
             "shield": "When Pikachu meet, they'll touch their tails together and exchange electricity through them as a form of greeting.",
             "brilliantDiamond": "It lives in forests with others. It stores electricity in the electric sacs on its cheeks.",
             "shiningPearl": "If it looses crackling power from the electric sacs on its cheeks, it is being wary.",
-            "legendsArceus": "Possesses cheek sacs in which it stores electricity. This clever forest-dweller roasts tough berries with an electric shock before consuming them."
+            "legendsArceus": "Possesses cheek sacs in which it stores electricity. This clever forest-dweller roasts tough berries with an electric shock before consuming them.",
+            "scarlet": "When it is angered, it immediately discharges the energy stored in the pouches in its cheeks.",
+            "violet": "When several of these Pokémon gather, their electricity can build and cause lightning storms."
         }
     },
     {
-        "no": "#025original",
+        "no": "#0025original",
         "name": "Original cap Pikachu",
         "entries": {
             "sun": "This form of Pikachu is somewhat rare. It wears the hat of its Trainer, who is also its partner.",
@@ -1075,11 +1124,13 @@ export const Entries = [
             "ultraSun": "This form of Pikachu is somewhat rare. It wears the hat of its Trainer, who is also its partner.",
             "ultraMoon": "This Pikachu is wearing its Trainer's cap. Since the cap's not the right size, the fit is a bit loose.",
             "sword": "This Pikachu wears its partner's cap, which is brimming with memories of traveling through many different regions.",
-            "shield": "This Pikachu wears its partner's cap, which is brimming with memories of traveling through many different regions."
+            "shield": "This Pikachu wears its partner's cap, which is brimming with memories of traveling through many different regions.",
+            "scarlet": "The cap this Pikachu wears is filled with memories of this Pokémon and its partner traveling across lots of different regions together.",
+            "violet": "This Pikachu wears its partner's cap—proof of the strong bond Pikachu and its partner formed during adventures across many different regions."
         }
     },
     {
-        "no": "#025hoenn",
+        "no": "#0025hoenn",
         "name": "Hoenn cap Pikachu",
         "entries": {
             //"sun": "This form of Pikachu is somewhat rare. It wears the hat of its Trainer, who is also its partner.",
@@ -1087,11 +1138,13 @@ export const Entries = [
             //"ultraSun": "This form of Pikachu is somewhat rare. It wears the hat of its Trainer, who is also its partner.",
             //"ultraMoon": "This Pikachu is wearing its Trainer's cap. Since the cap's not the right size, the fit is a bit loose.",
             "sword": "This Pikachu wears its partner's cap, which is brimming with memories of traveling through the Hoenn region.",
-            "shield": "This Pikachu is wearing its Trainer's cap. The cap is proof that the two traveled throughout the Hoenn region together."
+            "shield": "This Pikachu is wearing its Trainer's cap. The cap is proof that the two traveled throughout the Hoenn region together.",
+            "scarlet": "The cap this Pikachu wears is filled with memories of this Pokémon and its partner traveling across the Hoenn region together.",
+            "violet": "This Pikachu wears its partner's cap—proof of the strong bond Pikachu and its partner formed during adventures across the Hoenn region."
         }
     },
     {
-        "no": "#025sinnoh",
+        "no": "#0025sinnoh",
         "name": "Sinnoh cap Pikachu",
         "entries": {
             //"sun": "This form of Pikachu is somewhat rare. It wears the hat of its Trainer, who is also its partner.",
@@ -1099,11 +1152,13 @@ export const Entries = [
             //"ultraSun": "This form of Pikachu is somewhat rare. It wears the hat of its Trainer, who is also its partner.",
             //"ultraMoon": "This Pikachu is wearing its Trainer's cap. Since the cap's not the right size, the fit is a bit loose.",
             "sword": "This Pikachu wears its partner's cap, which is brimming with memories of traveling through the Sinnoh region.",
-            "shield": "This Pikachu is wearing its Trainer's cap. The cap is proof that the two traveled throughout the Sinnoh region together."
+            "shield": "This Pikachu is wearing its Trainer's cap. The cap is proof that the two traveled throughout the Sinnoh region together.",
+            "scarlet": "The cap this Pikachu wears is filled with memories of this Pokémon and its partner traveling across the Sinnoh region together.",
+            "violet": "This Pikachu wears its partner's cap—proof of the strong bond Pikachu and its partner formed during adventures across the Sinnoh region."
         }
     },
     {
-        "no": "#025unova",
+        "no": "#0025unova",
         "name": "Unova cap Pikachu",
         "entries": {
             //"sun": "This form of Pikachu is somewhat rare. It wears the hat of its Trainer, who is also its partner.",
@@ -1111,11 +1166,13 @@ export const Entries = [
             //"ultraSun": "This form of Pikachu is somewhat rare. It wears the hat of its Trainer, who is also its partner.",
             //"ultraMoon": "This Pikachu is wearing its Trainer's cap. Since the cap's not the right size, the fit is a bit loose.",
             "sword": "This Pikachu wears its partner's cap, which is brimming with memories of traveling through the Unova region.",
-            "shield": "This Pikachu is wearing its Trainer's cap. The cap is proof that the two traveled throughout the Unova region together."
+            "shield": "This Pikachu is wearing its Trainer's cap. The cap is proof that the two traveled throughout the Unova region together.",
+            "scarlet": "The cap this Pikachu wears is filled with memories of this Pokémon and its partner traveling across the Unova region together.",
+            "violet": "This Pikachu wears its partner's cap—proof of the strong bond Pikachu and its partner formed during adventures across the Unova region."
         }
     },
     {
-        "no": "#025kalos",
+        "no": "#0025kalos",
         "name": "Kalos cap Pikachu",
         "entries": {
             //"sun": "This form of Pikachu is somewhat rare. It wears the hat of its Trainer, who is also its partner.",
@@ -1123,11 +1180,13 @@ export const Entries = [
             //"ultraSun": "This form of Pikachu is somewhat rare. It wears the hat of its Trainer, who is also its partner.",
             //"ultraMoon": "This Pikachu is wearing its Trainer's cap. Since the cap's not the right size, the fit is a bit loose.",
             "sword": "This Pikachu wears its partner's cap, which is brimming with memories of traveling through the Kalos region.",
-            "shield": "This Pikachu is wearing its Trainer's cap. The cap is proof that the two traveled throughout the Kalos region together."
+            "shield": "This Pikachu is wearing its Trainer's cap. The cap is proof that the two traveled throughout the Kalos region together.",
+            "scarlet": "The cap this Pikachu wears is filled with memories of this Pokémon and its partner traveling across the Kalos region together.",
+            "violet": "This Pikachu wears its partner's cap—proof of the strong bond Pikachu and its partner formed during adventures across the Kalos region."
         }
     },
     {
-        "no": "#025alola",
+        "no": "#0025alola",
         "name": "Alola cap Pikachu",
         "entries": {
             //"sun": "This form of Pikachu is somewhat rare. It wears the hat of its Trainer, who is also its partner.",
@@ -1135,11 +1194,13 @@ export const Entries = [
             //"ultraSun": "This form of Pikachu is somewhat rare. It wears the hat of its Trainer, who is also its partner.",
             //"ultraMoon": "This Pikachu is wearing its Trainer's cap. Since the cap's not the right size, the fit is a bit loose.",
             "sword": "This Pikachu wears its partner's cap, which is brimming with memories of traveling through the Alola region.",
-            "shield": "This Pikachu is wearing its Trainer's cap. The cap is proof that the two traveled throughout the Alola region together."
+            "shield": "This Pikachu is wearing its Trainer's cap. The cap is proof that the two traveled throughout the Alola region together.",
+            "scarlet": "The cap this Pikachu wears is filled with memories of this Pokémon and its partner traveling across the Alola region together.",
+            "violet": "This Pikachu wears its partner's cap—proof of the strong bond Pikachu and its partner formed during adventures across the Alola region."
         }
     },
     {
-        "no": "#025partner",
+        "no": "#0025partner",
         "name": "Partner cap Pikachu",
         "entries": {
             //"sun": "This form of Pikachu is somewhat rare. It wears the hat of its Trainer, who is also its partner.",
@@ -1147,19 +1208,23 @@ export const Entries = [
             //"ultraSun": "This form of Pikachu is somewhat rare. It wears the hat of its Trainer, who is also its partner.",
             //"ultraMoon": "This Pikachu is wearing its Trainer's cap. Since the cap's not the right size, the fit is a bit loose.",
             "sword": "This Pikachu wears its partner's cap, which is brimming with memories of when they first met.",
-            "shield": "This Pikachu is wearing its Trainer's cap. The cap is a precious symbol of a fateful encounter."
+            "shield": "This Pikachu is wearing its Trainer's cap. The cap is a precious symbol of a fateful encounter.",
+            "scarlet": "The cap this Pikachu wears is filled with memories of this Pokémon traveling together with its partner, whom it met in a fateful encounter.",
+            "violet": "This Pikachu wears its partner's cap—proof of the strong bond Pikachu and its partner formed as the two overcame many hardships together."
         }
     },
     {
-        "no": "#025world",
+        "no": "#0025world",
         "name": "World cap Pikachu",
         "entries": {
             "sword": "This Pikachu wears its partner's cap, which is brimming with memories of traveling through different regions.",
-            "shield": "This Pikachu is wearing its Trainer's cap. The cap is a precious symbol that travels across different regions with Pikachu."
+            "shield": "This Pikachu is wearing its Trainer's cap. The cap is a precious symbol that travels across different regions with Pikachu.",
+            "scarlet": "The cap this Pikachu wears is filled with memories of this Pokémon and its partner traveling across the world together.",
+            "violet": "This Pikachu wears its partner's cap—proof of the strong bond Pikachu and its partner formed during adventures across the world."
         }
     },
     {
-        "no": "#025gmax",
+        "no": "#0025gmax",
         "name": "Gigantamax Pikachu",
         "entries": {
             "sword": "Its Gigantamax power expanded, forming its supersized body and towering tail.",
@@ -1167,7 +1232,7 @@ export const Entries = [
         }
     },
     {
-        "no": "#026",
+        "no": "#0026",
         "name": "Raichu",
         "entries": {
             "red": "Its long tail serves as a ground to protect itself from its own high voltage power.",
@@ -1177,7 +1242,8 @@ export const Entries = [
             "gold": "When its electricity builds, its muscles are stimulated, and it becomes more aggressive than usual.",
             "silver": "If the electric pouches in its cheeks become fully charged, both ears will stand straight up.",
             "crystal": "If its electric pouches run empty, it raises its tail to gather electricity from the atmosphere.",
-            "stadium2": "When its electricity builds, its muscles are stimulated, and it becomes more aggressive than usual.",
+            "stadium2red": "When its electricity builds, its muscles are stimulated, and it becomes more aggressive than usual.",
+            "stadium2blue": "If the electric pouches in its cheeks become fully charged, both ears will stand straight up.",
             "ruby": "If the electrical sacks become excessively charged, Raichu plants its tail in the ground and discharges. Scorched patches of ground will be found near this Pokémon's nest.",
             "sapphire": "This Pokémon exudes a weak electrical charge from all over its body that makes it take on a slight glow in darkness. Raichu searches for electricity by planting its tail in the ground.",
             "emerald": "This Pokémon exudes a weak electrical charge from all over its body that makes it take on a slight glow in darkness. Raichu searches for electricity by planting its tail in the ground.",
@@ -1206,11 +1272,13 @@ export const Entries = [
             "shield": "If its electric pouches run empty, it raises its tail to gather electricity from the atmosphere.",
             "brilliantDiamond": "It turns aggressive if it has too much electricity in its body. It discharges power through its tail.",
             "shiningPearl": "It can loose 100,000-volt bursts of electricity, instantly downing foes several times its size.",
-            "legendsArceus": "It can discharge bursts of electricity exceeding 100,000 volts—a single strike with that amount of power would incapacitate one of the Copperajah of my homeland."
+            "legendsArceus": "It can discharge bursts of electricity exceeding 100,000 volts—a single strike with that amount of power would incapacitate one of the Copperajah of my homeland.",
+            "scarlet": "Its tail discharges electricity into the ground, protecting it from getting shocked.",
+            "violet": "If the electric pouches in its cheeks become fully charged, both ears will stand straight up."
         }
     },
     {
-        "no": "#026alola",
+        "no": "#0026alola",
         "name": "Alolan Raichu",
         "entries": {
             "sun": "It only evolves to this form in the Alola region. According to researchers, its diet is one of the causes of this change.",
@@ -1224,7 +1292,7 @@ export const Entries = [
         }
     },
     {
-        "no": "#027",
+        "no": "#0027",
         "name": "Sandshrew",
         "entries": {
             "red": "Burrows deep underground in arid locations far from water. It only emerges to hunt for food.",
@@ -1234,7 +1302,8 @@ export const Entries = [
             "gold": "If it fell from a great height, this Pokémon could save itself by rolling into a ball and bouncing.",
             "silver": "Disliking water, it lives in deep burrows in arid areas. It can roll itself instantly into a ball.",
             "crystal": "It prefers dry, sandy places because it uses the sand to protect itself when threatened.",
-            "stadium2": "If it fell from a great height, this Pokémon could save itself by rolling into a ball and bouncing.",
+            "stadium2red": "If it fell from a great height, this Pokémon could save itself by rolling into a ball and bouncing.",
+            "stadium2blue": "Disliking water, it lives in deep burrows in arid areas. It can roll itself instantly into a ball.",
             "ruby": "Sandshrew's body is configured to absorb water without waste, enabling it to survive in an arid desert. This Pokémon curls up to protect itself from its enemies.",
             "sapphire": "Sandshrew has a very dry hide that is extremely tough. The Pokémon can roll into a ball that repels any attack. At night, it burrows into the desert sand to sleep.",
             "emerald": "When it curls up in a ball, it can make any attack bounce off harmlessly. Its hide has turned tough and solid as a result of living in the desert.",
@@ -1262,11 +1331,13 @@ export const Entries = [
             "sword": "It loves to bathe in the grit of dry, sandy areas. By sand bathing, this Pokémon rids itself of dirt and moisture clinging to its body.",
             "shield": "It burrows into the ground to create its nest. If hard stones impede its tunneling, it uses its sharp claws to scatter them and then carries on digging.",
             "brilliantDiamond": "To protect itself from attackers, it curls up into a ball. It lives in arid regions with minimal rainfall.",
-            "shiningPearl": "To protect itself from attackers, it curls up into a ball. It lives in arid regions with minimal rainfall."
+            "shiningPearl": "To protect itself from attackers, it curls up into a ball. It lives in arid regions with minimal rainfall.",
+            "scarlet": "It digs deep burrows to live in. When in danger, it rolls up its body to withstand attacks.",
+            "violet": "No matter how high a place it falls from, this Pokémon can save itself by rolling in a ball and bouncing."
         }
     },
     {
-        "no": "#026alola",
+        "no": "#0027alola",
         "name": "Alolan Sandshrew",
         "entries": {
             "sun": "It lives on snowy mountains. Its steel shell is very hard—so much so, it can't roll its body up into a ball.",
@@ -1276,11 +1347,13 @@ export const Entries = [
             "letsGoPikachu": "Its ice-covered body lets it slide across the ground with bullet-like speed, sending its enemies flying when it hits them.",
             "letsGoEevee": "Its ice-covered body lets it slide across the ground with bullet-like speed, sending its enemies flying when it hits them.",
             "sword": "Life on mountains covered with deep snow has granted this Pokémon a body of ice that's as hard as steel.",
-            "shield": "It lives in snowy mountains on southern islands. When a blizzard rolls in, this Pokémon hunkers down in the snow to avoid getting blown away."
+            "shield": "It lives in snowy mountains on southern islands. When a blizzard rolls in, this Pokémon hunkers down in the snow to avoid getting blown away.",
+            "scarlet": "It lives on snowy mountains. Its steel shell is very hard—so much so, it can’t roll its body up into a ball.",
+            "violet": "An ancient tradition of Alolan festivals, still carried on to this day, is a competition to slide Sandshrew across ice as far as one can."
         }
     },
     {
-        "no": "#028",
+        "no": "#0028",
         "name": "Sandslash",
         "entries": {
             "red": "Curls up into a spiny ball when threatened. It can roll while curled up to attack or escape.",
@@ -1290,7 +1363,8 @@ export const Entries = [
             "gold": "In an attempt to hide itself, it will run around at top speed to kick up a blinding dust storm.",
             "silver": "If it digs at an incredible pace, it may snap off its spikes and claws. They grow back in a day.",
             "crystal": "Adept at climbing trees, it rolls into a spiny ball, then attacks its enemies from above.",
-            "stadium2": "In an attempt to hide itself, it will run around at top speed to kick up a blinding dust storm.",
+            "stadium2red": "In an attempt to hide itself, it will run around at top speed to kick up a blinding dust storm.",
+            "stadium2blue": "If it digs at an incredible pace, it may snap off its spikes and claws. They grow back in a day.",
             "ruby": "Sandslash's body is covered by tough spikes, which are hardened sections of its hide. Once a year, the old spikes fall out, to be replaced with new spikes that grow out from beneath the old ones.",
             "sapphire": "Sandslash can roll up its body as if it were a ball covered with large spikes. In battle, this Pokémon will try to make the foe flinch by jabbing it with its spines. It then leaps at the stunned foe to tear wildly with its sharp claws.",
             "emerald": "It curls up in a ball to protect itself from enemy attacks. It also curls up to prevent heatstroke during the daytime when temperatures rise sharply.",
@@ -1318,11 +1392,13 @@ export const Entries = [
             "sword": "The drier the area Sandslash lives in, the harder and smoother the Pokémon's spikes feel when touched.",
             "shield": "It climbs trees by hooking on with its sharp claws. Sandslash shares the berries it gathers, dropping them down to Sandshrew waiting below the tree.",
             "brilliantDiamond": "It curls up, then rolls into foes with its back. Its sharp spines inflict severe damage.",
-            "shiningPearl": "It curls up, then rolls into foes with its back. Its sharp spines inflict severe damage."
+            "shiningPearl": "It curls up, then rolls into foes with its back. Its sharp spines inflict severe damage.",
+            "scarlet": "It is adept at attacking with the spines on its back and its sharp claws while quickly scurrying about.",
+            "violet": "The spikes on its body are made up of its hardened hide. It rolls up and attacks foes with its spikes."
         }
     },
     {
-        "no": "#028alola",
+        "no": "#0028alola",
         "name": "Alolan Sandslash",
         "entries": {
             "sun": "Fleeing a volcanic eruption, it settled on a snowy mountain. As it races through the snowfields, it sends up a spray of snow.",
@@ -1332,11 +1408,13 @@ export const Entries = [
             "letsGoPikachu": "This is Sandslash's form after adaptation to a frigid environment. The cold air emitted by its body sharpens its icy spikes.",
             "letsGoEevee": "This is Sandslash's form after adaptation to a frigid environment. The cold air emitted by its body sharpens its icy spikes.",
             "sword": "It uses large, hooked claws to cut a path through deep snow as it runs. On snowy mountains, this Sandslash is faster than any other Pokémon.",
-            "shield": "Many people climb snowy mountains, hoping to see the icy spikes of these Pokémon glistening in the light of dawn."
+            "shield": "Many people climb snowy mountains, hoping to see the icy spikes of these Pokémon glistening in the light of dawn.",
+            "scarlet": "This Pokémon’s steel spikes are sheathed in ice. Stabs from these spikes cause deep wounds and severe frostbite as well.",
+            "violet": "A long, long time ago, it lived in the desert. With its sharp claws fully extended, it can run right up an iceberg without slipping."
         }
     },
     {
-        "no": "#029",
+        "no": "#0029",
         "name": "Nidoran♀",
         "entries": {
             "red": "Although small, its venomous barbs render this Pokémon dangerous. The female has smaller horns.",
@@ -1346,7 +1424,8 @@ export const Entries = [
             "gold": "The poison hidden in its small horn is extremely potent. Even a tiny scratch can have fatal results.",
             "silver": "Although not very combative, it will torment its foes with poison spikes if it is threatened in any way.",
             "crystal": "Small and very docile, it protects itself with its small, poisonous horn when attacked.",
-            "stadium2": "The poison hidden in its small horn is extremely potent. Even a tiny scratch can have fatal results.",
+            "stadium2red": "The poison hidden in its small horn is extremely potent. Even a tiny scratch can have fatal results.",
+            "stadium2blue": "Although not very combative, it will torment its foes with poison spikes if it is threatened in any way.",
             "ruby": "Nidoran has barbs that secrete a powerful poison. They are thought to have developed as protection for this small-bodied Pokémon. When enraged, it releases a horrible toxin from its horn.",
             "sapphire": "Nidoran has barbs that secrete a powerful poison. They are thought to have developed as protection for this small-bodied Pokémon. When enraged, it releases a horrible toxin from its horn.",
             "emerald": "Its highly toxic barbs are thought to have developed as protection for this small-bodied Pokémon. When enraged, it releases a horrible toxin from its horn.",
@@ -1374,7 +1453,7 @@ export const Entries = [
         }
     },
     {
-        "no": "#030",
+        "no": "#0030",
         "name": "Nidorina",
         "entries": {
             "red": "The female's horn develops slowly. Prefers physical attacks such as clawing and biting.",
@@ -1384,7 +1463,8 @@ export const Entries = [
             "gold": "When feeding its young, it first chews and tenderizes the food, then spits it out for the offspring.",
             "silver": "It has a calm and caring nature. Because its horn grows slowly it prefers not to fight.",
             "crystal": "It has a docile nature. If it is threatened with attack, it raises the barbs that are all over its body.",
-            "stadium2": "When feeding its young, it first chews and tenderizes the food, then spits it out for the offspring.",
+            "stadium2red": "When feeding its young, it first chews and tenderizes the food, then spits it out for the offspring.",
+            "stadium2blue": "It has a calm and caring nature. Because its horn grows slowly, it prefers not to fight.",
             "ruby": "When Nidorina are with their friends or family, they keep their barbs tucked away to prevent hurting each other. This Pokémon appears to become nervous if separated from the others.",
             "sapphire": "When Nidorina are with their friends or family, they keep their barbs tucked away to prevent hurting each other. This Pokémon appears to become nervous if separated from the others.",
             "emerald": "When it is with its friends or family, its barbs are tucked away to prevent injury. It appears to become nervous if separated from the others.",
@@ -1412,7 +1492,7 @@ export const Entries = [
         }
     },
     {
-        "no": "#031",
+        "no": "#0031",
         "name": "Nidoqueen",
         "entries": {
             "red": "Its hard scales provide strong protection. It uses its hefty bulk to execute powerful moves.",
@@ -1422,7 +1502,8 @@ export const Entries = [
             "gold": "Its body is covered with needle-like scales. It never shows signs of shrinking from any attack.",
             "silver": "It uses its scaly rugged body to seal the entrance of its nest and protect its young from predators.",
             "crystal": "The hard scales that cover its strong body serve as excellent protection from any attack.",
-            "stadium2": "Its body is covered with needle-like scales. It never shows signs of shrinking from any attack.",
+            "stadium2red": "Its body is covered with needle-like scales. It never shows signs of shrinking from any attack.",
+            "stadium2blue": "It uses its scaly, rugged body to seal the entrance of its nest and protect its young from predators.",
             "ruby": "Nidoqueen's body is encased in extremely hard scales. It is adept at sending foes flying with harsh tackles. This Pokémon is at its strongest when it is defending its young.",
             "sapphire": "Nidoqueen's body is encased in extremely hard scales. It is adept at sending foes flying with harsh tackles. This Pokémon is at its strongest when it is defending its young.",
             "emerald": "It is adept at sending foes flying with harsh tackles using its tough, scaly body. This Pokémon is at its strongest when it is defending its young.",
@@ -1450,7 +1531,7 @@ export const Entries = [
         }
     },
     {
-        "no": "#032",
+        "no": "#0032",
         "name": "Nidoran♂",
         "entries": {
             "red": "Stiffens its ears to sense danger. The larger its horns, the more powerful its secreted venom.",
@@ -1460,7 +1541,8 @@ export const Entries = [
             "gold": "It is small, but its horn is filled with poison. It charges then stabs with the horn to inject poison.",
             "silver": "It raises its big ears to check its surroundings. It will strike first if it senses any danger.",
             "crystal": "It constantly moves its large ears in many directions in order to detect danger right away.",
-            "stadium2": "It is small, but its horn is filled with poison. It charges then stabs with the horn to inject poison.",
+            "stadium2red": "It is small, but its horn is filled with poison. It charges then stabs with the horn to inject poison.",
+            "stadium2blue": "It raises its big ears to check its surroundings. It will strike first if it senses any danger.",
             "ruby": "The male Nidoran has developed muscles for moving its ears. Thanks to them, the ears can be freely moved in any direction. Even the slightest sound does not escape this Pokémon's notice.",
             "sapphire": "The male Nidoran has developed muscles for moving its ears. Thanks to them, the ears can be freely moved in any direction. Even the slightest sound does not escape this Pokémon's notice.",
             "emerald": "The male Nidoran has developed muscles that freely move its ears in any direction. Even the slightest sound does not escape this Pokémon's notice.",
@@ -1488,7 +1570,7 @@ export const Entries = [
         }
     },
     {
-        "no": "#033",
+        "no": "#0033",
         "name": "Nidorino",
         "entries": {
             "red": "An aggressive Pokémon that is quick to attack. The horn on its head secretes a powerful venom.",
@@ -1498,7 +1580,8 @@ export const Entries = [
             "gold": "It raises its big ears to check its surroundings. If it senses anything, it attacks immediately.",
             "silver": "Quick to anger, it stabs enemies with its horn to inject a powerful poison when it becomes agitated.",
             "crystal": "It is easily agitated and uses its horn for offense as soon as it notices an attacker.",
-            "stadium2": "It raises its big ears to check its surroundings. If it senses anything, it attacks immediately.",
+            "stadium2red": "It raises its big ears to check its surroundings. If it senses anything, it attacks immediately.",
+            "stadium2blue": "Quick to anger, it stabs enemies with its horn to inject a powerful poison when it becomes agitated.",
             "ruby": "Nidorino has a horn that is harder than a diamond. If it senses a hostile presence, all the barbs on its back bristle up at once, and it challenges the foe with all its might.",
             "sapphire": "Nidorino has a horn that is harder than a diamond. If it senses a hostile presence, all the barbs on its back bristle up at once, and it challenges the foe with all its might.",
             "emerald": "Its horn is harder than a diamond. If it senses a hostile presence, all the barbs on its back bristle up at once, and it challenges the foe with all its might.",
@@ -1526,7 +1609,7 @@ export const Entries = [
         }
     },
     {
-        "no": "#034",
+        "no": "#0034",
         "name": "Nidoking",
         "entries": {
             "red": "It uses its powerful tail in battle to smash, constrict, then break the prey's bones.",
@@ -1536,7 +1619,8 @@ export const Entries = [
             "gold": "It swings its big tail around during battle. If its foe flinches, it will charge with its sturdy body.",
             "silver": "Its tail is thick and powerful. If it binds an enemy, it can snap the victim's spine quite easily.",
             "crystal": "It uses its thick arms, legs and tail to attack forcefully. Melee combat is its specialty.",
-            "stadium2": "It swings its big tail around during battle. If its foe flinches, it will charge with its sturdy body.",
+            "stadium2red": "It swings its big tail around during battle. If its foe flinches, it will charge with its sturdy body.",
+            "stadium2blue": "Its tail is thick and powerful. If it binds an enemy, it can snap the victim's spine quite easily.",
             "ruby": "Nidoking's thick tail packs enormously destructive power. With one swing, it can topple a metal transmission tower. Once this Pokémon goes on a rampage, there is no stopping it.",
             "sapphire": "Nidoking's thick tail packs enormously destructive power. With one swing, it can topple a metal transmission tower. Once this Pokémon goes on a rampage, there is no stopping it.",
             "emerald": "A Nidoking's thick tail packs enormously destructive power capable of toppling a metal transmission tower. Once it goes on a rampage, there is no stopping it.",
@@ -1564,7 +1648,7 @@ export const Entries = [
         }
     },
     {
-        "no": "#035",
+        "no": "#0035",
         "name": "Clefairy",
         "entries": {
             "red": "Its magical and cute appeal has many admirers. It is rare and found only in certain areas.",
@@ -1574,7 +1658,8 @@ export const Entries = [
             "gold": "The moonlight that it stores in the wings on its back apparently gives it the ability to float in midair.",
             "silver": "Its adorable behavior and cry make it highly popular. However, this cute Pokémon is rarely found.",
             "crystal": "Though rarely seen, it becomes easier to spot, for some reason, on the night of a full moon.",
-            "stadium2": "The moonlight that it stores in the wings on its back apparently gives it the ability to float in midair.",
+            "stadium2red": "The moonlight that it stores in the wings on its back apparently gives it the ability to float in midair.",
+            "stadium2blue": "Its adorable behavior and cry make it highly popular. However, this cute Pokémon is rarely found.",
             "ruby": "On every night of a full moon, groups of this Pokémon come out to play. When dawn arrives, the tired Clefairy return to their quiet mountain retreats and go to sleep nestled up against each other.",
             "sapphire": "On every night of a full moon, groups of this Pokémon come out to play. When dawn arrives, the tired Clefairy return to their quiet mountain retreats and go to sleep nestled up against each other.",
             "emerald": "On every night of a full moon, they come out to play. When dawn arrives, the tired Clefairy go to sleep nestled up against each other in deep and quiet mountains.",
@@ -1603,11 +1688,13 @@ export const Entries = [
             "shield": "Its adorable behavior and cry make it highly popular. However, this cute Pokémon is rarely found.",
             "brilliantDiamond": "Thought to live with others on quiet mountains, it is popular for its adorable nature.",
             "shiningPearl": "Moonlight gathers on the wings on Clefairy's back, allowing Clefairy to fly. This Pokémon is difficult to find.",
-            "legendsArceus": "It can be found in quiet mountain areas on a full moon's night. Its dancing and its tiny, faintly glowing wings confer upon it a lovely fairylike quality."
+            "legendsArceus": "It can be found in quiet mountain areas on a full moon's night. Its dancing and its tiny, faintly glowing wings confer upon it a lovely fairylike quality.",
+            "scarlet": "On nights with a full moon, Clefairy gather from all over and dance. Bathing in moonlight makes them float.",
+            "violet": "On nights with a full moon, they gather together and dance. The surrounding area is enveloped in an abnormal magnetic field."
         }
     },
     {
-        "no": "#036",
+        "no": "#0036",
         "name": "Clefable",
         "entries": {
             "red": "A timid fairy Pokémon that is rarely seen. It will run and hide the moment it senses people.",
@@ -1617,7 +1704,8 @@ export const Entries = [
             "gold": "With its acute hearing, it can pick up sounds from far away. It usually hides in quiet places.",
             "silver": "Its very sensitive ears let it distinguish distant sounds. As a result, it prefers quiet places.",
             "crystal": "Said to live in quiet, remote mountains, this type of fairy has a strong aversion to being seen.",
-            "stadium2": "With its acute hearing, it can pick up sounds from far away. It usually hides in quiet places.",
+            "stadium2red": "With its acute hearing, it can pick up sounds from far away. It usually hides in quiet places.",
+            "stadium2blue": "Its very sensitive ears lets it distinguish distant sounds. As a result, it prefers quiet places.",
             "ruby": "Clefable moves by skipping lightly as if it were flying using its wings. Its bouncy step lets it even walk on water. It is known to take strolls on lakes on quiet, moonlit nights.",
             "sapphire": "Clefable moves by skipping lightly as if it were flying using its wings. Its bouncy step lets it even walk on water. It is known to take strolls on lakes on quiet, moonlit nights.",
             "emerald": "A Clefable uses its wings to skip lightly as if it were flying. Its bouncy step lets it even walk on water. On quiet, moonlit nights, it strolls on lakes.",
@@ -1646,11 +1734,13 @@ export const Entries = [
             "shield": "Their ears are sensitive enough to hear a pin drop from over a mile away, so they're usually found in quiet places.",
             "brilliantDiamond": "Rarely seen by people, it is said to be drawn by the full moon to play at deserted lakes.",
             "shiningPearl": "Its hearing is so acute it can hear a pin drop over half a mile away. It lives on quiet mountains.",
-            "legendsArceus": "Legend says that on clear, quiet nights, it listens for the voices of its kin living on the moon. I, too, often think of my homeland, so far away."
+            "legendsArceus": "Legend says that on clear, quiet nights, it listens for the voices of its kin living on the moon. I, too, often think of my homeland, so far away.",
+            "scarlet": "Said to live in quiet, remote mountains, this type of fairy has a strong aversion to being seen.",
+            "violet": "It has an acute sense of hearing. It can easily hear a pin being dropped nearly 1,100 yards away."
         }
     },
     {
-        "no": "#037",
+        "no": "#0037",
         "name": "Vulpix",
         "entries": {
             "red": "At the time of birth, it has just one tail. The tail splits from its tip as it grows older.",
@@ -1660,7 +1750,8 @@ export const Entries = [
             "gold": "As it develops, its single white tail gains color and splits into six. It is quite warm and cuddly.",
             "silver": "If it is attacked by an enemy that is stronger than itself, it feigns injury to fool the enemy and escapes.",
             "crystal": "As its body grows larger, its six warm tails become more beautiful, with a more luxurious coat of fur.",
-            "stadium2": "As it develops, its single white tail gains color and splits into six. It is quite warm and cuddly.",
+            "stadium2red": "As it develops, its single white tail gains color and splits into six. It is quite warm and cuddly.",
+            "stadium2blue": "If it is attacked by an enemy that is stronger than itself, it feigns injury to fool the enemy and escapes.",
             "ruby": "At the time of its birth, Vulpix has one white tail. The tail separates into six if this Pokémon receives plenty of love from its Trainer. The six tails become magnificently curled.",
             "sapphire": "Inside Vulpix's body burns a flame that never goes out. During the daytime, when the temperatures rise, this Pokémon releases flames from its mouth to prevent its body from growing too hot.",
             "emerald": "It can freely control fire, making fiery orbs fly like will-o'-the-wisps. Just before evolution, its six tails grow hot as if on fire.",
@@ -1689,11 +1780,13 @@ export const Entries = [
             "shield": "As each tail grows, its fur becomes more lustrous. When held, it feels slightly warm.",
             "brilliantDiamond": "It controls balls of fire. As it grows, its six tails split from their tips to make more tails.",
             "shiningPearl": "It controls balls of fire. As it grows, its six tails split from their tips to make more tails.",
-            "legendsArceus": "In its belly burns a fire, which Vulpix spits out in the form of fireballs. When young, this Pokémon has but one white tail. As the Pokémon matures, this single tail splits into six."
+            "legendsArceus": "In its belly burns a fire, which Vulpix spits out in the form of fireballs. When young, this Pokémon has but one white tail. As the Pokémon matures, this single tail splits into six.",
+            "scarlet": "If it is attacked by an enemy that is stronger than itself, it feigns injury to fool the enemy and escapes.",
+            "violet": "As its body grows larger, its six warm tails become more beautiful, with a more luxurious coat of fur."
         }
     },
     {
-        "no": "#037alola",
+        "no": "#0037alola",
         "name": "Alolan Vulpix",
         "entries": {
             "sun": "It exhales air colder than -58 degrees Fahrenheit. Elderly people in Alola call this Pokémon by an older name—Keokeo.",
@@ -1704,11 +1797,13 @@ export const Entries = [
             "letsGoEevee": "It looks like snow come to life, and the breath it exhales is –58 degrees Fahrenheit. Another name for it is Keokeo.",
             "sword": "After long years in the ever-snowcapped mountains of Alola, this Vulpix has gained power over ice.",
             "shield": "If you observe its curly hairs through a microscope, you'll see small ice particles springing up.",
-            "legendsArceus": "These Pokémon live in packs in the snowy mountains and defend themselves with icy breath. I suspect this species changed its form to adapt to the frigid climate."
+            "legendsArceus": "These Pokémon live in packs in the snowy mountains and defend themselves with icy breath. I suspect this species changed its form to adapt to the frigid climate.",
+            "scarlet": "They live together in a skulk, helping one another. Before eating their prey, they freeze it solid with their −58 degree Fahrenheit breath.",
+            "violet": "In hot weather, this Pokémon makes ice shards with its six tails and sprays them around to cool itself off."
         }
     },
     {
-        "no": "#038",
+        "no": "#0038",
         "name": "Ninetales",
         "entries": {
             "red": "Very smart and very vengeful. Grabbing one of its many tails could result in a 1000-year curse.",
@@ -1718,7 +1813,8 @@ export const Entries = [
             "gold": "Some legends claim that each of its nine tails has its own unique type of special mystic power.",
             "silver": "Its nine beautiful tails are filled with a wondrous energy that could keep it alive for 1,000 years.",
             "crystal": "It is said to live a thousand years, and each of its tails is loaded with supernatural powers.",
-            "stadium2": "Some legends claim that each of its nine tails has its own unique type of special mystic power.",
+            "stadium2red": "Some legends claim that each of its nine tails has its own unique type of special mystic power.",
+            "stadium2blue": "Its nine beautiful tails are filled with a wondrous energy that could keep it alive for 1,000 years.",
             "ruby": "Ninetales casts a sinister light from its bright red eyes to gain total control over its foe's mind. This Pokémon is said to live for a thousand years.",
             "sapphire": "Legend has it that Ninetales came into being when nine wizards possessing sacred powers merged into one. This Pokémon is highly intelligent - it can understand human speech.",
             "emerald": "It has long been said that each of the nine tails embody an enchanted power. A long-lived Ninetales will have fur that shines like gold.",
@@ -1747,11 +1843,13 @@ export const Entries = [
             "shield": "Very smart and very vengeful. Grabbing one of its many tails could result in a 1,000-year curse.",
             "brilliantDiamond": "Its nine tails are said to be imbued with a mystic power. The Pokémon is said to live for 1,000 years.",
             "shiningPearl": "Its nine tails are said to be imbued with a mystic power. The Pokémon is said to live for 1,000 years.",
-            "legendsArceus": "The coat of gleaming golden fur is quite magnificent. This species is said to store sacred power in its nine long tails and to live for a millennium."
+            "legendsArceus": "The coat of gleaming golden fur is quite magnificent. This species is said to store sacred power in its nine long tails and to live for a millennium.",
+            "scarlet": "Some legends claim that each of its nine tails has its own unique type of special mystical power.",
+            "violet": "It has nine long tails and fur that gleams gold. It is said to live for 1,000 years."
         }
     },
     {
-        "no": "#038alola",
+        "no": "#0038alola",
         "name": "Alolan Ninetales",
         "entries": {
             "sun": "It creates drops of ice in its coat and showers them over its enemies. Anyone who angers it will be frozen stiff in an instant.",
@@ -1762,11 +1860,13 @@ export const Entries = [
             "letsGoEevee": "It lives on mountains perpetually covered in snow and is revered as a deity incarnate. It appears draped in a blizzard.",
             "sword": "A deity resides in the snowy mountains where this Pokémon lives. In ancient times, it was worshiped as that deity's incarnation.",
             "shield": "While it will guide travelers who get lost on a snowy mountain down to the mountain's base, it won't forgive anyone who harms nature.",
-            "legendsArceus": "Dwells on sacred peaks perpetually covered in snow. Said to appear to virtuous people who have lost their way on mountain paths—it then guides them back down to the mountain's base."
+            "legendsArceus": "Dwells on sacred peaks perpetually covered in snow. Said to appear to virtuous people who have lost their way on mountain paths—it then guides them back down to the mountain's base.",
+            "scarlet": "Possessing a calm demeanor, this Pokémon was revered as a deity incarnate before it was identified as a regional variant of Ninetales.",
+            "violet": "It creates drops of ice in its coat and showers them over its enemies. Anyone who angers it will be frozen stiff in an instant."
         }
     },
     {
-        "no": "#039",
+        "no": "#0039",
         "name": "Jigglypuff",
         "entries": {
             "red": "When its huge eyes light up, it sings a mysteriously soothing melody that lulls its enemies to sleep.",
@@ -1776,7 +1876,8 @@ export const Entries = [
             "gold": "If it inflates to sing a lullaby, it can perform longer and cause sure drowsiness in its audience.",
             "silver": "Looking into its cute, round eyes causes it to sing a relaxing melody, inducing its enemies to sleep.",
             "crystal": "It rolls its cute eyes as it sings a soothing lullaby. Its gentle song puts anyone who hears it to sleep.",
-            "stadium2": "If it inflates to sing a lullaby, it can perform longer and cause sure drowsiness in its audience.",
+            "stadium2red": "If it inflates to sing a lullaby, it can perform longer and cause sure drowsiness in its audience.",
+            "stadium2blue": "Looking into its cute, round eyes causes it to sing a relaxing melody, inducing its enemies to sleep.",
             "ruby": "Jigglypuff's vocal chords can freely adjust the wavelength of its voice. This Pokémon uses this ability to sing at precisely the right wavelength to make its foes most drowsy.",
             "sapphire": "When this Pokémon sings, it never pauses to breathe. If it is in a battle against an opponent that does not easily fall asleep, Jigglypuff cannot breathe, endangering its life.",
             "emerald": "Nothing can avoid falling asleep hearing a Jigglypuff's song. The sound waves of its singing voice match the brain waves of someone in a deep sleep.",
@@ -1804,11 +1905,13 @@ export const Entries = [
             "sword": "Jigglypuff has top-notch lung capacity, even by comparison to other Pokémon. It won't stop singing its lullabies until its foes fall asleep.",
             "shield": "By freely changing the wavelength of its voice, Jigglypuff sings a mysterious melody sure to make any listener sleepy.",
             "brilliantDiamond": "When it wavers its big, round eyes, it begins singing a lullaby that makes everyone drowsy.",
-            "shiningPearl": "When it wavers its big, round eyes, it begins singing a lullaby that makes everyone drowsy."
+            "shiningPearl": "When it wavers its big, round eyes, it begins singing a lullaby that makes everyone drowsy.",
+            "scarlet": "When its huge eyes waver, it sings a mysteriously soothing melody that lulls its enemies to sleep.",
+            "violet": "If it inflates to sing a lullaby, it can perform longer and cause sure drowsiness in its audience."
         }
     },
     {
-        "no": "#040",
+        "no": "#0040",
         "name": "Wigglytuff",
         "entries": {
             "red": "The body is soft and rubbery. When angered, it will suck in air and inflate itself to an enormous size.",
@@ -1818,7 +1921,8 @@ export const Entries = [
             "gold": "Their fur feels so good that if two of them snuggle together, they won't want to be separated.",
             "silver": "It has a very fine fur. Take care not to make it angry, or it may inflate steadily and hit with a Body Slam.",
             "crystal": "The rich, fluffy fur that covers its body feels so good that anyone who feels it can't stop touching it.",
-            "stadium2": "Their fur feels so good that if two of them snuggle together, they won't want to be separated.",
+            "stadium2red": "Their fur feels so good that if two of them snuggle together, they won't want to be separated.",
+            "stadium2blue": "It has a very fine fur. Take care not to make it angry, or it may inflate steadily and hit with a Body Slam.",
             "ruby": "Wigglytuff has large, saucerlike eyes. The surfaces of its eyes are always covered with a thin layer of tears. If any dust gets in this Pokémon's eyes, it is quickly washed away.",
             "sapphire": "Wigglytuff's body is very flexible. By inhaling deeply, this Pokémon can inflate itself seemingly without end. Once inflated, Wigglytuff bounces along lightly like a balloon.",
             "emerald": "Its fur is the ultimate in luxuriousness. Sleeping alongside a Wigglytuff is simply divine. Its body expands seemingly without end when it inhales.",
@@ -1846,11 +1950,13 @@ export const Entries = [
             "sword": "The more air it takes in, the more it inflates. If opponents catch it in a bad mood, it will inflate itself to an enormous size to intimidate them.",
             "shield": "It's proud of its fur, which is fine and delicate. In particular, the curl on its forehead has a texture that's perfectly heavenly.",
             "brilliantDiamond": "Its fine fur feels sublime to the touch. It can expand its body by inhaling air.",
-            "shiningPearl": "Its fine fur feels sublime to the touch. It can expand its body by inhaling air."
+            "shiningPearl": "Its fine fur feels sublime to the touch. It can expand its body by inhaling air.",
+            "scarlet": "It has a very fine fur. Take care not to make it angry, or it may inflate steadily and hit with a body slam.",
+            "violet": "The rich, fluffy fur that covers its body feels so good that anyone who feels it can't stop touching it."
         }
     },
     {
-        "no": "#041",
+        "no": "#0041",
         "name": "Zubat",
         "entries": {
             "red": "Forms colonies in perpetually dark places. Uses ultrasonic waves to identify and approach targets.",
@@ -1860,7 +1966,8 @@ export const Entries = [
             "gold": "While flying, it constantly emits ultrasonic waves from its mouth to check its surroundings.",
             "silver": "Capable of flying safely in dark places, it emits ultrasonic cries to check for any obstacles.",
             "crystal": "During the day, it gathers with others and hangs from the ceilings of old buildings and caves.",
-            "stadium2": "While flying, it constantly emits ultrasonic waves from its mouth to check its surroundings.",
+            "stadium2red": "While flying, it constantly emits ultrasonic waves from its mouth to check its surroundings.",
+            "stadium2blue": "Capable of flying safely in dark places, it emits ultrasonic cries to check for any obstacles.",
             "ruby": "Zubat remains quietly unmoving in a dark spot during the bright daylight hours. It does so because prolonged exposure to the sun causes its body to become slightly burned.",
             "sapphire": "Zubat avoids sunlight because exposure causes it to become unhealthy. During the daytime, it stays in caves or under the eaves of old houses, sleeping while hanging upside down.",
             "emerald": "While living in pitch-black caverns, their eyes gradually grew shut and deprived them of vision. They use ultrasonic waves to detect obstacles.",
@@ -1893,7 +2000,7 @@ export const Entries = [
         }
     },
     {
-        "no": "#042",
+        "no": "#0042",
         "name": "Golbat",
         "entries": {
             "red": "Once it strikes, it will not stop draining energy from the victim even if it gets too heavy to fly.",
@@ -1903,7 +2010,8 @@ export const Entries = [
             "gold": "However hard its victim's hide may be, it punctures with sharp fangs and gorges itself with blood.",
             "silver": "It can drink more than 10 ounces of blood at once. If it has too much, it gets heavy and flies clumsily.",
             "crystal": "When it plunges its fangs into its prey, it instantly draws and gulps down more than ten ounces of blood.",
-            "stadium2": "However hard its victim's hide may be, it punctures with sharp fangs and gorges itself with blood.",
+            "stadium2red": "However hard its victim's hide may be, it punctures with sharp fangs and gorges itself with blood.",
+            "stadium2blue": "It can drink more than 10 ounces of blood at once. If it has too much, it gets heavy and flies clumsily.",
             "ruby": "Golbat loves to drink the blood of living things. It is particularly active in the pitch black of night. This Pokémon flits around in the night skies, seeking fresh blood.",
             "sapphire": "Golbat bites down on prey with its four fangs and drinks the victim's blood. It becomes active on inky dark moonless nights, flying around to attack people and Pokémon.",
             "emerald": "Its fangs easily puncture even thick animal hide. It loves to feast on the blood of people and Pokémon. It flits about in darkness and strikes from behind.",
@@ -1936,7 +2044,7 @@ export const Entries = [
         }
     },
     {
-        "no": "#043",
+        "no": "#0043",
         "name": "Oddish",
         "entries": {
             "red": "During the day, it keeps its face buried in the ground. At night, it wanders around sowing its seeds.",
@@ -1946,7 +2054,8 @@ export const Entries = [
             "gold": "Awakened by moonlight, it roams actively at night. In the day it stays quietly underground.",
             "silver": "If exposed to moonlight, it starts to move. It roams far and wide at night to scatter its seeds.",
             "crystal": "During the day, it stays in the cold underground to avoid the sun. It grows by bathing in moonlight.",
-            "stadium2": "Awakened by moonlight, it roams actively at night. In the day, it stays quietly underground.",
+            "stadium2red": "Awakened by moonlight, it roams actively at night. In the day, it stays quietly underground.",
+            "stadium2blue": "If exposed to moonlight, it starts to move. It roams far and wide at night to scatter its seeds.",
             "ruby": "During the daytime, Oddish buries itself in soil to absorb nutrients from the ground using its entire body. The more fertile the soil, the glossier its leaves become.",
             "sapphire": "Oddish searches for fertile, nutrient-rich soil, then plants itself. During the daytime, while it is planted, this Pokémon's feet are thought to change shape and become similar to the roots of trees.",
             "emerald": "This Pokémon grows by absorbing moonlight. During the daytime, it buries itself in the ground, leaving only its leaves exposed to avoid detection by its enemies.",
@@ -1970,11 +2079,13 @@ export const Entries = [
             "sword": "If exposed to moonlight, it starts to move. It roams far and wide at night to scatter its seeds.",
             "shield": "During the day, it stays in the cold underground to avoid the sun. It grows by bathing in moonlight.",
             "brilliantDiamond": "It often plants its root feet in the ground during the day and sows seeds as it walks about at night.",
-            "shiningPearl": "It often plants its root feet in the ground during the day and sows seeds as it walks about at night."
+            "shiningPearl": "It often plants its root feet in the ground during the day and sows seeds as it walks about at night.",
+            "scarlet": "Its scientific name is Oddium wanderus. It is said to cover distances as far as 1,000 feet when night falls, walking on its two roots.",
+            "violet": "When it is woken by moonlight, it wanders about. But during the day, it stays still underground."
         }
     },
     {
-        "no": "#044",
+        "no": "#0044",
         "name": "Gloom",
         "entries": {
             "red": "The fluid that oozes from its mouth isn't drool. It is a nectar that is used to attract prey.",
@@ -1984,7 +2095,8 @@ export const Entries = [
             "gold": "What appears to be drool is actually sweet honey. It is very sticky and clings stubbornly if touched.",
             "silver": "It secretes a sticky, drool-like honey. Although sweet, it smells too repulsive to get very close.",
             "crystal": "The smell from its drool-like syrup and the pollen on its petals is so bad, it may make opponents faint.",
-            "stadium2": "What appears to be drool is actually sweet honey. It is very sticky and clings stubbornly if touched.",
+            "stadium2red": "What appears to be drool is actually sweet honey. It is very sticky and clings stubbornly if touched.",
+            "stadium2blue": "It secretes a sticky, drool-like honey. Although sweet, it smells too repulsive to get very close.",
             "ruby": "Gloom releases a foul fragrance from the pistil of its flower. When faced with danger, the stench worsens. If this Pokémon is feeling calm and secure, it does not release its usual stinky aroma.",
             "sapphire": "From its mouth Gloom drips honey that smells absolutely horrible. Apparently, it loves the horrid stench. It sniffs the noxious fumes and then drips even more of its honey.",
             "emerald": "A horribly noxious honey drools from its mouth. One whiff of the honey can result in memory loss. Some fans are said to enjoy this overwhelming stink, however.",
@@ -2008,11 +2120,13 @@ export const Entries = [
             "sword": "Its pistils exude an incredibly foul odor. The horrid stench can cause fainting at a distance of 1.25 miles.",
             "shield": "What appears to be drool is actually sweet honey. It is very sticky and clings stubbornly if touched.",
             "brilliantDiamond": "The nectar it drools from its mouth smells so atrocious that it can make noses curl from more than a mile away.",
-            "shiningPearl": "The nectar it drools from its mouth smells so atrocious that it can make noses curl from more than a mile away."
+            "shiningPearl": "The nectar it drools from its mouth smells so atrocious that it can make noses curl from more than a mile away.",
+            "scarlet": "The fluid that oozes from its mouth isn’t drool. It is a nectar that is used to attract prey.",
+            "violet": "It secretes a sticky, drool-like nectar. Though sweet, it smells too repulsive to get very close."
         }
     },
     {
-        "no": "#045",
+        "no": "#0045",
         "name": "Vileplume",
         "entries": {
             "red": "The larger its petals, the more toxic pollen it contains. Its big head is heavy and hard to hold up.",
@@ -2022,7 +2136,8 @@ export const Entries = [
             "gold": "It has the world's largest petals. With every step, the petals shake out heavy clouds of toxic pollen.",
             "silver": "The bud bursts into bloom with a bang. It then starts scattering allergenic, poisonous pollen.",
             "crystal": "By shaking its big petals, it scatters toxic pollen into the air, turning the air yellow.",
-            "stadium2": "It has the world's largest petals. With every step, the petals shake out heavy clouds of toxic pollen.",
+            "stadium2red": "It has the world's largest petals. With every step, the petals shake out heavy clouds of toxic pollen.",
+            "stadium2blue": "The bud bursts into bloom with a bang. It then starts scattering allergenic, poisonous pollen.",
             "ruby": "Vileplume's toxic pollen triggers atrocious allergy attacks. That's why it is advisable never to approach any attractive flowers in a jungle, however pretty they may be.",
             "sapphire": "Vileplume has the world's largest petals. They are used to attract prey that are then doused with toxic spores. Once the prey are immobilized, this Pokémon catches and devours them.",
             "emerald": "In seasons when it produces more pollen, the air around a Vileplume turns yellow with the powder as it walks. The pollen is highly toxic and causes paralysis.",
@@ -2046,11 +2161,13 @@ export const Entries = [
             "sword": "It has the world's largest petals. With every step, the petals shake out heavy clouds of toxic pollen.",
             "shield": "The larger its petals, the more toxic pollen it contains. Its big head is heavy and hard to hold up.",
             "brilliantDiamond": "Its petals are the largest in the world. As it walks, it scatters extremely allergenic pollen.",
-            "shiningPearl": "Its petals are the largest in the world. As it walks, it scatters extremely allergenic pollen."
+            "shiningPearl": "Its petals are the largest in the world. As it walks, it scatters extremely allergenic pollen.",
+            "scarlet": "The bud bursts into bloom with a bang. It then starts scattering allergenic, poisonous pollen.",
+            "violet": "It fiendishly scatters allergenic pollen from its petals, which are the largest in the world."
         }
     },
     {
-        "no": "#046",
+        "no": "#0046",
         "name": "Paras",
         "entries": {
             "red": "Burrows to suck tree roots. The mushrooms on its back grow by drawing nutrients from the bug host.",
@@ -2060,7 +2177,8 @@ export const Entries = [
             "gold": "It is doused with mushroom spores when it is born. As its body grows, mushrooms sprout from its back.",
             "silver": "As its body grows large, oriental mushrooms called tochukaso start sprouting out of its back.",
             "crystal": "The tochukaso growing on this Pokémon's back orders it to extract juice from tree trunks.",
-            "stadium2": "It is doused with mushroom spores when it is born. As its body grows, mushrooms sprout from its back.",
+            "stadium2red": "It is doused with mushroom spores when it is born. As its body grows, mushrooms sprout from its back.",
+            "stadium2blue": "As its body grows large, oriental mushrooms called tochukaso start sprouting out of its back.",
             "ruby": "Paras has parasitic mushrooms growing on its back called tochukaso. They grow large by drawing nutrients from this Bug/Grass Pokémon host. They are highly valued as a medicine for extending life.",
             "sapphire": "Paras has parasitic mushrooms growing on its back called tochukaso. They grow large by drawing nutrients from this Bug/Grass Pokémon host. They are highly valued as a medicine for extending life.",
             "emerald": "A Paras has parasitic tochukaso mushrooms growing on its back. They grow by drawing nutrients from the host. They are valued as a medicine for long life.",
@@ -2091,7 +2209,7 @@ export const Entries = [
         }
     },
     {
-        "no": "#047",
+        "no": "#0047",
         "name": "Parasect",
         "entries": {
             "red": "A host-parasite pair in which the parasite mushroom has taken over the host bug. Prefers damp places.",
@@ -2101,7 +2219,8 @@ export const Entries = [
             "gold": "It stays mostly in dark, damp places, the preference not of the bug, but of the big mushrooms on its back.",
             "silver": "The larger the mushroom on its back grows, the stronger the mushroom spores it scatters.",
             "crystal": "When nothing's left to extract from the bug, the mushrooms on its back leave spores on the bug's egg.",
-            "stadium2": "It stays mostly in dark, damp places, the preference not of the bug, but of the big mushrooms on its back.",
+            "stadium2red": "It stays mostly in dark, damp places, the preference not of the bug, but of the big mushrooms on its back.",
+            "stadium2blue": "The larger the mushroom on its back grows, the stronger the mushroom spores it scatters.",
             "ruby": "Parasect is known to infest large trees en masse and drain nutrients from the lower trunk and roots. When an infested tree dies, they move onto another tree all at once.",
             "sapphire": "Parasect is known to infest large trees en masse and drain nutrients from the lower trunk and roots. When an infested tree dies, they move onto another tree all at once.",
             "emerald": "Parasect are known to infest the roots of large trees en masse and drain nutrients. When an infested tree dies, they move onto another tree all at once.",
@@ -2132,7 +2251,7 @@ export const Entries = [
         }
     },
     {
-        "no": "#048",
+        "no": "#0048",
         "name": "Venonat",
         "entries": {
             "red": "Lives in the shadows of tall trees where it eats insects. It is attracted by light at night.",
@@ -2142,7 +2261,8 @@ export const Entries = [
             "gold": "Its eyes also function as radar units. It catches and eats small bugs that hide in darkness.",
             "silver": "Poison oozes from all over its body. It catches and eats small bugs at night that are attracted by light.",
             "crystal": "The small bugs it eats appear only at night, so it sleeps in a hole in a tree until night falls.",
-            "stadium2": "Its eyes also function as radar units. It catches and eats small bugs that hide in darkness.",
+            "stadium2red": "Its eyes also function as radar units. It catches and eats small bugs that hide in darkness.",
+            "stadium2blue": "Poison oozes from all over its body. It catches and eats small bugs at night that are attracted by light.",
             "ruby": "Venonat is said to have evolved with a coat of thin, stiff hair that covers its entire body for protection. It possesses large eyes that never fail to spot even minuscule prey.",
             "sapphire": "Venonat is said to have evolved with a coat of thin, stiff hair that covers its entire body for protection. It possesses large eyes that never fail to spot even minuscule prey.",
             "emerald": "Its coat of thin, stiff hair that covers its entire body is said to have evolved for protection. Its large eyes never fail to spot even miniscule prey.",
@@ -2164,11 +2284,13 @@ export const Entries = [
             "letsGoPikachu": "Its large eyes act as a radar. In a bright place, you can see that they are clusters of many tiny eyes.",
             "letsGoEevee": "Its large eyes act as a radar. In a bright place, you can see that they are clusters of many tiny eyes.",
             "brilliantDiamond": "Its big eyes are actually clusters of tiny eyes. At night, its kind is drawn by light.",
-            "shiningPearl": "Its big eyes are actually clusters of tiny eyes. At night, its kind is drawn by light."
+            "shiningPearl": "Its big eyes are actually clusters of tiny eyes. At night, its kind is drawn by light.",
+            "scarlet": "Poison oozes from all over its body. It catches small bug Pokémon at night that are attracted by light.",
+            "violet": "Its eyes act as radar, enabling it to be active in darkness. The eyes can also shoot powerful beams."
         }
     },
     {
-        "no": "#049",
+        "no": "#0049",
         "name": "Venomoth",
         "entries": {
             "red": "The dust-like scales covering its wings are color coded to indicate the kinds of poison it has.",
@@ -2178,7 +2300,8 @@ export const Entries = [
             "gold": "When it attacks, it flaps its large wings violently to scatter its poisonous powder all around.",
             "silver": "The powder on its wings is poisonous if it is dark in color. If it is light, it causes paralysis.",
             "crystal": "The scales it scatters will paralyze anyone who touches them, making that person unable to stand.",
-            "stadium2": "When it attacks, it flaps its large wings violently to scatter its poisonous powder all around.",
+            "stadium2red": "When it attacks, it flaps its large wings violently to scatter its poisonous powder all around.",
+            "stadium2blue": "The powder on its wings is poisonous if it is dark in color. If it is light, it causes paralysis.",
             "ruby": "Venomoth is nocturnal - it is a Pokémon that only becomes active at night. Its favorite prey are small insects that gather around streetlights, attracted by the light in the darkness.",
             "sapphire": "Venomoth is nocturnal - it is a Pokémon that only becomes active at night. Its favorite prey are small insects that gather around streetlights, attracted by the light in the darkness.",
             "emerald": "Venomoth are nocturnal — they only are active at night. Their favorite prey are insects that gather around streetlights, attracted by the light in the darkness.",
@@ -2200,11 +2323,13 @@ export const Entries = [
             "letsGoPikachu": "The powdery scales on its wings are hard to remove from skin. They also contain poison that leaks out on contact.",
             "letsGoEevee": "The powdery scales on its wings are hard to remove from skin. They also contain poison that leaks out on contact.",
             "brilliantDiamond": "It flutters its wings to scatter dustlike scales. The scales leach toxins if they contact skin.",
-            "shiningPearl": "It flutters its wings to scatter dustlike scales. The scales leach toxins if they contact skin."
+            "shiningPearl": "It flutters its wings to scatter dustlike scales. The scales leach toxins if they contact skin.",
+            "scarlet": "The wings are covered with dustlike scales. Every time it flaps its wings, it looses highly toxic dust.",
+            "violet": "When it attacks, it flaps its large wings violently to scatter its poisonous powder all around."
         }
     },
     {
-        "no": "#050",
+        "no": "#0050",
         "name": "Diglett",
         "entries": {
             "red": "Lives about one yard underground where it feeds on plant roots. It sometimes appears above ground.",
@@ -2214,7 +2339,8 @@ export const Entries = [
             "gold": "Its skin is very thin. If it is exposed to light, its blood heats up, causing it to grow weak.",
             "silver": "If a Diglett digs through a field, it leaves the soil perfectly tilled and ideal for planting crops.",
             "crystal": "It digs underground and chews on tree roots, sticking its head out only when the sun isn't bright.",
-            "stadium2": "Its skin is very thin. If it is exposed to light, its blood heats up, causing it to grow weak.",
+            "stadium2red": "Its skin is very thin. If it is exposed to light, its blood heats up, causing it to grow weak.",
+            "stadium2blue": "If a Diglett Digs through a field, it leaves the soil perfectly tilled and ideal for planting crops.",
             "ruby": "Diglett are raised in most farms. The reason is simple - wherever this Pokémon burrows, the soil is left perfectly tilled for planting crops. This soil is made ideal for growing delicious vegetables.",
             "sapphire": "Diglett are raised in most farms. The reason is simple - wherever this Pokémon burrows, the soil is left perfectly tilled for planting crops. This soil is made ideal for growing delicious vegetables.",
             "emerald": "Diglett are raised in most farms. The reason is simple — wherever they burrow, the soil is left perfectly tilled for growing delicious crops.",
@@ -2242,11 +2368,13 @@ export const Entries = [
             "sword": "If a Diglett digs through a field, it leaves the soil perfectly tilled and ideal for planting crops.",
             "shield": "It burrows through the ground at a shallow depth. It leaves raised earth in its wake, making it easy to spot.",
             "brilliantDiamond": "This Pokémon lives underground. Because of its dark habitat, it is repelled by bright sunlight.",
-            "shiningPearl": "This Pokémon lives underground. Because of its dark habitat, it is repelled by bright sunlight."
+            "shiningPearl": "This Pokémon lives underground. Because of its dark habitat, it is repelled by bright sunlight.",
+            "scarlet": "It lives about one yard underground, where it feeds on plant roots. It sometimes appears aboveground.",
+            "violet": "Its skin is very thin. If it is exposed to light, its blood heats up, causing it to grow weak."
         }
     },
     {
-        "no": "#050",
+        "no": "#0050",
         "name": "Alolan Diglett",
         "entries": {
             "sun": "Its head sports an altered form of whiskers made of metal. When in communication with its comrades, its whiskers wobble to and fro.",
@@ -2256,11 +2384,13 @@ export const Entries = [
             "letsGoPikachu": "After living in soil with high iron content for some time, three steel whiskers sprouted from the top of its head.",
             "letsGoEevee": "After living in soil with high iron content for some time, three steel whiskers sprouted from the top of its head.",
             "sword": "The metal-rich geology of this Pokémon's habitat caused it to develop steel whiskers on its head.",
-            "shield": "Its three hairs change shape depending on Diglett's mood. They're a useful communication tool among these Pokémon."
+            "shield": "Its three hairs change shape depending on Diglett's mood. They're a useful communication tool among these Pokémon.",
+            "scarlet": "The things growing from its head are whiskers that have become metallic. Diglett communicates with its comrades by waving them.",
+            "violet": "Its golden whiskers function as sensors. It pokes them out of its burrow to monitor its surroundings."
         }
     },
     {
-        "no": "#051",
+        "no": "#0051",
         "name": "Dugtrio",
         "entries": {
             "red": "A team of Diglett triplets. It triggers huge earthquakes by burrowing 60 miles underground.",
@@ -2270,7 +2400,8 @@ export const Entries = [
             "gold": "Its three heads bob separately up and down to loosen the soil nearby, making it easier for it to burrow.",
             "silver": "Extremely powerful, they can dig through even the hardest ground to a depth of over 60 miles.",
             "crystal": "These Diglett triplets dig over 60 miles below sea level. No one knows what it's like underground.",
-            "stadium2": "Its three heads bob separately up and down to loosen the soil nearby, making it easier for it to burrow.",
+            "stadium2red": "Its three heads bob separately up and down to loosen the soil nearby, making it easier for it to burrow.",
+            "stadium2blue": "Extremely powerful, they can Dig through even the hardest ground to a depth of over 60 miles.",
             "ruby": "Dugtrio are actually triplets that emerged from one body. As a result, each triplet thinks exactly like the other two triplets. They work cooperatively to burrow endlessly.",
             "sapphire": "Dugtrio are actually triplets that emerged from one body. As a result, each triplet thinks exactly like the other two triplets. They work cooperatively to burrow endlessly.",
             "emerald": "Because the triplets originally split from one body, they think exactly alike. They work cooperatively to burrow endlessly through the ground.",
@@ -2298,11 +2429,13 @@ export const Entries = [
             "sword": "A team of Diglett triplets. It triggers huge earthquakes by burrowing 60 miles underground.",
             "shield": "These Diglett triplets dig over 60 miles below sea level. No one knows what it's like underground.",
             "brilliantDiamond": "Its three heads move alternately, driving it through tough soil to depths of over 60 miles.",
-            "shiningPearl": "Its three heads move alternately, driving it through tough soil to depths of over 60 miles."
+            "shiningPearl": "Its three heads move alternately, driving it through tough soil to depths of over 60 miles.",
+            "scarlet": "Its three heads bob separately up and down to loosen the soil nearby, making it easier for it to burrow.",
+            "violet": "In battle, it digs through the ground and strikes the unsuspecting foe from an unexpected direction."
         }
     },
     {
-        "no": "#051alola",
+        "no": "#0051alola",
         "name": "Alolan Dugtrio",
         "entries": {
             "sun": "Its shining gold hair provides it with protection. It's reputed that keeping any of its fallen hairs will bring bad luck.",
@@ -2312,11 +2445,13 @@ export const Entries = [
             "letsGoPikachu": "They're referred to as triplets, but they're not identical–the metallic elements in their bodies differ slightly. The proof shows in their whiskers!",
             "letsGoEevee": "They're referred to as triplets, but they're not identical–the metallic elements in their bodies differ slightly. The proof shows in their whiskers!",
             "sword": "Their beautiful, metallic whiskers create a sort of protective helmet on their heads, and they also function as highly precise sensors.",
-            "shield": "The three of them get along very well. Through their formidable teamwork, they defeat powerful opponents."
+            "shield": "The three of them get along very well. Through their formidable teamwork, they defeat powerful opponents.",
+            "scarlet": "Its shining gold whiskers are advanced sensors that can detect vibrations from sounds several miles away.",
+            "violet": "Its metallic whiskers are heavy, so it’s not very fast, but it has the power to dig through even the hardest bedrock."
         }
     },
     {
-        "no": "#052",
+        "no": "#0052",
         "name": "Meowth",
         "entries": {
             "red": "Adores circular objects. Wanders the streets on a nightly basis to look for dropped loose change.",
@@ -2326,7 +2461,8 @@ export const Entries = [
             "gold": "It is fascinated by round objects. It can't stop playing with them until it tires and falls asleep.",
             "silver": "It loves anything that shines. It especially adores coins that it picks up and secretly hoards.",
             "crystal": "It loves things that sparkle. When it sees a shiny object, the gold coin on its head shines too.",
-            "stadium2": "It is fascinated with round objects. It can't stop playing with them until it tires and falls asleep.",
+            "stadium2red": "It is fascinated with round objects. It can't stop playing with them until it tires and falls asleep.",
+            "stadium2blue": "It loves anything that shines. It especially adores coins that it picks up and secretly hoards.",
             "ruby": "Meowth withdraws its sharp claws into its paws to slinkily sneak about without making any incriminating footsteps. For some reason, this Pokémon loves shiny coins that glitter with light.",
             "sapphire": "Meowth withdraws its sharp claws into its paws to slinkily sneak about without making any incriminating footsteps. For some reason, this Pokémon loves shiny coins that glitter with light.",
             "emerald": "Meowth withdraw their sharp claws into their paws to silently sneak about. For some reason, this Pokémon loves shiny coins that glitter with light.",
@@ -2354,11 +2490,13 @@ export const Entries = [
             "sword": "It loves to collect shiny things. If it's in a good mood, it might even let its Trainer have a look at its hoard of treasures.",
             "shield": "It washes its face regularly to keep the coin on its forehead spotless. It doesn't get along with Galarian Meowth.",
             "brilliantDiamond": "It is nocturnal by nature. If it spots something shiny, its eyes glitter as brightly as the shiny object.",
-            "shiningPearl": "It is nocturnal by nature. If it spots something shiny, its eyes glitter as brightly as the shiny object."
+            "shiningPearl": "It is nocturnal by nature. If it spots something shiny, its eyes glitter as brightly as the shiny object.",
+            "scarlet": "All it does is sleep during the daytime. At night, it patrols its territory with its eyes aglow.",
+            "violet": "It loves things that sparkle. When it sees a shiny object, the gold coin on its head shines, too."
         }
     },
     {
-        "no": "#052alola",
+        "no": "#0052alola",
         "name": "Alolan Meowth",
         "entries": {
             "sun": "This Pokémon was not originally found in Alola. Human actions caused a surge in their numbers, and they went feral. They're prideful and crafty.",
@@ -2372,7 +2510,7 @@ export const Entries = [
         }
     },
     {
-        "no": "#052galar",
+        "no": "#0052galar",
         "name": "Galarian Meowth",
         "entries": {
             "sword": "Living with a savage, seafaring people has toughened this Pokémon's body so much that parts of it have turned to iron.",
@@ -2380,7 +2518,7 @@ export const Entries = [
         }
     },
     {
-        "no": "#052gmax",
+        "no": "#0052gmax",
         "name": "Gigantamax Meowth",
         "entries": {
             "sword": "The pattern that has appeared on its giant coin is thought to be the key to unlocking the secrets of the Dynamax phenomenon.",
@@ -2388,7 +2526,7 @@ export const Entries = [
         }
     },
     {
-        "no": "#053",
+        "no": "#0053",
         "name": "Persian",
         "entries": {
             "red": "Although its fur has many admirers, it is tough to raise as a pet because of its fickle meanness.",
@@ -2398,7 +2536,8 @@ export const Entries = [
             "gold": "Many adore it for its sophisticated air. However, it will lash out and scratch for little reason.",
             "silver": "Its lithe muscles allow it to walk without making a sound. It attacks in an instant.",
             "crystal": "Behind its lithe, elegant appearance lies a barbaric side. It will tear apart its prey on a mere whim.",
-            "stadium2": "Many adore it for its sophisticated air. However, it will lash out and scratch for little reason.",
+            "stadium2red": "Many adore it for its sophisticated air. However, it will lash out and scratch for little reason.",
+            "stadium2blue": "Its lithe muscles allow it to walk without making a sound. It attacks in an instant.",
             "ruby": "Persian has six bold whiskers that give it a look of toughness. The whiskers sense air movements to determine what is in the Pokémon's surrounding vicinity. It becomes docile if grabbed by the whiskers.",
             "sapphire": "Persian has six bold whiskers that give it a look of toughness. The whiskers sense air movements to determine what is in the Pokémon's surrounding vicinity. It becomes docile if grabbed by the whiskers.",
             "emerald": "A Persian's six bold whiskers sense air movements to determine what is in its vicinity. It becomes docile if grabbed by the whiskers.",
@@ -2426,11 +2565,13 @@ export const Entries = [
             "sword": "Getting this prideful Pokémon to warm up to you takes a lot of effort, and it will claw at you the moment it gets annoyed.",
             "shield": "Its elegant and refined behavior clashes with that of the barbaric Perrserker. The relationship between the two is one of mutual disdain.",
             "brilliantDiamond": "It is a very haughty Pokémon. Among fans of Persian, the size of the jewel in its forehead is a topic of much talk.",
-            "shiningPearl": "It is a very haughty Pokémon. Among fans of Persian, the size of the jewel in its forehead is a topic of much talk."
+            "shiningPearl": "It is a very haughty Pokémon. Among fans of Persian, the size of the jewel in its forehead is a topic of much talk.",
+            "scarlet": "Although its fur has many admirers, it is tough to raise as a pet because of its fickle meanness.",
+            "violet": "It has a vicious temperament. Beware if it raises its tail straight up. This is a signal that it is about to pounce and bite."
         }
     },
     {
-        "no": "#053alola",
+        "no": "#0053alola",
         "name": "Alolan Persian",
         "entries": {
             "sun": "Its round face and smooth coat—softer than the most high-class velvet—have made this a very popular Pokémon in Alola.",
@@ -2444,7 +2585,7 @@ export const Entries = [
         }
     },
     {
-        "no": "#054",
+        "no": "#0054",
         "name": "Psyduck",
         "entries": {
             "red": "While lulling its enemies with its vacant look, this wily Pokémon will use psychokinetic powers.",
@@ -2454,7 +2595,8 @@ export const Entries = [
             "gold": "It has mystical powers but doesn't recall that it has used them. That is why it always looks puzzled.",
             "silver": "If its chronic headache peaks, it may exhibit odd powers. It seems unable to recall such an episode.",
             "crystal": "The only time it can use its psychic power is when its sleeping brain cells happen to wake.",
-            "stadium2": "It has mystical powers but doesn't recall that it has used them. That is why it always looks puzzled.",
+            "stadium2red": "It has mystical powers but doesn't recall that it has used them. That is why it always looks puzzled.",
+            "stadium2blue": "If its chronic headache peaks, it may exhibit odd powers. It seems unable to recall such an episode.",
             "ruby": "Psyduck uses a mysterious power. When it does so, this Pokémon generates brain waves that are supposedly only seen in sleepers. This discovery spurred controversy among scholars.",
             "sapphire": "If it uses its mysterious power, Psyduck can't remember having done so. It apparently can't form a memory of such an event because it goes into an altered state that is much like deep sleep.",
             "emerald": "When its headache intensifies, it starts using strange powers. However, it has no recollection of its powers, so it always looks befuddled and bewildered.",
@@ -2483,11 +2625,13 @@ export const Entries = [
             "shield": "As Psyduck gets stressed out, its headache gets progressively worse. It uses intense psychic energy to overwhelm those around it.",
             "brilliantDiamond": "If its usual headache worsens, it starts exhibiting odd powers. It can't remember doing so, however.",
             "shiningPearl": "It never remembers using its odd powers, so it always tilts its head in puzzlement.",
-            "legendsArceus": "Suffers perpetual headaches. If the agony grows too great, Psyduck's latent power erupts, contrary to Psyduck's intent. Ergo, I am exploring ways to ease the pain."
+            "legendsArceus": "Suffers perpetual headaches. If the agony grows too great, Psyduck's latent power erupts, contrary to Psyduck's intent. Ergo, I am exploring ways to ease the pain.",
+            "scarlet": "It is constantly wracked by a headache. When the headache turns intense, it begins using mysterious powers.",
+            "violet": "If its chronic headache peaks, it may exhibit odd powers. It seems unable to recall such an episode."
         }
     },
     {
-        "no": "#055",
+        "no": "#0055",
         "name": "Golduck",
         "entries": {
             "red": "Often seen swimming elegantly by lake shores. It is often mistaken for the Japanese monster, Kappa.",
@@ -2497,7 +2641,8 @@ export const Entries = [
             "gold": "When it swims at full speed using its long, webbed limbs, its forehead somehow begins to glow.",
             "silver": "It appears by waterways at dusk. It may use telekinetic powers if its forehead glows mysteriously.",
             "crystal": "It swims gracefully along on the quiet, slow-moving rivers and lakes of which it is so fond.",
-            "stadium2": "When it swims at full speed using its long, webbed limbs, its forehead somehow begins to glow.",
+            "stadium2red": "When it swims at full speed using its long, webbed limbs, its forehead somehow begins to glow.",
+            "stadium2blue": "It appears by waterways at dusk. It may use telekinetic powers if its forehead glows mysteriously.",
             "ruby": "The webbed flippers on its forelegs and hind legs and the streamlined body of Golduck give it frightening speed. This Pokémon is definitely much faster than even the most athletic swimmer.",
             "sapphire": "Golduck is the fastest swimmer among all Pokémon. It swims effortlessly, even in a rough, stormy sea. It sometimes rescues people from wrecked ships floundering in high seas.",
             "emerald": "A Golduck is an adept swimmer. It sometimes joins competitive swimmers in training. It uses psychic powers when its forehead shimmers with light.",
@@ -2526,11 +2671,13 @@ export const Entries = [
             "shield": "Old tales tell of Golduck punishing those that defiled its river. The guilty were dragged into the water and taken away.",
             "brilliantDiamond": "This Pokémon lives in lakes. It swims faster than any world-class swimmer.",
             "shiningPearl": "The flippers of its well-developed limbs give it shocking speed. It is the best swimmer among Pokémon.",
-            "legendsArceus": "Its body is strong, and it has webbing on its hands and feet. Golduck can swim easily through rough seas, clawing its way through the high waves."
+            "legendsArceus": "Its body is strong, and it has webbing on its hands and feet. Golduck can swim easily through rough seas, clawing its way through the high waves.",
+            "scarlet": "When it swims at full speed using its long, webbed limbs, its forehead somehow begins to glow.",
+            "violet": "It swims gracefully along on the quiet, slow- moving rivers and lakes of which it is so fond."
         }
     },
     {
-        "no": "#056",
+        "no": "#0056",
         "name": "Mankey",
         "entries": {
             "red": "Extremely quick to anger. It could be docile one moment then thrashing away the next instant.",
@@ -2540,7 +2687,8 @@ export const Entries = [
             "gold": "It is extremely ill-tempered. Groups of them will attack any handy target for no reason.",
             "silver": "It's unsafe to approach if it gets violently enraged for no reason and can't distinguish friends from foes.",
             "crystal": "It lives in groups in the treetops. If it loses sight of its group, it becomes infuriated by its loneliness.",
-            "stadium2": "It is extremely ill-tempered. Groups of them will attack any handy target for no reason.",
+            "stadium2red": "It is extremely ill-tempered. Groups of them will attack any handy target for no reason.",
+            "stadium2blue": "It's unsafe to approach if it gets violently enraged for no reason and can't distinguish friends from foes.",
             "ruby": "When Mankey starts shaking and its nasal breathing turns rough, it's a sure sign that it is becoming angry. However, because it goes into a towering rage almost instantly, it is impossible for anyone to flee its wrath.",
             "sapphire": "When Mankey starts shaking and its nasal breathing turns rough, it's a sure sign that it is becoming angry. However, because it goes into a towering rage almost instantly, it is impossible for anyone to flee its wrath.",
             "emerald": "When it starts shaking and its nasal breathing turns rough, it's a sure sign of anger. However, since this happens instantly, there is no time to flee.",
@@ -2566,11 +2714,13 @@ export const Entries = [
             "letsGoPikachu": "An agile Pokémon that lives in trees. It angers easily and will not hesitate to attack anything.",
             "letsGoEevee": "An agile Pokémon that lives in trees. It angers easily and will not hesitate to attack anything.",
             "brilliantDiamond": "It lives in treetop colonies. If one member of the group becomes enraged, the whole colony rampages for no reason.",
-            "shiningPearl": "It lives in treetop colonies. If one member of the group becomes enraged, the whole colony rampages for no reason."
+            "shiningPearl": "It lives in treetop colonies. If one member of the group becomes enraged, the whole colony rampages for no reason.",
+            "scarlet": "It lives in groups in the treetops. If it loses sight of its group, it becomes infuriated by its loneliness.",
+            "violet": "It is extremely quick to anger. It could be docile one moment, then thrashing away the next instant."
         }
     },
     {
-        "no": "#057",
+        "no": "#0057",
         "name": "Primeape",
         "entries": {
             "red": "Always furious and tenacious to boot. It will not abandon chasing its quarry until it is caught.",
@@ -2580,7 +2730,8 @@ export const Entries = [
             "gold": "If approached while asleep, it may awaken and angrily give chase in a groggy state of semi-sleep.",
             "silver": "It becomes wildly furious if it even senses someone looking at it. It chases anyone that meets its glare.",
             "crystal": "It will beat up anyone who makes it mad, even if it has to chase them until the end of the world.",
-            "stadium2": "If approached while asleep, it may awaken and angrily give chase in a groggy state of semi-sleep.",
+            "stadium2red": "If approached while asleep, it may awaken and angrily give chase in a groggy state of semi-sleep.",
+            "stadium2blue": "It becomes wildly furious if it even senses someone looking at it. It chases anyone that meets its glare.",
             "ruby": "When Primeape becomes furious, its blood circulation is boosted. In turn, its muscles are made even stronger. However, it also becomes much less intelligent at the same time.",
             "sapphire": "When Primeape becomes furious, its blood circulation is boosted. In turn, its muscles are made even stronger. However, it also becomes much less intelligent at the same time.",
             "emerald": "When it becomes furious, its blood circulation becomes more robust, and its muscles are made stronger. But it also becomes much less intelligent.",
@@ -2606,11 +2757,13 @@ export const Entries = [
             "letsGoPikachu": "It stops being angry only when nobody else is around. To view this moment is very difficult.",
             "letsGoEevee": "It stops being angry only when nobody else is around. To view this moment is very difficult.",
             "brilliantDiamond": "It becomes angry if it sees an opponent's eyes and gets angrier if the opponent runs. Even after it beats the opponent, it is still angry.",
-            "shiningPearl": "It becomes angry if it sees an opponent's eyes and gets angrier if the opponent runs. Even after it beats the opponent, it is still angry."
+            "shiningPearl": "It becomes angry if it sees an opponent's eyes and gets angrier if the opponent runs. Even after it beats the opponent, it is still angry.",
+            "scarlet": "It becomes wildly furious if it even senses someone looking at it. It chases anyone that meets its glare.",
+            "violet": "Some researchers theorize that Primeape remains angry even when inside a Poké Ball."
         }
     },
     {
-        "no": "#058",
+        "no": "#0058",
         "name": "Growlithe",
         "entries": {
             "red": "Very protective of its territory. It will bark and bite to repel intruders from its space.",
@@ -2620,7 +2773,8 @@ export const Entries = [
             "gold": "It has a brave and trustworthy nature. It fearlessly stands up to bigger and stronger foes.",
             "silver": "Extremely loyal, it will fearlessly bark at any opponent to protect its own Trainer from harm.",
             "crystal": "It controls a big territory. If it detects an unknown smell, it roars loudly to force out the intruder.",
-            "stadium2": "It has a brave and trustworthy nature. It fearlessly stands up to bigger and stronger foes.",
+            "stadium2red": "It has a brave and trustworthy nature. It fearlessly stands up to bigger and stronger foes.",
+            "stadium2blue": "Extremely loyal, it will fearlessly bark at any opponent to protect its own trainer from harm.",
             "ruby": "Growlithe has a superb sense of smell. Once it smells anything, this Pokémon won't forget the scent, no matter what. It uses its advanced olfactory sense to determine the emotions of other living things.",
             "sapphire": "Growlithe has a superb sense of smell. Once it smells anything, this Pokémon won't forget the scent, no matter what. It uses its advanced olfactory sense to determine the emotions of other living things.",
             "emerald": "Its superb sense of smell ensures that this Pokémon won't forget any scent, no matter what. It uses its sense of smell to detect the emotions of others.",
@@ -2648,18 +2802,20 @@ export const Entries = [
             "sword": "It has a brave and trustworthy nature. It fearlessly stands up to bigger and stronger foes.",
             "shield": "Extremely loyal, it will fearlessly bark at any opponent to protect its own Trainer from harm.",
             "brilliantDiamond": "It is a Pokémon with a loyal nature. It will remain motionless until it is given an order by its Trainer.",
-            "shiningPearl": "It is a Pokémon with a loyal nature. It will remain motionless until it is given an order by its Trainer."
+            "shiningPearl": "It is a Pokémon with a loyal nature. It will remain motionless until it is given an order by its Trainer.",
+            "scarlet": "It has a brave and trustworthy nature. It fearlessly stands up to bigger and stronger foes.",
+            "violet": "It's very friendly and faithful to people. It will try to repel enemies by barking and biting."
         }
     },
     {
-        "no": "#058hisui",
+        "no": "#0058hisui",
         "name": "Hisuian Growlithe",
         "entries": {
             "legendsArceus": "They patrol their territory in pairs. I believe the igneous rock components in the fur of this species are the result of volcanic activity in its habitat."
         }
     },
     {
-        "no": "#059",
+        "no": "#0059",
         "name": "Arcanine",
         "entries": {
             "red": "A Pokémon that has been admired since the past for its beauty. It runs agilely as if on wings.",
@@ -2669,7 +2825,8 @@ export const Entries = [
             "gold": "This legendary Chinese Pokémon is considered magnificent. Many people are enchanted by its grand mane.",
             "silver": "Its magnificent bark conveys a sense of majesty. Anyone hearing it can't help but grovel before it.",
             "crystal": "An ancient picture scroll shows that people were attracted to its movement as it ran through prairies.",
-            "stadium2": "This legendary Chinese Pokémon is considered magnificent. Many people are enchanted by its grand mane.",
+            "stadium2red": "This legendary Chinese Pokémon is considered magnificent. Many people are enchanted by its grand mane.",
+            "stadium2blue": "Its magnificent bark conveys a sense of majesty. Anyone hearing it can't help but grovel before it.",
             "ruby": "Arcanine is known for its high speed. It is said to be capable of running over 6,200 miles in a single day and night. The fire that blazes wildly within this Pokémon's body is its source of power.",
             "sapphire": "Arcanine is known for its high speed. It is said to be capable of running over 6,200 miles in a single day and night. The fire that blazes wildly within this Pokémon's body is its source of power.",
             "emerald": "This fleet-footed Pokémon is said to run over 6,200 miles in a single day and night. The fire that blazes wildly within its body is its source of power.",
@@ -2697,18 +2854,20 @@ export const Entries = [
             "sword": "The sight of it running over 6,200 miles in a single day and night has captivated many people.",
             "shield": "A Pokémon that has long been admired for its beauty. It runs agilely as if on wings.",
             "brilliantDiamond": "Its proud and regal appearance has captured the hearts of people since long ago.",
-            "shiningPearl": "Its proud and regal appearance has captured the hearts of people since long ago."
+            "shiningPearl": "Its proud and regal appearance has captured the hearts of people since long ago.",
+            "scarlet": "An ancient picture scroll shows that people were captivated by its movement as it ran through prairies.",
+            "violet": "Its magnificent bark conveys a sense of majesty. Anyone hearing it can't help but grovel before it."
         }
     },
     {
-        "no": "#059hisui",
+        "no": "#0059hisui",
         "name": "Hisuian Arcanine",
         "entries": {
             "legendsArceus": "Snaps at its foes with fangs cloaked in blazing flame. Despite its bulk, it deftly feints every which way, leading opponents on a deceptively merry chase as it all but dances around them."
         }
     },
     {
-        "no": "#060",
+        "no": "#0060",
         "name": "Poliwag",
         "entries": {
             "red": "Its newly grown legs prevent it from running. It appears to prefer swimming than trying to stand.",
@@ -2718,7 +2877,8 @@ export const Entries = [
             "gold": "Because it is inept at walking on its newly grown legs, it always swims around in water.",
             "silver": "The direction of its belly spiral differs by area. The equator is thought to have an effect on this.",
             "crystal": "The swirl on its belly is its insides showing through the skin. It looks clearer after it eats.",
-            "stadium2": "Because it is inept at walking on its newly grown legs, it always swims around in water.",
+            "stadium2red": "Because it is inept at walking on its newly grown legs, it always swims around in water.",
+            "stadium2blue": "The direction of its belly spiral differs by area. The equator is thought to have an effect on this.",
             "ruby": "Poliwag has a very thin skin. It is possible to see the Pokémon's spiral innards right through the skin. Despite its thinness, however, the skin is also very flexible. Even sharp fangs bounce right off it.",
             "sapphire": "Poliwag has a very thin skin. It is possible to see the Pokémon's spiral innards right through the skin. Despite its thinness, however, the skin is also very flexible. Even sharp fangs bounce right off it.",
             "emerald": "It is possible to see this Pokémon's spiral innards right through its thin skin. However, the skin is also very flexible. Even sharp fangs bounce right off it.",
@@ -2746,11 +2906,13 @@ export const Entries = [
             "sword": "For Poliwag, swimming is easier than walking. The swirl pattern on its belly is actually part of the Pokémon's innards showing through the skin.",
             "shield": "In rivers with fast-flowing water, this Pokémon will cling to a rock by using its thick lips, which act like a suction cup.",
             "brilliantDiamond": "Its skin is so thin, its internal organs are visible. It has trouble walking on its newly grown feet.",
-            "shiningPearl": "Its skin is so thin, its internal organs are visible. It has trouble walking on its newly grown feet."
+            "shiningPearl": "Its skin is so thin, its internal organs are visible. It has trouble walking on its newly grown feet.",
+            "scarlet": "The swirl on its belly is its insides showing through the skin. It appears more clearly after Poliwag eats.",
+            "violet": "Its legs are newly grown, and it can't walk very well. It seems to prefer swimming through the water instead."
         }
     },
     {
-        "no": "#061",
+        "no": "#0061",
         "name": "Poliwhirl",
         "entries": {
             "red": "Capable of living in or out of water. When out of water, it sweats to keep its body slimy.",
@@ -2760,7 +2922,8 @@ export const Entries = [
             "gold": "The swirl on its belly subtly undulates. Staring at it may gradually cause drowsiness.",
             "silver": "The skin on most of its body is moist. However, the skin on its belly spiral feels smooth.",
             "crystal": "Though it is skilled at walking, it prefers to live underwater where there is less danger.",
-            "stadium2": "The swirl on its belly subtly undulates. Staring at it may gradually cause drowsiness.",
+            "stadium2red": "The swirl on its belly subtly undulates. Staring at it may gradually cause drowsiness.",
+            "stadium2blue": "The skin on most of its body is moist. However, the skin on its belly spiral feels smooth.",
             "ruby": "The surface of Poliwhirl's body is always wet and slick with an oily fluid. Because of this greasy covering, it can easily slip and slide out of the clutches of any enemy in battle.",
             "sapphire": "The surface of Poliwhirl's body is always wet and slick with an oily fluid. Because of this greasy covering, it can easily slip and slide out of the clutches of any enemy in battle.",
             "emerald": "Its body surface is always wet and slick with an oily fluid. Because of this greasy covering, it can easily slip and slide out of the clutches of any enemy in battle.",
@@ -2788,7 +2951,9 @@ export const Entries = [
             "sword": "Staring at the swirl on its belly causes drowsiness. This trait of Poliwhirl's has been used in place of lullabies to get children to go to sleep.",
             "shield": "This Pokémon's sweat is a slimy mucus. When captured, Poliwhirl can slither from its enemies' grasp and escape.",
             "brilliantDiamond": "The spiral pattern on its belly subtly undulates. Staring at it gradually causes drowsiness.",
-            "shiningPearl": "The spiral pattern on its belly subtly undulates. Staring at it gradually causes drowsiness."
+            "shiningPearl": "The spiral pattern on its belly subtly undulates. Staring at it gradually causes drowsiness.",
+            "scarlet": "Its two legs are well developed. Even though it can live on the ground, it prefers living in water.",
+            "violet": "Its skin is moist all over its body. The skin on its belly spiral also feels smooth."
         }
     },
     {
@@ -2802,7 +2967,8 @@ export const Entries = [
             "gold": "This strong and skilled swimmer is even capable of crossing the Pacific Ocean just by kicking.",
             "silver": "Although an energetic, skilled swimmer that uses all of its muscles, it lives on dry land.",
             "crystal": "It can use its well-developed arms and legs to run on the surface of the water for a split second.",
-            "stadium2": "This strong and skilled swimmer is even capable of crossing the Pacific Ocean just by kicking.",
+            "stadium2red": "This strong and skilled swimmer is even capable of crossing the Pacific Ocean just by kicking.",
+            "stadium2blue": "Although an energetic, skilled swimmer that uses all of its muscles, it lives on dry land.",
             "ruby": "Poliwrath's highly developed, brawny muscles never grow fatigued, however much it exercises. It is so tirelessly strong, this Pokémon can swim back and forth across the Pacific Ocean without effort.",
             "sapphire": "Poliwrath's highly developed, brawny muscles never grow fatigued, however much it exercises. It is so tirelessly strong, this Pokémon can swim back and forth across the Pacific Ocean without effort.",
             "emerald": "Its highly developed muscles never grow fatigued, however much it exercises. This Pokémon can swim back and forth across the Pacific Ocean without effort.",
@@ -2830,11 +2996,13 @@ export const Entries = [
             "sword": "Its body is solid muscle. When swimming through cold seas, Poliwrath uses its impressive arms to smash through drift ice and plow forward.",
             "shield": "Poliwrath is skilled at both swimming and martial arts. It uses its well-trained arms to dish out powerful punches.",
             "brilliantDiamond": "With its extremely tough muscles, it could keep swimming in the Pacific Ocean without resting.",
-            "shiningPearl": "With its extremely tough muscles, it could keep swimming in the Pacific Ocean without resting."
+            "shiningPearl": "With its extremely tough muscles, it could keep swimming in the Pacific Ocean without resting.",
+            "scarlet": "Although it's skilled in a style of dynamic swimming that uses all its muscles, for some reason it lives on dry land.",
+            "violet": "It can use its well-developed arms and legs to run on the surface of the water for a split second."
         }
     },
     {
-        "no": "#063",
+        "no": "#0063",
         "name": "Abra",
         "entries": {
             "red": "Using its ability to read minds, it will identify impending danger and Teleport to safety.",
@@ -2844,7 +3012,8 @@ export const Entries = [
             "gold": "It senses impending attacks and teleports away to safety before the actual attacks can strike.",
             "silver": "If it decides to teleport randomly, it creates the illusion that it has created copies of itself.",
             "crystal": "It hypnotizes itself so that it can teleport away when it senses danger, even if it is asleep.",
-            "stadium2": "It senses impending attacks and teleports away to safety before the actual attacks can strike.",
+            "stadium2red": "It senses impending attacks and teleports away to safety before the actual attacks can strike.",
+            "stadium2blue": "If it decides to Teleport randomly, it creates the illusion that it has created copies of itself.",
             "ruby": "Abra sleeps for eighteen hours a day. However, it can sense the presence of foes even while it is sleeping. In such a situation, this Pokémon immediately teleports to safety.",
             "sapphire": "Abra needs to sleep for eighteen hours a day. If it doesn't, this Pokémon loses its ability to use telekinetic powers. If it is attacked, Abra escapes using Teleport while it is still sleeping.",
             "emerald": "A Pokémon that sleeps 18 hours a day. Observation revealed that it uses Teleport to change its location once every hour.",
@@ -2877,7 +3046,7 @@ export const Entries = [
         }
     },
     {
-        "no": "#064",
+        "no": "#0064",
         "name": "Kadabra",
         "entries": {
             "red": "It emits special alpha waves from its body that induce headaches just by being close by.",
@@ -2887,7 +3056,8 @@ export const Entries = [
             "gold": "It possesses strong spiritual power. The more danger it faces, the stronger its psychic power.",
             "silver": "If it uses its abilities, it emits special alpha waves that cause machines to malfunction.",
             "crystal": "When it closes its eyes, twice as many alpha particles come out of the surface of its body.",
-            "stadium2": "It possesses strong spiritual power. The more danger it faces, the stronger its psychic power.",
+            "stadium2red": "It possesses strong spiritual power. The more danger it faces, the stronger its psychic power.",
+            "stadium2blue": "If it uses its abilities, it emits special alpha waves that cause machines to malfunction.",
             "ruby": "Kadabra emits a peculiar alpha wave if it develops a headache. Only those people with a particularly strong psyche can hope to become a Trainer of this Pokémon.",
             "sapphire": "Kadabra holds a silver spoon in its hand. The spoon is used to amplify the alpha waves in its brain. Without the spoon, the Pokémon is said to be limited to half the usual amount of its telekinetic powers.",
             "emerald": "It is rumored that a boy with psychic abilities suddenly transformed into Kadabra while he was assisting research into extrasensory powers.",
@@ -2920,7 +3090,7 @@ export const Entries = [
         }
     },
     {
-        "no": "#065",
+        "no": "#0065",
         "name": "Alakazam",
         "entries": {
             "red": "Its brain can outperform a super-computer. Its intelligence quotient is said to be 5,000.",
@@ -2930,7 +3100,8 @@ export const Entries = [
             "gold": "Closing both its eyes heightens all its other senses. This enables it to use its abilities to their extremes.",
             "silver": "Its brain cells multiply continually until it dies. As a result, it remembers everything.",
             "crystal": "It has an IQ of 5000. It calculates many things in order to gain the edge in every battle.",
-            "stadium2": "Closing both its eyes heightens all its other senses. This enables it to use its abilities to their extremes.",
+            "stadium2red": "Closing both its eyes heightens all its other senses. This enables it to use its abilities to their extremes.",
+            "stadium2blue": "Its brain cells multiply continually until it dies. As a result, it remembers everything.",
             "ruby": "Alakazam's brain continually grows, making its head far too heavy to support with its neck. This Pokémon holds its head up using its psychokinetic power instead.",
             "sapphire": "Alakazam's brain continually grows, infinitely multiplying brain cells. This amazing brain gives this Pokémon an astoundingly high IQ of 5,000. It has a thorough memory of everything that has occurred in the world.",
             "emerald": "While it has strong psychic abilities and high intelligence, an Alakazam's muscles are very weak. It uses psychic power to move its body.",
@@ -2963,7 +3134,7 @@ export const Entries = [
         }
     },
     {
-        "no": "#065mega",
+        "no": "#0065mega",
         "name": "Mega Alakazam",
         "entries": {
             "sun": "As a result of Mega Evolution, its power has been entirely converted into psychic energy, and it has lost all strength in its muscles.",
@@ -2975,7 +3146,7 @@ export const Entries = [
         }
     },
     {
-        "no": "#066",
+        "no": "#0066",
         "name": "Machop",
         "entries": {
             "red": "Loves to build its muscles. It trains in all styles of martial arts to become even stronger.",
@@ -2985,7 +3156,8 @@ export const Entries = [
             "gold": "Always brimming with power, it passes time by lifting boulders. Doing so makes it even stronger.",
             "silver": "It loves to work out and build its muscles. It is never satisfied, even if it trains hard all day long.",
             "crystal": "It trains by lifting rocks in the mountains. It can even pick up a Graveler with ease.",
-            "stadium2": "Always brimming with power, it passes time by lifting boulders. Doing so makes it even stronger.",
+            "stadium2red": "Always brimming with power, it passes time by lifting boulders. Doing so makes it even stronger.",
+            "stadium2blue": "It loves to work out and build its muscles. It is never satisfied, even if it trains hard all day long.",
             "ruby": "Machop's muscles are special - they never get sore no matter how much they are used in exercise. This Pokémon has sufficient power to hurl a hundred adult humans.",
             "sapphire": "Machop exercises by hefting around a Graveler as if it were a barbell. There are some Machop that travel the world in a quest to master all kinds of martial arts.",
             "emerald": "It continually undertakes strenuous training to master all forms of martial arts. Its strength lets it easily hoist a sumo wrestler onto its shoulders.",
@@ -3018,7 +3190,7 @@ export const Entries = [
         }
     },
     {
-        "no": "#067",
+        "no": "#0067",
         "name": "Machoke",
         "entries": {
             "red": "Its muscular body is so powerful, it must wear a power save belt to be able to regulate its motions.",
@@ -3028,7 +3200,8 @@ export const Entries = [
             "gold": "It always goes at its full power, but this very tough and durable Pokémon never gets tired.",
             "silver": "The muscles covering its body teem with power. Even when still, it exudes an amazing sense of strength.",
             "crystal": "This tough Pokémon always stays in the zone. Its muscles become thicker after every battle.",
-            "stadium2": "It always goes at its full power, but this very tough and durable Pokémon never gets tired.",
+            "stadium2red": "It always goes at its full power, but this very tough and durable Pokémon never gets tired.",
+            "stadium2blue": "The muscles covering its body teem with power. Even when still, it exudes an amazing sense of strength.",
             "ruby": "Machoke's thoroughly toned muscles possess the hardness of steel. This Pokémon has so much strength, it can easily hold aloft a sumo wrestler on just one finger.",
             "sapphire": "Machoke undertakes bodybuilding every day even as it helps people with tough, physically demanding labor. On its days off, this Pokémon heads to the fields and mountains to exercise and train.",
             "emerald": "A belt is worn by a Machoke to keep its overwhelming power under control. Because it is so dangerous, no one has ever removed the belt.",
@@ -3061,7 +3234,7 @@ export const Entries = [
         }
     },
     {
-        "no": "#068",
+        "no": "#0068",
         "name": "Machamp",
         "entries": {
             "red": "Using its heavy muscles, it throws powerful punches that can send the victim clear over the horizon.",
@@ -3071,7 +3244,8 @@ export const Entries = [
             "gold": "It quickly swings its four arms to rock its opponents with ceaseless punches and chops from all angles.",
             "silver": "It uses its four powerful arms to pin the limbs of its foe, then throws the victim over the horizon.",
             "crystal": "With four arms that react more quickly than it can think, it can execute many punches at once.",
-            "stadium2": "It quickly swings its four arms to rock its opponents with ceaseless punches and chops from all angles.",
+            "stadium2red": "It quickly swings its four arms to rock its opponents with ceaseless punches and chops from all angles.",
+            "stadium2blue": "It uses its four powerful arms to pin the limbs of its foe, then throws the victim over the horizon.",
             "ruby": "Machamp has the power to hurl anything aside. However, trying to do any work requiring care and dexterity causes its arms to get tangled. This Pokémon tends to leap into action before it thinks.",
             "sapphire": "Machamp is known as the Pokémon that has mastered every kind of martial arts. If it grabs hold of the foe with its four arms, the battle is all but over. The hapless foe is thrown far over the horizon.",
             "emerald": "It is impossible to defend against punches and chops doled out by its four arms. Its fighting spirit flares up when it faces a tough opponent.",
@@ -3104,7 +3278,7 @@ export const Entries = [
         }
     },
     {
-        "no": "#068gmax",
+        "no": "#0068gmax",
         "name": "Gigantamax Machamp",
         "entries": {
             "sword": "The Gigantamax energy coursing through its arms makes its punches hit as hard as bomb blasts.",
@@ -3112,7 +3286,7 @@ export const Entries = [
         }
     },
     {
-        "no": "#069",
+        "no": "#0069",
         "name": "Bellsprout",
         "entries": {
             "red": "A carnivorous Pokémon that traps and eats bugs. It uses its root feet to soak up needed moisture.",
@@ -3122,7 +3296,8 @@ export const Entries = [
             "gold": "Even though its body is extremely skinny, it is blindingly fast when catching its prey.",
             "silver": "It plants its feet deep underground to replenish water. It can't escape its enemy while it's rooted.",
             "crystal": "If it notices anything that moves, it immediately flings its vine at the object.",
-            "stadium2": "Even though its body is extremely skinny, it is blindingly fast when catching its prey.",
+            "stadium2red": "Even though its body is extremely skinny, it is blindingly fast when catching its prey.",
+            "stadium2blue": "It plants its feet deep underground to replenish water. It can't escape its enemy while it's rooted.",
             "ruby": "Bellsprout's thin and flexible body lets it bend and sway to avoid any attack, however strong it may be. From its mouth, this POKéMON spits a corrosive fluid that melts even iron.",
             "sapphire": "Bellsprout's thin and flexible body lets it bend and sway to avoid any attack, however strong it may be. From its mouth, this POKéMON spits a corrosive fluid that melts even iron.",
             "emerald": "A Bellsprout's thin and flexible body lets it bend and sway to avoid any attack, however strong it may be. From its mouth, it leaks a fluid that melts even iron.",
@@ -3144,11 +3319,13 @@ export const Entries = [
             "letsGoPikachu": "Prefers hot and humid places. It ensnares tiny bugs with its vines and devours them.",
             "letsGoEevee": "Prefers hot and humid places. It ensnares tiny bugs with its vines and devours them.",
             "brilliantDiamond": "It prefers hot and humid environments. It is quick at capturing prey with its vines.",
-            "shiningPearl": "It prefers hot and humid environments. It is quick at capturing prey with its vines."
+            "shiningPearl": "It prefers hot and humid environments. It is quick at capturing prey with its vines.",
+            "scarlet": "No matter what Bellsprout is doing, if it detects movement nearby, it will immediately react by reaching out with its thin vines.",
+            "violet": "It plants its feet deep underground to rehydrate itself. While doing so, it's unable to run away if it's attacked."
         }
     },
     {
-        "no": "#070",
+        "no": "#0070",
         "name": "Weepinbell",
         "entries": {
             "red": "It spits out PoisonPowder to immobilize the enemy and then finishes it with a spray of Acid.",
@@ -3158,7 +3335,8 @@ export const Entries = [
             "gold": "Even though it is filled with acid, it does not melt because it also oozes a neutralizing fluid.",
             "silver": "If its prey is bigger than its mouth, it slices up the victim with sharp leaves, then eats every morsel.",
             "crystal": "When its hungry, it swings its razor-sharp leaves, slicing up any unlucky object nearby for food.",
-            "stadium2": "Even though it is filled with acid, it does not melt because it also oozes a neutralizing fluid.",
+            "stadium2red": "Even though it is filled with acid, it does not melt because it also oozes a neutralizing fluid.",
+            "stadium2blue": "If its prey is bigger than its mouth, it slices up the victim with sharp leaves, then eats every morsel.",
             "ruby": "Weepinbell has a large hook on its rear end. At night, the Pokémon hooks on to a tree branch and goes to sleep. If it moves around in its sleep, it may wake up to find itself on the ground.",
             "sapphire": "Weepinbell has a large hook on its rear end. At night, the Pokémon hooks on to a tree branch and goes to sleep. If it moves around in its sleep, it may wake up to find itself on the ground.",
             "emerald": "At night, a Weepinbell hangs on to a tree branch with its hooked rear and sleeps. If it moves around in its sleep, it may wake up to find itself on the ground.",
@@ -3180,11 +3358,13 @@ export const Entries = [
             "letsGoPikachu": "When hungry, it swallows anything that moves. Its hapless prey is dissolved by strong acids.",
             "letsGoEevee": "When hungry, it swallows anything that moves. Its hapless prey is dissolved by strong acids.",
             "brilliantDiamond": "This Pokémon has the appearance of a plant. It captures unwary prey by dousing them with a toxic powder.",
-            "shiningPearl": "This Pokémon has the appearance of a plant. It captures unwary prey by dousing them with a toxic powder."
+            "shiningPearl": "This Pokémon has the appearance of a plant. It captures unwary prey by dousing them with a toxic powder.",
+            "scarlet": "Even though it is filled with acid, it does not melt because it also oozes a protective fluid.",
+            "violet": "The leafy parts act as cutters for slashing foes. It spits a fluid that dissolves everything."
         }
     },
     {
-        "no": "#071",
+        "no": "#0071",
         "name": "Victreebel",
         "entries": {
             "red": "Said to live in huge colonies deep in jungles, although no one has ever returned from there.",
@@ -3194,7 +3374,8 @@ export const Entries = [
             "gold": "Acid that has dissolved many prey becomes sweeter, making it even more effective at attracting prey.",
             "silver": "This horrifying plant Pokémon attracts prey with aromatic honey, then melts them in its mouth.",
             "crystal": "Once ingested into this Pokémon's body, even the hardest object will melt into nothing.",
-            "stadium2": "Acid that has dissolved many prey becomes sweeter, making it even more effective at attracting prey.",
+            "stadium2red": "Acid that has dissolved many prey becomes sweeter, making it even more effective at attracting prey.",
+            "stadium2blue": "This horrifying plant Pokémon attracts prey with aromatic honey, then melts them in its mouth.",
             "ruby": "Victreebel has a long vine that extends from its head. This vine is waved and flicked about as if it were an animal to attract prey. When an unsuspecting prey draws near, this Pokémon swallows it whole.",
             "sapphire": "Victreebel has a long vine that extends from its head. This vine is waved and flicked about as if it were an animal to attract prey. When an unsuspecting prey draws near, this Pokémon swallows it whole.",
             "emerald": "The long vine extending from its head is waved about as if it were a living thing to attract prey. When an unsuspecting victim approaches, it is swallowed whole.",
@@ -3216,11 +3397,13 @@ export const Entries = [
             "letsGoPikachu": "Lures prey with the sweet aroma of honey. Swallowed whole, the prey is dissolved in a day, bones and all.",
             "letsGoEevee": "Lures prey with the sweet aroma of honey. Swallowed whole, the prey is dissolved in a day, bones and all.",
             "brilliantDiamond": "In its mouth, it pools a fragrant nectar-like fluid. The fluid is really an acid that dissolves anything.",
-            "shiningPearl": "In its mouth, it pools a fragrant nectar-like fluid. The fluid is really an acid that dissolves anything."
+            "shiningPearl": "In its mouth, it pools a fragrant nectar-like fluid. The fluid is really an acid that dissolves anything.",
+            "scarlet": "It lures prey into its mouth with a nectar-like aroma. The helpless prey is melted with a dissolving fluid.",
+            "violet": "After dissolving many prey, this Pokémon's acid becomes sweeter. This makes it even easier to attract more prey."
         }
     },
     {
-        "no": "#072",
+        "no": "#0072",
         "name": "Tentacool",
         "entries": {
             "red": "Drifts in shallow seas. Anglers who hook them by accident are often punished by its stinging acid.",
@@ -3230,7 +3413,8 @@ export const Entries = [
             "gold": "When the tide goes out, dehydrated Tentacool remains can be found washed up on the shore.",
             "silver": "It drifts aimlessly in waves. Very difficult to see in water, it may not be noticed until it stings.",
             "crystal": "As it floats along on the waves, it uses its toxic feelers to stab anything it touches.",
-            "stadium2": "When the tide goes out, dehydrated Tentacool remains can be found washed up on the shore.",
+            "stadium2red": "When the tide goes out, dehydrated Tentacool remains can be found washed up on the shore.",
+            "stadium2blue": "It drifts aimlessly in waves. Very difficult to see in water, it may not be noticed until it stings.",
             "ruby": "Tentacool's body is largely composed of water. If it is removed from the sea, it dries up like parchment. If this Pokémon happens to become dehydrated, put it back into the sea.",
             "sapphire": "Tentacool absorbs sunlight and refracts it using water inside its body to convert it into beam energy. This Pokémon shoots beams from its crystal-like eyes.",
             "emerald": "Its body is almost entirely composed of water. It ensnares its foe with its two long tentacles, then stabs with the poison stingers at their tips.",
@@ -3259,11 +3443,13 @@ export const Entries = [
             "shield": "This Pokémon is mostly made of water. A Tentacool out in the ocean is very hard to spot, because its body blends in with the sea.",
             "brilliantDiamond": "Its body is mostly composed of water. It shoots strange beams from its crystal-like eyes.",
             "shiningPearl": "It drifts in sea currents. Countless fishers are hurt by its poison stingers.",
-            "legendsArceus": "They fire beams from the glassy, magenta orbs that resemble eyes atop their heads, and they drift in shallow seas. During low tide, they can sometimes be found on beaches, desiccated."
+            "legendsArceus": "They fire beams from the glassy, magenta orbs that resemble eyes atop their heads, and they drift in shallow seas. During low tide, they can sometimes be found on beaches, desiccated.",
+            "scarlet": "When the tide goes out, dehydrated Tentacool can be found left behind on the shore.",
+            "violet": "Its eyes are as transparent as crystals. From them, it shoots mysterious beams of light."
         }
     },
     {
-        "no": "#073",
+        "no": "#0073",
         "name": "Tentacruel",
         "entries": {
             "red": "The tentacles are normally kept short. On hunts, they are extended to ensnare and immobilize prey.",
@@ -3273,7 +3459,8 @@ export const Entries = [
             "gold": "Its 80 tentacles absorb water and stretch almost endlessly to constrict its prey and enemies.",
             "silver": "In battle, it extends all 80 of its tentacles to entrap its opponent inside a poisonous net.",
             "crystal": "When its 80 feelers absorb water, it stretches to become like a net to entangle its prey.",
-            "stadium2": "Its 80 tentacles absorb water and stretch almost endlessly to constrict its prey and enemies.",
+            "stadium2red": "Its 80 tentacles absorb water and stretch almost endlessly to constrict its prey and enemies.",
+            "stadium2blue": "In battle, it extends all 80 of its tentacles to entrap its opponent inside a poisonous net.",
             "ruby": "Tentacruel has large red orbs on its head. The orbs glow before lashing the vicinity with a harsh ultrasonic blast. This Pokémon's outburst causes rough waves around it.",
             "sapphire": "Tentacruel has tentacles that can be freely elongated and shortened at will. It ensnares prey with its tentacles and weakens the prey by dosing it with a harsh toxin. It can catch up to 80 prey at the same time.",
             "emerald": "It lives in complex rock formations on the ocean floor and traps prey using its 80 tentacles. Its red orbs glow when it grows excited or agitated.",
@@ -3302,11 +3489,13 @@ export const Entries = [
             "shield": "Its 80 tentacles can stretch and shrink freely. Tentacruel ensnares prey in a net of spread-out tentacles, delivering venomous stings to its catch.",
             "brilliantDiamond": "With 80 tentacles for ensnaring victims, it prevents escape until the prey is weakened by poison.",
             "shiningPearl": "It alerts others to danger by stridently flashing the red orbs on its head.",
-            "legendsArceus": "It has 80 tentacles, each with a venomous tip. These tentacles are also extendible, lengthening when Tentacruel attempts to catch prey. Use caution."
+            "legendsArceus": "It has 80 tentacles, each with a venomous tip. These tentacles are also extendible, lengthening when Tentacruel attempts to catch prey. Use caution.",
+            "scarlet": "On the rare occasions that large outbreaks of Tentacruel occur, all fish Pokémon disappear from the surrounding sea.",
+            "violet": "In battle, it extends all 80 of its tentacles to entrap its opponent inside a poisonous net."
         }
     },
     {
-        "no": "#074",
+        "no": "#0074",
         "name": "Geodude",
         "entries": {
             "red": "Found in fields and mountains. Mistaking them for boulders, people often step or trip on them.",
@@ -3316,7 +3505,8 @@ export const Entries = [
             "gold": "Most people may not notice, but a closer look should reveal that there are many Geodude around.",
             "silver": "It uses its arms to steadily climb steep mountain paths. It swings its fists around if angered.",
             "crystal": "Proud of their sturdy bodies, they bash against each other in a contest to prove whose is harder.",
-            "stadium2": "Most people may not notice, but a closer look should reveal that there are many Geodude around.",
+            "stadium2red": "Most people may not notice, but a closer look should reveal that there are many Geodude around.",
+            "stadium2blue": "It uses its arms to steadily climb steep mountain paths. It swings its fists around if angered.",
             "ruby": "The longer a Geodude lives, the more its edges are chipped and worn away, making it more rounded in appearance. However, this Pokémon's heart will remain hard, craggy, and rough always.",
             "sapphire": "When Geodude sleeps deeply, it buries itself halfway into the ground. It will not awaken even if hikers step on it unwittingly. In the morning, this Pokémon rolls downhill in search of food.",
             "emerald": "It climbs mountain paths using only the power of its arms. Because they look just like boulders lining paths, hikers may step on them without noticing.",
@@ -3343,11 +3533,13 @@ export const Entries = [
             "letsGoEevee": "Commonly found near mountain trails and the like. If you step on one by accident, it gets angry.",
             "brilliantDiamond": "Many live on mountain trails and remain half-buried while keeping an eye on climbers.",
             "shiningPearl": "It is impossible to distinguish from rocks. It slams against others in contests of toughness.",
-            "legendsArceus": "Makes its home in mountainous regions, using its arms to climb along harsh mountain roads. Can be troublesome—carelessly kicking one will cause it to fly into a rage and chase after you."
+            "legendsArceus": "Makes its home in mountainous regions, using its arms to climb along harsh mountain roads. Can be troublesome—carelessly kicking one will cause it to fly into a rage and chase after you.",
+            "scarlet": "At rest, it looks just like a rock. Carelessly stepping on it will make it swing its fists angrily.",
+            "violet": "Most people may not notice, but a closer look should reveal that there are many Geodude around."
         }
     },
     {
-        "no": "#074alola",
+        "no": "#0074alola",
         "name": "Alolan Geodude",
         "entries": {
             "sun": "Its body is a magnetic stone. Iron sand attaches firmly to the portions of its body that are particularly magnetic.",
@@ -3355,11 +3547,13 @@ export const Entries = [
             "ultraSun": "If you mistake it for a rock and step on it, it will headbutt you in anger. In addition to the pain, it will also zap you with a shock.",
             "ultraMoon": "Geodude compete against each other with headbutts. The iron sand on their heads will stick to whichever one has stronger magnetism.",
             "letsGoPikachu": "Its stone head is imbued with electricity and magnetism. If you carelessly step on one, you'll be in for a painful shock.",
-            "letsGoEevee": "Its stone head is imbued with electricity and magnetism. If you carelessly step on one, you'll be in for a painful shock."
+            "letsGoEevee": "Its stone head is imbued with electricity and magnetism. If you carelessly step on one, you'll be in for a painful shock.",
+            "scarlet": "Its body is a magnetic stone. Iron sand attaches firmly to the portions of its body that are particularly magnetic.",
+            "violet": "If you step on a Geodude sleeping on the ground, you’ll hear a zapping sound and feel a tingling shock throughout your entire body."
         }
     },
     {
-        "no": "#075",
+        "no": "#0075",
         "name": "Graveler",
         "entries": {
             "red": "Rolls down slopes to move. It rolls over any obstacle without slowing or changing its direction.",
@@ -3369,7 +3563,8 @@ export const Entries = [
             "gold": "With a free and uncaring nature, it doesn't mind if pieces break off while it rolls down mountains.",
             "silver": "A slow walker, it rolls to move. It pays no attention to any object that happens to be in its path.",
             "crystal": "It travels by rolling on mountain paths. If it gains too much speed, it stops by running into huge rocks.",
-            "stadium2": "With a free and uncaring nature, it doesn't mind if pieces break off while it rolls down mountains.",
+            "stadium2red": "With a free and uncaring nature, it doesn't mind if pieces break off while it rolls down mountains.",
+            "stadium2blue": "A slow walker, it rolls to move. It pays no attention to any object that happens to be in its path.",
             "ruby": "Graveler grows by feeding on rocks. Apparently, it prefers to eat rocks that are covered in moss. This Pokémon eats it way through a ton of rocks on a daily basis.",
             "sapphire": "Rocks are Graveler's favorite food. This Pokémon will climb a mountain from the base to the summit, crunchingly feasting on rocks all the while. Upon reaching the peak, it rolls back down to the bottom.",
             "emerald": "They descend from mountains by tumbling down steep slopes. They are so brutal, they smash aside obstructing trees and massive boulders with thunderous tackles.",
@@ -3396,11 +3591,13 @@ export const Entries = [
             "letsGoEevee": "Often seen rolling down mountain trails. Obstacles are just things to roll straight over, not avoid.",
             "brilliantDiamond": "Graveler make their homes on sheer cliff faces that have numerous holes in them.",
             "shiningPearl": "It tumbles down slopes, heedless of any body parts chipping off. It eats a ton of rocks daily.",
-            "legendsArceus": "Dwells in holes dug into sheer walls of stone. It enjoys rolling down slopes as though it were a boulder during a rockfall, so keep an eye upward while traversing mountain roads."
+            "legendsArceus": "Dwells in holes dug into sheer walls of stone. It enjoys rolling down slopes as though it were a boulder during a rockfall, so keep an eye upward while traversing mountain roads.",
+            "scarlet": "A slow walker, it rolls to move. It pays no attention to any object that happens to be in its path.",
+            "violet": "Moss-covered rocks are Graveler's favorite food. It consumes over a ton of them a day, crunching loudly while it eats."
         }
     },
     {
-        "no": "#075alola",
+        "no": "#0075alola",
         "name": "Alolan Graveler",
         "entries": {
             "sun": "Its preferred food is dravite. After it has eaten this mineral, crystals form inside the Pokémon, rising to the surface of part of its body.",
@@ -3408,11 +3605,13 @@ export const Entries = [
             "ultraSun": "When two Graveler fight each other, it fills the surroundings with flashes of light and sound. People call it the “fireworks of the earth.”",
             "ultraMoon": "Graveler's entire body is tinged with electricity due to the stones it likes to eat. It's very quick-tempered.",
             "letsGoPikachu": "When it comes rolling down a mountain path, anything in its way gets zapped by electricity and sent flying.",
-            "letsGoEevee": "When it comes rolling down a mountain path, anything in its way gets zapped by electricity and sent flying."
+            "letsGoEevee": "When it comes rolling down a mountain path, anything in its way gets zapped by electricity and sent flying.",
+            "scarlet": "They eat rocks and often get into a scrap over them. The impact of Graveler smashing together causes a flash of light and a booming noise.",
+            "violet": "Graveler’s entire body is electrically charged due to the stones it likes to eat. It is a very quick-tempered Pokémon."
         }
     },
     {
-        "no": "#076",
+        "no": "#0076",
         "name": "Golem",
         "entries": {
             "red": "Its boulder-like body is extremely hard. It can easily withstand dynamite blasts without damage.",
@@ -3422,7 +3621,8 @@ export const Entries = [
             "gold": "It sheds its skin once a year. The discarded shell immediately hardens and crumbles away.",
             "silver": "It is capable of blowing itself up. It uses this explosive force to jump from mountain to mountain.",
             "crystal": "Its rock-like body is so durable, even high-powered dynamite blasts fail to scratch its rugged hide.",
-            "stadium2": "It sheds its skin once a year. the discarded shell immediately hardens and crumbles away.",
+            "stadium2red": "It sheds its skin once a year. the discarded shell immediately hardens and crumbles away.",
+            "stadium2blue": "It is capable of blowing itself up. It uses this explosive force to jump from mountain to mountain.",
             "ruby": "Golem live up on mountains. If there is a large earthquake, these Pokémon will come rolling down off the mountains en masse to the foothills below.",
             "sapphire": "Golem is known for rolling down from mountains. To prevent them from rolling into the homes of people downhill, grooves have been dug into the sides of mountains to serve as guideways for diverting this Pokémon's course.",
             "emerald": "It is said to live in volcanic craters on mountain peaks. Once a year, it sheds its hide and grows larger. The shed hide crumbles and returns to the soil.",
@@ -3449,11 +3649,13 @@ export const Entries = [
             "letsGoEevee": "Once it sheds its skin, its body turns tender and whitish. Its hide hardens when it's exposed to air.",
             "brilliantDiamond": "It sheds its hide once a year. Its boulder-like body is so tough, even dynamite can't harm it.",
             "shiningPearl": "It tumbles down mountains, leaving grooves from peak to base. Stay clear of these grooves.",
-            "legendsArceus": "The rocklike shell is shed each year. The cast-off shell then crumbles, reverting to a mass of soil, which can be spread across fields to promote crop growth."
+            "legendsArceus": "The rocklike shell is shed each year. The cast-off shell then crumbles, reverting to a mass of soil, which can be spread across fields to promote crop growth.",
+            "scarlet": "It is enclosed in a hard shell that is as rugged as slabs of rock. It sheds skin once a year to grow larger.",
+            "violet": "It deliberately blows itself up, then uses this explosive force to jump from mountain to mountain."
         }
     },
     {
-        "no": "#076alola",
+        "no": "#0076alola",
         "name": "Alolan Golem",
         "entries": {
             "sun": "It fires rocks charged with electricity. Even if the rock isn't fired that accurately, just grazing an opponent will cause numbness and fainting.",
@@ -3461,11 +3663,13 @@ export const Entries = [
             "ultraSun": "It's grumpy and stubborn. If you upset it, it discharges electricity from the surface of its body and growls with a voice like thunder.",
             "ultraMoon": "It shoots large rocks that are charged with electricity. Tremendous electric shocks are flung out across the whole area of impact.",
             "letsGoPikachu": "It uses magnetism to accelerate and fire off rocks tinged with electricity. Even if it doesn't score a direct hit, the jolt of electricity will do the job.",
-            "letsGoEevee": "It uses magnetism to accelerate and fire off rocks tinged with electricity. Even if it doesn't score a direct hit, the jolt of electricity will do the job."
+            "letsGoEevee": "It uses magnetism to accelerate and fire off rocks tinged with electricity. Even if it doesn't score a direct hit, the jolt of electricity will do the job.",
+            "scarlet": "It’s grumpy and stubborn. If you upset it, it discharges electricity from the surface of its body and growls with a voice like thunder.",
+            "violet": "It fires rocks charged with electricity. Even if the rock isn’t fired that accurately, just grazing an opponent will cause numbness and fainting."
         }
     },
     {
-        "no": "#077",
+        "no": "#0077",
         "name": "Ponyta",
         "entries": {
             "red": "Its hooves are 10 times harder than diamonds. It can trample anything completely flat in little time.",
@@ -3475,7 +3679,8 @@ export const Entries = [
             "gold": "It is a weak runner immediately after birth. It gradually becomes faster by chasing after its parents.",
             "silver": "Its hind legs, which have harder-than-diamond hooves, kick back at any presence it senses behind it.",
             "crystal": "Training by jumping over grass that grows longer every day has made it a world-class jumper.",
-            "stadium2": "It is a weak runner immediately after birth. It gradually becomes faster by chasing after its parents.",
+            "stadium2red": "It is a weak runner immediately after birth. It gradually becomes faster by chasing after its parents.",
+            "stadium2blue": "Its hind legs, which have harder-than-diamond hooves, kick back at any presence it senses behind it.",
             "ruby": "Ponyta is very weak at birth. It can barely stand up. This Pokémon becomes stronger by stumbling and falling to keep up with its parent.",
             "sapphire": "Ponyta is very weak at birth. It can barely stand up. This Pokémon becomes stronger by stumbling and falling to keep up with its parent.",
             "emerald": "A Ponyta is very weak at birth. It can barely stand up. Its legs become stronger as it stumbles and falls while trying to keep up with its parent.",
@@ -3504,7 +3709,7 @@ export const Entries = [
         }
     },
     {
-        "no": "#077galar",
+        "no": "#0077galar",
         "name": "Galarian Ponyta",
         "entries": {
             "sword": "Its small horn hides a healing power. With a few rubs from this Pokémon's horn, any slight wound you have will be healed.",
@@ -3512,7 +3717,7 @@ export const Entries = [
         }
     },
     {
-        "no": "#078",
+        "no": "#0078",
         "name": "Rapidash",
         "entries": {
             "red": "Very competitive, this Pokémon will chase anything that moves fast in the hopes of racing it.",
@@ -3522,7 +3727,8 @@ export const Entries = [
             "gold": "At full gallop, its four hooves barely touch the ground because it moves so incredibly fast.",
             "silver": "With incredible acceleration, it reaches its top speed of 150 mph after running just ten steps.",
             "crystal": "It just loves to gallop. The faster it goes, the longer the swaying flames of its mane will become.",
-            "stadium2": "At full gallop, its four hooves barely touch the ground because it moves so incredibly fast.",
+            "stadium2red": "At full gallop, its four hooves barely touch the ground because it moves so incredibly fast.",
+            "stadium2blue": "With incredible acceleration, it reaches its top speed of 150 mph after running just ten steps.",
             "ruby": "Rapidash usually can be seen casually cantering in the fields and plains. However, when this Pokémon turns serious, its fiery manes flare and blaze as it gallops its way up to 150 mph.",
             "sapphire": "Rapidash usually can be seen casually cantering in the fields and plains. However, when this Pokémon turns serious, its fiery manes flare and blaze as it gallops its way up to 150 mph.",
             "emerald": "It usually canters casually in the fields and plains. But once a Rapidash turns serious, its fiery manes flare and blaze as it gallops its way up to 150 mph.",
@@ -3551,7 +3757,7 @@ export const Entries = [
         }
     },
     {
-        "no": "#078galar",
+        "no": "#0078galar",
         "name": "Galarian Rapidash",
         "entries": {
             "sword": "Little can stand up to its psycho cut. Unleashed from this Pokémon's horn, the move will punch a hole right through a thick metal sheet.",
@@ -3559,7 +3765,7 @@ export const Entries = [
         }
     },
     {
-        "no": "#079",
+        "no": "#0079",
         "name": "Slowpoke",
         "entries": {
             "red": "Incredibly slow and dopey. It takes 5 seconds for it to feel pain when under attack.",
@@ -3569,7 +3775,8 @@ export const Entries = [
             "gold": "It lazes vacantly near water. If something bites its tail, it won't even notice for a whole day.",
             "silver": "A sweet sap leaks from its tail's tip. Although not nutritious, the tail is pleasant to chew on.",
             "crystal": "It is always so absent-minded that it won't react, even if its flavorful tail is bitten.",
-            "stadium2": "It lazes vacantly near water. If something bites its tail, it won't even notice for a whole day.",
+            "stadium2red": "It lazes vacantly near water. If something bites its tail, it won't even notice for a whole day.",
+            "stadium2blue": "A sweet sap leaks from its tail's tip. Although not nutritious, the tail is pleasant to chew on.",
             "ruby": "Slowpoke uses its tail to catch prey by dipping it in water at the side of a river. However, this Pokémon often forgets what it's doing and often spends entire days just loafing at water's edge.",
             "sapphire": "Slowpoke uses its tail to catch prey by dipping it in water at the side of a river. However, this Pokémon often forgets what it's doing and often spends entire days just loafing at water's edge.",
             "emerald": "It catches prey by dipping its tail in water at the side of a river. But it often forgets what it is doing and spends entire days just loafing at water's edge.",
@@ -3597,19 +3804,23 @@ export const Entries = [
             "sword": "Slow-witted and oblivious, this Pokémon won't feel any pain if its tail gets eaten. It won't notice when its tail grows back, either.",
             "shield": "When this Pokémon's tail is soaked in water, sweetness seeps from it. Slowpoke uses this trait to lure in and fish up other Pokémon.",
             "brilliantDiamond": "Although slow, it is skilled at fishing with its tail. It does not feel pain if its tail is bitten.",
-            "shiningPearl": "Although slow, it is skilled at fishing with its tail. It does not feel pain if its tail is bitten."
+            "shiningPearl": "Although slow, it is skilled at fishing with its tail. It does not feel pain if its tail is bitten.",
+            "scarlet": "It is incredibly slow and dopey. It takes five seconds for it to feel pain when under attack.",
+            "violet": "It is always vacantly lost in thought, but no one knows what it is thinking about. It is good at fishing with its tail."
         }
     },
     {
-        "no": "#079galar",
+        "no": "#0079galar",
         "name": "Galarian Slowpoke",
         "entries": {
             "sword": "Although this Pokémon is normally zoned out, its expression abruptly sharpens on occasion. The cause for this seems to lie in Slowpoke's diet.",
-            "shield": "Because Galarian Slowpoke eat the seeds of a plant that grows only in Galar, their tails have developed a spicy flavor."
+            "shield": "Because Galarian Slowpoke eat the seeds of a plant that grows only in Galar, their tails have developed a spicy flavor.",
+            "scarlet": "It gives off a stimulating scent because of chemicals that have seeped into its body from the spice that it eats as its staple food.",
+            "violet": "It uses its tail to fish, but the scent of the spice emanating from its tail ensures its catches are always lacking."
         }
     },
     {
-        "no": "#080",
+        "no": "#0080",
         "name": "Slowbro",
         "entries": {
             "red": "The Shellder that is latched onto Slowpoke's tail is said to feed on the host's left over scraps.",
@@ -3619,7 +3830,8 @@ export const Entries = [
             "gold": "If the tail-biting Shellder is thrown off in a harsh battle, it reverts to being an ordinary Slowpoke.",
             "silver": "Naturally dull to begin with, it lost its ability to feel pain due to Shellder's seeping poison.",
             "crystal": "An attached Shellder won't let go because of the tasty flavor that oozes out of its tail.",
-            "stadium2": "If the tail-biting Shellder is thrown off in a harsh battle, it reverts to being an ordinary Slowpoke.",
+            "stadium2red": "If the tail-biting Shellder is thrown off in a harsh battle, it reverts to being an ordinary Slowpoke.",
+            "stadium2blue": "Naturally dull to begin with, it lost its ability to feel pain due to Shellder's seeping poison.",
             "ruby": "Slowbro's tail has a Shellder firmly attached with a bite. As a result, the tail can't be used for fishing anymore. This causes Slowbro to grudgingly swim and catch prey instead.",
             "sapphire": "Slowbro's tail has a Shellder firmly attached with a bite. As a result, the tail can't be used for fishing anymore. This causes Slowbro to grudgingly swim and catch prey instead.",
             "emerald": "Its tail has a Shellder firmly attached with a bite. As a result, the tail can't be used for fishing anymore. This forces it to reluctantly swim and catch prey.",
@@ -3647,11 +3859,13 @@ export const Entries = [
             "sword": "Slowpoke became Slowbro when a Shellder bit on to its tail. Sweet flavors seeping from the tail make the Shellder feel as if its life is a dream.",
             "shield": "Being bitten by a Shellder shocked this Pokémon into standing on two legs. If the Shellder lets go, it seems Slowbro will turn back into a Slowpoke.",
             "brilliantDiamond": "Though usually dim-witted, it seems to become inspired if the Shellder on its tail bites down.",
-            "shiningPearl": "Though usually dim-witted, it seems to become inspired if the Shellder on its tail bites down."
+            "shiningPearl": "Though usually dim-witted, it seems to become inspired if the Shellder on its tail bites down.",
+            "scarlet": "When a Slowpoke went hunting in the sea, its tail was bitten by a Shellder. That made it evolve into Slowbro.",
+            "violet": "If the tail-biting Shellder is thrown off in a harsh battle, this Pokémon reverts to being an ordinary Slowpoke."
         }
     },
     {
-        "no": "#080mega",
+        "no": "#0080mega",
         "name": "Mega Slowbro",
         "entries": {
             "sun": "All the energy from Mega Evolution poured into the Shellder on its tail, leaving Slowpoke to be swallowed whole.",
@@ -3663,15 +3877,17 @@ export const Entries = [
         }
     },
     {
-        "no": "#080galar",
+        "no": "#0080galar",
         "name": "Galarian Slowbro",
         "entries": {
             "sword": "A Shellder bite set off a chemical reaction with the spices inside Slowbro's body, causing Slowbro to become a Poison-type Pokémon.",
-            "shield": "If this Pokémon squeezes the tongue of the Shellder biting it, the Shellder will launch a toxic liquid from the tip of its shell."
+            "shield": "If this Pokémon squeezes the tongue of the Shellder biting it, the Shellder will launch a toxic liquid from the tip of its shell.",
+            "scarlet": "Shellder seems blissful over the taste of Slowbro even though the toxins seeping from the bite have caused Shellder to faint.",
+            "violet": "Shellder bites down hard on Slowbro’s arm to suck out more poison. This seems to cause itching, so Slowbro occasionally lashes out."
         }
     },
     {
-        "no": "#081",
+        "no": "#0081",
         "name": "Magnemite",
         "entries": {
             "red": "Uses anti-gravity to stay suspended. Appears without warning and uses Thunder Wave and similar moves.",
@@ -3681,7 +3897,8 @@ export const Entries = [
             "gold": "It is attracted by electromagnetic waves. It may approach trainers if they are using their Pokégear.",
             "silver": "The units at the sides of its body generate anti-gravity energy to keep it aloft in the air.",
             "crystal": "The electricity emitted by the units on each side of its body cause it to become a strong magnet.",
-            "stadium2": "It is attracted by electromagnetic waves. It may approach trainers if they are using their Pokégear.",
+            "stadium2red": "It is attracted by electromagnetic waves. It may approach trainers if they are using their Pokégear.",
+            "stadium2blue": "The units at the sides of its body generate anti-gravity energy to keep it aloft in the air.",
             "ruby": "Magnemite attaches itself to power lines to feed on electricity. If your house has a power outage, check your circuit breakers. You may find a large number of this Pokémon clinging to the breaker box.",
             "sapphire": "Magnemite floats in the air by emitting electromagnetic waves from the units at its sides. These waves block gravity. This Pokémon becomes incapable of flight if its internal electrical supply is depleted.",
             "emerald": "The units at its sides are extremely powerful magnets. They generate enough magnetism to draw in iron objects from over 300 feet away.",
@@ -3710,11 +3927,13 @@ export const Entries = [
             "shield": "It subsists on electricity. As Magnemite flies, it emits electromagnetic waves from the units on each side of its body.",
             "brilliantDiamond": "The units at its sides generate electromagnetic waves that keep it airborne. It feeds on electricity.",
             "shiningPearl": "The units at its sides generate electromagnetic waves that keep it airborne. It feeds on electricity.",
-            "legendsArceus": "A bizarre Pokémon with but a single eye embedded in an iron sphere. I suspect this creature levitates due to the magnetism it emits from its arms, which resemble horseshoe-shaped magnets."
+            "legendsArceus": "A bizarre Pokémon with but a single eye embedded in an iron sphere. I suspect this creature levitates due to the magnetism it emits from its arms, which resemble horseshoe-shaped magnets.",
+            "scarlet": "The electromagnetic waves emitted by the units at the sides of its head expel antigravity, which allows it to float.",
+            "violet": "It moves while constantly hovering. It discharges electromagnetic waves and so on from the units at its sides."
         }
     },
     {
-        "no": "#082",
+        "no": "#0082",
         "name": "Magneton",
         "entries": {
             "red": "Formed by several Magnemites linked together. They frequently appear when sunspots flare up.",
@@ -3724,7 +3943,8 @@ export const Entries = [
             "gold": "Three Magnemite are linked by a strong magnetic force. Earaches will occur if you get too close.",
             "silver": "The Magnemite are united by a magnetism so powerful, it dries all moisture in its vicinities.",
             "crystal": "When many Magneton gather together, the resulting magnetic storm disrupts radio waves.",
-            "stadium2": "Three Magnemite are linked by a strong magnetic force. Earaches will occur if you get too close.",
+            "stadium2red": "Three Magnemite are linked by a strong magnetic force. Earaches will occur if you get too close.",
+            "stadium2blue": "The Magnemite are united by a magnetism so powerful, it dries all moisture in their vicinity.",
             "ruby": "Magneton emits a powerful magnetic force that is fatal to mechanical devices. As a result, large cities sound sirens to warn citizens of large-scale outbreaks of this Pokémon.",
             "sapphire": "Magneton emits a powerful magnetic force that is fatal to electronics and precision instruments. Because of this, it is said that some towns warn people to keep this Pokémon inside a Poké Ball.",
             "emerald": "It is actually three Magnemite linked by magnetism. It generates powerful radio waves that raise temperatures by 3.6 degrees F within a 3,300-foot radius.",
@@ -3753,11 +3973,13 @@ export const Entries = [
             "shield": "This Pokémon is constantly putting out a powerful magnetic force. Most computers go haywire when a Magneton approaches.",
             "brilliantDiamond": "A Magneton is actually three Magnemite linked by magnetism. A group of these Pokémon can set off a magnetic storm.",
             "shiningPearl": "A Magneton is actually three Magnemite linked by magnetism. A group of these Pokémon can set off a magnetic storm.",
-            "legendsArceus": "Three Magnemite gathered to evolve into this Pokémon. The source of much vexation on my part, as its powerful magnetism destroys my research equipment."
+            "legendsArceus": "Three Magnemite gathered to evolve into this Pokémon. The source of much vexation on my part, as its powerful magnetism destroys my research equipment.",
+            "scarlet": "Three Magnemite are linked by a strong magnetic force. Earaches will occur if you get too close.",
+            "violet": "They're formed by several Magnemite linked together. They frequently appear when sunspots flare up."
         }
     },
     {
-        "no": "#083",
+        "no": "#0083",
         "name": "Farfetch'd",
         "entries": {
             "red": "The sprig of green onions it holds is its weapon. It is used much like a metal sword.",
@@ -3767,7 +3989,8 @@ export const Entries = [
             "gold": "If anyone tries to disturb where the essential plant sticks grow, it uses its own stick to thwart them.",
             "silver": "If it eats the plant stick it carries as emergency rations, it runs off in search of a new stick.",
             "crystal": "In order to prevent their extinction, more people have made an effort to breed these Pokémon.",
-            "stadium2": "If anyone tries to disturb where the essential plant sticks grow, it uses its own stick to thwart them.",
+            "stadium2red": "If anyone tries to disturb where the essential plant sticks grow, it uses its own stick to thwart them.",
+            "stadium2blue": "If it eats the plant stick it carries as emergency rations, it runs off in search of a new stick.",
             "ruby": "Farfetch'd is always seen with a stick from a plant of some sort. Apparently, there are good sticks and bad sticks. This Pokémon has been known to fight with others over sticks.",
             "sapphire": "Farfetch'd is always seen with a stick from a plant of some sort. Apparently, there are good sticks and bad sticks. This Pokémon has been known to fight with others over sticks.",
             "emerald": "It is always seen with a stick from a plant. Apparently, there are good sticks and bad sticks. This Pokémon occasionally fights with others over choice sticks.",
@@ -3795,7 +4018,7 @@ export const Entries = [
         }
     },
     {
-        "no": "#083galar",
+        "no": "#0083galar",
         "name": "Galarian Farfetch'd",
         "entries": {
             "sword": "The Farfetch'd of the Galar region are brave warriors, and they wield thick, tough leeks in battle.",
@@ -3803,7 +4026,7 @@ export const Entries = [
         }
     },
     {
-        "no": "#084",
+        "no": "#0084",
         "name": "Doduo",
         "entries": {
             "red": "A bird that makes up for its poor flying with its fast foot speed. Leaves giant footprints.",
@@ -3813,7 +4036,8 @@ export const Entries = [
             "gold": "By alternately raising and lowering its two heads, it balances itself to be more stable while running.",
             "silver": "It races through grassy plains with powerful strides, leaving footprints up to four inches deep.",
             "crystal": "It lives on a grassy plain where it can see a long way. If it sees an enemy, it runs away at 60 mph.",
-            "stadium2": "By alternately raising and lowering its two heads, it balances itself to be more stable while running.",
+            "stadium2red": "By alternately raising and lowering its two heads, it balances itself to be more stable while running.",
+            "stadium2blue": "It races through grassy plains with powerful strides, leaving foot prints up to four inches deep.",
             "ruby": "Doduo's two heads never sleep at the same time. Its two heads take turns sleeping, so one head can always keep watch for enemies while the other one sleeps.",
             "sapphire": "Doduo's two heads contain completely identical brains. A scientific study reported that on rare occasions, there will be examples of this Pokémon possessing different sets of brains.",
             "emerald": "Even while eating or sleeping, one of the heads remains always vigilant for any sign of danger. When threatened, it flees at over 60 miles per hour.",
@@ -3835,11 +4059,13 @@ export const Entries = [
             "letsGoPikachu": "Its short wings make flying difficult. Instead, this Pokémon runs at high speed on developed legs.",
             "letsGoEevee": "Its short wings make flying difficult. Instead, this Pokémon runs at high speed on developed legs.",
             "brilliantDiamond": "The brains in its two heads appear to communicate emotions to each other with a telepathic power.",
-            "shiningPearl": "The brains in its two heads appear to communicate emotions to each other with a telepathic power."
+            "shiningPearl": "The brains in its two heads appear to communicate emotions to each other with a telepathic power.",
+            "scarlet": "Its twin heads have exactly the same genes and battle in perfect sync with each other.",
+            "violet": "Its heads never sleep at the same time—each one takes a turn keeping watch while the other sleeps, switching every hour or so."
         }
     },
     {
-        "no": "#085",
+        "no": "#0085",
         "name": "Dodrio",
         "entries": {
             "red": "Uses its three brains to execute complex plans. While two heads sleep, one head stays awake.",
@@ -3849,7 +4075,8 @@ export const Entries = [
             "gold": "It collects data and plans three times as wisely, but it may think too much and become immobilized.",
             "silver": "If one of the heads gets to eat, the others will be satisfied, too, and they will stop squabbling.",
             "crystal": "An enemy that takes its eyes off any of the three heads—even for a second—will get pecked severely.",
-            "stadium2": "It collects data and plans three times as wisely, but it may think too much and become immobilized.",
+            "stadium2red": "It collects data and plans three times as wisely, but it may think too much and become immobilized.",
+            "stadium2blue": "If one of the heads gets to eat, the others will be satisfied, too, and they will stop squabbling.",
             "ruby": "Watch out if Dodrio's three heads are looking in three separate directions. It's a sure sign that it is on its guard. Don't go near this Pokémon if it's being wary - it may decide to peck you.",
             "sapphire": "Apparently, the heads aren't the only parts of the body that Dodrio has three of. It has three sets of hearts and lungs as well, so it is capable of running long distances without rest.",
             "emerald": "A peculiar Pokémon species with three heads. It vigorously races across grassy plains even in arid seasons with little rainfall.",
@@ -3871,11 +4098,13 @@ export const Entries = [
             "letsGoPikachu": "One of Doduo's two heads splits to form a unique species. It runs close to 40 mph in prairies.",
             "letsGoEevee": "One of Doduo's two heads splits to form a unique species. It runs close to 40 mph in prairies.",
             "brilliantDiamond": "When Doduo evolves into this odd breed, one of its heads splits into two. This Pokémon runs at nearly 40 mph.",
-            "shiningPearl": "When Doduo evolves into this odd breed, one of its heads splits into two. This Pokémon runs at nearly 40 mph."
+            "shiningPearl": "When Doduo evolves into this odd breed, one of its heads splits into two. This Pokémon runs at nearly 40 mph.",
+            "scarlet": "It now has three hearts and three sets of lungs. Though it can’t run as fast as Doduo, Dodrio can keep running for longer stretches of time.",
+            "violet": "The strongest head with the thickest neck becomes the leader and gains primary control of the body."
         }
     },
     {
-        "no": "#086",
+        "no": "#0086",
         "name": "Seel",
         "entries": {
             "red": "The protruding horn on its head is very hard. It is used for bashing through thick ice.",
@@ -3885,7 +4114,8 @@ export const Entries = [
             "gold": "Although it can't walk well on land, it is a graceful swimmer. It especially loves being in frigid seas.",
             "silver": "In daytime, it is often found asleep, on the seabed in shallow waters. Its nostrils close while it swims.",
             "crystal": "The light blue fur that covers it keeps it protected against the cold. It loves iceberg filled oceans.",
-            "stadium2": "Although it can't walk well on land, it is a graceful swimmer. It especially loves being in frigid seas.",
+            "stadium2red": "Although it can't walk well on land, it is a graceful swimmer. It especially loves being in frigid seas.",
+            "stadium2blue": "In daytime, it is often found asleep on the seabed in shallow waters. Its nostrils close while it swims.",
             "ruby": "Seel hunts for prey in the frigid sea underneath sheets of ice. When it needs to breathe, it punches a hole through the ice with the sharply protruding section of its head.",
             "sapphire": "Seel hunts for prey in the frigid sea underneath sheets of ice. When it needs to breathe, it punches a hole through the ice with the sharply protruding section of its head.",
             "emerald": "Seel hunt for prey in frigid, ice-covered seas. When it needs to breathe, it punches a hole through the ice with the sharply protruding section of its head.",
@@ -3909,11 +4139,13 @@ export const Entries = [
             "letsGoPikachu": "Loves freezing-cold conditions. Relishes swimming in a frigid climate of around 14 degrees Fahrenheit.",
             "letsGoEevee": "Loves freezing-cold conditions. Relishes swimming in a frigid climate of around 14 degrees Fahrenheit.",
             "brilliantDiamond": "This Pokémon lives on icebergs. It uses the sharp point on its head to break up ice as it swims in the sea.",
-            "shiningPearl": "This Pokémon lives on icebergs. It uses the sharp point on its head to break up ice as it swims in the sea."
+            "shiningPearl": "This Pokémon lives on icebergs. It uses the sharp point on its head to break up ice as it swims in the sea.",
+            "scarlet": "The protrusion on its head is very hard. It is used for bashing through thick ice.",
+            "violet": "The colder it gets, the better it feels. It joyfully swims around oceans so cold that they are filled with floating ice."
         }
     },
     {
-        "no": "#087",
+        "no": "#0087",
         "name": "Dewgong",
         "entries": {
             "red": "Stores thermal energy in its body. Swims at a steady 8 knots even in intensely cold waters.",
@@ -3923,7 +4155,8 @@ export const Entries = [
             "gold": "Its streamlined body has little drag in water. The colder the temperature, the friskier it gets.",
             "silver": "It loves frigid seas with ice floes. It uses its long tail to change swimming direction quickly.",
             "crystal": "It sleeps under shallow ocean waters during the day, then looks for food at night when it's cold.",
-            "stadium2": "Its streamlined body has little drag in water. The colder the temperature, the friskier it gets.",
+            "stadium2red": "Its streamlined body has little drag in water. The colder the temperature, the friskier it gets.",
+            "stadium2blue": "It loves frigid seas with ice floes. It uses its long tail to change swimming direction quickly.",
             "ruby": "Dewgong loves to snooze on bitterly cold ice. The sight of this Pokémon sleeping on a glacier was mistakenly thought to be a mermaid by a mariner long ago.",
             "sapphire": "Dewgong loves to snooze on bitterly cold ice. The sight of this Pokémon sleeping on a glacier was mistakenly thought to be a mermaid by a mariner long ago.",
             "emerald": "It loves to snooze on bitterly cold ice. The sight of this Pokémon sleeping on a glacier was mistakenly thought to be a mermaid by a mariner long ago.",
@@ -3947,11 +4180,13 @@ export const Entries = [
             "letsGoPikachu": "Its entire body is a snowy white. Unharmed by even intense cold, it swims powerfully in icy waters.",
             "letsGoEevee": "Its entire body is a snowy white. Unharmed by even intense cold, it swims powerfully in icy waters.",
             "brilliantDiamond": "In snow, the pure white coat covering its body obscures it from predators.",
-            "shiningPearl": "In snow, the pure white coat covering its body obscures it from predators."
+            "shiningPearl": "In snow, the pure white coat covering its body obscures it from predators.",
+            "scarlet": "It sleeps under shallow ocean waters during the day, then looks for food at night when it’s colder.",
+            "violet": "It stores thermal energy in its body to fend off the cold. It swims at eight knots even in frigid waters."
         }
     },
     {
-        "no": "#088",
+        "no": "#0088",
         "name": "Grimer",
         "entries": {
             "red": "Appears in filthy areas. Thrives by sucking up polluted sludge that is pumped out of factories.",
@@ -3961,7 +4196,8 @@ export const Entries = [
             "gold": "As it moves, it loses bits of its body from which new Grimer emerge. This worsens the stench around it.",
             "silver": "Wherever Grimer has passed, so many germs are left behind that no plants will ever grow again.",
             "crystal": "When two of these Pokémon's bodies are combined together, new poisons are created.",
-            "stadium2": "As it moves, it loses bits of its body from which new Grimer emerge. This worsens the stench around it.",
+            "stadium2red": "As it moves, it loses bits of its body from which new Grimer emerge. This worsens the stench around it.",
+            "stadium2blue": "Wherever Grimer has passed, so many germs are left behind that no plants will ever grow again.",
             "ruby": "Grimer's sludgy and rubbery body can be forced through any opening, however small it may be. This Pokémon enters sewer pipes to drink filthy wastewater.",
             "sapphire": "Grimer emerged from the sludge that settled on a polluted seabed. This Pokémon loves anything filthy. It constantly leaks a horribly germ- infested fluid from all over its body.",
             "emerald": "Born from polluted sludge in the sea, Grimer's favorite food is anything filthy. They feed on wastewater pumped out from factories.",
@@ -3987,11 +4223,13 @@ export const Entries = [
             "letsGoPikachu": "Made of congealed sludge. It smells too putrid to touch. Even weeds won't grow in its path.",
             "letsGoEevee": "Made of congealed sludge. It smells too putrid to touch. Even weeds won't grow in its path.",
             "brilliantDiamond": "It was born when sludge in a dirty stream was exposed to the moon's X-rays. It appears among filth.",
-            "shiningPearl": "It was born when sludge in a dirty stream was exposed to the moon's X-rays. It appears among filth."
+            "shiningPearl": "It was born when sludge in a dirty stream was exposed to the moon's X-rays. It appears among filth.",
+            "scarlet": "Born from sludge, these Pokémon now gather in polluted places and increase the bacteria in their bodies.",
+            "violet": "When two of these Pokémon's bodies are combined together, new poisons are created."
         }
     },
     {
-        "no": "#088alola",
+        "no": "#0088alola",
         "name": "Alolan Grimer",
         "entries": {
             "sun": "A Grimer, which had been brought in to solve a problem with garbage, developed over time into this form.",
@@ -4001,11 +4239,13 @@ export const Entries = [
             "letsGoPikachu": "It has a passion for trash above all else, speedily digesting it and creating brilliant crystals of sparkling poison.",
             "letsGoEevee": "It has a passion for trash above all else, speedily digesting it and creating brilliant crystals of sparkling poison.",
             "brilliantDiamond": "It was born when sludge in a dirty stream was exposed to the moon's X-rays. It appears among filth.",
-            "shiningPearl": "It was born when sludge in a dirty stream was exposed to the moon's X-rays. It appears among filth."
+            "shiningPearl": "It was born when sludge in a dirty stream was exposed to the moon's X-rays. It appears among filth.",
+            "scarlet": "They store their toxins inside their bodies, so unlike Grimer from other regions, they don’t smell bad even up close.",
+            "violet": "Alolan Grimer will gladly gobble up any kind of trash, making it a widely used and popular Pokémon at garbage disposal facilities."
         }
     },
     {
-        "no": "#089",
+        "no": "#0089",
         "name": "Muk",
         "entries": {
             "red": "Thickly covered with a filthy, vile sludge. It is so toxic, even its footprints contain poison.",
@@ -4015,7 +4255,8 @@ export const Entries = [
             "gold": "They love to gather in smelly areas where sludge accumulates, making the stench around them worse.",
             "silver": "Its body is made of a powerful poison. Touching it accidentally will cause a fever that requires bed rest.",
             "crystal": "As it moves, a very strong poison leaks from it, making the ground there barren for three years.",
-            "stadium2": "They love to gather in smelly areas where sludge accumulates, making the stench around them worse.",
+            "stadium2red": "They love to gather in smelly areas where sludge accumulates, making the stench around them worse.",
+            "stadium2blue": "Its body is made of a powerful poison. Touching it accidentally will cause a fever that requires bed rest.",
             "ruby": "From Muk's body seeps a foul fluid that gives off a nose-bendingly horrible stench. Just one drop of this Pokémon's body fluid can turn a pool stagnant and rancid.",
             "sapphire": "This Pokémon's favorite food is anything that is repugnantly filthy. In dirty towns where people think nothing of throwing away litter on the streets, Muk are certain to gather.",
             "emerald": "It prefers warm and humid habitats. In the summertime, the toxic substances in its body intensify, making Muk reek like putrid kitchen garbage.",
@@ -4042,10 +4283,12 @@ export const Entries = [
             "letsGoEevee": "Smells so awful, it can cause fainting. Through degeneration of its nose, it lost its sense of smell.",
             "brilliantDiamond": "A toxic fluid seeps from its body. The fluid kills plants and trees immediately upon contact.",
             "shiningPearl": "A toxic fluid seeps from its body. The fluid kills plants and trees immediately upon contact.",
+            "scarlet": "It’s thickly covered with a filthy, vile sludge. It is so toxic, even its footprints contain poison.",
+            "violet": "It's so stinky! Muk's body contains toxic elements, and any plant will wilt when it passes by."
         }
     },
     {
-        "no": "#089alola",
+        "no": "#0089alola",
         "name": "Alolan Muk",
         "entries": {
             "sun": "The garbage it eats causes continuous chemical changes in its body, which produce its exceedingly vivid coloration.",
@@ -4053,11 +4296,13 @@ export const Entries = [
             "ultraSun": "There are over a hundred kinds of poison inside its body. Chemical reactions between different poisons are the source of its vitality.",
             "ultraMoon": "What look like fangs and claws are actually crystallized poison that will afflict you at a mere touch, so don't get too close.",
             "letsGoPikachu": "Muk's coloration becomes increasingly vivid the more it feasts on its favorite dish–trash.",
-            "letsGoEevee": "Muk's coloration becomes increasingly vivid the more it feasts on its favorite dish–trash."
+            "letsGoEevee": "Muk's coloration becomes increasingly vivid the more it feasts on its favorite dish–trash.",
+            "scarlet": "There are over a hundred kinds of poison inside its body. Chemical reactions between different poisons are the source of its vitality.",
+            "violet": "What look like fangs and claws are actually crystallized poison that will afflict you at a mere touch, so don’t get too close."
         }
     },
     {
-        "no": "#090",
+        "no": "#0090",
         "name": "Shellder",
         "entries": {
             "red": "Its hard shell repels any kind of attack. It is vulnerable only when its shell is open.",
@@ -4067,7 +4312,8 @@ export const Entries = [
             "gold": "It swims facing backward by opening and closing its two-piece shell. It is surprisingly fast.",
             "silver": "Grains of sand trapped in its shells mix with its body fluids to form beautiful pearls.",
             "crystal": "Clamping on to an opponent reveals its vulnerable parts, so it uses this move only as a last resort.",
-            "stadium2": "It swims facing backward by opening and closing its two-piece shell. It is surprisingly fast.",
+            "stadium2red": "It swims facing backward by opening and closing its two-piece shell. It is surprisingly fast.",
+            "stadium2blue": "Grains of sand trapped in its shells mix with its body fluids to form beautiful pearls.",
             "ruby": "At night, this Pokémon uses its broad tongue to burrow a hole in the seafloor sand and then sleep in it. While it is sleeping, Shellder closes its shell, but leaves its tongue hanging out.",
             "sapphire": "At night, this Pokémon uses its broad tongue to burrow a hole in the seafloor sand and then sleep in it. While it is sleeping, Shellder closes its shell, but leaves its tongue hanging out.",
             "emerald": "At night, it burrows a hole in the seafloor with its broad tongue to make a place to sleep. While asleep, it closes its shell, but leaves its tongue hanging out.",
@@ -4095,11 +4341,13 @@ export const Entries = [
             "sword": "It swims facing backward by opening and closing its two-piece shell. It is surprisingly fast.",
             "shield": "Its hard shell repels any kind of attack. It is vulnerable only when its shell is open.",
             "brilliantDiamond": "It swims backward by opening and closing its two shells. Its large tongue is always kept hanging out.",
-            "shiningPearl": "It swims backward by opening and closing its two shells. Its large tongue is always kept hanging out."
+            "shiningPearl": "It swims backward by opening and closing its two shells. Its large tongue is always kept hanging out.",
+            "scarlet": "It is encased in a shell that is harder than diamond. Inside, however, it is surprisingly tender.",
+            "violet": "Clamping on to an opponent reveals its vulnerable parts, so it uses this move only as a last resort."
         }
     },
     {
-        "no": "#091",
+        "no": "#0091",
         "name": "Cloyster",
         "entries": {
             "red": "When attacked, it launches its horns in quick volleys. Its innards have never been seen.",
@@ -4109,7 +4357,8 @@ export const Entries = [
             "gold": "Once it slams its shell shut, it is impossible to open, even by those with superior strength.",
             "silver": "Cloyster that live in seas with harsh tidal currents grow large, sharp spikes on their shells.",
             "crystal": "Even a missile can't break the spikes it uses to stab opponents. They're even harder than its shell.",
-            "stadium2": "Once it slams its shell shut, it is impossible to open, even by those with superior strength.",
+            "stadium2red": "Once it slams its shell shut, it is impossible to open, even by those with superior strength.",
+            "stadium2blue": "Cloyster that live in seas with harsh tidal currents grow large, sharp spikes on their shells.",
             "ruby": "Cloyster is capable of swimming in the sea. It does so by swallowing water, then jetting it out toward the rear. This Pokémon shoots spikes from its shell using the same system.",
             "sapphire": "Cloyster is capable of swimming in the sea. It does so by swallowing water, then jetting it out toward the rear. This Pokémon shoots spikes from its shell using the same system.",
             "emerald": "It swims in the sea by swallowing water, then jetting it out toward the rear. The Cloyster shoots spikes from its shell using the same system.",
@@ -4137,11 +4386,13 @@ export const Entries = [
             "sword": "Its shell is extremely hard. It cannot be shattered, even with a bomb. The shell opens only when it is attacking.",
             "shield": "Once it slams its shell shut, it is impossible to open, even by those with superior strength.",
             "brilliantDiamond": "It fights by keeping its shell tightly shut for protection and by shooting spikes to repel foes.",
-            "shiningPearl": "It fights by keeping its shell tightly shut for protection and by shooting spikes to repel foes."
+            "shiningPearl": "It fights by keeping its shell tightly shut for protection and by shooting spikes to repel foes.",
+            "scarlet": "Cloyster that live in seas with harsh tidal currents grow large, sharp spikes on their shells.",
+            "violet": "When attacked, it launches its spikes in quick volleys. Its innards have never been seen."
         }
     },
     {
-        "no": "#092",
+        "no": "#0092",
         "name": "Gastly",
         "entries": {
             "red": "Almost invisible, this gaseous Pokémon cloaks the target and puts it to sleep without notice.",
@@ -4151,7 +4402,8 @@ export const Entries = [
             "gold": "With its gas-like body, it can sneak into any place it desires. However, it can be blown away by wind.",
             "silver": "Its thin body is made of gas. It can envelop an opponent of any size and cause suffocation.",
             "crystal": "It wraps its opponent in its gas-like body, slowly weakening its prey by poisoning it through the skin.",
-            "stadium2": "With its gas-like body, it can sneak into any place it desires. However, it can be blown away by wind.",
+            "stadium2red": "With its gas-like body, it can sneak into any place it desires. However, it can be blown away by wind.",
+            "stadium2blue": "Its thin body is made of gas. It can envelop an opponent of any size and cause suffocation.",
             "ruby": "Gastly is largely composed of gaseous matter. When exposed to a strong wind, the gaseous body quickly dwindles away. Groups of this Pokémon cluster under the eaves of houses to escape the ravages of wind.",
             "sapphire": "Gastly is largely composed of gaseous matter. When exposed to a strong wind, the gaseous body quickly dwindles away. Groups of this Pokémon cluster under the eaves of houses to escape the ravages of wind.",
             "emerald": "When exposed to a strong wind, a Gastly's gaseous body quickly dwindles away. They cluster under the eaves of houses to escape the ravages of wind.",
@@ -4180,11 +4432,13 @@ export const Entries = [
             "shield": "With its gas-like body, it can sneak into any place it desires. However, it can be blown away by wind.",
             "brilliantDiamond": "This Pokémon's body is 95 percent made up of gases. The Pokémon can be blown away by strong gusts of wind.",
             "shiningPearl": "It's a Pokémon born from poison gases. It defeats even the largest foes by enveloping them in gas.",
-            "legendsArceus": "Gaseous and completely impalpable. Also highly dangerous—inhaling part of its poisonous body will cause one to faint instantly."
+            "legendsArceus": "Gaseous and completely impalpable. Also highly dangerous—inhaling part of its poisonous body will cause one to faint instantly.",
+            "scarlet": "It wraps its opponent in its gas-like body, slowly weakening its prey by poisoning it through the skin.",
+            "violet": "Its body is made of gas. Despite lacking substance, it can envelop an opponent of any size and cause suffocation."
         }
     },
     {
-        "no": "#093",
+        "no": "#0093",
         "name": "Haunter",
         "entries": {
             "red": "Because of its ability to slip through block walls, it is said to be from another dimension.",
@@ -4194,7 +4448,8 @@ export const Entries = [
             "gold": "In total darkness, where nothing is visible, Haunter lurks, silently stalking its next victim.",
             "silver": "Its tongue is made of gas. If licked, its victim starts shaking constantly until death eventually comes.",
             "crystal": "It hides in the dark, planning to take the life of the next living thing that wanders close by.",
-            "stadium2": "In total darkness, where nothing is visible, Haunter lurks, silently stalking its next victim.",
+            "stadium2red": "In total darkness, where nothing is visible, Haunter lurks, silently stalking its next victim.",
+            "stadium2blue": "Its tongue is made of gas. If licked, its victim starts shaking constantly until death eventually comes.",
             "ruby": "Haunter is a dangerous Pokémon. If one beckons you while floating in darkness, you must never approach it. This Pokémon will try to lick you with its tongue and steal your life away.",
             "sapphire": "Haunter is a dangerous Pokémon. If one beckons you while floating in darkness, you must never approach it. This Pokémon will try to lick you with its tongue and steal your life away.",
             "emerald": "If a Haunter beckons you while it is floating in darkness, don't approach it. This Pokémon will try to lick you with its tongue and steal your life away.",
@@ -4223,11 +4478,13 @@ export const Entries = [
             "shield": "If you get the feeling of being watched in darkness when nobody is around, Haunter is there.",
             "brilliantDiamond": "It can slip through any obstacle. It lurks inside walls to keep an eye on its foes.",
             "shiningPearl": "It licks with its gaseous tongue to steal its victim's life-force. It lurks in darkness, waiting for prey.",
-            "legendsArceus": "This frightful, malevolent spirit can glide through walls, appearing wherever it likes. According to rumor, victims of a Haunter's lick will wither to death day by day."
+            "legendsArceus": "This frightful, malevolent spirit can glide through walls, appearing wherever it likes. According to rumor, victims of a Haunter's lick will wither to death day by day.",
+            "scarlet": "It likes to lurk in the dark and tap shoulders with a gaseous hand. Its touch causes endless shuddering.",
+            "violet": "In total darkness, where nothing is visible, Haunter lurks, silently stalking its next victim."
         }
     },
     {
-        "no": "#094",
+        "no": "#0094",
         "name": "Gengar",
         "entries": {
             "red": "Under a full moon, this Pokémon likes to mimic the shadows of people and laugh at their fright.",
@@ -4237,7 +4494,8 @@ export const Entries = [
             "gold": "It steals heat from its surroundings. If you feel a sudden chill, it is certain that a Gengar appeared.",
             "silver": "To steal the life of its target, it slips into the prey's shadow and silently waits for an opportunity.",
             "crystal": "Hiding in people's shadows at night, it absorbs their heat. The chill it causes makes the victims shake.",
-            "stadium2": "It steals heat from its surroundings. If you feel a sudden chill, it is certain that a Gengar appeared.",
+            "stadium2red": "It steals heat from its surroundings. If you feel a sudden chill, it is certain that a Gengar appeared.",
+            "stadium2blue": "To steal the life of its target, it slips into the prey's shadow and silently waits for an opportunity.",
             "ruby": "Sometimes, on a dark night, your shadow thrown by a streetlight will suddenly and startlingly overtake you. It is actually a Gengar running past you, pretending to be your shadow.",
             "sapphire": "Sometimes, on a dark night, your shadow thrown by a streetlight will suddenly and startlingly overtake you. It is actually a Gengar running past you, pretending to be your shadow.",
             "emerald": "Deep in the night, your shadow cast by a streetlight may suddenly overtake you. It is actually a Gengar running past you, pretending to be your shadow.",
@@ -4266,11 +4524,13 @@ export const Entries = [
             "shield": "It is said to emerge from darkness to steal the lives of those who become lost in mountains.",
             "brilliantDiamond": "It hides in shadows. It is said that in rooms where Gengar is hiding, the temperature drops by nearly 10 degrees Fahrenheit.",
             "shiningPearl": "Lurking in the shadowy corners of rooms, it awaits chances to steal its prey's life-force.",
-            "legendsArceus": "Possesses potential victims' shadows in an effort to steal away the victims' lives. If your shadow begins to laugh, you must take hold of a protective charm posthaste!"
+            "legendsArceus": "Possesses potential victims' shadows in an effort to steal away the victims' lives. If your shadow begins to laugh, you must take hold of a protective charm posthaste!",
+            "scarlet": "To steal the life of its target, it slips into the prey’s shadow and silently waits for an opportunity.",
+            "violet": "Hiding in people's shadows at night, it absorbs their heat. The chill it causes makes the victims shake."
         }
     },
     {
-        "no": "#094mega",
+        "no": "#0094mega",
         "name": "Mega Gengar",
         "entries": {
             "sun": "Gengar's relationships are warped. It has no interest in opponents unless it perceives them as prey.",
@@ -4282,7 +4542,7 @@ export const Entries = [
         }
     },
     {
-        "no": "#094gmax",
+        "no": "#0094gmax",
         "name": "Gigantamax Gengar",
         "entries": {
             "sword": "Rumor has it that its gigantic mouth leads not into its body, filled with cursed energy, but instead directly to the afterlife.",
@@ -4290,7 +4550,7 @@ export const Entries = [
         }
     },
     {
-        "no": "#095",
+        "no": "#0095",
         "name": "Onix",
         "entries": {
             "red": "As it grows, the stone portions of its body harden to become similar to a diamond, but colored black.",
@@ -4300,7 +4560,8 @@ export const Entries = [
             "gold": "It twists and squirms through the ground. The thunderous roar of its tunneling echoes a long way.",
             "silver": "It rapidly bores through the ground at 50 mph by squirming and twisting its massive, rugged body.",
             "crystal": "As it digs through the ground, it absorbs many hard objects. This is what makes its body so solid.",
-            "stadium2": "It twists and squirms through the ground. The thunderous roar of its tunneling echoes a long way.",
+            "stadium2red": "It twists and squirms through the ground. The thunderous roar of its tunneling echoes a long way.",
+            "stadium2blue": "It rapidly bores through the ground at 50 mph by squirming and twisting its massive, rugged body.",
             "ruby": "Onix has a magnet in its brain. It acts as a compass so that this Pokémon does not lose direction while it is tunneling. As it grows older, its body becomes increasingly rounder and smoother.",
             "sapphire": "Onix has a magnet in its brain. It acts as a compass so that this Pokémon does not lose direction while it is tunneling. As it grows older, its body becomes increasingly rounder and smoother.",
             "emerald": "There is a magnet in its brain that prevents an Onix from losing direction while tunneling. As it grows older, its body becomes steadily rounder and smoother.",
@@ -4329,7 +4590,7 @@ export const Entries = [
         }
     },
     {
-        "no": "#096",
+        "no": "#0096",
         "name": "Drowzee",
         "entries": {
             "red": "Puts enemies to sleep then eats their dreams. Occasionally gets sick from eating bad dreams.",
@@ -4339,7 +4600,8 @@ export const Entries = [
             "gold": "If you think that you had a good dream, but you can't remember it, a Drowzee has probably eaten it.",
             "silver": "It remembers every dream it eats. It rarely eats the dreams of adults because children's are much tastier.",
             "crystal": "When it twitches its nose, it can tell where someone is sleeping and what that person is dreaming about.",
-            "stadium2": "If you think that you had a good dream, but you can't remember it a Drowzee has probably eaten it.",
+            "stadium2red": "If you think that you had a good dream, but you can't remember it a Drowzee has probably eaten it.",
+            "stadium2blue": "It remembers every dream it eats. It rarely eats the dreams of adults because children's are much tastier.",
             "ruby": "If your nose becomes itchy while you are sleeping, it's a sure sign that one of these Pokémon is standing above your pillow and trying to eat your dream through your nostrils.",
             "sapphire": "If your nose becomes itchy while you are sleeping, it's a sure sign that a Drowzee is standing above your pillow and trying to eat your dream through your nostrils.",
             "emerald": "A descendant of the legendary animal baku, which is said to eat dreams. It is skilled at hypnotism.",
@@ -4365,11 +4627,13 @@ export const Entries = [
             "letsGoPikachu": "If you sleep by it all the time, it will sometimes show you dreams it had eaten in the past.",
             "letsGoEevee": "If you sleep by it all the time, it will sometimes show you dreams it had eaten in the past.",
             "brilliantDiamond": "It can tell what people are dreaming by sniffing with its big nose. It loves fun dreams.",
-            "shiningPearl": "It can tell what people are dreaming by sniffing with its big nose. It loves fun dreams."
+            "shiningPearl": "It can tell what people are dreaming by sniffing with its big nose. It loves fun dreams.",
+            "scarlet": "It remembers every dream it eats. It rarely eats the dreams of adults because children’s are much tastier.",
+            "violet": "When it twitches its nose, it can tell where someone is sleeping and what that person is dreaming about."
         }
     },
     {
-        "no": "#097",
+        "no": "#0097",
         "name": "Hypno",
         "entries": {
             "red": "When it locks eyes with an enemy, it will use a mix of PSI moves such as Hypnosis and Confusion.",
@@ -4379,7 +4643,8 @@ export const Entries = [
             "gold": "When it is very hungry, it puts humans it meets to sleep, then it feasts on their dreams.",
             "silver": "Always holding a pendulum that it rocks at a steady rhythm, it causes drowsiness in anyone nearby.",
             "crystal": "The longer it swings its pendulum, the longer the effects of its hypnosis last.",
-            "stadium2": "When it is very hungry, it puts humans it meets to sleep, then it feasts on their dreams.",
+            "stadium2red": "When it is very hungry, it puts humans it meets to sleep, then it feasts on their dreams.",
+            "stadium2blue": "Always holding a pendulum that it rocks at a steady rhythm, it causes drowsiness in anyone nearby.",
             "ruby": "Hypno holds a pendulum in its hand. The arcing movement and glitter of the pendulum lull the foe into a deep state of hypnosis. While this Pokémon searches for prey, it polishes the pendulum.",
             "sapphire": "Hypno holds a pendulum in its hand. The arcing movement and glitter of the pendulum lull the foe into a deep state of hypnosis. While this Pokémon searches for prey, it polishes the pendulum.",
             "emerald": "The arcing movement and glitter of the pendulum in a Hypno's hand lull the foe into deep hypnosis. While searching for prey, it polishes the pendulum.",
@@ -4405,11 +4670,13 @@ export const Entries = [
             "letsGoPikachu": "Avoid eye contact if you come across one. It will try to put you to sleep by using its pendulum.",
             "letsGoEevee": "Avoid eye contact if you come across one. It will try to put you to sleep by using its pendulum.",
             "brilliantDiamond": "Seeing its swinging pendulum can induce sleep in three seconds, even in someone who just woke up.",
-            "shiningPearl": "Seeing its swinging pendulum can induce sleep in three seconds, even in someone who just woke up."
+            "shiningPearl": "Seeing its swinging pendulum can induce sleep in three seconds, even in someone who just woke up.",
+            "scarlet": "When it locks eyes with an enemy, it will use a mix of psi moves, such as Hypnosis and Confusion.",
+            "violet": "Always holding a pendulum that it swings at a steady rhythm, it causes drowsiness in anyone nearby."
         }
     },
     {
-        "no": "#098",
+        "no": "#0098",
         "name": "Krabby",
         "entries": {
             "red": "Its pincers are not only powerful weapons, they are used for balance when walking sideways.",
@@ -4419,7 +4686,8 @@ export const Entries = [
             "gold": "If it senses danger approaching, it cloaks itself with bubbles from its mouth so it will look bigger.",
             "silver": "The pincers break off easily. If it loses a pincer, it somehow becomes incapable of walking sideways.",
             "crystal": "If it is unable to find food, it will absorb nutrients by swallowing a mouthful of sand.",
-            "stadium2": "If it senses danger approaching, it cloaks itself with bubbles from its mouth so it will look bigger.",
+            "stadium2red": "If it senses danger approaching, it cloaks itself with bubbles from its mouth so it will look bigger.",
+            "stadium2blue": "The pincers break off easily. If it loses a pincer, it somehow becomes incapable of walking sideways.",
             "ruby": "Krabby live on beaches, burrowed inside holes dug into the sand. On sandy beaches with little in the way of food, these Pokémon can be seen squabbling with each other over territory.",
             "sapphire": "Krabby live on beaches, burrowed inside holes dug into the sand. On sandy beaches with little in the way of food, these Pokémon can be seen squabbling with each other over territory.",
             "emerald": "Krabby live in holes dug into beaches. On sandy shores with little in the way of food, they can be seen squabbling with each other over territory.",
@@ -4447,7 +4715,7 @@ export const Entries = [
         }
     },
     {
-        "no": "#099",
+        "no": "#0099",
         "name": "Kingler",
         "entries": {
             "red": "The large pincer has 10000 hp of crushing power. However, its huge size makes it unwieldy to use.",
@@ -4457,7 +4725,8 @@ export const Entries = [
             "gold": "It can hardly lift its massive, overgrown pincer. The pincer's size makes it difficult to aim properly.",
             "silver": "Its pincers grow peculiarly large. If it lifts the pincers too fast, it loses its balance and staggers.",
             "crystal": "Its over sized claw is very powerful, but when it's not in battle, the claw just gets in the way.",
-            "stadium2": "It can hardly lift its massive, overgrown pincer. The pincers size makes it difficult to aim properly.",
+            "stadium2red": "It can hardly lift its massive, overgrown pincer. The pincers size makes it difficult to aim properly.",
+            "stadium2blue": "Its pincers grow peculiarly large. If it lifts the pincers too fast, it loses its balance and staggers.",
             "ruby": "Kingler has an enormous, over sized claw. It waves this huge claw in the air to communicate with others. However, because the claw is so heavy, the Pokémon quickly tires.",
             "sapphire": "Kingler has an enormous, over sized claw. It waves this huge claw in the air to communicate with others. However, because the claw is so heavy, the Pokémon quickly tires.",
             "emerald": "It waves its huge, over sized claw in the air to communicate with others. But since the claw is so heavy, this Pokémon quickly tires.",
@@ -4485,7 +4754,7 @@ export const Entries = [
         }
     },
     {
-        "no": "#099gmax",
+        "no": "#0099gmax",
         "name": "Gigantamax Kingler",
         "entries": {
             "sword": "The flow of Gigantamax energy has spurred this Pokémon's left pincer to grow to an enormous size. That claw can pulverize anything.",
@@ -4493,7 +4762,7 @@ export const Entries = [
         }
     },
     {
-        "no": "#100",
+        "no": "#0100",
         "name": "Voltorb",
         "entries": {
             "red": "Usually found in power plants. Easily mistaken for a Poké Ball, they have zapped many people.",
@@ -4503,7 +4772,8 @@ export const Entries = [
             "gold": "It rolls to move. If the ground is uneven, a sudden jolt from hitting a bump can cause it to explode.",
             "silver": "It was discovered when Poké Balls were introduced. It is said that there is some connection.",
             "crystal": "During the study of this Pokémon, it was discovered that its components are not found in nature.",
-            "stadium2": "It rolls to move. If the ground is uneven, a sudden jolt from hitting a bump can cause it to explode.",
+            "stadium2red": "It rolls to move. If the ground is uneven, a sudden jolt from hitting a bump can cause it to explode.",
+            "stadium2blue": "It was discovered when Poké Balls were introduced. It is said that there is some connection.",
             "ruby": "Voltorb was first sighted at a company that manufactures Poké Balls. The link between that sighting and the fact that this Pokémon looks very similar to a Poké Ball remains a mystery.",
             "sapphire": "Voltorb is extremely sensitive - it explodes at the slightest of shocks. It is rumored that it was first created when a Poké Ball was exposed to a powerful pulse of energy.",
             "emerald": "It bears an uncanny and unexplained resemblance to a Poké Ball. Because it explodes at the slightest shock, even veteran trainers treat it with caution.",
@@ -4525,18 +4795,20 @@ export const Entries = [
             "letsGoPikachu": "It is said to camouflage itself as a Poké Ball. It will self-destruct with very little stimulus.",
             "letsGoEevee": "It is said to camouflage itself as a Poké Ball. It will self-destruct with very little stimulus.",
             "brilliantDiamond": "It looks just like a Poké Ball. It is dangerous because it may electrocute or explode on touch.",
-            "shiningPearl": "It looks just like a Poké Ball. It is dangerous because it may electrocute or explode on touch."
+            "shiningPearl": "It looks just like a Poké Ball. It is dangerous because it may electrocute or explode on touch.",
+            "scarlet": "It rolls to move. If the ground is uneven, a sudden jolt from hitting a bump can cause it to explode.",
+            "violet": "It's usually found in power plants. Easily mistaken for a Poké Ball, it has zapped many people."
         }
     },
     {
-        "no": "#100hisui",
+        "no": "#0100hisui",
         "name": "Hisuian Voltorb",
         "entries": {
             "legendsArceus": "An enigmatic Pokémon that happens to bear a resemblance to a Poké Ball. When excited, it discharges the electric current it has stored in its belly, then lets out a great, uproarious laugh."
         }
     },
     {
-        "no": "#101",
+        "no": "#0101",
         "name": "Electrode",
         "entries": {
             "red": "It stores electric energy under very high pressure. It often explodes with little or no provocation.",
@@ -4546,7 +4818,8 @@ export const Entries = [
             "gold": "It is dangerous. If it has too much electricity and has nothing to do, it amuses itself by exploding.",
             "silver": "It stores an overflowing amount of electric energy inside its body. Even a small shock makes it explode.",
             "crystal": "The more energy it charges up, the faster it gets. But this also makes it more likely to explode.",
-            "stadium2": "It is dangerous. If it has too much electricity and has nothing to do, it amuses itself by exploding.",
+            "stadium2red": "It is dangerous. If it has too much electricity and has nothing to do, it amuses itself by exploding.",
+            "stadium2blue": "It stores an overflowing amount of electric energy inside its body. Even a small shock makes it explode.",
             "ruby": "Electrode eats electricity in the atmosphere. On days when lightning strikes, you can see this Pokémon exploding all over the place from eating too much electricity.",
             "sapphire": "One of Electrode's characteristics is its attraction to electricity. It is a problematical Pokémon that congregates mostly at electrical power plants to feed on electricity that has just been generated.",
             "emerald": "They appear in great numbers at electric power plants. Because they feed on electricity, they cause massive and chaotic blackouts in nearby cities.",
@@ -4568,14 +4841,263 @@ export const Entries = [
             "letsGoPikachu": "Stores electrical energy inside its body. Even the slightest shock could trigger a huge explosion.",
             "letsGoEevee": "Stores electrical energy inside its body. Even the slightest shock could trigger a huge explosion.",
             "brilliantDiamond": "It is known to drift on winds if it is bloated to bursting with stored electricity.",
-            "shiningPearl": "It is known to drift on winds if it is bloated to bursting with stored electricity."
+            "shiningPearl": "It is known to drift on winds if it is bloated to bursting with stored electricity.",
+            "scarlet": "The more energy it charges up, the faster it gets. But this also makes it more likely to explode.",
+            "violet": "It explodes in response to even minor stimuli. It is feared, with the nickname of the Bomb Ball."
         }
     },
     {
-        "no": "#101hisui",
+        "no": "#0101hisui",
         "name": "Hisuian Electrode",
         "entries": {
             "legendsArceus": "The tissue on the surface of its body is curiously similar in composition to an Apricorn. When irritated, this Pokémon lets loose an electric current equal to 20 lightning bolts."
+        }
+    },
+    {
+        "no": "#0102",
+        "name": "Exeggcute",
+        "entries": {
+            "red": "Often mistaken for eggs. When disturbed, they quickly gather and attack in swarms.",
+            "blue": "Often mistaken for eggs. When disturbed, they quickly gather and attack in swarms.",
+            "yellow": "The heads attract each other and spin around. There must be 6 heads for it to maintain balance.",
+            "stadium": "A Pokémon that is like the seeds of a plant. If you find one and chase it, others will join it without you noticing.",
+            "gold": "The shell is very durable. Even if it cracks, it can survive without spilling the contents.",
+            "silver": "Using telepathy only they can receive, they always form a cluster of six Exeggcute.",
+            "crystal": "If even one is separated from the group, the energy bond between the six will make them rejoin instantly.",
+            "stadium2red": "The shell is very durable. Even if it cracks, it can survive without spilling the contents.",
+            "stadium2blue": "Using telepathy only they can receive, they always form a cluster of six Exeggcute.",
+            "ruby": "This Pokémon consists of six eggs that form a closely knit cluster. The six eggs attract each other and spin around. When cracks increasingly appear on the eggs, Exeggcute is close to evolution.",
+            "sapphire": "This Pokémon consists of six eggs that form a closely knit cluster. The six eggs attract each other and spin around. When cracks increasingly appear on the eggs, Exeggcute is close to evolution.",
+            "emerald": "It consists of six eggs that care for each other. The eggs attract each other and spin around. When cracks increasingly appear, it is close to evolution.",
+            "firered": "Even though it appears to be eggs of some sort, it was discovered to be a life-form more like plant seeds.",
+            "leafgreen": "It is often mistaken for eggs. When disturbed, they quickly gather and attack in swarms.",
+            "diamond": "Its six eggs converse using telepathy. They can quickly gather if they become separated.",
+            "pearl": "Its six eggs converse using telepathy. They can quickly gather if they become separated.",
+            "platinum": "Its six eggs converse using telepathy. They can quickly gather if they become separated.",
+            "heartgold": "Their shells are very durable. Even if they crack, they can survive without spilling their contents.",
+            "soulsilver": "Using telepathy only they can employ, they always form a cluster of six Exeggcute.",
+            "black": "Its six eggs converse using telepathy. They can quickly gather if they become separated.",
+            "white": "Its six eggs converse using telepathy. They can quickly gather if they become separated.",
+            "black2": "Its six eggs converse using telepathy. They can quickly gather if they become separated.",
+            "white2": "Its six eggs converse using telepathy. They can quickly gather if they become separated.",
+            "x": "Its six eggs converse using telepathy. They can quickly gather if they become separated.",
+            "y": "Even though it appears to be eggs of some sort, it was discovered to be a life-form more like plant seeds.",
+            "omegaRuby": "This Pokémon consists of six eggs that form a closely knit cluster. The six eggs attract each other and spin around. When cracks increasingly appear on the eggs, Exeggcute is close to evolution.",
+            "alphaSapphire": "This Pokémon consists of six eggs that form a closely knit cluster. The six eggs attract each other and spin around. When cracks increasingly appear on the eggs, Exeggcute is close to evolution.",
+            "sun": "Its six eggs use telepathy to communicate among themselves. It is believed to carry plant genes and the genes of other species.",
+            "moon": "Six of them together form a full-fledged Pokémon. It's often hunted by Crabrawler, but uses psychokinesis to drive it off.",
+            "ultraSun": "Six of them form a single Pokémon. Should one of the six be lost, the next morning there will once more be six.",
+            "ultraMoon": "Although they are the same size as other Exeggcute, the ones produced in Alola are quite heavy. Their shells are packed full.",
+            "letsGoPikachu": "The heads attract each other and spin around. There must be six heads for it to maintain balance.",
+            "letsGoEevee": "The heads attract each other and spin around. There must be six heads for it to maintain balance.",
+            "sword": "Though it may look like it's just a bunch of eggs, it's a proper Pokémon. Exeggcute communicates with others of its kind via telepathy, apparently.",
+            "shield": "These Pokémon get nervous when they're not in a group of six. The minute even one member of the group goes missing, Exeggcute become cowardly.",
+            "brilliantDiamond": "Its six eggs converse using telepathy. They can quickly gather if they become separated.",
+            "shiningPearl": "Its six eggs converse using telepathy. They can quickly gather if they become separated.",
+            "scarlet": "If you touch one of Exeggcute’s heads, mistaking it for an egg, the other heads will quickly gather and attack you in a swarm.",
+            "violet": "Using telepathy only fellow Exeggcute can pick up on, they always form a cluster of six."
+        }
+    },
+    {
+        "no": "#0103",
+        "name": "Exeggutor",
+        "entries": {
+            "red": "Legend has it that on rare occasions, one of its heads will drop off and continue on as an Exeggcute.",
+            "blue": "Legend has it that on rare occasions, one of its heads will drop off and continue on as an Exeggcute.",
+            "yellow": "Its cries are very noisy. This is because each of the 3 heads thinks about whatever it likes.",
+            "stadium": "Each of the fruits is an independently-thinking head. It is said that if one drops off, it becomes an Exeggcute.",
+            "gold": "Its three heads think independently. However, they are friendly and never appear to squabble.",
+            "silver": "If a head drops off, it emits a telepathic call in search of others to form an Exeggcute cluster.",
+            "crystal": "Living in a good environment makes it grow lots of heads. A head that drops off becomes an Exeggcute.",
+            "stadium2red": "Its three heads think independently. However, they are friendly and never appear to squabble.",
+            "stadium2blue": "If a head drops off, it emits a telepathic call in search of others to form an Exeggcute cluster.",
+            "ruby": "Exeggutor originally came from the tropics. Its heads steadily grow larger from exposure to strong sunlight. It is said that when the heads fall off, they group together to form Exeggcute.",
+            "sapphire": "Exeggutor originally came from the tropics. Its heads steadily grow larger from exposure to strong sunlight. It is said that when the heads fall off, they group together to form Exeggcute.",
+            "emerald": "Originally from the tropics, Exeggutor's heads grow larger from exposure to strong sunlight. It is said that when the heads fall, they group to form an Exeggcute.",
+            "firered": "It is called “The Walking Tropical Rainforest.” Each of the nuts has a face and a will of its own.",
+            "leafgreen": "It is said that on rare occasions, one of its heads will drop off and continue on as an Exeggcute.",
+            "diamond": "It is called 'The Walking Jungle.' If a head grows too big, it falls off and becomes an Exeggcute.",
+            "pearl": "It is called 'The Walking Jungle.' If a head grows too big, it falls off and becomes an Exeggcute.",
+            "platinum": "It is called 'The Walking Jungle.' If a head grows too big, it falls off and becomes an Exeggcute.",
+            "heartgold": "Its three heads think independently. However, they are friendly and never appear to squabble.",
+            "soulsilver": "If a head drops off, it emits a telepathic call in search of others to form an Exeggcute cluster.",
+            "black": "It is called 'The Walking Jungle.' If a head grows too big, it falls off and becomes an Exeggcute.",
+            "white": "It is called 'The Walking Jungle.' If a head grows too big, it falls off and becomes an Exeggcute.",
+            "black2": "It is called 'The Walking Jungle.' If a head grows too big, it falls off and becomes an Exeggcute.",
+            "white2": "It is called 'The Walking Jungle.' If a head grows too big, it falls off and becomes an Exeggcute.",
+            "x": "Its three heads think independently. However, they are friendly and never appear to squabble.",
+            "y": "It is called 'The Walking Jungle.' If a head grows too big, it falls off and becomes an Exeggcute.",
+            "omegaRuby": "Exeggutor originally came from the tropics. Its heads steadily grow larger from exposure to strong sunlight. It is said that when the heads fall off, they group together to form Exeggcute.",
+            "alphaSapphire": "Exeggutor originally came from the tropics. Its heads steadily grow larger from exposure to strong sunlight. It is said that when the heads fall off, they group together to form Exeggcute.",
+            "sun": "Each of its heads has its own will. They use telepathy to discuss their plans before coming to a joint decision.",
+            "moon": "When the time comes, one of its three heads falls off. Before long, the fallen head grows into an Exeggcute.",
+            "ultraSun": "It engages its enemies using psychic powers. Each of its three heads fires off psychokinetic energy, tripling its power.",
+            "ultraMoon": "Each of its three heads has its own thoughts. When they want to go in different directions, Exeggutor becomes unable to move.",
+            "letsGoPikachu": "Its cries are very noisy. This is because each of the three heads thinks about whatever it likes.",
+            "letsGoEevee": "Its cries are very noisy. This is because each of the three heads thinks about whatever it likes.",
+            "sword": "Each of Exeggutor's three heads is thinking different thoughts. The three don't seem to be very interested in one another.",
+            "shield": "When they work together, Exeggutor's three heads can put out powerful psychic energy. Cloudy days make this Pokémon sluggish.",
+            "brilliantDiamond": "It is called the Walking Jungle. If a head grows too big, it falls off and becomes an Exeggcute.",
+            "shiningPearl": "It is called the Walking Jungle. If a head grows too big, it falls off and becomes an Exeggcute.",
+            "scarlet": "It is called the Walking Jungle. Each of the nuts has a face and a will of its own.",
+            "violet": "It is said that on rare occasions, one of its heads will drop off and continue on as an Exeggcute."
+        }
+    },
+    {
+        "no": "#0103alola",
+        "name": "Alolan Exeggutor",
+        "entries": {
+            "sun": "Alola is the best environment for this Pokémon. Local people take pride in its appearance, saying this is how Exeggutor ought to look.",
+            "moon": "As it grew taller and taller, it outgrew its reliance on psychic powers, while within it awakened the power of the sleeping dragon.",
+            "ultraSun": "Exeggutor is the pride of the Alolan people. Its image is carved into historical buildings and murals.",
+            "ultraMoon": "It swings its long neck like a whip and smacks its opponents. This makes Exeggutor itself dizzy, too.",
+            "letsGoPikachu": "The strong sunlight of the Alola region has awakened the power hidden within Exeggcute. This is the result.",
+            "letsGoEevee": "The strong sunlight of the Alola region has awakened the power hidden within Exeggcute. This is the result.",
+            "sword": "Blazing sunlight has brought out the true form and powers of this Pokémon.",
+            "shield": "This Pokémon's psychic powers aren't as strong as they once were. The head on this Exeggutor's tail scans surrounding areas with weak telepathy.",
+            "scarlet": "It is said that on rare occasions, one of its heads will drop off and continue on as an Exeggcute.",
+            "violet": "As it grew taller and taller, it outgrew its reliance on psychic powers, while within it awakened the power of the sleeping dragon."
+        }
+    },
+    {
+        "no": "#0104",
+        "name": "Cubone",
+        "entries": {
+            "red": "Because it never removes its skull helmet, no one has ever seen this Pokémon's real face.",
+            "blue": "Because it never removes its skull helmet, no one has ever seen this Pokémon's real face.",
+            "yellow": "Wears the skull of its deceased mother. Its cries echo inside the skull and come out as a sad melody.",
+            "stadium": "Always wears the skull of its deceased mother on its head and never shows its face. It cries mournfully in the moonlight.",
+            "gold": "If it is sad or lonely, the skull it wears shakes, and emits a plaintive and mournful sound.",
+            "silver": "It always wears the skull of its dead mother, so no one has any idea what its hidden face looks like.",
+            "crystal": "It lost its mother after its birth. It wears its mother's skull, never revealing its true face.",
+            "stadium2red": "If it is sad or lonely, the skull it wears shakes, and emits a plaintive and mournful sound.",
+            "stadium2blue": "It always wears the skull of its dead mother, so no one has any idea what its hidden face looks like.",
+            "ruby": "Cubone pines for the mother it will never see again. Seeing a likeness of its mother in the full moon, it cries. The stains on the skull the Pokémon wears are made by the tears it sheds.",
+            "sapphire": "Cubone pines for the mother it will never see again. Seeing a likeness of its mother in the full moon, it cries. The stains on the skull the Pokémon wears are made by the tears it sheds.",
+            "emerald": "It pines for the mother it will never see again. Seeing a likeness of its mother in the full moon, it cries. The stains on the skull it wears are from its tears.",
+            "firered": "It wears the skull of its dead mother on its head. When it becomes lonesome, it is said to cry loudly.",
+            "leafgreen": "Because it never removes its skull helmet, no one has ever seen this Pokémon's real face.",
+            "diamond": "When it thinks of its dead mother, it cries. Its crying makes the skull it wears rattle hollowly.",
+            "pearl": "When it thinks of its dead mother, it cries. Its crying makes the skull it wears rattle hollowly.",
+            "platinum": "When it thinks of its dead mother, it cries. Its crying makes the skull it wears rattle hollowly.",
+            "heartgold": "If it is sad or lonely, the skull it wears shakes and emits a plaintive and mournful sound.",
+            "soulsilver": "It always wears the skull of its dead mother, so no one has any idea what its hidden face looks like.",
+            "black": "When it thinks of its dead mother, it cries. Its crying makes the skull it wears rattle hollowly.",
+            "white": "When it thinks of its dead mother, it cries. Its crying makes the skull it wears rattle hollowly.",
+            "black2": "When it thinks of its dead mother, it cries. Its crying makes the skull it wears rattle hollowly.",
+            "white2": "When it thinks of its dead mother, it cries. Its crying makes the skull it wears rattle hollowly.",
+            "x": "It wears the skull of its dead mother on its head. When it becomes lonesome, it is said to cry loudly.",
+            "y": "It always wears the skull of its dead mother, so no one has any idea what its hidden face looks like.",
+            "omegaRuby": "Cubone pines for the mother it will never see again. Seeing a likeness of its mother in the full moon, it cries. The stains on the skull the Pokémon wears are made by the tears it sheds.",
+            "alphaSapphire": "Cubone pines for the mother it will never see again. Seeing a likeness of its mother in the full moon, it cries. The stains on the skull the Pokémon wears are made by the tears it sheds.",
+            "sun": "When it thinks of its deceased mother, it weeps loudly. Mandibuzz that hear its cries will attack it from the air.",
+            "moon": "The skull it wears on its head is that of its dead mother. According to some, it will evolve when it comes to terms with the pain of her death.",
+            "ultraSun": "At night, it weeps loudly for its dead mother, but those cries only attract its natural enemy—Mandibuzz.",
+            "ultraMoon": "It wears its mother's skull on its head, so no one knows what its bare face looks like. However, it's clear that it's always crying.",
+            "letsGoPikachu": "Wears the skull of its deceased mother. Its cries echo inside the skull and come out as a sad melody.",
+            "letsGoEevee": "Wears the skull of its deceased mother. Its cries echo inside the skull and come out as a sad melody.",
+            "sword": "When the memory of its departed mother brings it to tears, its cries echo mournfully within the skull it wears on its head.",
+            "shield": "This Pokémon wears the skull of its deceased mother. Sometimes Cubone's dreams make it cry, but each tear Cubone sheds makes it stronger.",
+            "brilliantDiamond": "When it thinks of its dead mother, it cries. Its crying makes the skull it wears rattle hollowly.",
+            "shiningPearl": "When it thinks of its dead mother, it cries. Its crying makes the skull it wears rattle hollowly."
+        }
+    },
+    {
+        "no": "#0105",
+        "name": "Marowak",
+        "entries": {
+            "red": "The bone it holds is its key weapon. It throws the bone skillfully like a boomerang to KO targets.",
+            "blue": "The bone it holds is its key weapon. It throws the bone skillfully like a boomerang to KO targets.",
+            "yellow": "Small and weak, this Pokémon is adept with its bone club. It has grown more vicious over the ages.",
+            "stadium": "Originally a small and weak Pokémon, it became rough and aggressive when it begin using bones as weapons.",
+            "gold": "It has been seen pounding boulders with the bone it carries in order to tap out messages to others.",
+            "silver": "It collects bones from an unknown place. A Marowak graveyard exists somewhere in the world, rumors say.",
+            "crystal": "Somewhere in the world is a cemetery just for Marowak. It gets its bones from those graves.",
+            "stadium2red": "It has been seen pounding boulders with the bone it carries in order to tap out messages to others.",
+            "stadium2blue": "It always wears the skull of its dead mother, so no one has any idea what its hidden face looks like.",
+            "ruby": "Marowak is the evolved form of a Cubone that has overcome its sadness at the loss of its mother and grown tough. This Pokémon's tempered and hardened spirit is not easily broken.",
+            "sapphire": "Marowak is the evolved form of a Cubone that has overcome its sadness at the loss of its mother and grown tough. This Pokémon's tempered and hardened spirit is not easily broken.",
+            "emerald": "A Marowak is the evolved form of a Cubone that has grown tough by overcoming the grief of losing its mother. Its tempered and hardened spirit is not easily broken.",
+            "firered": "It is small and was originally very weak. Its temperament turned ferocious when it began using bones.",
+            "leafgreen": "The bone it holds is its key weapon. It throws the bone skillfully like a boomerang to KO targets.",
+            "diamond": "From its birth, this savage Pokémon constantly holds bones. It is skilled in using them as weapons.",
+            "pearl": "From its birth, this savage Pokémon constantly holds bones. It is skilled in using them as weapons.",
+            "platinum": "From its birth, this savage Pokémon constantly holds bones. It is skilled in using them as weapons.",
+            "heartgold": "It has been seen pounding boulders with the bone it carries in order to tap out messages to others.",
+            "soulsilver": "It collects bones from an unknown place. Some whisper that a Marowak graveyard exists somewhere in the world.",
+            "black": "From its birth, this savage Pokémon constantly holds bones. It is skilled in using them as weapons.",
+            "white": "From its birth, this savage Pokémon constantly holds bones. It is skilled in using them as weapons.",
+            "black2": "From its birth, this savage Pokémon constantly holds bones. It is skilled in using them as weapons.",
+            "white2": "From its birth, this savage Pokémon constantly holds bones. It is skilled in using them as weapons.",
+            "x": "It is small and was originally very weak. Its temperament turned ferocious when it began using bones.",
+            "y": "The bone it holds is its key weapon. It throws the bone skillfully like a boomerang to KO targets.",
+            "omegaRuby": "Marowak is the evolved form of a Cubone that has overcome its sadness at the loss of its mother and grown tough. This Pokémon's tempered and hardened spirit is not easily broken.",
+            "alphaSapphire": "Marowak is the evolved form of a Cubone that has overcome its sadness at the loss of its mother and grown tough. This Pokémon's tempered and hardened spirit is not easily broken.",
+            "sun": "Originally, it was weak and timid. After evolution, its temperament becomes violent, and it begins to wield bones as weapons.",
+            "moon": "This Pokémon is out for vengeance on its natural enemy, Mandibuzz. It throws bones like boomerangs to try to take it down.",
+            "ultraSun": "It throws bones at Mandibuzz to knock it down. It's thought that Marowak is trying to avenge its parent.",
+            "ultraMoon": "They thump their bones rhythmically to communicate among themselves. There are nearly 50 different rhythmic patterns.",
+            "letsGoPikachu": "Small and weak, this Pokémon is adept with its bone club. It has grown more vicious over the ages.",
+            "letsGoEevee": "Small and weak, this Pokémon is adept with its bone club. It has grown more vicious over the ages.",
+            "sword": "This Pokémon overcame its sorrow to evolve a sturdy new body. Marowak faces its opponents bravely, using a bone as a weapon.",
+            "shield": "When this Pokémon evolved, the skull of its mother fused to it. Marowak's temperament also turned vicious at the same time.",
+            "brilliantDiamond": "The bones it uses have been in its possession since it was born. It has a ferocious nature.",
+            "shiningPearl": "The bones it uses have been in its possession since it was born. It has a ferocious nature."
+        }
+    },
+    {
+        "no": "#0105alola",
+        "name": "Alolan Marowak",
+        "entries": {
+            "sun": "The bones it possesses were once its mother's. Its mother's regrets have become like a vengeful spirit protecting this Pokémon.",
+            "moon": "Its custom is to mourn its lost companions. Mounds of dirt by the side of the road mark the graves of the Marowak.",
+            "ultraSun": "The rich greenery of the Alola region is hard on Marowak. It controls fire to stay alive.",
+            "ultraMoon": "When it beats opponents with its bone, the cursed flames spread to them. No amount of water will stop those flames from burning.",
+            "letsGoPikachu": "It has transformed the spirit of its dear departed mother into flames, and tonight it will once again dance in mourning of others of its kind.",
+            "letsGoEevee": "It has transformed the spirit of its dear departed mother into flames, and tonight it will once again dance in mourning of others of its kind.",
+            "sword": "This Pokémon sets the bone it holds on fire and dances through the night as a way to mourn its fallen allies.",
+            "shield": "The cursed flames that light up the bone carried by this Pokémon are said to cause both mental and physical pain that will never fade."
+        }
+    },
+    {
+        "no": "#0106",
+        "name": "Hitmonlee",
+        "entries": {
+            "red": "When in a hurry, its legs lengthen progressively. It runs smoothly with extra long, loping strides.",
+            "blue": "When in a hurry, its legs lengthen progressively. It runs smoothly with extra long, loping strides.",
+            "yellow": "When kicking, the sole of its foot turns as hard as a diamond on impact and destroys its enemy.",
+            "stadium": "Repeatedly kicks its enemy with legs that freely stretch and contract. Some people refer to it as the 'kicking master.'",
+            "gold": "This amazing Pokémon has an awesome sense of balance. It can kick in succession from any position.",
+            "silver": "If it starts kicking repeatedly, both legs will stretch even longer to strike a fleeing foe.",
+            "crystal": "It is also called the Kick Master. It uses its elastic legs to execute every known kick.",
+            "stadium2red": "This amazing Pokémon has an awesome sense of balance. It can kick in succession from any position.",
+            "stadium2blue": "If it starts kicking repeatedly, both legs will stretch even longer to strike a fleeing foe.",
+            "ruby": "Hitmonlee's legs freely contract and stretch. Using these springlike legs, it bowls over foes with devastating kicks. After battle, it rubs down its legs and loosens the muscles to overcome fatigue.",
+            "sapphire": "Hitmonlee's legs freely contract and stretch. Using these springlike legs, it bowls over foes with devastating kicks. After battle, it rubs down its legs and loosens the muscles to overcome fatigue.",
+            "emerald": "Its legs freely stretch and contract. Using these springlike limbs, it bowls over foes with devastating kicks. After battle, it rubs down its tired legs.",
+            "firered": "The legs freely contract and stretch. The stretchy legs allow it to hit a distant foe with a rising kick.",
+            "leafgreen": "When in a hurry, its legs lengthen progressively. It runs smoothly with extra-long, loping strides.",
+            "diamond": "Its legs can stretch double. First-time foes are startled by its extensible reach.",
+            "pearl": "Its legs can stretch double. First-time foes are startled by its extensible reach.",
+            "platinum": "Its legs can stretch double. First-time foes are startled by its extensible reach.",
+            "heartgold": "This amazing Pokémon has an awesome sense of balance. It can kick in succession from any position.",
+            "soulsilver": "If it starts kicking repeatedly, both legs will stretch even longer to strike a fleeing foe.",
+            "black": "Its legs can stretch double. First-time foes are startled by its extensible reach.",
+            "white": "Its legs can stretch double. First-time foes are startled by its extensible reach.",
+            "black2": "Its legs can stretch double. First-time foes are startled by its extensible reach.",
+            "white2": "Its legs can stretch double. First-time foes are startled by its extensible reach.",
+            "x": "The legs freely contract and stretch. The stretchy legs allow it to hit a distant foe with a rising kick.",
+            "y": "If it starts kicking repeatedly, both legs will stretch even longer to strike a fleeing foe.",
+            "omegaRuby": "Hitmonlee's legs freely contract and stretch. Using these springlike legs, it bowls over foes with devastating kicks. After battle, it rubs down its legs and loosens the muscles to overcome fatigue.",
+            "alphaSapphire": "Hitmonlee's legs freely contract and stretch. Using these springlike legs, it bowls over foes with devastating kicks. After battle, it rubs down its legs and loosens the muscles to overcome fatigue.",
+            "letsGoPikachu": "When kicking, the sole of its foot turns as hard as a diamond on impact and destroys its enemy.",
+            "letsGoEevee": "When kicking, the sole of its foot turns as hard as a diamond on impact and destroys its enemy.",
+            "sword": "This amazing Pokémon has an awesome sense of balance. It can kick in succession from any position.",
+            "shield": "The legs freely contract and stretch. The stretchy legs allow it to hit a distant foe with a rising kick.",
+            "brilliantDiamond": "Its legs can stretch to double their length. First-time foes are startled by Hitmonlee's extensible reach.",
+            "shiningPearl": "Its legs can stretch to double their length. First-time foes are startled by Hitmonlee's extensible reach.",
+            "scarlet": "At the exact moment it lands a kick on its target, Hitmonlee hardens the muscles on the sole of its foot, maximizing the power of the kick.",
+            "violet": "It has complete control over the ligaments in its legs, expanding and contracting them to double the reach of its kicks."
         }
     },
     {
@@ -4585,7 +5107,8 @@ export const Entries = [
             "gold": "A sweet aroma gently wafts from the leaf on its head. It is docile and loves to soak up the sun's rays.",
             "silver": "Its pleasantly aromatic leaves have the ability to check the humidity and temperature.",
             "crystal": "It loves to bask in the sunlight. It uses the leaf on its head to seek out warm places.",
-            "stadium2": "A sweet aroma gently wafts from the leaf on its head. It is docile and loves to soak up the sun's rays.",
+            "stadium2red": "A sweet aroma gently wafts from the leaf on its head. It is docile and loves to soak up the sun's rays.",
+            "stadium2blue": "",
             "ruby": "In battle, Chikorita waves its leaf around to keep the foe at bay. However, a sweet fragrance also wafts from the leaf, becalming the battling Pokémon and creating a cozy, friendly atmosphere all around.",
             "sapphire": "In battle, Chikorita waves its leaf around to keep the foe at bay. However, a sweet fragrance also wafts from the leaf, becalming the battling Pokémon and creating a cozy, friendly atmosphere all around.",
             "emerald": "It waves its leaf around to keep foes at bay. However, a sweet fragrance also wafts from the leaf, creating a friendly atmosphere that becalms the battlers.",
@@ -4615,7 +5138,8 @@ export const Entries = [
             "gold": "The scent of spices comes from around its neck. Somehow, sniffing it makes you want to fight.",
             "silver": "A spicy aroma emanates from around its neck. The aroma acts as a stimulant to restore health.",
             "crystal": "The scent that wafts from the leaves on its neck causes anyone who smells it to become energetic.",
-            "stadium2": "The scent of spices comes from around its neck. Somehow, sniffing it makes you want to fight.",
+            "stadium2red": "The scent of spices comes from around its neck. Somehow, sniffing it makes you want to fight.",
+            "stadium2blue": "",
             "ruby": "Bayleef's neck is ringed by curled-up leaves. Inside each tubular leaf is a small shoot of a tree. The fragrance of this shoot makes people peppy.",
             "sapphire": "Bayleef's neck is ringed by curled-up leaves. Inside each tubular leaf is a small shoot of a tree. The fragrance of this shoot makes people peppy.",
             "emerald": "A Bayleef's neck is ringed by curled-up leaves. Inside each leaf is a small tree shoot. The fragrance of this shoot makes people peppy.",
@@ -4645,7 +5169,8 @@ export const Entries = [
             "gold": "The aroma that rises from its petals contains a substance that calms aggressive feelings.",
             "silver": "Meganium's breath has the power to revive dead grass and plants. It can make them healthy again.",
             "crystal": "Anyone who stands beside it becomes refreshed, just as if they were relaxing in a sunny forest.",
-            "stadium2": "The aroma that rises from its petals contains a substance that calms aggressive feelings.",
+            "stadium2red": "The aroma that rises from its petals contains a substance that calms aggressive feelings.",
+            "stadium2blue": "",
             "ruby": "The fragrance of Meganium's flower soothes and calms emotions. In battle, this Pokémon gives off more of its becalming scent to blunt the foe's fighting spirit.",
             "sapphire": "The fragrance of Meganium's flower soothes and calms emotions. In battle, this Pokémon gives off more of its becalming scent to blunt the foe's fighting spirit.",
             "emerald": "The fragrance of Meganium's flower soothes and calms emotions. In battle, it gives off more of its becalming scent to blunt the foe's fighting spirit.",
@@ -4675,7 +5200,8 @@ export const Entries = [
             "gold": "It is timid, and always curls itself up in a ball. If attacked, it flares up its back for protection.",
             "silver": "It usually stays hunched over. If it is angry or surprised, it shoots flames out of its back.",
             "crystal": "The fire that spouts from its back burns hottest when it is angry. The flaring flames intimidate foes.",
-            "stadium2": "It is timid, and always curls itself up in a ball. If attacked, it flares up its back for protection.",
+            "stadium2red": "It is timid, and always curls itself up in a ball. If attacked, it flares up its back for protection.",
+            "stadium2blue": "",
             "ruby": "Cyndaquil protects itself by flaring up the flames on its back. The flames are vigorous if the Pokémon is angry. However, if it is tired, the flames sputter fitfully with incomplete combustion.",
             "sapphire": "Cyndaquil protects itself by flaring up the flames on its back. The flames are vigorous if the Pokémon is angry. However, if it is tired, the flames sputter fitfully with incomplete combustion.",
             "emerald": "It flares flames from its back to protect itself. The fire burns vigorously if the Pokémon is angry. When it is tired, it sputters with incomplete combustion.",
@@ -4706,7 +5232,8 @@ export const Entries = [
             "gold": "Be careful if it turns its back during battle. It means that it will attack with the fire on its back.",
             "silver": "This Pokémon is fully covered by nonflammable fur. It can withstand any kind of fire attack.",
             "crystal": "Before battle, it turns its back on its opponent to demonstrate how ferociously its fire blazes.",
-            "stadium2": "Be careful if it turns its back during battle. It means that it will attack with the fire on its back.",
+            "stadium2red": "Be careful if it turns its back during battle. It means that it will attack with the fire on its back.",
+            "stadium2blue": "",
             "ruby": "Quilava keeps its foes at bay with the intensity of its flames and gusts of superheated air. This Pokémon applies its outstanding nimbleness to dodge attacks even while scorching the foes with flames.",
             "sapphire": "Quilava keeps its foes at bay with the intensity of its flames and gusts of superheated air. This Pokémon applies its outstanding nimbleness to dodge attacks even while scorching the foes with flames.",
             "emerald": "It intimidates foes with intense gusts of flames and superheated air. Its quick nimbleness lets it dodge attacks even while scorching an enemy.",
@@ -4737,7 +5264,8 @@ export const Entries = [
             "gold": "If its rage peaks, it becomes so hot that anything that touches it will instantly go up in flames.",
             "silver": "It has a secret, devastating move. It rubs its blazing fur together to cause huge explosions.",
             "crystal": "When heat from its body causes the air around it to shimmer, this is a sign that it is ready to battle.",
-            "stadium2": "If its rage peaks, it becomes so hot that anything that touches it will instantly go up in flames.",
+            "stadium2red": "If its rage peaks, it becomes so hot that anything that touches it will instantly go up in flames.",
+            "stadium2blue": "",
             "ruby": "Typhlosion obscures itself behind a shimmering heat haze that it creates using its intensely hot flames. This Pokémon creates blazing explosive blasts that burn everything to cinders.",
             "sapphire": "Typhlosion obscures itself behind a shimmering heat haze that it creates using its intensely hot flames. This Pokémon creates blazing explosive blasts that burn everything to cinders.",
             "emerald": "It can hide behind a shimmering heat haze that it creates using its intense flames. Typhlosion create blazing explosive blasts that burn everything to cinders.",
@@ -4774,7 +5302,8 @@ export const Entries = [
             "gold": "Its well-developed jaws are powerful and capable of crushing anything. Even its trainer must be careful.",
             "silver": "It is small but rough and tough. It won't hesitate to take a bite out of anything that moves.",
             "crystal": "This rough critter chomps at any moving object it sees. Turning your back on it is not recommended.",
-            "stadium2": "Its well-developed jaws are powerful and capable of crushing anything. Even its Trainer must be careful.",
+            "stadium2red": "Its well-developed jaws are powerful and capable of crushing anything. Even its Trainer must be careful.",
+            "stadium2blue": "",
             "ruby": "Despite the smallness of its body, Totodile's jaws are very powerful. While the Pokémon may think it is just playfully nipping, its bite has enough power to cause serious injury.",
             "sapphire": "Despite the smallness of its body, Totodile's jaws are very powerful. While the Pokémon may think it is just playfully nipping, its bite has enough power to cause serious injury.",
             "emerald": "Despite its small body, Totodile's jaws are very powerful. While it may think it is just playfully nipping, its bite has enough strength to cause serious injury.",
@@ -4804,7 +5333,8 @@ export const Entries = [
             "gold": "If it loses a fang, a new one grows back in its place. There are always 48 fangs lining its mouth.",
             "silver": "It opens its huge jaws wide when attacking. If it loses any fangs while biting, they grow back in.",
             "crystal": "The tips of its fangs are slanted backward. Once those fangs clamp down, the prey has no hope of escape.",
-            "stadium2": "If it loses a fang, a new one grows back in its place. There are always 48 fangs lining its mouth.",
+            "stadium2red": "If it loses a fang, a new one grows back in its place. There are always 48 fangs lining its mouth.",
+            "stadium2blue": "",
             "ruby": "Once Croconaw has clamped its jaws on its foe, it will absolutely not let go. Because the tips of its fangs are forked back like barbed fishhooks, they become impossible to remove when they have sunk in.",
             "sapphire": "Once Croconaw has clamped its jaws on its foe, it will absolutely not let go. Because the tips of its fangs are forked back like barbed fishhooks, they become impossible to remove when they have sunk in.",
             "emerald": "Once its jaws clamp down on its foe, it will absolutely not let go. Because the tips of its fangs are forked back like fishhooks, they become irremovably embedded.",
@@ -4834,7 +5364,8 @@ export const Entries = [
             "gold": "When it bites with its massive and powerful jaws, it shakes its head and savagely tears its victim up.",
             "silver": "It is hard for it to support its own weight out of water, so it gets down on all fours. But it moves fast.",
             "crystal": "Although it has a massive body, its powerful hind legs enable it to move quickly, even on the ground.",
-            "stadium2": "When it bites with its massive and powerful jaws, it shakes its head and savagely tears its victim up.",
+            "stadium2red": "When it bites with its massive and powerful jaws, it shakes its head and savagely tears its victim up.",
+            "stadium2blue": "",
             "ruby": "Feraligatr intimidates its foes by opening its huge mouth. In battle, it will kick the ground hard with its thick and powerful hind legs to charge at the foe at an incredible speed.",
             "sapphire": "Feraligatr intimidates its foes by opening its huge mouth. In battle, it will kick the ground hard with its thick and powerful hind legs to charge at the foe at an incredible speed.",
             "emerald": "It opens its huge mouth to intimidate enemies. In battle, it runs using its thick and powerful hind legs to charge the foe with incredible speed.",
@@ -4864,7 +5395,8 @@ export const Entries = [
             "gold": "A very cautious Pokémon, it raises itself up using its tail to get a better view of its surroundings.",
             "silver": "It stands on its tail so it can see a long way. If it spots an enemy, it cries loudly to warn its kind.",
             "crystal": "When acting as a lookout, it warns others of danger by screeching and hitting the ground with its tail.",
-            "stadium2": "A very cautious Pokémon, it raises itself up using its tail to get a better view of its surroundings.",
+            "stadium2red": "A very cautious Pokémon, it raises itself up using its tail to get a better view of its surroundings.",
+            "stadium2blue": "",
             "ruby": "When Sentret sleeps, it does so while another stands guard. The sentry wakes the others at the first sign of danger. When this Pokémon becomes separated from its pack, it becomes incapable of sleep due to fear.",
             "sapphire": "When Sentret sleeps, it does so while another stands guard. The sentry wakes the others at the first sign of danger. When this Pokémon becomes separated from its pack, it becomes incapable of sleep due to fear.",
             "emerald": "They take turns standing guard when it is time to sleep. The sentry awakens the others if it senses danger. If one becomes separated, it turns sleepless with fear.",
@@ -4894,7 +5426,8 @@ export const Entries = [
             "gold": "It makes a nest to suit its long and skinny body. The nest is impossible for other Pokémon to enter.",
             "silver": "There is no telling where the tail begins. Despite its short legs, it is quick at hunting Rattata.",
             "crystal": "It lives in narrow burrows that fit its slim body. The deeper the nests go, the more maze-like they become.",
-            "stadium2": "It makes a nest to suit its long and skinny body. The nest is impossible for other Pokémon to enter.",
+            "stadium2red": "It makes a nest to suit its long and skinny body. The nest is impossible for other Pokémon to enter.",
+            "stadium2blue": "",
             "ruby": "Furret has a very slim build. When under attack, it can slickly squirm through narrow spaces and get away. In spite of its short limbs, this Pokémon is very nimble and fleet.",
             "sapphire": "Furret has a very slim build. When under attack, it can slickly squirm through narrow spaces and get away. In spite of its short limbs, this Pokémon is very nimble and fleet.",
             "emerald": "A Furret has a very slim build. When under attack, it can squirm through narrow spaces and get away. In spite of its short limbs, it is very nimble and fleet.",
@@ -4924,7 +5457,8 @@ export const Entries = [
             "gold": "It always stands on one foot. It changes feet so fast, the movement can rarely be seen.",
             "silver": "It has a perfect sense of time. Whatever happens, it keeps rhythm by precisely tilting its head in time.",
             "crystal": "It begins to hoot at the same time every day. Some trainers use them in place of clocks.",
-            "stadium2": "It always stands on one foot. It changes feet so fast, the movement can rarely be seen.",
+            "stadium2red": "It always stands on one foot. It changes feet so fast, the movement can rarely be seen.",
+            "stadium2blue": "",
             "ruby": "Hoothoot has an internal organ that senses and tracks the earth's rotation. Using this special organ, this Pokémon begins hooting at precisely the same time every day.",
             "sapphire": "Hoothoot has an internal organ that senses and tracks the earth's rotation. Using this special organ, this Pokémon begins hooting at precisely the same time every day.",
             "emerald": "It has an internal organ that senses the earth's rotation. Using this special organ, a Hoothoot begins hooting at precisely the same time every day.",
@@ -4958,7 +5492,8 @@ export const Entries = [
             "gold": "Its eyes are specially adapted. They concentrate even faint light and enable it to see in the dark.",
             "silver": "When it needs to think, it rotates its head 180 degrees to sharpen its intellectual power.",
             "crystal": "Its extremely soft feathers make no sound in flight. It silently sneaks up on prey without being detected.",
-            "stadium2": "Its eyes are specially adapted. They concentrate even faint light and enable it to see in the dark.",
+            "stadium2red": "Its eyes are specially adapted. They concentrate even faint light and enable it to see in the dark.",
+            "stadium2blue": "",
             "ruby": "Noctowl never fails at catching prey in darkness. This Pokémon owes its success to its superior vision that allows it to see in minimal light, and to its soft, supple wings that make no sound in flight.",
             "sapphire": "Noctowl never fails at catching prey in darkness. This Pokémon owes its success to its superior vision that allows it to see in minimal light, and to its soft, supple wings that make no sound in flight.",
             "emerald": "It unfailingly catches prey in darkness. Noctowl owe their success to superior vision that allows them to see in minimal light, and to their supple and silent wings.",
@@ -4992,7 +5527,8 @@ export const Entries = [
             "gold": "It is very timid. It will be afraid to move if it is alone. But it will be active if it is in a group.",
             "silver": "When the weather turns cold, lots of Ledyba gather from everywhere to cluster and keep each other warm.",
             "crystal": "It is timid and clusters together with others. The fluid secreted by its feet indicates its location.",
-            "stadium2": "It is very timid. It will be afraid to move if it is alone. But it will be active if it is in a group.",
+            "stadium2red": "It is very timid. It will be afraid to move if it is alone. But it will be active if it is in a group.",
+            "stadium2blue": "",
             "ruby": "Ledyba secretes an aromatic fluid from where its legs join its body. This fluid is used for communicating with others. This Pokémon conveys its feelings to others by altering the fluid's scent.",
             "sapphire": "Ledyba secretes an aromatic fluid from where its legs join its body. This fluid is used for communicating with others. This Pokémon conveys its feelings to others by altering the fluid's scent.",
             "emerald": "Ledyba communicate using a fluid that they secrete from where the legs join the body. They are said to convey feelings to others by altering the fluid's scent.",
@@ -5026,7 +5562,8 @@ export const Entries = [
             "gold": "When the stars flicker in the night sky, it flutters about, scattering a glowing powder.",
             "silver": "The star patterns on its back grow larger or smaller depending on the number of stars in the night sky.",
             "crystal": "In the daytime when it gets warm, it curls up inside a big leaf and drifts off into a deep slumber.",
-            "stadium2": "When the stars flicker in the night sky, it flutters about, scattering a glowing powder.",
+            "stadium2red": "When the stars flicker in the night sky, it flutters about, scattering a glowing powder.",
+            "stadium2blue": "",
             "ruby": "It is said that in lands with clean air, where the stars fill the sky, there live Ledian in countless numbers. There is a good reason for this - the Pokémon uses the light of the stars as its energy.",
             "sapphire": "It is said that in lands with clean air, where the stars fill the sky, there live Ledian in countless numbers. There is a good reason for this - the Pokémon uses the light of the stars as its energy.",
             "emerald": "It is said that in lands with clean air, where the stars fill the sky, there live many Ledian. For good reason, they use the light of the stars as energy.",
@@ -5060,7 +5597,8 @@ export const Entries = [
             "gold": "It lies still in the same pose for days in its web, waiting for its unsuspecting prey to wander close.",
             "silver": "It spins a web using fine—but durable—thread. It then waits patiently for prey to be trapped.",
             "crystal": "If prey becomes ensnared in its nest of spun string, it waits motionlessly until it becomes dark.",
-            "stadium2": "It lies still in the same pose for days in its web, waiting for its unsuspecting prey to wander close.",
+            "stadium2red": "It lies still in the same pose for days in its web, waiting for its unsuspecting prey to wander close.",
+            "stadium2blue": "",
             "ruby": "The web spun by Spinarak can be considered its second nervous system. It is said that this Pokémon can determine what kind of prey is touching its web just by the tiny vibrations it feels through the web's strands.",
             "sapphire": "The web spun by Spinarak can be considered its second nervous system. It is said that this Pokémon can determine what kind of prey is touching its web just by the tiny vibrations it feels through the web's strands.",
             "emerald": "The web it spins can be considered its second nervous system. It is said that a Spinarak determines its prey by the tiny vibrations it feels through the web.",
@@ -5094,7 +5632,8 @@ export const Entries = [
             "gold": "It spins string not only from its rear but also from its mouth. It is hard to tell which end is which.",
             "silver": "A single strand of a special string is endlessly spun out of its rear. The string leads back to its nest.",
             "crystal": "Rather than making a nest in one specific spot, it wanders in search of food after darkness falls.",
-            "stadium2": "It spins string not only from its rear but also from its mouth. It is hard to tell which end is which.",
+            "stadium2red": "It spins string not only from its rear but also from its mouth. It is hard to tell which end is which.",
+            "stadium2blue": "",
             "ruby": "Ariados's feet are tipped with tiny hooked claws that enable it to scuttle on ceilings and vertical walls. This Pokémon constricts the foe with thin and strong silk webbing.",
             "sapphire": "Ariados's feet are tipped with tiny hooked claws that enable it to scuttle on ceilings and vertical walls. This Pokémon constricts the foe with thin and strong silk webbing.",
             "emerald": "Its feet are tipped with tiny hooked claws that enable it to scuttle on ceilings and vertical walls. It constricts its foe with thin and strong silk webbing.",
@@ -5128,7 +5667,8 @@ export const Entries = [
             "gold": "It flies so silently through the dark on its four wings that it may not be noticed even when nearby.",
             "silver": "The development of wings on its legs enables it to fly fast but also makes it tough to stop and rest.",
             "crystal": "As a result of its pursuit of faster, yet more silent flight, a new set of wings grew on its hind legs.",
-            "stadium2": "It flies so silently through the dark on its four wings that it may not be noticed even when nearby.",
+            "stadium2red": "It flies so silently through the dark on its four wings that it may not be noticed even when nearby.",
+            "stadium2blue": "",
             "ruby": "If this Pokémon is flying by fluttering only a pair of wings on either the forelegs or hind legs, it's proof that Crobat has been flying a long distance. It switches the wings it uses if it is tired.",
             "sapphire": "Crobat sneaks up on its intended prey using wings that barely make a sound. This Pokémon rests by hanging on a tree branch with its rear legs that serve as wings.",
             "emerald": "Over the course of evolution, its hind legs turned into wings. By alternately resting its front and rear wings, it can fly all day without having to stop.",
@@ -5165,7 +5705,8 @@ export const Entries = [
             "gold": "It shoots positive and negative electricity between the tips of its two antennae and zaps its enemies.",
             "silver": "On the dark ocean floor, its only means of communication is its constantly flashing lights.",
             "crystal": "Its antennae, which evolved from a fin, have both positive and negative charges flowing through them.",
-            "stadium2": "It shoots positive and negative electricity between the tips of its two antennae and zaps its enemies.",
+            "stadium2red": "It shoots positive and negative electricity between the tips of its two antennae and zaps its enemies.",
+            "stadium2blue": "",
             "ruby": "Chinchou lets loose positive and negative electrical charges from its two antennas to make its prey faint. This Pokémon flashes its electric lights to exchange signals with others.",
             "sapphire": "Chinchou's two antennas are filled with cells that generate strong electricity. This Pokémon's cells create so much electrical power, it even makes itself tingle slightly.",
             "emerald": "When it senses danger, it discharges positive and negative electricity from its two antennae. It lives in depths beyond sunlight's reach.",
@@ -5201,7 +5742,8 @@ export const Entries = [
             "gold": "The light it emits is so bright that it can illuminate the sea's surface from a depth of over three miles.",
             "silver": "It blinds prey with an intense burst of light, then swallows the immobilized prey in a single gulp.",
             "crystal": "This Pokémon uses the bright part of its body, which changed from a dorsal fin, to lure prey.",
-            "stadium2": "The light it emits is so bright that it can illuminate the sea's surface from a depth of over three miles.",
+            "stadium2red": "The light it emits is so bright that it can illuminate the sea's surface from a depth of over three miles.",
+            "stadium2blue": "",
             "ruby": "Lanturn is nicknamed “the deep-sea star” for its illuminated antenna. This Pokémon produces light by causing a chemical reaction between bacteria and its bodily fluids inside the antenna.",
             "sapphire": "Lanturn is known to emit light. If you peer down into the dark sea from a ship at night, you can sometimes see this Pokémon's light rising from the depths where it swims. It gives the sea an appearance of a starlit night.",
             "emerald": "The light-emitting orbs on its back are very bright. They are formed from a part of its dorsal fin. This Pokémon illuminates the inky darkness of deep seas.",
@@ -5237,7 +5779,8 @@ export const Entries = [
             "gold": "It is not yet skilled at storing electricity. It may send out a jolt if amused or startled.",
             "silver": "Despite its small size, it can zap even adult humans. However, if it does so, it also surprises itself.",
             "crystal": "It is unskilled at storing electric power. Any kind of shock causes it to discharge energy spontaneously.",
-            "stadium2": "It is not yet skilled at storing electricity. It may send out a jolt if amused or startled.",
+            "stadium2red": "It is not yet skilled at storing electricity. It may send out a jolt if amused or startled.",
+            "stadium2blue": "",
             "ruby": "Pichu charges itself with electricity more easily on days with thunderclouds or when the air is very dry. You can hear the crackling of static electricity coming off this Pokémon.",
             "sapphire": "When Pichu plays with others, it may short out electricity with another Pichu, creating a shower of sparks. In that event, this Pokémon will begin crying, startled by the flash of sparks.",
             "emerald": "It is still inept at retaining electricity. When it is startled, it discharges power accidentally. It gets better at holding power as it grows older.",
@@ -5274,7 +5817,8 @@ export const Entries = [
             "gold": "Because of its unusual, star-like silhouette, people believe that it came here on a meteor.",
             "silver": "When numerous meteors illuminate the night sky, sightings of Cleffa strangely increase.",
             "crystal": "If the impact site of a meteorite is found, this Pokémon is certain to be within the immediate area.",
-            "stadium2": "Because of its unusual, star-like silhouette, people believe that it came here on a meteor.",
+            "stadium2red": "Because of its unusual, star-like silhouette, people believe that it came here on a meteor.",
+            "stadium2blue": "",
             "ruby": "On nights with many shooting stars, Cleffa can be seen dancing in a ring. They dance through the night and stop only at the break of day, when these Pokémon quench their thirst with the morning dew.",
             "sapphire": "On nights with many shooting stars, Cleffa can be seen dancing in a ring. They dance through the night and stop only at the break of day, when these Pokémon quench their thirst with the morning dew.",
             "emerald": "On nights with many shooting stars, Cleffa can be seen dancing in a ring. They dance until daybreak, when they quench their thirst with the morning dew.",
@@ -5311,7 +5855,8 @@ export const Entries = [
             "gold": "It has a very soft body. If it starts to roll, it will bounce all over and be impossible to stop.",
             "silver": "Its extremely flexible and elastic body makes it bounce continuously—anytime, anywhere.",
             "crystal": "Instead of walking with its short legs, it moves around by bouncing on its soft, tender body.",
-            "stadium2": "It has a very soft body. If it starts to roll, it will bounce all over and be impossible to stop.",
+            "stadium2red": "It has a very soft body. If it starts to roll, it will bounce all over and be impossible to stop.",
+            "stadium2blue": "",
             "ruby": "Igglybuff's vocal chords are not sufficiently developed. It would hurt its throat if it were to sing too much. This Pokémon gargles with freshwater from a clean stream.",
             "sapphire": "Igglybuff has a soft and plushy body that feels very much like a marshmallow. From this body wafts a gently sweet fragrance that soothes and calms the emotions of its foes.",
             "emerald": "Its soft and pliable body is very bouncy. When it sings continuously with all its might, its body steadily turns a deepening pink color.",
@@ -5347,7 +5892,8 @@ export const Entries = [
             "gold": "The shell seems to be filled with joy. It is said that it will share good luck when treated kindly.",
             "silver": "A proverb claims that happiness will come to anyone who can make a sleeping Togepi stand up.",
             "crystal": "It is considered to be a symbol of good luck. Its shell is said to be filled with happiness.",
-            "stadium2": "The shell seems to be filled with joy. It is said that it will share good luck when treated kindly.",
+            "stadium2red": "The shell seems to be filled with joy. It is said that it will share good luck when treated kindly.",
+            "stadium2blue": "",
             "ruby": "As its energy, Togepi uses the positive emotions of compassion and pleasure exuded by people and Pokémon. This Pokémon stores up feelings of happiness inside its shell, then shares them with others.",
             "sapphire": "As its energy, Togepi uses the positive emotions of compassion and pleasure exuded by people and Pokémon. This Pokémon stores up feelings of happiness inside its shell, then shares them with others.",
             "emerald": "As its energy, it uses the feelings of compassion and pleasure exuded by people and Pokémon. It stores up happy feelings in its shell, then shares them out.",
@@ -5380,7 +5926,8 @@ export const Entries = [
             "gold": "They say that it will appear before kindhearted, caring people and shower them with happiness.",
             "silver": "It grows dispirited if it is not with kind people. It can float in midair without moving its wings.",
             "crystal": "Although it does not flap its wings very much, it can stay up in the air as it tags along after its trainer.",
-            "stadium2": "They say that it will appear before kindhearted, caring people and shower them with happiness.",
+            "stadium2red": "They say that it will appear before kindhearted, caring people and shower them with happiness.",
+            "stadium2blue": "",
             "ruby": "Togetic is said to be a Pokémon that brings good fortune. When the Pokémon spots someone who is pure of heart, it is said to appear and share its happiness with that person.",
             "sapphire": "Togetic is said to be a Pokémon that brings good fortune. When the Pokémon spots someone who is pure of heart, it is said to appear and share its happiness with that person.",
             "emerald": "It is said to be a Pokémon that brings good fortune. When it spots someone who is pure of heart, a Togetic appears and shares its happiness with that person.",
@@ -5413,7 +5960,8 @@ export const Entries = [
             "gold": "Because its wings aren't yet fully grown, it has to hop to get around. It is always staring at something.",
             "silver": "It usually forages for food on the ground but may, on rare occasions, hop onto branches to peck at shoots.",
             "crystal": "It is extremely good at climbing tree trunks and likes to eat the new sprouts on the trees.",
-            "stadium2": "Because its wings aren't yet fully grown, it has to hop to get around. It is always staring at something.",
+            "stadium2red": "Because its wings aren't yet fully grown, it has to hop to get around. It is always staring at something.",
+            "stadium2blue": "",
             "ruby": "Natu cannot fly because its wings are not yet fully grown. If your eyes meet with this Pokémon's eyes, it will stare back intently at you. But if you move even slightly, it will hop away to safety.",
             "sapphire": "Natu has a highly developed jumping ability. The Pokémon flaps and leaps onto tree branches that are taller than grown-up people to pick at the tree's new shoots.",
             "emerald": "Natu has a highly developed jumping ability. The Pokémon flaps and leaps onto tree branches that are taller than grown-up people to pick at the tree's new shoots.",
@@ -5447,7 +5995,8 @@ export const Entries = [
             "gold": "They say that it stays still and quiet because it is seeing both the past and future at the same time.",
             "silver": "In South America, it is said that its right eye sees the future and its left eye views the past.",
             "crystal": "Once it begins to meditate at sunrise, the entire day will pass before it will move again.",
-            "stadium2": "They say that it stays still and quiet because it is seeing both the past and future at the same time.",
+            "stadium2red": "They say that it stays still and quiet because it is seeing both the past and future at the same time.",
+            "stadium2blue": "",
             "ruby": "Xatu stands rooted and still in one spot all day long. People believe that this Pokémon does so out of fear of the terrible things it has foreseen in the future.",
             "sapphire": "Xatu is known to stand motionless while staring at the sun all day long. Some people revere it as a mystical Pokémon out of their belief that Xatu is in possession of the power to see into the future.",
             "emerald": "It has the enigmatic power of foreseeing the future. Some people in different lands have long believed that Xatu are emissaries from another world.",
@@ -5481,7 +6030,8 @@ export const Entries = [
             "gold": "If static electricity builds in its body, its fleece doubles in volume. Touching it will shock you.",
             "silver": "Its fleece grows continually. In the summer, the fleece is fully shed, but it grows back in a week.",
             "crystal": "It stores lots of air in its soft fur, allowing it to stay cool in summer and warm in winter.",
-            "stadium2": "If static electricity builds in its body, its fleece doubles in volume. Touching it will shock you.",
+            "stadium2red": "If static electricity builds in its body, its fleece doubles in volume. Touching it will shock you.",
+            "stadium2blue": "",
             "ruby": "Mareep's fluffy coat of wool rubs together and builds a static charge. The more static electricity is charged, the more brightly the lightbulb at the tip of its tail grows.",
             "sapphire": "Mareep's fluffy coat of wool rubs together and builds a static charge. The more static electricity is charged, the more brightly the lightbulb at the tip of its tail grows.",
             "emerald": "Its fluffy wool rubs together and builds a static charge. The more energy is charged, the more brightly the lightbulb at the tip of its tail glows.",
@@ -5513,7 +6063,8 @@ export const Entries = [
             "gold": "As a result of storing too much electricity, it developed patches where even downy wool won't grow.",
             "silver": "Its fluffy fleece easily stores electricity. Its rubbery hide keeps it from being electrocuted.",
             "crystal": "Because of its rubbery, electricity-resistant skin, it can store lots of electricity in its fur.",
-            "stadium2": "As a result of storing too much electricity, it developed patches where even downy wool won't grow.",
+            "stadium2red": "As a result of storing too much electricity, it developed patches where even downy wool won't grow.",
+            "stadium2blue": "",
             "ruby": "Flaaffy's wool quality changes so that it can generate a high amount of static electricity with a small amount of wool. The bare and slick parts of its hide are shielded against electricity.",
             "sapphire": "Flaaffy's wool quality changes so that it can generate a high amount of static electricity with a small amount of wool. The bare and slick parts of its hide are shielded against electricity.",
             "emerald": "Its fleece quality changes to generate strong static electricity with a small amount of wool. The bare, slick parts of its hide are shielded against electricity.",
@@ -5545,7 +6096,8 @@ export const Entries = [
             "gold": "The tail's tip shines brightly and can be seen from far away. It acts as a beacon for lost people.",
             "silver": "The bright light on its tail can be seen far away. It has been treasured since ancient times as a beacon.",
             "crystal": "When it gets dark, the light from its bright, shiny tail can be seen from far away on the ocean's surface.",
-            "stadium2": "The tail's tip shines brightly and can be seen from far away. It acts like a beacon for lost people.",
+            "stadium2red": "The tail's tip shines brightly and can be seen from far away. It acts like a beacon for lost people.",
+            "stadium2blue": "",
             "ruby": "Ampharos gives off so much light that it can be seen even from space. People in the old days used the light of this Pokémon to send signals back and forth with others far away.",
             "sapphire": "Ampharos gives off so much light that it can be seen even from space. People in the old days used the light of this Pokémon to send signals back and forth with others far away.",
             "emerald": "It gives off so much light that it can be seen even from space. People in the old days used its light to send signals back and forth with others far away.",
@@ -5585,7 +6137,8 @@ export const Entries = [
             "gold": "Bellossom gather at times and appear to dance. They say that the dance is a ritual to summon the sun.",
             "silver": "Plentiful in the tropics. When it dances, its petals rub together and make a pleasant ringing sound.",
             "crystal": "When these dance together, their petals rub against each other, making pretty, relaxing sounds.",
-            "stadium2": "Bellossom gather at times and appear to dance. They say that the dance is a ritual to summon the sun.",
+            "stadium2red": "Bellossom gather at times and appear to dance. They say that the dance is a ritual to summon the sun.",
+            "stadium2blue": "",
             "ruby": "When Bellossom get exposed to plenty of sunlight, the leaves ringing its body begin to spin around. This Pokémon's dancing is renowned in southern lands.",
             "sapphire": "A Bellossom grows flowers more beautifully if it evolves from a smelly Gloom - the stinkier the better. At night, this Pokémon closes its petals and goes to sleep.",
             "emerald": "Its flower petals deepen in color through exposure to sunlight. When cloudy weather persists, it does a dance that is thought to be a ritual for summoning the sun.",
@@ -5617,7 +6170,8 @@ export const Entries = [
             "gold": "The tip of its tail, which contains oil that is lighter than water, lets it swim without drowning.",
             "silver": "The end of its tail serves as a buoy that keeps it from drowning, even in a vicious current.",
             "crystal": "The fur on its body naturally repels water. It can stay dry, even when it plays in the water.",
-            "stadium2": "The tip of its tail, which contains oil that is lighter than water, lets it swim without drowning.",
+            "stadium2red": "The tip of its tail, which contains oil that is lighter than water, lets it swim without drowning.",
+            "stadium2blue": "",
             "ruby": "Marill's oil-filled tail acts much like a life preserver. If you see just its tail bobbing on the water's surface, it's a sure indication that this Pokémon is diving beneath the water to feed on aquatic plants.",
             "sapphire": "When fishing for food at the edge of a fast-running stream, Marill wraps its tail around the trunk of a tree. This Pokémon's tail is flexible and configured to stretch.",
             "emerald": "Its body is covered with water-repellent fur. Because of the fur, it can swim through water at high speed without being slowed by the water's resistance.",
@@ -5649,7 +6203,8 @@ export const Entries = [
             "gold": "By keeping still and listening intently, it can tell what is in even wild, fast-moving rivers.",
             "silver": "When it plays in water, it rolls up its elongated ears to prevent their insides from getting wet.",
             "crystal": "The bubble-like pattern on its stomach helps it camouflage itself when it's in the water.",
-            "stadium2": "By keeping still and listening intently, it can tell what is in even wild, fast-moving rivers.",
+            "stadium2red": "By keeping still and listening intently, it can tell what is in even wild, fast-moving rivers.",
+            "stadium2blue": "",
             "ruby": "Azumarill's long ears are indispensable sensors. By focusing its hearing, this Pokémon can identify what kinds of prey are around, even in rough and fast-running rivers.",
             "sapphire": "Azumarill can make balloons out of air. It makes these air balloons if it spots a drowning Pokémon. The air balloons enable the Pokémon in trouble to breathe.",
             "emerald": "It lives in water virtually all day long. Its body color and pattern act as camouflage that makes it tough for enemies to spot in water.",
@@ -5681,7 +6236,8 @@ export const Entries = [
             "gold": "Although it always pretends to be a tree, its composition appears to be closer to a rock than a plant.",
             "silver": "It disguises itself as a tree to avoid attack. It hates water, so it will disappear if it starts raining.",
             "crystal": "If a tree branch shakes when there is no wind, it's a Sudowoodo, not a tree. It hides from the rain.",
-            "stadium2": "Although it always pretends to be a tree, its composition appears to be closer to a rock than a plant.",
+            "stadium2red": "Although it always pretends to be a tree, its composition appears to be closer to a rock than a plant.",
+            "stadium2blue": "",
             "ruby": "Sudowoodo camouflages itself as a tree to avoid being attacked by enemies. However, because the forelegs remain green throughout the year, the Pokémon is easily identified as a fake during the winter.",
             "sapphire": "Sudowoodo camouflages itself as a tree to avoid being attacked by enemies. However, because the forelegs remain green throughout the year, the Pokémon is easily identified as a fake during the winter.",
             "emerald": "It mimics a tree to avoid being attacked by enemies. But since its forelegs remain green throughout the year, it is easily identified as a fake in the winter.",
@@ -5718,7 +6274,8 @@ export const Entries = [
             "gold": "If Poliwag and Poliwhirl hear its echoing cry, they respond by gathering from far and wide.",
             "silver": "Whenever three or more of these get together, they sing in a loud voice that sounds like bellowing.",
             "crystal": "When it expands its throat to croak out a tune, nearby Poliwag and Poliwhirl gather immediately.",
-            "stadium2": "If Poliwag and Poliwhirl hear its echoing cry, they respond by gathering from far and wide.",
+            "stadium2red": "If Poliwag and Poliwhirl hear its echoing cry, they respond by gathering from far and wide.",
+            "stadium2blue": "",
             "ruby": "The curled hair on Politoed's head is proof of its status as a king. It is said that the longer and more curled the hair, the more respect this Pokémon earns from its peers.",
             "sapphire": "The curled hair on Politoed's head is proof of its status as a king. It is said that the longer and more curled the hair, the more respect this Pokémon earns from its peers.",
             "emerald": "The curled hair on its head proves its status as a king. It is said that the longer and curlier the hair, the more respect it earns from its peers.",
@@ -5754,7 +6311,8 @@ export const Entries = [
             "gold": "To keep from being blown away by the wind, they gather in clusters. They do enjoy gentle breezes, though.",
             "silver": "Its body is so light, it must grip the ground firmly with its feet to keep from being blown away.",
             "crystal": "It can be carried away on even the gentlest breeze. It may even float all the way to the next town.",
-            "stadium2": "To keep from being blown away by the wind, they gather in clusters. They do enjoy gentle breezes, though.",
+            "stadium2red": "To keep from being blown away by the wind, they gather in clusters. They do enjoy gentle breezes, though.",
+            "stadium2blue": "",
             "ruby": "This Pokémon drifts and floats with the wind. If it senses the approach of strong winds, Hoppip links its leaves with other Hoppip to prepare against being blown away.",
             "sapphire": "This Pokémon drifts and floats with the wind. If it senses the approach of strong winds, Hoppip links its leaves with other Hoppip to prepare against being blown away.",
             "emerald": "This Pokémon drifts and floats with the wind. If it senses the approach of strong winds, a Hoppip links leaves with others to prepare against being blown away.",
@@ -5784,7 +6342,8 @@ export const Entries = [
             "gold": "The bloom on top of its head opens and closes as the temperature fluctuates up and down.",
             "silver": "It spreads its petals to absorb sunlight. It also floats in the air to get closer to the sun.",
             "crystal": "As soon as it rains, it closes its flower and hides in the shade of a tree to avoid getting wet.",
-            "stadium2": "The bloom on top of its head open and closes as the temperature fluctuates up and down.",
+            "stadium2red": "The bloom on top of its head open and closes as the temperature fluctuates up and down.",
+            "stadium2blue": "",
             "ruby": "Skiploom's flower blossoms when the temperature rises above 64 degrees F. How much the flower opens depends on the temperature. For that reason, this Pokémon is sometimes used as a thermometer.",
             "sapphire": "Skiploom's flower blossoms when the temperature rises above 64 degrees F. How much the flower opens depends on the temperature. For that reason, this Pokémon is sometimes used as a thermometer.",
             "emerald": "It blossoms when the temperature rises above 64 degrees F. Because its flower's blooming changes with the temperature, it is sometimes used as a thermometer.",
@@ -5814,7 +6373,8 @@ export const Entries = [
             "gold": "Once it catches the wind, it deftly controls its cotton-puff spores to float, even around the world.",
             "silver": "Drifts on seasonal winds and spreads its cotton-like spores all over the world to make more offspring.",
             "crystal": "Even in the fiercest wind, it can control its fluff to make its way to any place in the world it wants.",
-            "stadium2": "Once it catches the wind, it deftly controls its cotton-puff spores to float, even around the world.",
+            "stadium2red": "Once it catches the wind, it deftly controls its cotton-puff spores to float, even around the world.",
+            "stadium2blue": "",
             "ruby": "Jumpluff rides warm southern winds to cross the sea and fly to foreign lands. The Pokémon descends to the ground when it encounters cold air while it is floating.",
             "sapphire": "Jumpluff rides warm southern winds to cross the sea and fly to foreign lands. The Pokémon descends to the ground when it encounters cold air while it is floating.",
             "emerald": "Jumpluff ride warm southern winds to cross the sea and fly to foreign lands. This Pokémon lands when it encounters cold air while it is floating.",
@@ -5844,7 +6404,8 @@ export const Entries = [
             "gold": "Its tail is so powerful that it can use it to grab a tree branch and hold itself up in the air.",
             "silver": "It lives atop tall trees. When leaping from branch to branch, it deftly uses its tail for balance.",
             "crystal": "It uses its tail to hang on to tree branches. It uses its momentum to swing from one branch to another.",
-            "stadium2": "Its tail is so powerful that it can use it to grab a tree branch and hold itself up in the air.",
+            "stadium2red": "Its tail is so powerful that it can use it to grab a tree branch and hold itself up in the air.",
+            "stadium2blue": "",
             "ruby": "Aipom's tail ends in a hand-like appendage that can be cleverly manipulated. However, because the Pokémon uses its tail so much, its real hands have become rather clumsy.",
             "sapphire": "Aipom's tail ends in a hand-like appendage that can be cleverly manipulated. However, because the Pokémon uses its tail so much, its real hands have become rather clumsy.",
             "emerald": "Its tail ends with a dexterous, handlike appendage. However, because it uses the tail so much, Aipom's real hands have become rather clumsy.",
@@ -5877,7 +6438,8 @@ export const Entries = [
             "gold": "It may drop out of the sky suddenly. If attacked by a Spearow, it will violently shake its leaves.",
             "silver": "It lives by drinking only dewdrops from under the leaves of plants. It is said that it eats nothing else.",
             "crystal": "It is very weak. Its only means of defense is to shake its leaves desperately at its attacker.",
-            "stadium2": "It may drop out of the sky suddenly. If attacked by a Spearow, it will violently shake its leaves.",
+            "stadium2red": "It may drop out of the sky suddenly. If attacked by a Spearow, it will violently shake its leaves.",
+            "stadium2blue": "",
             "ruby": "Sunkern tries to move as little as it possibly can. It does so because it tries to conserve all the nutrients it has stored in its body for its evolution. It will not eat a thing, subsisting only on morning dew.",
             "sapphire": "Sunkern tries to move as little as it possibly can. It does so because it tries to conserve all the nutrients it has stored in its body for its evolution. It will not eat a thing, subsisting only on morning dew.",
             "emerald": "Sunkern try to minimize movement to conserve the nutrients they have stored in their bodies for evolution. They will not eat, subsisting only on morning dew.",
@@ -5907,7 +6469,8 @@ export const Entries = [
             "gold": "It converts sunlight into energy. In the darkness after sunset, it closes its petals and becomes still.",
             "silver": "In the daytime, it rushes about in a hectic manner, but it comes to a complete stop when the sun sets.",
             "crystal": "As the hot season approaches, the petals on this Pokémon's face become more vivid and lively.",
-            "stadium2": "It converts sunlight into energy. In the darkness after sunset, it closes its petals and becomes still.",
+            "stadium2red": "It converts sunlight into energy. In the darkness after sunset, it closes its petals and becomes still.",
+            "stadium2blue": "",
             "ruby": "Sunflora converts solar energy into nutrition. It moves around actively in the daytime when it is warm. It stops moving as soon as the sun goes down for the night.",
             "sapphire": "Sunflora converts solar energy into nutrition. It moves around actively in the daytime when it is warm. It stops moving as soon as the sun goes down for the night.",
             "emerald": "Sunflora convert solar energy into nutrition. They are highly active in the warm daytime but suddenly stop moving as soon as the sun sets.",
@@ -5937,7 +6500,8 @@ export const Entries = [
             "gold": "If it flaps its wings really fast, it can generate shock waves that will shatter windows in the area.",
             "silver": "Its large eyes can scan 360 degrees. It looks in all directions to seek out insects as its prey.",
             "crystal": "It can see in all directions without moving its big eyes, helping it spot attackers and food right away.",
-            "stadium2": "If it flaps its wings really fast, it can generate shock waves that will shatter windows in the area.",
+            "stadium2red": "If it flaps its wings really fast, it can generate shock waves that will shatter windows in the area.",
+            "stadium2blue": "",
             "ruby": "Yanma is capable of seeing 360 degrees without having to move its eyes. It is a great flier that is adept at making sudden stops and turning midair. This Pokémon uses its flying ability to quickly chase down targeted prey.",
             "sapphire": "Yanma is capable of seeing 360 degrees without having to move its eyes. It is a great flier that is adept at making sudden stops and turning midair. This Pokémon uses its flying ability to quickly chase down targeted prey.",
             "emerald": "It can see 360 degrees without moving its eyes. It is a great flier capable of making sudden stops and turning midair to quickly chase down targeted prey.",
@@ -5968,7 +6532,8 @@ export const Entries = [
             "gold": "This Pokémon lives in cold water. It will leave the water to search for food when it gets cold outside.",
             "silver": "When it walks around on the ground, it coats its body with a slimy, poisonous film.",
             "crystal": "A mucous membrane covers its body. Touching it barehanded will cause a shooting pain.",
-            "stadium2": "This Pokémon lives in cold water. It will leave the water to search for food when it gets cold outside.",
+            "stadium2red": "This Pokémon lives in cold water. It will leave the water to search for food when it gets cold outside.",
+            "stadium2blue": "",
             "ruby": "Wooper usually live in water. However, it occasionally comes out onto land in search of food. On land, it coats its body with a gooey, toxic film.",
             "sapphire": "Wooper usually live in water. However, it occasionally comes out onto land in search of food. On land, it coats its body with a gooey, toxic film.",
             "emerald": "Wooper usually live in water but come out onto land seeking food occasionally. On land, they coat their bodies with a gooey, toxic film.",
@@ -6000,7 +6565,8 @@ export const Entries = [
             "gold": "This carefree Pokémon has an easy-going nature. While swimming, it always bumps into boat hulls.",
             "silver": "Due to its relaxed and carefree attitude, it often bumps its head on boulders and boat hulls as it swims.",
             "crystal": "Its body is always slimy. It often bangs its head on the river bottom as it swims but seems not to care.",
-            "stadium2": "This carefree Pokémon has an easy-going nature. While swimming, it always bumps into boat hulls.",
+            "stadium2red": "This carefree Pokémon has an easy-going nature. While swimming, it always bumps into boat hulls.",
+            "stadium2blue": "",
             "ruby": "Quagsire hunts for food by leaving its mouth wide open in water and waiting for its prey to blunder in unaware. Because the Pokémon does not move, it does not get very hungry.",
             "sapphire": "Quagsire hunts for food by leaving its mouth wide open in water and waiting for its prey to blunder in unaware. Because the Pokémon does not move, it does not get very hungry.",
             "emerald": "A Quagsire hunts by leaving its mouth wide open in water and waiting for its prey to blunder in. Because it doesn't move, it does not get very hungry.",
@@ -6032,7 +6598,8 @@ export const Entries = [
             "gold": "It uses the fine hair that covers its body to sense air currents and predict its enemy's actions.",
             "silver": "By reading air currents, it can predict things such as the weather or its foe's next move.",
             "crystal": "The tip of its forked tail quivers when it is predicting its opponent's next move.",
-            "stadium2": "It uses the fine hair that covers its body to sense air currents and predict its enemy's actions.",
+            "stadium2red": "It uses the fine hair that covers its body to sense air currents and predict its enemy's actions.",
+            "stadium2blue": "",
             "ruby": "Espeon is extremely loyal to any trainer it considers to be worthy. It is said that this Pokémon developed its precognitive powers to protect its trainer from harm.",
             "sapphire": "Espeon is extremely loyal to any trainer it considers to be worthy. It is said that this Pokémon developed its precognitive powers to protect its trainer from harm.",
             "emerald": "An Espeon is extremely loyal to any trainer it considers to be worthy. It is said to have developed precognitive powers to protect its trainer from harm.",
@@ -6069,7 +6636,8 @@ export const Entries = [
             "gold": "When agitated, this Pokémon protects itself by spraying poisonous sweat from its pores.",
             "silver": "When darkness falls, the rings on the body begin to glow, striking fear in the hearts of anyone nearby.",
             "crystal": "On the night of a full moon, or when it gets excited, the ring patterns on its body glow yellow.",
-            "stadium2": "When agitated, this Pokémon protects itself by spraying poisonous sweat from its pores.",
+            "stadium2red": "When agitated, this Pokémon protects itself by spraying poisonous sweat from its pores.",
+            "stadium2blue": "",
             "ruby": "Umbreon evolved as a result of exposure to the moon's waves. It hides silently in darkness and waits for its foes to make a move. The rings on its body glow when it leaps to attack.",
             "sapphire": "Umbreon evolved as a result of exposure to the moon's waves. It hides silently in darkness and waits for its foes to make a move. The rings on its body glow when it leaps to attack.",
             "emerald": "Umbreon evolved from exposure to the moon's energy pulses. It lurks in darkness and waits for its foes to move. The rings on its body glow when it leaps to attack.",
@@ -6106,7 +6674,8 @@ export const Entries = [
             "gold": "Feared and loathed by many, it is believed to bring misfortune to all those who see it at night.",
             "silver": "It is said that when chased, it lures its attacker onto dark mountain trails where the foe will get lost.",
             "crystal": "It hides any shiny object it finds in a secret location. Murkrow and Meowth loot one another's stashes.",
-            "stadium2": "Feared and loathed by many, it is believed to bring misfortune to all those who see it at night.",
+            "stadium2red": "Feared and loathed by many, it is believed to bring misfortune to all those who see it at night.",
+            "stadium2blue": "",
             "ruby": "Murkrow was feared and loathed as the alleged bearer of ill fortune. This Pokémon shows strong interest in anything that sparkles or glitters. It will even try to steal rings from women.",
             "sapphire": "Murkrow was feared and loathed as the alleged bearer of ill fortune. This Pokémon shows strong interest in anything that sparkles or glitters. It will even try to steal rings from women.",
             "emerald": "Murkrow were feared as the alleged bearers of ill fortune. It shows strong interest in anything that sparkles. It will even try to steal rings from women.",
@@ -6141,7 +6710,8 @@ export const Entries = [
             "gold": "It has incredible intellect and intuition. Whatever the situation, it remains calm and collected.",
             "silver": "When its head was bitten, toxins entered Slowpoke's head and unlocked an extraordinary power.",
             "crystal": "Every time it yawns, Shellder injects more poison into it. The poison makes it more intelligent.",
-            "stadium2": "It has incredible intellect and intuition. Whatever the situation, it remains calm and collected.",
+            "stadium2red": "It has incredible intellect and intuition. Whatever the situation, it remains calm and collected.",
+            "stadium2blue": "",
             "ruby": "Slowking undertakes research every day in an effort to solve the mysteries of the world. However, this Pokémon apparently forgets everything it has learned if the Shellder on its head comes off.",
             "sapphire": "Slowking undertakes research every day in an effort to solve the mysteries of the world. However, this Pokémon apparently forgets everything it has learned if the Shellder on its head comes off.",
             "emerald": "It undertakes research every day to solve the mysteries of the world. However, it apparently forgets everything if the Shellder on its head comes off.",
@@ -6185,7 +6755,8 @@ export const Entries = [
             "gold": "It likes playing mischievous tricks such as screaming and wailing to startle people at night.",
             "silver": "It loves to bite and yank people's hair from behind without warning, just to see their shocked reactions.",
             "crystal": "It loves to watch people it's scared. It frightens them by screaming loudly or appearing suddenly.",
-            "stadium2": "It likes playing mischievous tricks such as screaming and wailing to startle people at night.",
+            "stadium2red": "It likes playing mischievous tricks such as screaming and wailing to startle people at night.",
+            "stadium2blue": "",
             "ruby": "Misdreavus frightens people with a creepy, sobbing cry. The Pokémon apparently uses its red spheres to absorb the fearful feelings of foes and turn them into nutrition.",
             "sapphire": "Misdreavus frightens people with a creepy, sobbing cry. The Pokémon apparently uses its red spheres to absorb the fearful feelings of foes and turn them into nutrition.",
             "emerald": "A Misdreavus frightens people with a creepy, sobbing cry. It apparently uses its red spheres to absorb the fear of foes as its nutrition.",
@@ -6220,7 +6791,8 @@ export const Entries = [
             "gold": "Their shapes look like hieroglyphs on ancient tablets. It is said that the two are somehow related.",
             "silver": "Its flat, thin body is always stuck on walls. Its shape appears to have some meaning.",
             "crystal": "Because different types of Unown exist, it is said that they must have a variety of abilities.",
-            "stadium2": "Their shapes look like hieroglyphs on ancient tablets. It is said that the two are somehow related.",
+            "stadium2red": "Their shapes look like hieroglyphs on ancient tablets. It is said that the two are somehow related.",
+            "stadium2blue": "",
             "ruby": "This Pokémon is shaped like ancient writing. It is a mystery as to which came first, the ancient writings or the various Unown. Research into this topic is ongoing but nothing is known.",
             "sapphire": "This Pokémon is shaped like ancient writing. It is a mystery as to which came first, the ancient writings or the various Unown. Research into this topic is ongoing but nothing is known.",
             "emerald": "This Pokémon is shaped like ancient text characters. Although research is ongoing, it is a mystery as to which came first, the ancient writings or the various Unown.",
@@ -6251,7 +6823,8 @@ export const Entries = [
             "gold": "It hates light and shock. If attacked, it inflates its body to pump up its counterstrike.",
             "silver": "To keep its pitch-black tail hidden, it lives quietly in the darkness. It is never first to attack.",
             "crystal": "In order to conceal its black tail, it lives in a dark cave and only moves about at night.",
-            "stadium2": "It hates light and shock. If attacked, it inflates its body to pump up its counterstrike.",
+            "stadium2red": "It hates light and shock. If attacked, it inflates its body to pump up its counterstrike.",
+            "stadium2blue": "",
             "ruby": "If two or more Wobbuffet meet, they will turn competitive and try to outdo the other's endurance. However, they may try to see which one can endure the longest without food. Trainers need to beware of this habit.",
             "sapphire": "Wobbuffet does nothing but endure attacks - it won't attack on its own. However, it won't endure an attack on its tail. When that happens, the Pokémon will try to take the foe with it using Destiny Bond.",
             "emerald": "Usually docile, a Wobbuffet strikes back ferociously if its black tail is attacked. It makes its lair in caves where it waits for nightfall.",
@@ -6283,7 +6856,8 @@ export const Entries = [
             "gold": "Its tail has a small brain of its own. Beware! If you get close, it may react to your scent and bite.",
             "silver": "Its tail, which also contains a small brain, may bite on its own if it notices an alluring smell.",
             "crystal": "When it is in danger, its tail uses some sort of mysterious powers to drive away the enemy.",
-            "stadium2": "Its tail has a small brain of its own. Beware! If you get close, it may react to your scent and bite.",
+            "stadium2red": "Its tail has a small brain of its own. Beware! If you get close, it may react to your scent and bite.",
+            "stadium2blue": "",
             "ruby": "Girafarig's rear head also has a brain, but it is small. The rear head attacks in response to smells and sounds. Approaching this Pokémon from behind can cause the rear head to suddenly lash out and bite.",
             "sapphire": "Girafarig's rear head contains a tiny brain that is too small for thinking. However, the rear head doesn't need to sleep, so it can keep watch over its surroundings 24 hours a day.",
             "emerald": "A Girafarig is an herbivore—it eats grass and tree shoots. While it is eating, its tail makes chewing and swallowing motions as if it were also eating.",
@@ -6313,7 +6887,8 @@ export const Entries = [
             "gold": "It likes to make its shell thicker by adding layers of tree bark. The additional weight doesn't bother it.",
             "silver": "It hangs and waits for flying insect prey to come near. It does not move about much on its own.",
             "crystal": "It spits out a fluid that it uses to glue tree bark to its body. The fluid hardens when it touches air.",
-            "stadium2": "It likes to make its shell thicker by adding layers of tree bark. The additional weight doesn't bother it.",
+            "stadium2red": "It likes to make its shell thicker by adding layers of tree bark. The additional weight doesn't bother it.",
+            "stadium2blue": "",
             "ruby": "Pineco hangs from a tree branch and patiently waits for prey to come along. If the Pokémon is disturbed while eating by someone shaking its tree, it drops down to the ground and explodes with no warning.",
             "sapphire": "Pineco hangs from a tree branch and patiently waits for prey to come along. If the Pokémon is disturbed while eating by someone shaking its tree, it drops down to the ground and explodes with no warning.",
             "emerald": "A Pineco hangs from a tree branch and waits for prey. While eating, if it is disturbed by someone shaking its tree, it falls on the ground and suddenly explodes.",
@@ -6345,7 +6920,8 @@ export const Entries = [
             "gold": "Its entire body is shielded by a steel-hard shell. What lurks inside the armor is a total mystery.",
             "silver": "It remains immovably rooted to its tree. It scatters pieces of its hard shell to drive its enemies away.",
             "crystal": "Usually found hanging on to a fat tree trunk. It shoots out bits of its shell when it sees action.",
-            "stadium2": "Its entire body is shielded by a steel-hard shell. What lurks inside the armor is a total mystery.",
+            "stadium2red": "Its entire body is shielded by a steel-hard shell. What lurks inside the armor is a total mystery.",
+            "stadium2blue": "",
             "ruby": "Forretress conceals itself inside its hardened steel shell. The shell is opened when the Pokémon is catching prey, but it does so at such a quick pace that the shell's inside cannot be seen.",
             "sapphire": "Forretress conceals itself inside its hardened steel shell. The shell is opened when the Pokémon is catching prey, but it does so at such a quick pace that the shell's inside cannot be seen.",
             "emerald": "It keeps itself inside its steel shell. The shell is opened when it is catching prey, but it is so quick that the shell's inside cannot be seen.",
@@ -6377,7 +6953,8 @@ export const Entries = [
             "gold": "When spotted, this Pokémon escapes backward by furiously boring into the ground with its tail.",
             "silver": "If spotted, it escapes by burrowing with its tail. It can float just slightly using its wings.",
             "crystal": "It hides deep inside caves where no light ever reaches it and remains virtually motionless there.",
-            "stadium2": "When spotted, this Pokémon escapes backward by furiously boring into the ground with its tail.",
+            "stadium2red": "When spotted, this Pokémon escapes backward by furiously boring into the ground with its tail.",
+            "stadium2blue": "",
             "ruby": "Dunsparce has a drill for its tail. It uses this tail to burrow into the ground backwards. This Pokémon is known to make its nest in complex shapes deep under the ground.",
             "sapphire": "Dunsparce has a drill for its tail. It uses this tail to burrow into the ground backwards. This Pokémon is known to make its nest in complex shapes deep under the ground.",
             "emerald": "Its drill-tipped tail is used to burrow into the ground backwards. This Pokémon is known to make its nest in complex shapes deep under the ground.",
@@ -6411,7 +6988,8 @@ export const Entries = [
             "gold": "It flies straight at its target's face then clamps down on the startled victim to inject poison.",
             "silver": "It usually clings to cliffs. When it spots its prey, it spreads its wings and glides down to attack.",
             "crystal": "It builds its nest on a steep cliff. When it is done gliding, it hops along the ground back to its nest.",
-            "stadium2": "It flies straight at its target's face then clamps down on the startled victim to inject poison.",
+            "stadium2red": "It flies straight at its target's face then clamps down on the startled victim to inject poison.",
+            "stadium2blue": "",
             "ruby": "Gligar glides through the air without a sound as if it were sliding. This Pokémon hangs on to the face of its foe using its clawed hind legs and the large pincers on its forelegs, then injects the prey with its poison barb.",
             "sapphire": "Gligar glides through the air without a sound as if it were sliding. This Pokémon hangs on to the face of its foe using its clawed hind legs and the large pincers on its forelegs, then injects the prey with its poison barb.",
             "emerald": "It glides without making a single sound. It grasps the face of its foe using its hind and large front claws, then stabs with its poison barb.",
@@ -6442,7 +7020,8 @@ export const Entries = [
             "gold": "Its body has been compressed deep under the ground. As a result, it is even harder than a diamond.",
             "silver": "It is said that if an Onix lives for over 100 years, its composition changes to become diamond-like.",
             "crystal": "The many small metal particles that cover this Pokémon's body reflect bright light well.",
-            "stadium2": "Its body has been compressed deep under the ground. As a result, it is even harder than a diamond.",
+            "stadium2red": "Its body has been compressed deep under the ground. As a result, it is even harder than a diamond.",
+            "stadium2blue": "",
             "ruby": "Steelix lives even further underground than Onix. This Pokémon is known to dig towards the earth's core. There are records of this Pokémon reaching a depth of over six-tenths of a mile underground.",
             "sapphire": "Steelix lives even further underground than Onix. This Pokémon is known to dig towards the earth's core. There are records of this Pokémon reaching a depth of over six-tenths of a mile underground.",
             "emerald": "Steelix live even further underground than Onix. This Pokémon is known to dig toward the earth's core, reaching a depth of over six-tenths of a mile underground.",
@@ -6475,7 +7054,8 @@ export const Entries = [
             "gold": "Although it looks frightening, it is actually kind and affectionate. It is very popular among women.",
             "silver": "It has an active, playful nature. Many women like to frolic with it because of its affectionate ways.",
             "crystal": "In truth, it is a cowardly Pokémon. It growls eagerly in order to hide its fear from its opponent.",
-            "stadium2": "Although it looks frightening, it is actually kind and affectionate. It is very popular among women.",
+            "stadium2red": "Although it looks frightening, it is actually kind and affectionate. It is very popular among women.",
+            "stadium2blue": "",
             "ruby": "By baring its fangs and making scary face, Snubbull sends smaller Pokémon scurrying away in terror. However, this Pokémon seems a little sad at making its foes flee.",
             "sapphire": "By baring its fangs and making scary face, Snubbull sends smaller Pokémon scurrying away in terror. However, this Pokémon seems a little sad at making its foes flee.",
             "emerald": "By baring its fangs and making a scary face, it sends smaller Pokémon scurrying in terror. The Snubbull does seem a little sad at making its foes flee.",
@@ -6509,7 +7089,8 @@ export const Entries = [
             "gold": "It is actually timid and easily spooked. If attacked, it flails about to fend off its attacker.",
             "silver": "Because its fangs are too heavy, it always keeps its head tilted down. However, its Bite is powerful.",
             "crystal": "It can make most any Pokémon run away simply by opening its mouth wide to reveal its big fangs.",
-            "stadium2": "It is actually timid and easily spooked. If attacked, it flails about to fend off its attacker.",
+            "stadium2red": "It is actually timid and easily spooked. If attacked, it flails about to fend off its attacker.",
+            "stadium2blue": "",
             "ruby": "Granbull has a particularly well- developed lower jaw. The enormous fangs are heavy, causing the Pokémon to tip its head back for balance. Unless it is startled, it will not try to bite indiscriminately.",
             "sapphire": "Granbull has a particularly well- developed lower jaw. The enormous fangs are heavy, causing the Pokémon to tip its head back for balance. Unless it is startled, it will not try to bite indiscriminately.",
             "emerald": "It has a particularly well-developed lower jaw. The huge fangs are heavy, causing it to tilt its head. Unless it is startled, it will not try to bite.",
@@ -6543,7 +7124,8 @@ export const Entries = [
             "gold": "To fire its poison spikes, it must inflate its body by drinking over 2.6 gallons of water all at once.",
             "silver": "The small spikes covering its body developed from scales. They inject a toxin that causes fainting.",
             "crystal": "When faced with a larger opponent, it swallows as much water as it can to match the opponent's size.",
-            "stadium2": "To fire its poison spikes, it must inflate its body by drinking over 2.6 gallons of water all at once.",
+            "stadium2red": "To fire its poison spikes, it must inflate its body by drinking over 2.6 gallons of water all at once.",
+            "stadium2blue": "",
             "ruby": "Qwilfish sucks in water, inflating itself. This Pokémon uses the pressure of the water it swallowed to shoot toxic quills all at once from all over its body. It finds swimming somewhat challenging.",
             "sapphire": "Qwilfish sucks in water, inflating itself. This Pokémon uses the pressure of the water it swallowed to shoot toxic quills all at once from all over its body. It finds swimming somewhat challenging.",
             "emerald": "A Qwilfish uses the pressure of water it swallows to shoot toxic quills all at once from all over its body. It finds swimming to be somewhat challenging.",
@@ -6582,7 +7164,8 @@ export const Entries = [
             "gold": "It swings its eye-patterned pincers up to scare its foes. This makes it look like it has three heads.",
             "silver": "Its wings are not used for flying. They are flapped at high speed to adjust its body temperature.",
             "crystal": "This Pokémon's pincers, which contain steel, can crush any hard object it gets a hold of into bits.",
-            "stadium2": "It swings its eye-patterned pincers up to scare its foes. This makes it look like it has three heads.",
+            "stadium2red": "It swings its eye-patterned pincers up to scare its foes. This makes it look like it has three heads.",
+            "stadium2blue": "",
             "ruby": "Scizor has a body with the hardness of steel. It is not easily fazed by ordinary sorts of attacks. This Pokémon flaps its wings to regulate its body temperature.",
             "sapphire": "Scizor has a body with the hardness of steel. It is not easily fazed by ordinary sorts of attacks. This Pokémon flaps its wings to regulate its body temperature.",
             "emerald": "A Scizor has a body with the hardness of steel. It is not easily fazed by ordinary sorts of attacks. It flaps its wings to regulate its body temperature.",
@@ -6629,7 +7212,8 @@ export const Entries = [
             "gold": "The Berries it stores in its vase-like shell decompose and become a gooey liquid.",
             "silver": "It stores Berries inside its shell. To avoid attacks, it hides beneath rocks and remains completely still.",
             "crystal": "The fluid secreted by its toes carves holes in rocks for nesting and can be mixed with Berries to make a drink.",
-            "stadium2": "The Berries it stores in its vase-like shell decompose and become a gooey liquid.",
+            "stadium2red": "The Berries it stores in its vase-like shell decompose and become a gooey liquid.",
+            "stadium2blue": "",
             "ruby": "Shuckle quietly hides itself under rocks, keeping its body concealed inside its hard shell while eating berries it has stored away. The berries mix with its body fluids to become a juice.",
             "sapphire": "Shuckle quietly hides itself under rocks, keeping its body concealed inside its hard shell while eating berries it has stored away. The berries mix with its body fluids to become a juice.",
             "emerald": "A Shuckle hides under rocks, keeping its body concealed inside its shell while eating stored berries. The berries mix with its body fluids to become a juice.",
@@ -6661,7 +7245,8 @@ export const Entries = [
             "gold": "This powerful Pokémon thrusts its prized horn under its enemies' bellies then lifts and throws them.",
             "silver": "Usually docile, but if disturbed while sipping honey, it chases off the intruder with its horn.",
             "crystal": "With its Herculean powers, it can easily throw around an object that is 100 times its own weight.",
-            "stadium2": "This powerful Pokémon thrusts its prized horn under the enemies' bellies then lifts and throws them.",
+            "stadium2red": "This powerful Pokémon thrusts its prized horn under the enemies' bellies then lifts and throws them.",
+            "stadium2blue": "",
             "ruby": "Heracross charges in a straight line at its foe, slips beneath the foe's grasp, and then scoops up and hurls the opponent with its mighty horn. This Pokémon even has enough power to topple a massive tree.",
             "sapphire": "Heracross has sharp claws on its feet. These are planted firmly into the ground or the bark of a tree, giving the Pokémon a secure and solid footing to forcefully fling away foes with its proud horn.",
             "emerald": "They gather in forests seeking the sweet sap of trees. It is completely clad in a steel-hard shell. It is proud of its horn, which it uses to fling foes.",
@@ -6697,1408 +7282,4 @@ export const Entries = [
             "ultraMoon": "A tremendous influx of energy builds it up, but when Mega Evolution ends, Heracross is bothered by terrible soreness in its muscles.",
         }
     },
-    {
-        "no": "#025",
-        "name": "Pikachu",
-        "entries": {
-            "gold": "This intelligent Pokémon roasts hard berries with electricity to make them tender enough to eat.",
-            "silver": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "crystal": "When it is angered, it immediately discharges the energy stored in the pouches in its cheeks.",
-            "stadium2": "This intelligent Pokémon roasts hard Berries with electricity to make them tender enough to eat.",
-            "ruby": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
-            "sapphire": "This Pokémon has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while Pikachu sleeps. It occasionally discharges electricity when it is dozy after waking up.",
-            "emerald": "It stores electricity in the electric sacs on its cheeks. When it releases pent-up energy in a burst, the electric power is equal to a lightning bolt.",
-            "firered": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
-            "leafgreen": "When several of these Pokémon gather, their electricity could build and cause lightning storms.",
-            "diamond": "It lives in forests with others. It stores electricity in the pouches on its cheeks.",
-            "pearl": "If it looses crackling power from the electrical pouches on its cheeks, it is being wary.",
-            "platinum": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "heartgold": "This intelligent Pokémon roasts hard berries with electricity to make them tender enough to eat.",
-            "soulsilver": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "black": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "white": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "black2": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "white2": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "x": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "y": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
-            "omegaRuby": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
-            "alphaSapphire": "This Pokémon has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while Pikachu sleeps. It occasionally discharges electricity when it is dozy after waking up.",
-            "sun": "A plan was recently announced to gather many Pikachu and make an electric power plant.",
-            "moon": "It's in its nature to store electricity. It feels stressed now and then if it's unable to fully discharge the electricity.",
-            "ultraSun": "Its nature is to store up electricity. Forests where nests of Pikachu live are dangerous, since the trees are so often struck by lightning.",
-            "ultraMoon": "While sleeping, it generates electricity in the sacs in its cheeks. If it's not getting enough sleep, it will be able to use only weak electricity.",
-            "letsGoPikachu": "This forest-dwelling Pokémon stores electricity in its cheeks, so you'll feel a tingly shock if you touch it.",
-            "letsGoEevee": "This forest-dwelling Pokémon stores electricity in its cheeks, so you'll feel a tingly shock if you touch it.",
-            "sword": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.",
-            "shield": "When Pikachu meet, they'll touch their tails together and exchange electricity through them as a form of greeting.",
-            "brilliantDiamond": "It lives in forests with others. It stores electricity in the electric sacs on its cheeks.",
-            "shiningPearl": "If it looses crackling power from the electric sacs on its cheeks, it is being wary.",
-            "legendsArceus": "Possesses cheek sacs in which it stores electricity. This clever forest-dweller roasts tough berries with an electric shock before consuming them."
-        }
-    },
-    {
-        "no": "#025",
-        "name": "Pikachu",
-        "entries": {
-            "gold": "This intelligent Pokémon roasts hard berries with electricity to make them tender enough to eat.",
-            "silver": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "crystal": "When it is angered, it immediately discharges the energy stored in the pouches in its cheeks.",
-            "stadium2": "This intelligent Pokémon roasts hard Berries with electricity to make them tender enough to eat.",
-            "ruby": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
-            "sapphire": "This Pokémon has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while Pikachu sleeps. It occasionally discharges electricity when it is dozy after waking up.",
-            "emerald": "It stores electricity in the electric sacs on its cheeks. When it releases pent-up energy in a burst, the electric power is equal to a lightning bolt.",
-            "firered": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
-            "leafgreen": "When several of these Pokémon gather, their electricity could build and cause lightning storms.",
-            "diamond": "It lives in forests with others. It stores electricity in the pouches on its cheeks.",
-            "pearl": "If it looses crackling power from the electrical pouches on its cheeks, it is being wary.",
-            "platinum": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "heartgold": "This intelligent Pokémon roasts hard berries with electricity to make them tender enough to eat.",
-            "soulsilver": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "black": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "white": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "black2": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "white2": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "x": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "y": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
-            "omegaRuby": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
-            "alphaSapphire": "This Pokémon has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while Pikachu sleeps. It occasionally discharges electricity when it is dozy after waking up.",
-            "sun": "A plan was recently announced to gather many Pikachu and make an electric power plant.",
-            "moon": "It's in its nature to store electricity. It feels stressed now and then if it's unable to fully discharge the electricity.",
-            "ultraSun": "Its nature is to store up electricity. Forests where nests of Pikachu live are dangerous, since the trees are so often struck by lightning.",
-            "ultraMoon": "While sleeping, it generates electricity in the sacs in its cheeks. If it's not getting enough sleep, it will be able to use only weak electricity.",
-            "letsGoPikachu": "This forest-dwelling Pokémon stores electricity in its cheeks, so you'll feel a tingly shock if you touch it.",
-            "letsGoEevee": "This forest-dwelling Pokémon stores electricity in its cheeks, so you'll feel a tingly shock if you touch it.",
-            "sword": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.",
-            "shield": "When Pikachu meet, they'll touch their tails together and exchange electricity through them as a form of greeting.",
-            "brilliantDiamond": "It lives in forests with others. It stores electricity in the electric sacs on its cheeks.",
-            "shiningPearl": "If it looses crackling power from the electric sacs on its cheeks, it is being wary.",
-            "legendsArceus": "Possesses cheek sacs in which it stores electricity. This clever forest-dweller roasts tough berries with an electric shock before consuming them."
-        }
-    },
-    {
-        "no": "#025",
-        "name": "Pikachu",
-        "entries": {
-            "gold": "This intelligent Pokémon roasts hard berries with electricity to make them tender enough to eat.",
-            "silver": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "crystal": "When it is angered, it immediately discharges the energy stored in the pouches in its cheeks.",
-            "stadium2": "This intelligent Pokémon roasts hard Berries with electricity to make them tender enough to eat.",
-            "ruby": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
-            "sapphire": "This Pokémon has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while Pikachu sleeps. It occasionally discharges electricity when it is dozy after waking up.",
-            "emerald": "It stores electricity in the electric sacs on its cheeks. When it releases pent-up energy in a burst, the electric power is equal to a lightning bolt.",
-            "firered": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
-            "leafgreen": "When several of these Pokémon gather, their electricity could build and cause lightning storms.",
-            "diamond": "It lives in forests with others. It stores electricity in the pouches on its cheeks.",
-            "pearl": "If it looses crackling power from the electrical pouches on its cheeks, it is being wary.",
-            "platinum": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "heartgold": "This intelligent Pokémon roasts hard berries with electricity to make them tender enough to eat.",
-            "soulsilver": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "black": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "white": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "black2": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "white2": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "x": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "y": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
-            "omegaRuby": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
-            "alphaSapphire": "This Pokémon has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while Pikachu sleeps. It occasionally discharges electricity when it is dozy after waking up.",
-            "sun": "A plan was recently announced to gather many Pikachu and make an electric power plant.",
-            "moon": "It's in its nature to store electricity. It feels stressed now and then if it's unable to fully discharge the electricity.",
-            "ultraSun": "Its nature is to store up electricity. Forests where nests of Pikachu live are dangerous, since the trees are so often struck by lightning.",
-            "ultraMoon": "While sleeping, it generates electricity in the sacs in its cheeks. If it's not getting enough sleep, it will be able to use only weak electricity.",
-            "letsGoPikachu": "This forest-dwelling Pokémon stores electricity in its cheeks, so you'll feel a tingly shock if you touch it.",
-            "letsGoEevee": "This forest-dwelling Pokémon stores electricity in its cheeks, so you'll feel a tingly shock if you touch it.",
-            "sword": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.",
-            "shield": "When Pikachu meet, they'll touch their tails together and exchange electricity through them as a form of greeting.",
-            "brilliantDiamond": "It lives in forests with others. It stores electricity in the electric sacs on its cheeks.",
-            "shiningPearl": "If it looses crackling power from the electric sacs on its cheeks, it is being wary.",
-            "legendsArceus": "Possesses cheek sacs in which it stores electricity. This clever forest-dweller roasts tough berries with an electric shock before consuming them."
-        }
-    },
-    {
-        "no": "#025",
-        "name": "Pikachu",
-        "entries": {
-            "gold": "This intelligent Pokémon roasts hard berries with electricity to make them tender enough to eat.",
-            "silver": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "crystal": "When it is angered, it immediately discharges the energy stored in the pouches in its cheeks.",
-            "stadium2": "This intelligent Pokémon roasts hard Berries with electricity to make them tender enough to eat.",
-            "ruby": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
-            "sapphire": "This Pokémon has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while Pikachu sleeps. It occasionally discharges electricity when it is dozy after waking up.",
-            "emerald": "It stores electricity in the electric sacs on its cheeks. When it releases pent-up energy in a burst, the electric power is equal to a lightning bolt.",
-            "firered": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
-            "leafgreen": "When several of these Pokémon gather, their electricity could build and cause lightning storms.",
-            "diamond": "It lives in forests with others. It stores electricity in the pouches on its cheeks.",
-            "pearl": "If it looses crackling power from the electrical pouches on its cheeks, it is being wary.",
-            "platinum": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "heartgold": "This intelligent Pokémon roasts hard berries with electricity to make them tender enough to eat.",
-            "soulsilver": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "black": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "white": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "black2": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "white2": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "x": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "y": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
-            "omegaRuby": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
-            "alphaSapphire": "This Pokémon has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while Pikachu sleeps. It occasionally discharges electricity when it is dozy after waking up.",
-            "sun": "A plan was recently announced to gather many Pikachu and make an electric power plant.",
-            "moon": "It's in its nature to store electricity. It feels stressed now and then if it's unable to fully discharge the electricity.",
-            "ultraSun": "Its nature is to store up electricity. Forests where nests of Pikachu live are dangerous, since the trees are so often struck by lightning.",
-            "ultraMoon": "While sleeping, it generates electricity in the sacs in its cheeks. If it's not getting enough sleep, it will be able to use only weak electricity.",
-            "letsGoPikachu": "This forest-dwelling Pokémon stores electricity in its cheeks, so you'll feel a tingly shock if you touch it.",
-            "letsGoEevee": "This forest-dwelling Pokémon stores electricity in its cheeks, so you'll feel a tingly shock if you touch it.",
-            "sword": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.",
-            "shield": "When Pikachu meet, they'll touch their tails together and exchange electricity through them as a form of greeting.",
-            "brilliantDiamond": "It lives in forests with others. It stores electricity in the electric sacs on its cheeks.",
-            "shiningPearl": "If it looses crackling power from the electric sacs on its cheeks, it is being wary.",
-            "legendsArceus": "Possesses cheek sacs in which it stores electricity. This clever forest-dweller roasts tough berries with an electric shock before consuming them."
-        }
-    },
-    {
-        "no": "#025",
-        "name": "Pikachu",
-        "entries": {
-            "gold": "This intelligent Pokémon roasts hard berries with electricity to make them tender enough to eat.",
-            "silver": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "crystal": "When it is angered, it immediately discharges the energy stored in the pouches in its cheeks.",
-            "stadium2": "This intelligent Pokémon roasts hard Berries with electricity to make them tender enough to eat.",
-            "ruby": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
-            "sapphire": "This Pokémon has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while Pikachu sleeps. It occasionally discharges electricity when it is dozy after waking up.",
-            "emerald": "It stores electricity in the electric sacs on its cheeks. When it releases pent-up energy in a burst, the electric power is equal to a lightning bolt.",
-            "firered": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
-            "leafgreen": "When several of these Pokémon gather, their electricity could build and cause lightning storms.",
-            "diamond": "It lives in forests with others. It stores electricity in the pouches on its cheeks.",
-            "pearl": "If it looses crackling power from the electrical pouches on its cheeks, it is being wary.",
-            "platinum": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "heartgold": "This intelligent Pokémon roasts hard berries with electricity to make them tender enough to eat.",
-            "soulsilver": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "black": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "white": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "black2": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "white2": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "x": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "y": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
-            "omegaRuby": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
-            "alphaSapphire": "This Pokémon has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while Pikachu sleeps. It occasionally discharges electricity when it is dozy after waking up.",
-            "sun": "A plan was recently announced to gather many Pikachu and make an electric power plant.",
-            "moon": "It's in its nature to store electricity. It feels stressed now and then if it's unable to fully discharge the electricity.",
-            "ultraSun": "Its nature is to store up electricity. Forests where nests of Pikachu live are dangerous, since the trees are so often struck by lightning.",
-            "ultraMoon": "While sleeping, it generates electricity in the sacs in its cheeks. If it's not getting enough sleep, it will be able to use only weak electricity.",
-            "letsGoPikachu": "This forest-dwelling Pokémon stores electricity in its cheeks, so you'll feel a tingly shock if you touch it.",
-            "letsGoEevee": "This forest-dwelling Pokémon stores electricity in its cheeks, so you'll feel a tingly shock if you touch it.",
-            "sword": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.",
-            "shield": "When Pikachu meet, they'll touch their tails together and exchange electricity through them as a form of greeting.",
-            "brilliantDiamond": "It lives in forests with others. It stores electricity in the electric sacs on its cheeks.",
-            "shiningPearl": "If it looses crackling power from the electric sacs on its cheeks, it is being wary.",
-            "legendsArceus": "Possesses cheek sacs in which it stores electricity. This clever forest-dweller roasts tough berries with an electric shock before consuming them."
-        }
-    },
-    {
-        "no": "#025",
-        "name": "Pikachu",
-        "entries": {
-            "gold": "This intelligent Pokémon roasts hard berries with electricity to make them tender enough to eat.",
-            "silver": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "crystal": "When it is angered, it immediately discharges the energy stored in the pouches in its cheeks.",
-            "stadium2": "This intelligent Pokémon roasts hard Berries with electricity to make them tender enough to eat.",
-            "ruby": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
-            "sapphire": "This Pokémon has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while Pikachu sleeps. It occasionally discharges electricity when it is dozy after waking up.",
-            "emerald": "It stores electricity in the electric sacs on its cheeks. When it releases pent-up energy in a burst, the electric power is equal to a lightning bolt.",
-            "firered": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
-            "leafgreen": "When several of these Pokémon gather, their electricity could build and cause lightning storms.",
-            "diamond": "It lives in forests with others. It stores electricity in the pouches on its cheeks.",
-            "pearl": "If it looses crackling power from the electrical pouches on its cheeks, it is being wary.",
-            "platinum": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "heartgold": "This intelligent Pokémon roasts hard berries with electricity to make them tender enough to eat.",
-            "soulsilver": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "black": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "white": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "black2": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "white2": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "x": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "y": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
-            "omegaRuby": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
-            "alphaSapphire": "This Pokémon has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while Pikachu sleeps. It occasionally discharges electricity when it is dozy after waking up.",
-            "sun": "A plan was recently announced to gather many Pikachu and make an electric power plant.",
-            "moon": "It's in its nature to store electricity. It feels stressed now and then if it's unable to fully discharge the electricity.",
-            "ultraSun": "Its nature is to store up electricity. Forests where nests of Pikachu live are dangerous, since the trees are so often struck by lightning.",
-            "ultraMoon": "While sleeping, it generates electricity in the sacs in its cheeks. If it's not getting enough sleep, it will be able to use only weak electricity.",
-            "letsGoPikachu": "This forest-dwelling Pokémon stores electricity in its cheeks, so you'll feel a tingly shock if you touch it.",
-            "letsGoEevee": "This forest-dwelling Pokémon stores electricity in its cheeks, so you'll feel a tingly shock if you touch it.",
-            "sword": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.",
-            "shield": "When Pikachu meet, they'll touch their tails together and exchange electricity through them as a form of greeting.",
-            "brilliantDiamond": "It lives in forests with others. It stores electricity in the electric sacs on its cheeks.",
-            "shiningPearl": "If it looses crackling power from the electric sacs on its cheeks, it is being wary.",
-            "legendsArceus": "Possesses cheek sacs in which it stores electricity. This clever forest-dweller roasts tough berries with an electric shock before consuming them."
-        }
-    },
-    {
-        "no": "#025",
-        "name": "Pikachu",
-        "entries": {
-            "gold": "This intelligent Pokémon roasts hard berries with electricity to make them tender enough to eat.",
-            "silver": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "crystal": "When it is angered, it immediately discharges the energy stored in the pouches in its cheeks.",
-            "stadium2": "This intelligent Pokémon roasts hard Berries with electricity to make them tender enough to eat.",
-            "ruby": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
-            "sapphire": "This Pokémon has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while Pikachu sleeps. It occasionally discharges electricity when it is dozy after waking up.",
-            "emerald": "It stores electricity in the electric sacs on its cheeks. When it releases pent-up energy in a burst, the electric power is equal to a lightning bolt.",
-            "firered": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
-            "leafgreen": "When several of these Pokémon gather, their electricity could build and cause lightning storms.",
-            "diamond": "It lives in forests with others. It stores electricity in the pouches on its cheeks.",
-            "pearl": "If it looses crackling power from the electrical pouches on its cheeks, it is being wary.",
-            "platinum": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "heartgold": "This intelligent Pokémon roasts hard berries with electricity to make them tender enough to eat.",
-            "soulsilver": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "black": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "white": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "black2": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "white2": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "x": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "y": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
-            "omegaRuby": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
-            "alphaSapphire": "This Pokémon has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while Pikachu sleeps. It occasionally discharges electricity when it is dozy after waking up.",
-            "sun": "A plan was recently announced to gather many Pikachu and make an electric power plant.",
-            "moon": "It's in its nature to store electricity. It feels stressed now and then if it's unable to fully discharge the electricity.",
-            "ultraSun": "Its nature is to store up electricity. Forests where nests of Pikachu live are dangerous, since the trees are so often struck by lightning.",
-            "ultraMoon": "While sleeping, it generates electricity in the sacs in its cheeks. If it's not getting enough sleep, it will be able to use only weak electricity.",
-            "letsGoPikachu": "This forest-dwelling Pokémon stores electricity in its cheeks, so you'll feel a tingly shock if you touch it.",
-            "letsGoEevee": "This forest-dwelling Pokémon stores electricity in its cheeks, so you'll feel a tingly shock if you touch it.",
-            "sword": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.",
-            "shield": "When Pikachu meet, they'll touch their tails together and exchange electricity through them as a form of greeting.",
-            "brilliantDiamond": "It lives in forests with others. It stores electricity in the electric sacs on its cheeks.",
-            "shiningPearl": "If it looses crackling power from the electric sacs on its cheeks, it is being wary.",
-            "legendsArceus": "Possesses cheek sacs in which it stores electricity. This clever forest-dweller roasts tough berries with an electric shock before consuming them."
-        }
-    },
-    {
-        "no": "#025",
-        "name": "Pikachu",
-        "entries": {
-            "gold": "This intelligent Pokémon roasts hard berries with electricity to make them tender enough to eat.",
-            "silver": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "crystal": "When it is angered, it immediately discharges the energy stored in the pouches in its cheeks.",
-            "stadium2": "This intelligent Pokémon roasts hard Berries with electricity to make them tender enough to eat.",
-            "ruby": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
-            "sapphire": "This Pokémon has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while Pikachu sleeps. It occasionally discharges electricity when it is dozy after waking up.",
-            "emerald": "It stores electricity in the electric sacs on its cheeks. When it releases pent-up energy in a burst, the electric power is equal to a lightning bolt.",
-            "firered": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
-            "leafgreen": "When several of these Pokémon gather, their electricity could build and cause lightning storms.",
-            "diamond": "It lives in forests with others. It stores electricity in the pouches on its cheeks.",
-            "pearl": "If it looses crackling power from the electrical pouches on its cheeks, it is being wary.",
-            "platinum": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "heartgold": "This intelligent Pokémon roasts hard berries with electricity to make them tender enough to eat.",
-            "soulsilver": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "black": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "white": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "black2": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "white2": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "x": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "y": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
-            "omegaRuby": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
-            "alphaSapphire": "This Pokémon has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while Pikachu sleeps. It occasionally discharges electricity when it is dozy after waking up.",
-            "sun": "A plan was recently announced to gather many Pikachu and make an electric power plant.",
-            "moon": "It's in its nature to store electricity. It feels stressed now and then if it's unable to fully discharge the electricity.",
-            "ultraSun": "Its nature is to store up electricity. Forests where nests of Pikachu live are dangerous, since the trees are so often struck by lightning.",
-            "ultraMoon": "While sleeping, it generates electricity in the sacs in its cheeks. If it's not getting enough sleep, it will be able to use only weak electricity.",
-            "letsGoPikachu": "This forest-dwelling Pokémon stores electricity in its cheeks, so you'll feel a tingly shock if you touch it.",
-            "letsGoEevee": "This forest-dwelling Pokémon stores electricity in its cheeks, so you'll feel a tingly shock if you touch it.",
-            "sword": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.",
-            "shield": "When Pikachu meet, they'll touch their tails together and exchange electricity through them as a form of greeting.",
-            "brilliantDiamond": "It lives in forests with others. It stores electricity in the electric sacs on its cheeks.",
-            "shiningPearl": "If it looses crackling power from the electric sacs on its cheeks, it is being wary.",
-            "legendsArceus": "Possesses cheek sacs in which it stores electricity. This clever forest-dweller roasts tough berries with an electric shock before consuming them."
-        }
-    },
-    {
-        "no": "#025",
-        "name": "Pikachu",
-        "entries": {
-            "gold": "This intelligent Pokémon roasts hard berries with electricity to make them tender enough to eat.",
-            "silver": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "crystal": "When it is angered, it immediately discharges the energy stored in the pouches in its cheeks.",
-            "stadium2": "This intelligent Pokémon roasts hard Berries with electricity to make them tender enough to eat.",
-            "ruby": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
-            "sapphire": "This Pokémon has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while Pikachu sleeps. It occasionally discharges electricity when it is dozy after waking up.",
-            "emerald": "It stores electricity in the electric sacs on its cheeks. When it releases pent-up energy in a burst, the electric power is equal to a lightning bolt.",
-            "firered": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
-            "leafgreen": "When several of these Pokémon gather, their electricity could build and cause lightning storms.",
-            "diamond": "It lives in forests with others. It stores electricity in the pouches on its cheeks.",
-            "pearl": "If it looses crackling power from the electrical pouches on its cheeks, it is being wary.",
-            "platinum": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "heartgold": "This intelligent Pokémon roasts hard berries with electricity to make them tender enough to eat.",
-            "soulsilver": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "black": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "white": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "black2": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "white2": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "x": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "y": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
-            "omegaRuby": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
-            "alphaSapphire": "This Pokémon has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while Pikachu sleeps. It occasionally discharges electricity when it is dozy after waking up.",
-            "sun": "A plan was recently announced to gather many Pikachu and make an electric power plant.",
-            "moon": "It's in its nature to store electricity. It feels stressed now and then if it's unable to fully discharge the electricity.",
-            "ultraSun": "Its nature is to store up electricity. Forests where nests of Pikachu live are dangerous, since the trees are so often struck by lightning.",
-            "ultraMoon": "While sleeping, it generates electricity in the sacs in its cheeks. If it's not getting enough sleep, it will be able to use only weak electricity.",
-            "letsGoPikachu": "This forest-dwelling Pokémon stores electricity in its cheeks, so you'll feel a tingly shock if you touch it.",
-            "letsGoEevee": "This forest-dwelling Pokémon stores electricity in its cheeks, so you'll feel a tingly shock if you touch it.",
-            "sword": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.",
-            "shield": "When Pikachu meet, they'll touch their tails together and exchange electricity through them as a form of greeting.",
-            "brilliantDiamond": "It lives in forests with others. It stores electricity in the electric sacs on its cheeks.",
-            "shiningPearl": "If it looses crackling power from the electric sacs on its cheeks, it is being wary.",
-            "legendsArceus": "Possesses cheek sacs in which it stores electricity. This clever forest-dweller roasts tough berries with an electric shock before consuming them."
-        }
-    },
-    {
-        "no": "#025",
-        "name": "Pikachu",
-        "entries": {
-            "gold": "This intelligent Pokémon roasts hard berries with electricity to make them tender enough to eat.",
-            "silver": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "crystal": "When it is angered, it immediately discharges the energy stored in the pouches in its cheeks.",
-            "stadium2": "This intelligent Pokémon roasts hard Berries with electricity to make them tender enough to eat.",
-            "ruby": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
-            "sapphire": "This Pokémon has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while Pikachu sleeps. It occasionally discharges electricity when it is dozy after waking up.",
-            "emerald": "It stores electricity in the electric sacs on its cheeks. When it releases pent-up energy in a burst, the electric power is equal to a lightning bolt.",
-            "firered": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
-            "leafgreen": "When several of these Pokémon gather, their electricity could build and cause lightning storms.",
-            "diamond": "It lives in forests with others. It stores electricity in the pouches on its cheeks.",
-            "pearl": "If it looses crackling power from the electrical pouches on its cheeks, it is being wary.",
-            "platinum": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "heartgold": "This intelligent Pokémon roasts hard berries with electricity to make them tender enough to eat.",
-            "soulsilver": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "black": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "white": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "black2": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "white2": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "x": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "y": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
-            "omegaRuby": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
-            "alphaSapphire": "This Pokémon has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while Pikachu sleeps. It occasionally discharges electricity when it is dozy after waking up.",
-            "sun": "A plan was recently announced to gather many Pikachu and make an electric power plant.",
-            "moon": "It's in its nature to store electricity. It feels stressed now and then if it's unable to fully discharge the electricity.",
-            "ultraSun": "Its nature is to store up electricity. Forests where nests of Pikachu live are dangerous, since the trees are so often struck by lightning.",
-            "ultraMoon": "While sleeping, it generates electricity in the sacs in its cheeks. If it's not getting enough sleep, it will be able to use only weak electricity.",
-            "letsGoPikachu": "This forest-dwelling Pokémon stores electricity in its cheeks, so you'll feel a tingly shock if you touch it.",
-            "letsGoEevee": "This forest-dwelling Pokémon stores electricity in its cheeks, so you'll feel a tingly shock if you touch it.",
-            "sword": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.",
-            "shield": "When Pikachu meet, they'll touch their tails together and exchange electricity through them as a form of greeting.",
-            "brilliantDiamond": "It lives in forests with others. It stores electricity in the electric sacs on its cheeks.",
-            "shiningPearl": "If it looses crackling power from the electric sacs on its cheeks, it is being wary.",
-            "legendsArceus": "Possesses cheek sacs in which it stores electricity. This clever forest-dweller roasts tough berries with an electric shock before consuming them."
-        }
-    },
-    {
-        "no": "#025",
-        "name": "Pikachu",
-        "entries": {
-            "gold": "This intelligent Pokémon roasts hard berries with electricity to make them tender enough to eat.",
-            "silver": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "crystal": "When it is angered, it immediately discharges the energy stored in the pouches in its cheeks.",
-            "stadium2": "This intelligent Pokémon roasts hard Berries with electricity to make them tender enough to eat.",
-            "ruby": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
-            "sapphire": "This Pokémon has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while Pikachu sleeps. It occasionally discharges electricity when it is dozy after waking up.",
-            "emerald": "It stores electricity in the electric sacs on its cheeks. When it releases pent-up energy in a burst, the electric power is equal to a lightning bolt.",
-            "firered": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
-            "leafgreen": "When several of these Pokémon gather, their electricity could build and cause lightning storms.",
-            "diamond": "It lives in forests with others. It stores electricity in the pouches on its cheeks.",
-            "pearl": "If it looses crackling power from the electrical pouches on its cheeks, it is being wary.",
-            "platinum": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "heartgold": "This intelligent Pokémon roasts hard berries with electricity to make them tender enough to eat.",
-            "soulsilver": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "black": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "white": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "black2": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "white2": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "x": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "y": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
-            "omegaRuby": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
-            "alphaSapphire": "This Pokémon has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while Pikachu sleeps. It occasionally discharges electricity when it is dozy after waking up.",
-            "sun": "A plan was recently announced to gather many Pikachu and make an electric power plant.",
-            "moon": "It's in its nature to store electricity. It feels stressed now and then if it's unable to fully discharge the electricity.",
-            "ultraSun": "Its nature is to store up electricity. Forests where nests of Pikachu live are dangerous, since the trees are so often struck by lightning.",
-            "ultraMoon": "While sleeping, it generates electricity in the sacs in its cheeks. If it's not getting enough sleep, it will be able to use only weak electricity.",
-            "letsGoPikachu": "This forest-dwelling Pokémon stores electricity in its cheeks, so you'll feel a tingly shock if you touch it.",
-            "letsGoEevee": "This forest-dwelling Pokémon stores electricity in its cheeks, so you'll feel a tingly shock if you touch it.",
-            "sword": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.",
-            "shield": "When Pikachu meet, they'll touch their tails together and exchange electricity through them as a form of greeting.",
-            "brilliantDiamond": "It lives in forests with others. It stores electricity in the electric sacs on its cheeks.",
-            "shiningPearl": "If it looses crackling power from the electric sacs on its cheeks, it is being wary.",
-            "legendsArceus": "Possesses cheek sacs in which it stores electricity. This clever forest-dweller roasts tough berries with an electric shock before consuming them."
-        }
-    },
-    {
-        "no": "#025",
-        "name": "Pikachu",
-        "entries": {
-            "gold": "This intelligent Pokémon roasts hard berries with electricity to make them tender enough to eat.",
-            "silver": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "crystal": "When it is angered, it immediately discharges the energy stored in the pouches in its cheeks.",
-            "stadium2": "This intelligent Pokémon roasts hard Berries with electricity to make them tender enough to eat.",
-            "ruby": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
-            "sapphire": "This Pokémon has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while Pikachu sleeps. It occasionally discharges electricity when it is dozy after waking up.",
-            "emerald": "It stores electricity in the electric sacs on its cheeks. When it releases pent-up energy in a burst, the electric power is equal to a lightning bolt.",
-            "firered": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
-            "leafgreen": "When several of these Pokémon gather, their electricity could build and cause lightning storms.",
-            "diamond": "It lives in forests with others. It stores electricity in the pouches on its cheeks.",
-            "pearl": "If it looses crackling power from the electrical pouches on its cheeks, it is being wary.",
-            "platinum": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "heartgold": "This intelligent Pokémon roasts hard berries with electricity to make them tender enough to eat.",
-            "soulsilver": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "black": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "white": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "black2": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "white2": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "x": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "y": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
-            "omegaRuby": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
-            "alphaSapphire": "This Pokémon has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while Pikachu sleeps. It occasionally discharges electricity when it is dozy after waking up.",
-            "sun": "A plan was recently announced to gather many Pikachu and make an electric power plant.",
-            "moon": "It's in its nature to store electricity. It feels stressed now and then if it's unable to fully discharge the electricity.",
-            "ultraSun": "Its nature is to store up electricity. Forests where nests of Pikachu live are dangerous, since the trees are so often struck by lightning.",
-            "ultraMoon": "While sleeping, it generates electricity in the sacs in its cheeks. If it's not getting enough sleep, it will be able to use only weak electricity.",
-            "letsGoPikachu": "This forest-dwelling Pokémon stores electricity in its cheeks, so you'll feel a tingly shock if you touch it.",
-            "letsGoEevee": "This forest-dwelling Pokémon stores electricity in its cheeks, so you'll feel a tingly shock if you touch it.",
-            "sword": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.",
-            "shield": "When Pikachu meet, they'll touch their tails together and exchange electricity through them as a form of greeting.",
-            "brilliantDiamond": "It lives in forests with others. It stores electricity in the electric sacs on its cheeks.",
-            "shiningPearl": "If it looses crackling power from the electric sacs on its cheeks, it is being wary.",
-            "legendsArceus": "Possesses cheek sacs in which it stores electricity. This clever forest-dweller roasts tough berries with an electric shock before consuming them."
-        }
-    },
-    {
-        "no": "#025",
-        "name": "Pikachu",
-        "entries": {
-            "gold": "This intelligent Pokémon roasts hard berries with electricity to make them tender enough to eat.",
-            "silver": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "crystal": "When it is angered, it immediately discharges the energy stored in the pouches in its cheeks.",
-            "stadium2": "This intelligent Pokémon roasts hard Berries with electricity to make them tender enough to eat.",
-            "ruby": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
-            "sapphire": "This Pokémon has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while Pikachu sleeps. It occasionally discharges electricity when it is dozy after waking up.",
-            "emerald": "It stores electricity in the electric sacs on its cheeks. When it releases pent-up energy in a burst, the electric power is equal to a lightning bolt.",
-            "firered": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
-            "leafgreen": "When several of these Pokémon gather, their electricity could build and cause lightning storms.",
-            "diamond": "It lives in forests with others. It stores electricity in the pouches on its cheeks.",
-            "pearl": "If it looses crackling power from the electrical pouches on its cheeks, it is being wary.",
-            "platinum": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "heartgold": "This intelligent Pokémon roasts hard berries with electricity to make them tender enough to eat.",
-            "soulsilver": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "black": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "white": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "black2": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "white2": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "x": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "y": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
-            "omegaRuby": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
-            "alphaSapphire": "This Pokémon has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while Pikachu sleeps. It occasionally discharges electricity when it is dozy after waking up.",
-            "sun": "A plan was recently announced to gather many Pikachu and make an electric power plant.",
-            "moon": "It's in its nature to store electricity. It feels stressed now and then if it's unable to fully discharge the electricity.",
-            "ultraSun": "Its nature is to store up electricity. Forests where nests of Pikachu live are dangerous, since the trees are so often struck by lightning.",
-            "ultraMoon": "While sleeping, it generates electricity in the sacs in its cheeks. If it's not getting enough sleep, it will be able to use only weak electricity.",
-            "letsGoPikachu": "This forest-dwelling Pokémon stores electricity in its cheeks, so you'll feel a tingly shock if you touch it.",
-            "letsGoEevee": "This forest-dwelling Pokémon stores electricity in its cheeks, so you'll feel a tingly shock if you touch it.",
-            "sword": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.",
-            "shield": "When Pikachu meet, they'll touch their tails together and exchange electricity through them as a form of greeting.",
-            "brilliantDiamond": "It lives in forests with others. It stores electricity in the electric sacs on its cheeks.",
-            "shiningPearl": "If it looses crackling power from the electric sacs on its cheeks, it is being wary.",
-            "legendsArceus": "Possesses cheek sacs in which it stores electricity. This clever forest-dweller roasts tough berries with an electric shock before consuming them."
-        }
-    },
-    {
-        "no": "#025",
-        "name": "Pikachu",
-        "entries": {
-            "gold": "This intelligent Pokémon roasts hard berries with electricity to make them tender enough to eat.",
-            "silver": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "crystal": "When it is angered, it immediately discharges the energy stored in the pouches in its cheeks.",
-            "stadium2": "This intelligent Pokémon roasts hard Berries with electricity to make them tender enough to eat.",
-            "ruby": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
-            "sapphire": "This Pokémon has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while Pikachu sleeps. It occasionally discharges electricity when it is dozy after waking up.",
-            "emerald": "It stores electricity in the electric sacs on its cheeks. When it releases pent-up energy in a burst, the electric power is equal to a lightning bolt.",
-            "firered": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
-            "leafgreen": "When several of these Pokémon gather, their electricity could build and cause lightning storms.",
-            "diamond": "It lives in forests with others. It stores electricity in the pouches on its cheeks.",
-            "pearl": "If it looses crackling power from the electrical pouches on its cheeks, it is being wary.",
-            "platinum": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "heartgold": "This intelligent Pokémon roasts hard berries with electricity to make them tender enough to eat.",
-            "soulsilver": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "black": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "white": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "black2": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "white2": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "x": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "y": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
-            "omegaRuby": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
-            "alphaSapphire": "This Pokémon has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while Pikachu sleeps. It occasionally discharges electricity when it is dozy after waking up.",
-            "sun": "A plan was recently announced to gather many Pikachu and make an electric power plant.",
-            "moon": "It's in its nature to store electricity. It feels stressed now and then if it's unable to fully discharge the electricity.",
-            "ultraSun": "Its nature is to store up electricity. Forests where nests of Pikachu live are dangerous, since the trees are so often struck by lightning.",
-            "ultraMoon": "While sleeping, it generates electricity in the sacs in its cheeks. If it's not getting enough sleep, it will be able to use only weak electricity.",
-            "letsGoPikachu": "This forest-dwelling Pokémon stores electricity in its cheeks, so you'll feel a tingly shock if you touch it.",
-            "letsGoEevee": "This forest-dwelling Pokémon stores electricity in its cheeks, so you'll feel a tingly shock if you touch it.",
-            "sword": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.",
-            "shield": "When Pikachu meet, they'll touch their tails together and exchange electricity through them as a form of greeting.",
-            "brilliantDiamond": "It lives in forests with others. It stores electricity in the electric sacs on its cheeks.",
-            "shiningPearl": "If it looses crackling power from the electric sacs on its cheeks, it is being wary.",
-            "legendsArceus": "Possesses cheek sacs in which it stores electricity. This clever forest-dweller roasts tough berries with an electric shock before consuming them."
-        }
-    },
-    {
-        "no": "#025",
-        "name": "Pikachu",
-        "entries": {
-            "gold": "This intelligent Pokémon roasts hard berries with electricity to make them tender enough to eat.",
-            "silver": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "crystal": "When it is angered, it immediately discharges the energy stored in the pouches in its cheeks.",
-            "stadium2": "This intelligent Pokémon roasts hard Berries with electricity to make them tender enough to eat.",
-            "ruby": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
-            "sapphire": "This Pokémon has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while Pikachu sleeps. It occasionally discharges electricity when it is dozy after waking up.",
-            "emerald": "It stores electricity in the electric sacs on its cheeks. When it releases pent-up energy in a burst, the electric power is equal to a lightning bolt.",
-            "firered": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
-            "leafgreen": "When several of these Pokémon gather, their electricity could build and cause lightning storms.",
-            "diamond": "It lives in forests with others. It stores electricity in the pouches on its cheeks.",
-            "pearl": "If it looses crackling power from the electrical pouches on its cheeks, it is being wary.",
-            "platinum": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "heartgold": "This intelligent Pokémon roasts hard berries with electricity to make them tender enough to eat.",
-            "soulsilver": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "black": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "white": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "black2": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "white2": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "x": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "y": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
-            "omegaRuby": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
-            "alphaSapphire": "This Pokémon has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while Pikachu sleeps. It occasionally discharges electricity when it is dozy after waking up.",
-            "sun": "A plan was recently announced to gather many Pikachu and make an electric power plant.",
-            "moon": "It's in its nature to store electricity. It feels stressed now and then if it's unable to fully discharge the electricity.",
-            "ultraSun": "Its nature is to store up electricity. Forests where nests of Pikachu live are dangerous, since the trees are so often struck by lightning.",
-            "ultraMoon": "While sleeping, it generates electricity in the sacs in its cheeks. If it's not getting enough sleep, it will be able to use only weak electricity.",
-            "letsGoPikachu": "This forest-dwelling Pokémon stores electricity in its cheeks, so you'll feel a tingly shock if you touch it.",
-            "letsGoEevee": "This forest-dwelling Pokémon stores electricity in its cheeks, so you'll feel a tingly shock if you touch it.",
-            "sword": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.",
-            "shield": "When Pikachu meet, they'll touch their tails together and exchange electricity through them as a form of greeting.",
-            "brilliantDiamond": "It lives in forests with others. It stores electricity in the electric sacs on its cheeks.",
-            "shiningPearl": "If it looses crackling power from the electric sacs on its cheeks, it is being wary.",
-            "legendsArceus": "Possesses cheek sacs in which it stores electricity. This clever forest-dweller roasts tough berries with an electric shock before consuming them."
-        }
-    },
-    {
-        "no": "#025",
-        "name": "Pikachu",
-        "entries": {
-            "gold": "This intelligent Pokémon roasts hard berries with electricity to make them tender enough to eat.",
-            "silver": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "crystal": "When it is angered, it immediately discharges the energy stored in the pouches in its cheeks.",
-            "stadium2": "This intelligent Pokémon roasts hard Berries with electricity to make them tender enough to eat.",
-            "ruby": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
-            "sapphire": "This Pokémon has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while Pikachu sleeps. It occasionally discharges electricity when it is dozy after waking up.",
-            "emerald": "It stores electricity in the electric sacs on its cheeks. When it releases pent-up energy in a burst, the electric power is equal to a lightning bolt.",
-            "firered": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
-            "leafgreen": "When several of these Pokémon gather, their electricity could build and cause lightning storms.",
-            "diamond": "It lives in forests with others. It stores electricity in the pouches on its cheeks.",
-            "pearl": "If it looses crackling power from the electrical pouches on its cheeks, it is being wary.",
-            "platinum": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "heartgold": "This intelligent Pokémon roasts hard berries with electricity to make them tender enough to eat.",
-            "soulsilver": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "black": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "white": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "black2": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "white2": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "x": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "y": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
-            "omegaRuby": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
-            "alphaSapphire": "This Pokémon has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while Pikachu sleeps. It occasionally discharges electricity when it is dozy after waking up.",
-            "sun": "A plan was recently announced to gather many Pikachu and make an electric power plant.",
-            "moon": "It's in its nature to store electricity. It feels stressed now and then if it's unable to fully discharge the electricity.",
-            "ultraSun": "Its nature is to store up electricity. Forests where nests of Pikachu live are dangerous, since the trees are so often struck by lightning.",
-            "ultraMoon": "While sleeping, it generates electricity in the sacs in its cheeks. If it's not getting enough sleep, it will be able to use only weak electricity.",
-            "letsGoPikachu": "This forest-dwelling Pokémon stores electricity in its cheeks, so you'll feel a tingly shock if you touch it.",
-            "letsGoEevee": "This forest-dwelling Pokémon stores electricity in its cheeks, so you'll feel a tingly shock if you touch it.",
-            "sword": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.",
-            "shield": "When Pikachu meet, they'll touch their tails together and exchange electricity through them as a form of greeting.",
-            "brilliantDiamond": "It lives in forests with others. It stores electricity in the electric sacs on its cheeks.",
-            "shiningPearl": "If it looses crackling power from the electric sacs on its cheeks, it is being wary.",
-            "legendsArceus": "Possesses cheek sacs in which it stores electricity. This clever forest-dweller roasts tough berries with an electric shock before consuming them."
-        }
-    },
-    {
-        "no": "#025",
-        "name": "Pikachu",
-        "entries": {
-            "gold": "This intelligent Pokémon roasts hard berries with electricity to make them tender enough to eat.",
-            "silver": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "crystal": "When it is angered, it immediately discharges the energy stored in the pouches in its cheeks.",
-            "stadium2": "This intelligent Pokémon roasts hard Berries with electricity to make them tender enough to eat.",
-            "ruby": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
-            "sapphire": "This Pokémon has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while Pikachu sleeps. It occasionally discharges electricity when it is dozy after waking up.",
-            "emerald": "It stores electricity in the electric sacs on its cheeks. When it releases pent-up energy in a burst, the electric power is equal to a lightning bolt.",
-            "firered": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
-            "leafgreen": "When several of these Pokémon gather, their electricity could build and cause lightning storms.",
-            "diamond": "It lives in forests with others. It stores electricity in the pouches on its cheeks.",
-            "pearl": "If it looses crackling power from the electrical pouches on its cheeks, it is being wary.",
-            "platinum": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "heartgold": "This intelligent Pokémon roasts hard berries with electricity to make them tender enough to eat.",
-            "soulsilver": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "black": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "white": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "black2": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "white2": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "x": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "y": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
-            "omegaRuby": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
-            "alphaSapphire": "This Pokémon has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while Pikachu sleeps. It occasionally discharges electricity when it is dozy after waking up.",
-            "sun": "A plan was recently announced to gather many Pikachu and make an electric power plant.",
-            "moon": "It's in its nature to store electricity. It feels stressed now and then if it's unable to fully discharge the electricity.",
-            "ultraSun": "Its nature is to store up electricity. Forests where nests of Pikachu live are dangerous, since the trees are so often struck by lightning.",
-            "ultraMoon": "While sleeping, it generates electricity in the sacs in its cheeks. If it's not getting enough sleep, it will be able to use only weak electricity.",
-            "letsGoPikachu": "This forest-dwelling Pokémon stores electricity in its cheeks, so you'll feel a tingly shock if you touch it.",
-            "letsGoEevee": "This forest-dwelling Pokémon stores electricity in its cheeks, so you'll feel a tingly shock if you touch it.",
-            "sword": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.",
-            "shield": "When Pikachu meet, they'll touch their tails together and exchange electricity through them as a form of greeting.",
-            "brilliantDiamond": "It lives in forests with others. It stores electricity in the electric sacs on its cheeks.",
-            "shiningPearl": "If it looses crackling power from the electric sacs on its cheeks, it is being wary.",
-            "legendsArceus": "Possesses cheek sacs in which it stores electricity. This clever forest-dweller roasts tough berries with an electric shock before consuming them."
-        }
-    },
-    {
-        "no": "#025",
-        "name": "Pikachu",
-        "entries": {
-            "gold": "This intelligent Pokémon roasts hard berries with electricity to make them tender enough to eat.",
-            "silver": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "crystal": "When it is angered, it immediately discharges the energy stored in the pouches in its cheeks.",
-            "stadium2": "This intelligent Pokémon roasts hard Berries with electricity to make them tender enough to eat.",
-            "ruby": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
-            "sapphire": "This Pokémon has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while Pikachu sleeps. It occasionally discharges electricity when it is dozy after waking up.",
-            "emerald": "It stores electricity in the electric sacs on its cheeks. When it releases pent-up energy in a burst, the electric power is equal to a lightning bolt.",
-            "firered": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
-            "leafgreen": "When several of these Pokémon gather, their electricity could build and cause lightning storms.",
-            "diamond": "It lives in forests with others. It stores electricity in the pouches on its cheeks.",
-            "pearl": "If it looses crackling power from the electrical pouches on its cheeks, it is being wary.",
-            "platinum": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "heartgold": "This intelligent Pokémon roasts hard berries with electricity to make them tender enough to eat.",
-            "soulsilver": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "black": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "white": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "black2": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "white2": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "x": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "y": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
-            "omegaRuby": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
-            "alphaSapphire": "This Pokémon has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while Pikachu sleeps. It occasionally discharges electricity when it is dozy after waking up.",
-            "sun": "A plan was recently announced to gather many Pikachu and make an electric power plant.",
-            "moon": "It's in its nature to store electricity. It feels stressed now and then if it's unable to fully discharge the electricity.",
-            "ultraSun": "Its nature is to store up electricity. Forests where nests of Pikachu live are dangerous, since the trees are so often struck by lightning.",
-            "ultraMoon": "While sleeping, it generates electricity in the sacs in its cheeks. If it's not getting enough sleep, it will be able to use only weak electricity.",
-            "letsGoPikachu": "This forest-dwelling Pokémon stores electricity in its cheeks, so you'll feel a tingly shock if you touch it.",
-            "letsGoEevee": "This forest-dwelling Pokémon stores electricity in its cheeks, so you'll feel a tingly shock if you touch it.",
-            "sword": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.",
-            "shield": "When Pikachu meet, they'll touch their tails together and exchange electricity through them as a form of greeting.",
-            "brilliantDiamond": "It lives in forests with others. It stores electricity in the electric sacs on its cheeks.",
-            "shiningPearl": "If it looses crackling power from the electric sacs on its cheeks, it is being wary.",
-            "legendsArceus": "Possesses cheek sacs in which it stores electricity. This clever forest-dweller roasts tough berries with an electric shock before consuming them."
-        }
-    },
-    {
-        "no": "#025",
-        "name": "Pikachu",
-        "entries": {
-            "gold": "This intelligent Pokémon roasts hard berries with electricity to make them tender enough to eat.",
-            "silver": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "crystal": "When it is angered, it immediately discharges the energy stored in the pouches in its cheeks.",
-            "stadium2": "This intelligent Pokémon roasts hard Berries with electricity to make them tender enough to eat.",
-            "ruby": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
-            "sapphire": "This Pokémon has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while Pikachu sleeps. It occasionally discharges electricity when it is dozy after waking up.",
-            "emerald": "It stores electricity in the electric sacs on its cheeks. When it releases pent-up energy in a burst, the electric power is equal to a lightning bolt.",
-            "firered": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
-            "leafgreen": "When several of these Pokémon gather, their electricity could build and cause lightning storms.",
-            "diamond": "It lives in forests with others. It stores electricity in the pouches on its cheeks.",
-            "pearl": "If it looses crackling power from the electrical pouches on its cheeks, it is being wary.",
-            "platinum": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "heartgold": "This intelligent Pokémon roasts hard berries with electricity to make them tender enough to eat.",
-            "soulsilver": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "black": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "white": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "black2": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "white2": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "x": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "y": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
-            "omegaRuby": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
-            "alphaSapphire": "This Pokémon has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while Pikachu sleeps. It occasionally discharges electricity when it is dozy after waking up.",
-            "sun": "A plan was recently announced to gather many Pikachu and make an electric power plant.",
-            "moon": "It's in its nature to store electricity. It feels stressed now and then if it's unable to fully discharge the electricity.",
-            "ultraSun": "Its nature is to store up electricity. Forests where nests of Pikachu live are dangerous, since the trees are so often struck by lightning.",
-            "ultraMoon": "While sleeping, it generates electricity in the sacs in its cheeks. If it's not getting enough sleep, it will be able to use only weak electricity.",
-            "letsGoPikachu": "This forest-dwelling Pokémon stores electricity in its cheeks, so you'll feel a tingly shock if you touch it.",
-            "letsGoEevee": "This forest-dwelling Pokémon stores electricity in its cheeks, so you'll feel a tingly shock if you touch it.",
-            "sword": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.",
-            "shield": "When Pikachu meet, they'll touch their tails together and exchange electricity through them as a form of greeting.",
-            "brilliantDiamond": "It lives in forests with others. It stores electricity in the electric sacs on its cheeks.",
-            "shiningPearl": "If it looses crackling power from the electric sacs on its cheeks, it is being wary.",
-            "legendsArceus": "Possesses cheek sacs in which it stores electricity. This clever forest-dweller roasts tough berries with an electric shock before consuming them."
-        }
-    },
-    {
-        "no": "#025",
-        "name": "Pikachu",
-        "entries": {
-            "gold": "This intelligent Pokémon roasts hard berries with electricity to make them tender enough to eat.",
-            "silver": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "crystal": "When it is angered, it immediately discharges the energy stored in the pouches in its cheeks.",
-            "stadium2": "This intelligent Pokémon roasts hard Berries with electricity to make them tender enough to eat.",
-            "ruby": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
-            "sapphire": "This Pokémon has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while Pikachu sleeps. It occasionally discharges electricity when it is dozy after waking up.",
-            "emerald": "It stores electricity in the electric sacs on its cheeks. When it releases pent-up energy in a burst, the electric power is equal to a lightning bolt.",
-            "firered": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
-            "leafgreen": "When several of these Pokémon gather, their electricity could build and cause lightning storms.",
-            "diamond": "It lives in forests with others. It stores electricity in the pouches on its cheeks.",
-            "pearl": "If it looses crackling power from the electrical pouches on its cheeks, it is being wary.",
-            "platinum": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "heartgold": "This intelligent Pokémon roasts hard berries with electricity to make them tender enough to eat.",
-            "soulsilver": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "black": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "white": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "black2": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "white2": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "x": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "y": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
-            "omegaRuby": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
-            "alphaSapphire": "This Pokémon has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while Pikachu sleeps. It occasionally discharges electricity when it is dozy after waking up.",
-            "sun": "A plan was recently announced to gather many Pikachu and make an electric power plant.",
-            "moon": "It's in its nature to store electricity. It feels stressed now and then if it's unable to fully discharge the electricity.",
-            "ultraSun": "Its nature is to store up electricity. Forests where nests of Pikachu live are dangerous, since the trees are so often struck by lightning.",
-            "ultraMoon": "While sleeping, it generates electricity in the sacs in its cheeks. If it's not getting enough sleep, it will be able to use only weak electricity.",
-            "letsGoPikachu": "This forest-dwelling Pokémon stores electricity in its cheeks, so you'll feel a tingly shock if you touch it.",
-            "letsGoEevee": "This forest-dwelling Pokémon stores electricity in its cheeks, so you'll feel a tingly shock if you touch it.",
-            "sword": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.",
-            "shield": "When Pikachu meet, they'll touch their tails together and exchange electricity through them as a form of greeting.",
-            "brilliantDiamond": "It lives in forests with others. It stores electricity in the electric sacs on its cheeks.",
-            "shiningPearl": "If it looses crackling power from the electric sacs on its cheeks, it is being wary.",
-            "legendsArceus": "Possesses cheek sacs in which it stores electricity. This clever forest-dweller roasts tough berries with an electric shock before consuming them."
-        }
-    },
-    {
-        "no": "#025",
-        "name": "Pikachu",
-        "entries": {
-            "gold": "This intelligent Pokémon roasts hard berries with electricity to make them tender enough to eat.",
-            "silver": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "crystal": "When it is angered, it immediately discharges the energy stored in the pouches in its cheeks.",
-            "stadium2": "This intelligent Pokémon roasts hard Berries with electricity to make them tender enough to eat.",
-            "ruby": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
-            "sapphire": "This Pokémon has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while Pikachu sleeps. It occasionally discharges electricity when it is dozy after waking up.",
-            "emerald": "It stores electricity in the electric sacs on its cheeks. When it releases pent-up energy in a burst, the electric power is equal to a lightning bolt.",
-            "firered": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
-            "leafgreen": "When several of these Pokémon gather, their electricity could build and cause lightning storms.",
-            "diamond": "It lives in forests with others. It stores electricity in the pouches on its cheeks.",
-            "pearl": "If it looses crackling power from the electrical pouches on its cheeks, it is being wary.",
-            "platinum": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "heartgold": "This intelligent Pokémon roasts hard berries with electricity to make them tender enough to eat.",
-            "soulsilver": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "black": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "white": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "black2": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "white2": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "x": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "y": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
-            "omegaRuby": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
-            "alphaSapphire": "This Pokémon has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while Pikachu sleeps. It occasionally discharges electricity when it is dozy after waking up.",
-            "sun": "A plan was recently announced to gather many Pikachu and make an electric power plant.",
-            "moon": "It's in its nature to store electricity. It feels stressed now and then if it's unable to fully discharge the electricity.",
-            "ultraSun": "Its nature is to store up electricity. Forests where nests of Pikachu live are dangerous, since the trees are so often struck by lightning.",
-            "ultraMoon": "While sleeping, it generates electricity in the sacs in its cheeks. If it's not getting enough sleep, it will be able to use only weak electricity.",
-            "letsGoPikachu": "This forest-dwelling Pokémon stores electricity in its cheeks, so you'll feel a tingly shock if you touch it.",
-            "letsGoEevee": "This forest-dwelling Pokémon stores electricity in its cheeks, so you'll feel a tingly shock if you touch it.",
-            "sword": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.",
-            "shield": "When Pikachu meet, they'll touch their tails together and exchange electricity through them as a form of greeting.",
-            "brilliantDiamond": "It lives in forests with others. It stores electricity in the electric sacs on its cheeks.",
-            "shiningPearl": "If it looses crackling power from the electric sacs on its cheeks, it is being wary.",
-            "legendsArceus": "Possesses cheek sacs in which it stores electricity. This clever forest-dweller roasts tough berries with an electric shock before consuming them."
-        }
-    },
-    {
-        "no": "#025",
-        "name": "Pikachu",
-        "entries": {
-            "gold": "This intelligent Pokémon roasts hard berries with electricity to make them tender enough to eat.",
-            "silver": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "crystal": "When it is angered, it immediately discharges the energy stored in the pouches in its cheeks.",
-            "stadium2": "This intelligent Pokémon roasts hard Berries with electricity to make them tender enough to eat.",
-            "ruby": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
-            "sapphire": "This Pokémon has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while Pikachu sleeps. It occasionally discharges electricity when it is dozy after waking up.",
-            "emerald": "It stores electricity in the electric sacs on its cheeks. When it releases pent-up energy in a burst, the electric power is equal to a lightning bolt.",
-            "firered": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
-            "leafgreen": "When several of these Pokémon gather, their electricity could build and cause lightning storms.",
-            "diamond": "It lives in forests with others. It stores electricity in the pouches on its cheeks.",
-            "pearl": "If it looses crackling power from the electrical pouches on its cheeks, it is being wary.",
-            "platinum": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "heartgold": "This intelligent Pokémon roasts hard berries with electricity to make them tender enough to eat.",
-            "soulsilver": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "black": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "white": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "black2": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "white2": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "x": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "y": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
-            "omegaRuby": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
-            "alphaSapphire": "This Pokémon has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while Pikachu sleeps. It occasionally discharges electricity when it is dozy after waking up.",
-            "sun": "A plan was recently announced to gather many Pikachu and make an electric power plant.",
-            "moon": "It's in its nature to store electricity. It feels stressed now and then if it's unable to fully discharge the electricity.",
-            "ultraSun": "Its nature is to store up electricity. Forests where nests of Pikachu live are dangerous, since the trees are so often struck by lightning.",
-            "ultraMoon": "While sleeping, it generates electricity in the sacs in its cheeks. If it's not getting enough sleep, it will be able to use only weak electricity.",
-            "letsGoPikachu": "This forest-dwelling Pokémon stores electricity in its cheeks, so you'll feel a tingly shock if you touch it.",
-            "letsGoEevee": "This forest-dwelling Pokémon stores electricity in its cheeks, so you'll feel a tingly shock if you touch it.",
-            "sword": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.",
-            "shield": "When Pikachu meet, they'll touch their tails together and exchange electricity through them as a form of greeting.",
-            "brilliantDiamond": "It lives in forests with others. It stores electricity in the electric sacs on its cheeks.",
-            "shiningPearl": "If it looses crackling power from the electric sacs on its cheeks, it is being wary.",
-            "legendsArceus": "Possesses cheek sacs in which it stores electricity. This clever forest-dweller roasts tough berries with an electric shock before consuming them."
-        }
-    },
-    {
-        "no": "#025",
-        "name": "Pikachu",
-        "entries": {
-            "gold": "This intelligent Pokémon roasts hard berries with electricity to make them tender enough to eat.",
-            "silver": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "crystal": "When it is angered, it immediately discharges the energy stored in the pouches in its cheeks.",
-            "stadium2": "This intelligent Pokémon roasts hard Berries with electricity to make them tender enough to eat.",
-            "ruby": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
-            "sapphire": "This Pokémon has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while Pikachu sleeps. It occasionally discharges electricity when it is dozy after waking up.",
-            "emerald": "It stores electricity in the electric sacs on its cheeks. When it releases pent-up energy in a burst, the electric power is equal to a lightning bolt.",
-            "firered": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
-            "leafgreen": "When several of these Pokémon gather, their electricity could build and cause lightning storms.",
-            "diamond": "It lives in forests with others. It stores electricity in the pouches on its cheeks.",
-            "pearl": "If it looses crackling power from the electrical pouches on its cheeks, it is being wary.",
-            "platinum": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "heartgold": "This intelligent Pokémon roasts hard berries with electricity to make them tender enough to eat.",
-            "soulsilver": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "black": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "white": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "black2": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "white2": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "x": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "y": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
-            "omegaRuby": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
-            "alphaSapphire": "This Pokémon has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while Pikachu sleeps. It occasionally discharges electricity when it is dozy after waking up.",
-            "sun": "A plan was recently announced to gather many Pikachu and make an electric power plant.",
-            "moon": "It's in its nature to store electricity. It feels stressed now and then if it's unable to fully discharge the electricity.",
-            "ultraSun": "Its nature is to store up electricity. Forests where nests of Pikachu live are dangerous, since the trees are so often struck by lightning.",
-            "ultraMoon": "While sleeping, it generates electricity in the sacs in its cheeks. If it's not getting enough sleep, it will be able to use only weak electricity.",
-            "letsGoPikachu": "This forest-dwelling Pokémon stores electricity in its cheeks, so you'll feel a tingly shock if you touch it.",
-            "letsGoEevee": "This forest-dwelling Pokémon stores electricity in its cheeks, so you'll feel a tingly shock if you touch it.",
-            "sword": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.",
-            "shield": "When Pikachu meet, they'll touch their tails together and exchange electricity through them as a form of greeting.",
-            "brilliantDiamond": "It lives in forests with others. It stores electricity in the electric sacs on its cheeks.",
-            "shiningPearl": "If it looses crackling power from the electric sacs on its cheeks, it is being wary.",
-            "legendsArceus": "Possesses cheek sacs in which it stores electricity. This clever forest-dweller roasts tough berries with an electric shock before consuming them."
-        }
-    },
-    {
-        "no": "#025",
-        "name": "Pikachu",
-        "entries": {
-            "gold": "This intelligent Pokémon roasts hard berries with electricity to make them tender enough to eat.",
-            "silver": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "crystal": "When it is angered, it immediately discharges the energy stored in the pouches in its cheeks.",
-            "stadium2": "This intelligent Pokémon roasts hard Berries with electricity to make them tender enough to eat.",
-            "ruby": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
-            "sapphire": "This Pokémon has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while Pikachu sleeps. It occasionally discharges electricity when it is dozy after waking up.",
-            "emerald": "It stores electricity in the electric sacs on its cheeks. When it releases pent-up energy in a burst, the electric power is equal to a lightning bolt.",
-            "firered": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
-            "leafgreen": "When several of these Pokémon gather, their electricity could build and cause lightning storms.",
-            "diamond": "It lives in forests with others. It stores electricity in the pouches on its cheeks.",
-            "pearl": "If it looses crackling power from the electrical pouches on its cheeks, it is being wary.",
-            "platinum": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "heartgold": "This intelligent Pokémon roasts hard berries with electricity to make them tender enough to eat.",
-            "soulsilver": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "black": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "white": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "black2": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "white2": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "x": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "y": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
-            "omegaRuby": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
-            "alphaSapphire": "This Pokémon has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while Pikachu sleeps. It occasionally discharges electricity when it is dozy after waking up.",
-            "sun": "A plan was recently announced to gather many Pikachu and make an electric power plant.",
-            "moon": "It's in its nature to store electricity. It feels stressed now and then if it's unable to fully discharge the electricity.",
-            "ultraSun": "Its nature is to store up electricity. Forests where nests of Pikachu live are dangerous, since the trees are so often struck by lightning.",
-            "ultraMoon": "While sleeping, it generates electricity in the sacs in its cheeks. If it's not getting enough sleep, it will be able to use only weak electricity.",
-            "letsGoPikachu": "This forest-dwelling Pokémon stores electricity in its cheeks, so you'll feel a tingly shock if you touch it.",
-            "letsGoEevee": "This forest-dwelling Pokémon stores electricity in its cheeks, so you'll feel a tingly shock if you touch it.",
-            "sword": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.",
-            "shield": "When Pikachu meet, they'll touch their tails together and exchange electricity through them as a form of greeting.",
-            "brilliantDiamond": "It lives in forests with others. It stores electricity in the electric sacs on its cheeks.",
-            "shiningPearl": "If it looses crackling power from the electric sacs on its cheeks, it is being wary.",
-            "legendsArceus": "Possesses cheek sacs in which it stores electricity. This clever forest-dweller roasts tough berries with an electric shock before consuming them."
-        }
-    },
-    {
-        "no": "#025",
-        "name": "Pikachu",
-        "entries": {
-            "gold": "This intelligent Pokémon roasts hard berries with electricity to make them tender enough to eat.",
-            "silver": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "crystal": "When it is angered, it immediately discharges the energy stored in the pouches in its cheeks.",
-            "stadium2": "This intelligent Pokémon roasts hard Berries with electricity to make them tender enough to eat.",
-            "ruby": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
-            "sapphire": "This Pokémon has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while Pikachu sleeps. It occasionally discharges electricity when it is dozy after waking up.",
-            "emerald": "It stores electricity in the electric sacs on its cheeks. When it releases pent-up energy in a burst, the electric power is equal to a lightning bolt.",
-            "firered": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
-            "leafgreen": "When several of these Pokémon gather, their electricity could build and cause lightning storms.",
-            "diamond": "It lives in forests with others. It stores electricity in the pouches on its cheeks.",
-            "pearl": "If it looses crackling power from the electrical pouches on its cheeks, it is being wary.",
-            "platinum": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "heartgold": "This intelligent Pokémon roasts hard berries with electricity to make them tender enough to eat.",
-            "soulsilver": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "black": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "white": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "black2": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "white2": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "x": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "y": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
-            "omegaRuby": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
-            "alphaSapphire": "This Pokémon has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while Pikachu sleeps. It occasionally discharges electricity when it is dozy after waking up.",
-            "sun": "A plan was recently announced to gather many Pikachu and make an electric power plant.",
-            "moon": "It's in its nature to store electricity. It feels stressed now and then if it's unable to fully discharge the electricity.",
-            "ultraSun": "Its nature is to store up electricity. Forests where nests of Pikachu live are dangerous, since the trees are so often struck by lightning.",
-            "ultraMoon": "While sleeping, it generates electricity in the sacs in its cheeks. If it's not getting enough sleep, it will be able to use only weak electricity.",
-            "letsGoPikachu": "This forest-dwelling Pokémon stores electricity in its cheeks, so you'll feel a tingly shock if you touch it.",
-            "letsGoEevee": "This forest-dwelling Pokémon stores electricity in its cheeks, so you'll feel a tingly shock if you touch it.",
-            "sword": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.",
-            "shield": "When Pikachu meet, they'll touch their tails together and exchange electricity through them as a form of greeting.",
-            "brilliantDiamond": "It lives in forests with others. It stores electricity in the electric sacs on its cheeks.",
-            "shiningPearl": "If it looses crackling power from the electric sacs on its cheeks, it is being wary.",
-            "legendsArceus": "Possesses cheek sacs in which it stores electricity. This clever forest-dweller roasts tough berries with an electric shock before consuming them."
-        }
-    },
-    {
-        "no": "#025",
-        "name": "Pikachu",
-        "entries": {
-            "gold": "This intelligent Pokémon roasts hard berries with electricity to make them tender enough to eat.",
-            "silver": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "crystal": "When it is angered, it immediately discharges the energy stored in the pouches in its cheeks.",
-            "stadium2": "This intelligent Pokémon roasts hard Berries with electricity to make them tender enough to eat.",
-            "ruby": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
-            "sapphire": "This Pokémon has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while Pikachu sleeps. It occasionally discharges electricity when it is dozy after waking up.",
-            "emerald": "It stores electricity in the electric sacs on its cheeks. When it releases pent-up energy in a burst, the electric power is equal to a lightning bolt.",
-            "firered": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
-            "leafgreen": "When several of these Pokémon gather, their electricity could build and cause lightning storms.",
-            "diamond": "It lives in forests with others. It stores electricity in the pouches on its cheeks.",
-            "pearl": "If it looses crackling power from the electrical pouches on its cheeks, it is being wary.",
-            "platinum": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "heartgold": "This intelligent Pokémon roasts hard berries with electricity to make them tender enough to eat.",
-            "soulsilver": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "black": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "white": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "black2": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "white2": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "x": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "y": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
-            "omegaRuby": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
-            "alphaSapphire": "This Pokémon has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while Pikachu sleeps. It occasionally discharges electricity when it is dozy after waking up.",
-            "sun": "A plan was recently announced to gather many Pikachu and make an electric power plant.",
-            "moon": "It's in its nature to store electricity. It feels stressed now and then if it's unable to fully discharge the electricity.",
-            "ultraSun": "Its nature is to store up electricity. Forests where nests of Pikachu live are dangerous, since the trees are so often struck by lightning.",
-            "ultraMoon": "While sleeping, it generates electricity in the sacs in its cheeks. If it's not getting enough sleep, it will be able to use only weak electricity.",
-            "letsGoPikachu": "This forest-dwelling Pokémon stores electricity in its cheeks, so you'll feel a tingly shock if you touch it.",
-            "letsGoEevee": "This forest-dwelling Pokémon stores electricity in its cheeks, so you'll feel a tingly shock if you touch it.",
-            "sword": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.",
-            "shield": "When Pikachu meet, they'll touch their tails together and exchange electricity through them as a form of greeting.",
-            "brilliantDiamond": "It lives in forests with others. It stores electricity in the electric sacs on its cheeks.",
-            "shiningPearl": "If it looses crackling power from the electric sacs on its cheeks, it is being wary.",
-            "legendsArceus": "Possesses cheek sacs in which it stores electricity. This clever forest-dweller roasts tough berries with an electric shock before consuming them."
-        }
-    },
-    {
-        "no": "#025",
-        "name": "Pikachu",
-        "entries": {
-            "gold": "This intelligent Pokémon roasts hard berries with electricity to make them tender enough to eat.",
-            "silver": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "crystal": "When it is angered, it immediately discharges the energy stored in the pouches in its cheeks.",
-            "stadium2": "This intelligent Pokémon roasts hard Berries with electricity to make them tender enough to eat.",
-            "ruby": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
-            "sapphire": "This Pokémon has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while Pikachu sleeps. It occasionally discharges electricity when it is dozy after waking up.",
-            "emerald": "It stores electricity in the electric sacs on its cheeks. When it releases pent-up energy in a burst, the electric power is equal to a lightning bolt.",
-            "firered": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
-            "leafgreen": "When several of these Pokémon gather, their electricity could build and cause lightning storms.",
-            "diamond": "It lives in forests with others. It stores electricity in the pouches on its cheeks.",
-            "pearl": "If it looses crackling power from the electrical pouches on its cheeks, it is being wary.",
-            "platinum": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "heartgold": "This intelligent Pokémon roasts hard berries with electricity to make them tender enough to eat.",
-            "soulsilver": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "black": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "white": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "black2": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "white2": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "x": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "y": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
-            "omegaRuby": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
-            "alphaSapphire": "This Pokémon has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while Pikachu sleeps. It occasionally discharges electricity when it is dozy after waking up.",
-            "sun": "A plan was recently announced to gather many Pikachu and make an electric power plant.",
-            "moon": "It's in its nature to store electricity. It feels stressed now and then if it's unable to fully discharge the electricity.",
-            "ultraSun": "Its nature is to store up electricity. Forests where nests of Pikachu live are dangerous, since the trees are so often struck by lightning.",
-            "ultraMoon": "While sleeping, it generates electricity in the sacs in its cheeks. If it's not getting enough sleep, it will be able to use only weak electricity.",
-            "letsGoPikachu": "This forest-dwelling Pokémon stores electricity in its cheeks, so you'll feel a tingly shock if you touch it.",
-            "letsGoEevee": "This forest-dwelling Pokémon stores electricity in its cheeks, so you'll feel a tingly shock if you touch it.",
-            "sword": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.",
-            "shield": "When Pikachu meet, they'll touch their tails together and exchange electricity through them as a form of greeting.",
-            "brilliantDiamond": "It lives in forests with others. It stores electricity in the electric sacs on its cheeks.",
-            "shiningPearl": "If it looses crackling power from the electric sacs on its cheeks, it is being wary.",
-            "legendsArceus": "Possesses cheek sacs in which it stores electricity. This clever forest-dweller roasts tough berries with an electric shock before consuming them."
-        }
-    },
-    {
-        "no": "#025",
-        "name": "Pikachu",
-        "entries": {
-            "gold": "This intelligent Pokémon roasts hard berries with electricity to make them tender enough to eat.",
-            "silver": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "crystal": "When it is angered, it immediately discharges the energy stored in the pouches in its cheeks.",
-            "stadium2": "This intelligent Pokémon roasts hard Berries with electricity to make them tender enough to eat.",
-            "ruby": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
-            "sapphire": "This Pokémon has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while Pikachu sleeps. It occasionally discharges electricity when it is dozy after waking up.",
-            "emerald": "It stores electricity in the electric sacs on its cheeks. When it releases pent-up energy in a burst, the electric power is equal to a lightning bolt.",
-            "firered": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
-            "leafgreen": "When several of these Pokémon gather, their electricity could build and cause lightning storms.",
-            "diamond": "It lives in forests with others. It stores electricity in the pouches on its cheeks.",
-            "pearl": "If it looses crackling power from the electrical pouches on its cheeks, it is being wary.",
-            "platinum": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "heartgold": "This intelligent Pokémon roasts hard berries with electricity to make them tender enough to eat.",
-            "soulsilver": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "black": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "white": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "black2": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "white2": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "x": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "y": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
-            "omegaRuby": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
-            "alphaSapphire": "This Pokémon has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while Pikachu sleeps. It occasionally discharges electricity when it is dozy after waking up.",
-            "sun": "A plan was recently announced to gather many Pikachu and make an electric power plant.",
-            "moon": "It's in its nature to store electricity. It feels stressed now and then if it's unable to fully discharge the electricity.",
-            "ultraSun": "Its nature is to store up electricity. Forests where nests of Pikachu live are dangerous, since the trees are so often struck by lightning.",
-            "ultraMoon": "While sleeping, it generates electricity in the sacs in its cheeks. If it's not getting enough sleep, it will be able to use only weak electricity.",
-            "letsGoPikachu": "This forest-dwelling Pokémon stores electricity in its cheeks, so you'll feel a tingly shock if you touch it.",
-            "letsGoEevee": "This forest-dwelling Pokémon stores electricity in its cheeks, so you'll feel a tingly shock if you touch it.",
-            "sword": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.",
-            "shield": "When Pikachu meet, they'll touch their tails together and exchange electricity through them as a form of greeting.",
-            "brilliantDiamond": "It lives in forests with others. It stores electricity in the electric sacs on its cheeks.",
-            "shiningPearl": "If it looses crackling power from the electric sacs on its cheeks, it is being wary.",
-            "legendsArceus": "Possesses cheek sacs in which it stores electricity. This clever forest-dweller roasts tough berries with an electric shock before consuming them."
-        }
-    },
-    {
-        "no": "#025",
-        "name": "Pikachu",
-        "entries": {
-            "gold": "This intelligent Pokémon roasts hard berries with electricity to make them tender enough to eat.",
-            "silver": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "crystal": "When it is angered, it immediately discharges the energy stored in the pouches in its cheeks.",
-            "stadium2": "This intelligent Pokémon roasts hard Berries with electricity to make them tender enough to eat.",
-            "ruby": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
-            "sapphire": "This Pokémon has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while Pikachu sleeps. It occasionally discharges electricity when it is dozy after waking up.",
-            "emerald": "It stores electricity in the electric sacs on its cheeks. When it releases pent-up energy in a burst, the electric power is equal to a lightning bolt.",
-            "firered": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
-            "leafgreen": "When several of these Pokémon gather, their electricity could build and cause lightning storms.",
-            "diamond": "It lives in forests with others. It stores electricity in the pouches on its cheeks.",
-            "pearl": "If it looses crackling power from the electrical pouches on its cheeks, it is being wary.",
-            "platinum": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "heartgold": "This intelligent Pokémon roasts hard berries with electricity to make them tender enough to eat.",
-            "soulsilver": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "black": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "white": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "black2": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "white2": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "x": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "y": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
-            "omegaRuby": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
-            "alphaSapphire": "This Pokémon has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while Pikachu sleeps. It occasionally discharges electricity when it is dozy after waking up.",
-            "sun": "A plan was recently announced to gather many Pikachu and make an electric power plant.",
-            "moon": "It's in its nature to store electricity. It feels stressed now and then if it's unable to fully discharge the electricity.",
-            "ultraSun": "Its nature is to store up electricity. Forests where nests of Pikachu live are dangerous, since the trees are so often struck by lightning.",
-            "ultraMoon": "While sleeping, it generates electricity in the sacs in its cheeks. If it's not getting enough sleep, it will be able to use only weak electricity.",
-            "letsGoPikachu": "This forest-dwelling Pokémon stores electricity in its cheeks, so you'll feel a tingly shock if you touch it.",
-            "letsGoEevee": "This forest-dwelling Pokémon stores electricity in its cheeks, so you'll feel a tingly shock if you touch it.",
-            "sword": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.",
-            "shield": "When Pikachu meet, they'll touch their tails together and exchange electricity through them as a form of greeting.",
-            "brilliantDiamond": "It lives in forests with others. It stores electricity in the electric sacs on its cheeks.",
-            "shiningPearl": "If it looses crackling power from the electric sacs on its cheeks, it is being wary.",
-            "legendsArceus": "Possesses cheek sacs in which it stores electricity. This clever forest-dweller roasts tough berries with an electric shock before consuming them."
-        }
-    },
-    {
-        "no": "#025",
-        "name": "Pikachu",
-        "entries": {
-            "gold": "This intelligent Pokémon roasts hard berries with electricity to make them tender enough to eat.",
-            "silver": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "crystal": "When it is angered, it immediately discharges the energy stored in the pouches in its cheeks.",
-            "stadium2": "This intelligent Pokémon roasts hard Berries with electricity to make them tender enough to eat.",
-            "ruby": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
-            "sapphire": "This Pokémon has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while Pikachu sleeps. It occasionally discharges electricity when it is dozy after waking up.",
-            "emerald": "It stores electricity in the electric sacs on its cheeks. When it releases pent-up energy in a burst, the electric power is equal to a lightning bolt.",
-            "firered": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
-            "leafgreen": "When several of these Pokémon gather, their electricity could build and cause lightning storms.",
-            "diamond": "It lives in forests with others. It stores electricity in the pouches on its cheeks.",
-            "pearl": "If it looses crackling power from the electrical pouches on its cheeks, it is being wary.",
-            "platinum": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "heartgold": "This intelligent Pokémon roasts hard berries with electricity to make them tender enough to eat.",
-            "soulsilver": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "black": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "white": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "black2": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "white2": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "x": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "y": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
-            "omegaRuby": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
-            "alphaSapphire": "This Pokémon has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while Pikachu sleeps. It occasionally discharges electricity when it is dozy after waking up.",
-            "sun": "A plan was recently announced to gather many Pikachu and make an electric power plant.",
-            "moon": "It's in its nature to store electricity. It feels stressed now and then if it's unable to fully discharge the electricity.",
-            "ultraSun": "Its nature is to store up electricity. Forests where nests of Pikachu live are dangerous, since the trees are so often struck by lightning.",
-            "ultraMoon": "While sleeping, it generates electricity in the sacs in its cheeks. If it's not getting enough sleep, it will be able to use only weak electricity.",
-            "letsGoPikachu": "This forest-dwelling Pokémon stores electricity in its cheeks, so you'll feel a tingly shock if you touch it.",
-            "letsGoEevee": "This forest-dwelling Pokémon stores electricity in its cheeks, so you'll feel a tingly shock if you touch it.",
-            "sword": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.",
-            "shield": "When Pikachu meet, they'll touch their tails together and exchange electricity through them as a form of greeting.",
-            "brilliantDiamond": "It lives in forests with others. It stores electricity in the electric sacs on its cheeks.",
-            "shiningPearl": "If it looses crackling power from the electric sacs on its cheeks, it is being wary.",
-            "legendsArceus": "Possesses cheek sacs in which it stores electricity. This clever forest-dweller roasts tough berries with an electric shock before consuming them."
-        }
-    },
-    {
-        "no": "#025",
-        "name": "Pikachu",
-        "entries": {
-            "gold": "This intelligent Pokémon roasts hard berries with electricity to make them tender enough to eat.",
-            "silver": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "crystal": "When it is angered, it immediately discharges the energy stored in the pouches in its cheeks.",
-            "stadium2": "This intelligent Pokémon roasts hard Berries with electricity to make them tender enough to eat.",
-            "ruby": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
-            "sapphire": "This Pokémon has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while Pikachu sleeps. It occasionally discharges electricity when it is dozy after waking up.",
-            "emerald": "It stores electricity in the electric sacs on its cheeks. When it releases pent-up energy in a burst, the electric power is equal to a lightning bolt.",
-            "firered": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
-            "leafgreen": "When several of these Pokémon gather, their electricity could build and cause lightning storms.",
-            "diamond": "It lives in forests with others. It stores electricity in the pouches on its cheeks.",
-            "pearl": "If it looses crackling power from the electrical pouches on its cheeks, it is being wary.",
-            "platinum": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "heartgold": "This intelligent Pokémon roasts hard berries with electricity to make them tender enough to eat.",
-            "soulsilver": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "black": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "white": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "black2": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "white2": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "x": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "y": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
-            "omegaRuby": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
-            "alphaSapphire": "This Pokémon has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while Pikachu sleeps. It occasionally discharges electricity when it is dozy after waking up.",
-            "sun": "A plan was recently announced to gather many Pikachu and make an electric power plant.",
-            "moon": "It's in its nature to store electricity. It feels stressed now and then if it's unable to fully discharge the electricity.",
-            "ultraSun": "Its nature is to store up electricity. Forests where nests of Pikachu live are dangerous, since the trees are so often struck by lightning.",
-            "ultraMoon": "While sleeping, it generates electricity in the sacs in its cheeks. If it's not getting enough sleep, it will be able to use only weak electricity.",
-            "letsGoPikachu": "This forest-dwelling Pokémon stores electricity in its cheeks, so you'll feel a tingly shock if you touch it.",
-            "letsGoEevee": "This forest-dwelling Pokémon stores electricity in its cheeks, so you'll feel a tingly shock if you touch it.",
-            "sword": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.",
-            "shield": "When Pikachu meet, they'll touch their tails together and exchange electricity through them as a form of greeting.",
-            "brilliantDiamond": "It lives in forests with others. It stores electricity in the electric sacs on its cheeks.",
-            "shiningPearl": "If it looses crackling power from the electric sacs on its cheeks, it is being wary.",
-            "legendsArceus": "Possesses cheek sacs in which it stores electricity. This clever forest-dweller roasts tough berries with an electric shock before consuming them."
-        }
-    },
-    {
-        "no": "#025",
-        "name": "Pikachu",
-        "entries": {
-            "gold": "This intelligent Pokémon roasts hard berries with electricity to make them tender enough to eat.",
-            "silver": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "crystal": "When it is angered, it immediately discharges the energy stored in the pouches in its cheeks.",
-            "stadium2": "This intelligent Pokémon roasts hard Berries with electricity to make them tender enough to eat.",
-            "ruby": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
-            "sapphire": "This Pokémon has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while Pikachu sleeps. It occasionally discharges electricity when it is dozy after waking up.",
-            "emerald": "It stores electricity in the electric sacs on its cheeks. When it releases pent-up energy in a burst, the electric power is equal to a lightning bolt.",
-            "firered": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
-            "leafgreen": "When several of these Pokémon gather, their electricity could build and cause lightning storms.",
-            "diamond": "It lives in forests with others. It stores electricity in the pouches on its cheeks.",
-            "pearl": "If it looses crackling power from the electrical pouches on its cheeks, it is being wary.",
-            "platinum": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "heartgold": "This intelligent Pokémon roasts hard berries with electricity to make them tender enough to eat.",
-            "soulsilver": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "black": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "white": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "black2": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "white2": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "x": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "y": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
-            "omegaRuby": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
-            "alphaSapphire": "This Pokémon has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while Pikachu sleeps. It occasionally discharges electricity when it is dozy after waking up.",
-            "sun": "A plan was recently announced to gather many Pikachu and make an electric power plant.",
-            "moon": "It's in its nature to store electricity. It feels stressed now and then if it's unable to fully discharge the electricity.",
-            "ultraSun": "Its nature is to store up electricity. Forests where nests of Pikachu live are dangerous, since the trees are so often struck by lightning.",
-            "ultraMoon": "While sleeping, it generates electricity in the sacs in its cheeks. If it's not getting enough sleep, it will be able to use only weak electricity.",
-            "letsGoPikachu": "This forest-dwelling Pokémon stores electricity in its cheeks, so you'll feel a tingly shock if you touch it.",
-            "letsGoEevee": "This forest-dwelling Pokémon stores electricity in its cheeks, so you'll feel a tingly shock if you touch it.",
-            "sword": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.",
-            "shield": "When Pikachu meet, they'll touch their tails together and exchange electricity through them as a form of greeting.",
-            "brilliantDiamond": "It lives in forests with others. It stores electricity in the electric sacs on its cheeks.",
-            "shiningPearl": "If it looses crackling power from the electric sacs on its cheeks, it is being wary.",
-            "legendsArceus": "Possesses cheek sacs in which it stores electricity. This clever forest-dweller roasts tough berries with an electric shock before consuming them."
-        }
-    },
-    {
-        "no": "#025",
-        "name": "Pikachu",
-        "entries": {
-            "gold": "This intelligent Pokémon roasts hard berries with electricity to make them tender enough to eat.",
-            "silver": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "crystal": "When it is angered, it immediately discharges the energy stored in the pouches in its cheeks.",
-            "stadium2": "This intelligent Pokémon roasts hard Berries with electricity to make them tender enough to eat.",
-            "ruby": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
-            "sapphire": "This Pokémon has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while Pikachu sleeps. It occasionally discharges electricity when it is dozy after waking up.",
-            "emerald": "It stores electricity in the electric sacs on its cheeks. When it releases pent-up energy in a burst, the electric power is equal to a lightning bolt.",
-            "firered": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
-            "leafgreen": "When several of these Pokémon gather, their electricity could build and cause lightning storms.",
-            "diamond": "It lives in forests with others. It stores electricity in the pouches on its cheeks.",
-            "pearl": "If it looses crackling power from the electrical pouches on its cheeks, it is being wary.",
-            "platinum": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "heartgold": "This intelligent Pokémon roasts hard berries with electricity to make them tender enough to eat.",
-            "soulsilver": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "black": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "white": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "black2": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "white2": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "x": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "y": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
-            "omegaRuby": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
-            "alphaSapphire": "This Pokémon has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while Pikachu sleeps. It occasionally discharges electricity when it is dozy after waking up.",
-            "sun": "A plan was recently announced to gather many Pikachu and make an electric power plant.",
-            "moon": "It's in its nature to store electricity. It feels stressed now and then if it's unable to fully discharge the electricity.",
-            "ultraSun": "Its nature is to store up electricity. Forests where nests of Pikachu live are dangerous, since the trees are so often struck by lightning.",
-            "ultraMoon": "While sleeping, it generates electricity in the sacs in its cheeks. If it's not getting enough sleep, it will be able to use only weak electricity.",
-            "letsGoPikachu": "This forest-dwelling Pokémon stores electricity in its cheeks, so you'll feel a tingly shock if you touch it.",
-            "letsGoEevee": "This forest-dwelling Pokémon stores electricity in its cheeks, so you'll feel a tingly shock if you touch it.",
-            "sword": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.",
-            "shield": "When Pikachu meet, they'll touch their tails together and exchange electricity through them as a form of greeting.",
-            "brilliantDiamond": "It lives in forests with others. It stores electricity in the electric sacs on its cheeks.",
-            "shiningPearl": "If it looses crackling power from the electric sacs on its cheeks, it is being wary.",
-            "legendsArceus": "Possesses cheek sacs in which it stores electricity. This clever forest-dweller roasts tough berries with an electric shock before consuming them."
-        }
-    },
-    {
-        "no": "#025",
-        "name": "Pikachu",
-        "entries": {
-            "gold": "This intelligent Pokémon roasts hard berries with electricity to make them tender enough to eat.",
-            "silver": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "crystal": "When it is angered, it immediately discharges the energy stored in the pouches in its cheeks.",
-            "stadium2": "This intelligent Pokémon roasts hard Berries with electricity to make them tender enough to eat.",
-            "ruby": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
-            "sapphire": "This Pokémon has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while Pikachu sleeps. It occasionally discharges electricity when it is dozy after waking up.",
-            "emerald": "It stores electricity in the electric sacs on its cheeks. When it releases pent-up energy in a burst, the electric power is equal to a lightning bolt.",
-            "firered": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
-            "leafgreen": "When several of these Pokémon gather, their electricity could build and cause lightning storms.",
-            "diamond": "It lives in forests with others. It stores electricity in the pouches on its cheeks.",
-            "pearl": "If it looses crackling power from the electrical pouches on its cheeks, it is being wary.",
-            "platinum": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "heartgold": "This intelligent Pokémon roasts hard berries with electricity to make them tender enough to eat.",
-            "soulsilver": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "black": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "white": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "black2": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "white2": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "x": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "y": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
-            "omegaRuby": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
-            "alphaSapphire": "This Pokémon has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while Pikachu sleeps. It occasionally discharges electricity when it is dozy after waking up.",
-            "sun": "A plan was recently announced to gather many Pikachu and make an electric power plant.",
-            "moon": "It's in its nature to store electricity. It feels stressed now and then if it's unable to fully discharge the electricity.",
-            "ultraSun": "Its nature is to store up electricity. Forests where nests of Pikachu live are dangerous, since the trees are so often struck by lightning.",
-            "ultraMoon": "While sleeping, it generates electricity in the sacs in its cheeks. If it's not getting enough sleep, it will be able to use only weak electricity.",
-            "letsGoPikachu": "This forest-dwelling Pokémon stores electricity in its cheeks, so you'll feel a tingly shock if you touch it.",
-            "letsGoEevee": "This forest-dwelling Pokémon stores electricity in its cheeks, so you'll feel a tingly shock if you touch it.",
-            "sword": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.",
-            "shield": "When Pikachu meet, they'll touch their tails together and exchange electricity through them as a form of greeting.",
-            "brilliantDiamond": "It lives in forests with others. It stores electricity in the electric sacs on its cheeks.",
-            "shiningPearl": "If it looses crackling power from the electric sacs on its cheeks, it is being wary.",
-            "legendsArceus": "Possesses cheek sacs in which it stores electricity. This clever forest-dweller roasts tough berries with an electric shock before consuming them."
-        }
-    },
-    {
-        "no": "#025",
-        "name": "Pikachu",
-        "entries": {
-            "gold": "This intelligent Pokémon roasts hard berries with electricity to make them tender enough to eat.",
-            "silver": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "crystal": "When it is angered, it immediately discharges the energy stored in the pouches in its cheeks.",
-            "stadium2": "This intelligent Pokémon roasts hard Berries with electricity to make them tender enough to eat.",
-            "ruby": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
-            "sapphire": "This Pokémon has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while Pikachu sleeps. It occasionally discharges electricity when it is dozy after waking up.",
-            "emerald": "It stores electricity in the electric sacs on its cheeks. When it releases pent-up energy in a burst, the electric power is equal to a lightning bolt.",
-            "firered": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
-            "leafgreen": "When several of these Pokémon gather, their electricity could build and cause lightning storms.",
-            "diamond": "It lives in forests with others. It stores electricity in the pouches on its cheeks.",
-            "pearl": "If it looses crackling power from the electrical pouches on its cheeks, it is being wary.",
-            "platinum": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "heartgold": "This intelligent Pokémon roasts hard berries with electricity to make them tender enough to eat.",
-            "soulsilver": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "black": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "white": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "black2": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "white2": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "x": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "y": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
-            "omegaRuby": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
-            "alphaSapphire": "This Pokémon has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while Pikachu sleeps. It occasionally discharges electricity when it is dozy after waking up.",
-            "sun": "A plan was recently announced to gather many Pikachu and make an electric power plant.",
-            "moon": "It's in its nature to store electricity. It feels stressed now and then if it's unable to fully discharge the electricity.",
-            "ultraSun": "Its nature is to store up electricity. Forests where nests of Pikachu live are dangerous, since the trees are so often struck by lightning.",
-            "ultraMoon": "While sleeping, it generates electricity in the sacs in its cheeks. If it's not getting enough sleep, it will be able to use only weak electricity.",
-            "letsGoPikachu": "This forest-dwelling Pokémon stores electricity in its cheeks, so you'll feel a tingly shock if you touch it.",
-            "letsGoEevee": "This forest-dwelling Pokémon stores electricity in its cheeks, so you'll feel a tingly shock if you touch it.",
-            "sword": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.",
-            "shield": "When Pikachu meet, they'll touch their tails together and exchange electricity through them as a form of greeting.",
-            "brilliantDiamond": "It lives in forests with others. It stores electricity in the electric sacs on its cheeks.",
-            "shiningPearl": "If it looses crackling power from the electric sacs on its cheeks, it is being wary.",
-            "legendsArceus": "Possesses cheek sacs in which it stores electricity. This clever forest-dweller roasts tough berries with an electric shock before consuming them."
-        }
-    },
-    {
-        "no": "#025",
-        "name": "Pikachu",
-        "entries": {
-            "gold": "This intelligent Pokémon roasts hard berries with electricity to make them tender enough to eat.",
-            "silver": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "crystal": "When it is angered, it immediately discharges the energy stored in the pouches in its cheeks.",
-            "stadium2": "This intelligent Pokémon roasts hard Berries with electricity to make them tender enough to eat.",
-            "ruby": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
-            "sapphire": "This Pokémon has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while Pikachu sleeps. It occasionally discharges electricity when it is dozy after waking up.",
-            "emerald": "It stores electricity in the electric sacs on its cheeks. When it releases pent-up energy in a burst, the electric power is equal to a lightning bolt.",
-            "firered": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
-            "leafgreen": "When several of these Pokémon gather, their electricity could build and cause lightning storms.",
-            "diamond": "It lives in forests with others. It stores electricity in the pouches on its cheeks.",
-            "pearl": "If it looses crackling power from the electrical pouches on its cheeks, it is being wary.",
-            "platinum": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "heartgold": "This intelligent Pokémon roasts hard berries with electricity to make them tender enough to eat.",
-            "soulsilver": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "black": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "white": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "black2": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "white2": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
-            "x": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
-            "y": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
-            "omegaRuby": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
-            "alphaSapphire": "This Pokémon has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while Pikachu sleeps. It occasionally discharges electricity when it is dozy after waking up.",
-            "sun": "A plan was recently announced to gather many Pikachu and make an electric power plant.",
-            "moon": "It's in its nature to store electricity. It feels stressed now and then if it's unable to fully discharge the electricity.",
-            "ultraSun": "Its nature is to store up electricity. Forests where nests of Pikachu live are dangerous, since the trees are so often struck by lightning.",
-            "ultraMoon": "While sleeping, it generates electricity in the sacs in its cheeks. If it's not getting enough sleep, it will be able to use only weak electricity.",
-            "letsGoPikachu": "This forest-dwelling Pokémon stores electricity in its cheeks, so you'll feel a tingly shock if you touch it.",
-            "letsGoEevee": "This forest-dwelling Pokémon stores electricity in its cheeks, so you'll feel a tingly shock if you touch it.",
-            "sword": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.",
-            "shield": "When Pikachu meet, they'll touch their tails together and exchange electricity through them as a form of greeting.",
-            "brilliantDiamond": "It lives in forests with others. It stores electricity in the electric sacs on its cheeks.",
-            "shiningPearl": "If it looses crackling power from the electric sacs on its cheeks, it is being wary.",
-            "legendsArceus": "Possesses cheek sacs in which it stores electricity. This clever forest-dweller roasts tough berries with an electric shock before consuming them."
-        }
-    }
 ]

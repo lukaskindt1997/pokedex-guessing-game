@@ -6,7 +6,8 @@ export const Games = [
     { value: 'gold', viewValue: 'Gold' },
     { value: 'silver', viewValue: 'Silver' },
     { value: 'crystal', viewValue: 'Crystal' },
-    { value: 'stadium2', viewValue: 'Stadium 2' },
+    { value: 'stadium2red', viewValue: 'Stadium 2 - Red/Silver/Crystal inserted' },
+    { value: 'stadium2blue', viewValue: 'Stadium 2 - Blue/Yellow/Silver inserted' },
     { value: 'ruby', viewValue: 'Ruby' },
     { value: 'sapphire', viewValue: 'Sapphire' },
     { value: 'emerald', viewValue: 'Emerald' },
@@ -35,5 +36,7 @@ export const Games = [
     { value: 'shield', viewValue: 'Shield' },
     { value: 'brilliantDiamond', viewValue: 'Brilliant Diamond' },
     { value: 'shiningPearl', viewValue: 'Shining Pearl' },
-    { value: 'legendsArceus', viewValue: 'Legends Arceus' }
+    { value: 'legendsArceus', viewValue: 'Legends Arceus' },
+    { value: 'scarlet', viewValue: 'Scarlet' },
+    { value: 'violet', viewValue: 'Violet' }
   ];
