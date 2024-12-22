@@ -2957,7 +2957,7 @@ export const Entries = [
         }
     },
     {
-        "no": "#062",
+        "no": "#0062",
         "name": "Poliwrath",
         "entries": {
             "red": "An adept swimmer at both the front crawl and breast stroke. Easily overtakes the best human swimmers.",
@@ -13798,6 +13798,162 @@ export const Entries = [
             "shiningPearl": "It is the world's most beautiful Pokémon. There are many works of art featuring Milotic.",
             "scarlet": "Its lovely scales are described as rainbow-colored. They change color depending on the viewing angle.",
             "violet": "It lives at the bottom of clear lakes. In times of war, it shows itself, which soothes people's minds and hearts."
+        }
+    },
+    {
+        "no": "#0351",
+        "name": "Castform",
+        "entries": {
+            "ruby": "Castform's appearance changes with the weather. This Pokémon gained the ability to use the vast power of nature to protect its tiny body.",
+            "sapphire": "Castform borrows the power of nature to transform itself into the guises of the sun, rain clouds, and snow clouds. This Pokémon's feelings change with the weather.",
+            "emerald": "It alters its form depending on the weather. Changes in the climate such as the temperature and humidity appear to affect its cellular structure.",
+            "firered": "It has the ability to change its form into the sun, the rain, or a snow cloud, depending on the weather.",
+            "leafgreen": "It has the ability to change its form into the sun, the rain, or a snow cloud, depending on the weather.",
+            "diamond": "Its appearance changes with the weather. Recently, its molecules were found to be just like water.",
+            "pearl": "Its appearance changes with the weather. Recently, its molecules were found to be just like water.",
+            "platinum": "Its appearance changes with the weather. Recently, its molecules were found to be just like water.",
+            "heartgold": "This Pokémon can change its cells, taking different forms based on the temperature and humidity.",
+            "soulsilver": "This Pokémon can change its cells, taking different forms based on the temperature and humidity.",
+            "black": "Its appearance changes with the weather. Recently, its molecules were found to be just like water.",
+            "white": "Its appearance changes with the weather. Recently, its molecules were found to be just like water.",
+            "black2": "Temperature and weather affect its cellular structure, so this Pokémon changes form according to the weather.",
+            "white2": "Temperature and weather affect its cellular structure, so this Pokémon changes form according to the weather.",
+            "x": "This Pokémon can change its cells, taking different forms based on the temperature and humidity.",
+            "y": "It has the ability to change its form into the sun, the rain, or a snow cloud, depending on the weather.",
+            "omegaRuby": "Castform's appearance changes with the weather. This Pokémon gained the ability to use the vast power of nature to protect its tiny body.",
+            "alphaSapphire": "Castform borrows the power of nature to transform itself into the guises of the sun, rain, and snow-clouds. This Pokémon's feelings change with the weather.",
+            "sun": "It changes its form depending on the weather. Changes in the temperature or humidity appear to affect its cellular structure.",
+            "moon": "Its form changes on its own, due to its cells' sensitive reactions to temperature and humidity.",
+            "ultraSun": "Although its form changes with the weather, that is apparently the result of a chemical reaction and not the result of its own free will.",
+            "ultraMoon": "Its form changes depending on the weather. The rougher conditions get, the rougher Castform's disposition!",
+            "brilliantDiamond": "Its appearance changes with the weather. Recently, its molecules were found to be just like water.",
+            "shiningPearl": "Its appearance changes with the weather. Recently, its molecules were found to be just like water."
+        }
+    },
+    {
+        "no": "#0351sunny",
+        "name": "Castform (Sunny Form)",
+        "entries": {
+            "sun": "This is the form Castform takes on the brightest of days. Its skin is unexpectedly hot to the touch, so approach with care.",
+            "moon": "This is Castform's form when basking in fair weather. Its body is warm and toasty.",
+            "ultraSun": "This is the form Castform takes on bright days. In an experiment where Castform was placed in front of a heater, it didn't change to this form.",
+            "ultraMoon": "Castform changes to this form when it basks in bright sunlight. When you touch its glowing skin, it feels all dried out!"
+        }
+    },
+    {
+        "no": "#0351rainy",
+        "name": "Castform (Rainy Form)",
+        "entries": {
+            "sun": "This is the form Castform takes when soaked with rain. When its body is compressed, water will seep out as if from a sponge.",
+            "moon": "This is Castform's form during a downpour of rain. Its body retains moisture and gets slippery.",
+            "ultraSun": "Castform changes to this form when rain hits it. Its body is soft and slightly swollen with water.",
+            "ultraMoon": "This is Castform's form when pelted by rain. In an experiment where it was placed in a shower, this Pokémon didn't change to this form."
+        }
+    },
+    {
+        "no": "#0351snowy",
+        "name": "Castform (Snowy Form)",
+        "entries": {
+            "sun": "This is the form Castform takes when covered in snow. Its body becomes an ice-like material, with a temperature near 23 degrees Fahrenheit.",
+            "moon": "This is Castform's form when caught in a hailstorm. Its cold skin is as smooth as ice.",
+            "ultraSun": "This is the form Castform takes when hit by hail. In an experiment where it was placed in a freezer, it didn't change to this form.",
+            "ultraMoon": "This is Castform's form when caught in a hailstorm. Its whole body is chilled, and its skin is partially frozen!"
+        }
+    },
+    {
+        "no": "#0352",
+        "name": "Kecleon",
+        "entries": {
+            "ruby": "Kecleon is capable of changing its body colors at will to blend in with its surroundings. There is one exception - this Pokémon can't change the zigzag pattern on its belly.",
+            "sapphire": "Kecleon alters its body coloration to blend in with its surroundings, allowing it to sneak up on its prey unnoticed. Then it lashes out with its long, stretchy tongue to instantly ensnare the unsuspecting target.",
+            "emerald": "A Pokémon that has the ability to alter its body colors to match its surroundings. A Kecleon reverts to its original colors if it is startled.",
+            "firered": "It changes body color to blend in with its surroundings. It also changes color if it is happy or sad.",
+            "leafgreen": "It changes body color to blend in with its surroundings. It also changes color if it is happy or sad.",
+            "diamond": "It can freely change its body's color. The zigzag pattern on its belly doesn't change, however.",
+            "pearl": "It can freely change its body's color. The zigzag pattern on its belly doesn't change, however.",
+            "platinum": "It can freely change its body's color. The zigzag pattern on its belly doesn't change, however.",
+            "heartgold": "It changes its shading to match its surroundings so it can sneak up on prey. Only its belly patterns stay fixed.",
+            "soulsilver": "It changes its shading to match its surroundings so it can sneak up on prey. Only its belly patterns stay fixed.",
+            "black": "It can freely change its body's color. The zigzag pattern on its belly doesn't change, however.",
+            "white": "It can freely change its body's color. The zigzag pattern on its belly doesn't change, however.",
+            "black2": "It can freely change its body's color. The zigzag pattern on its belly doesn't change, however.",
+            "white2": "It can freely change its body's color. The zigzag pattern on its belly doesn't change, however.",
+            "x": "It can freely change its body's color. The zigzag pattern on its belly doesn't change, however.",
+            "y": "It changes its shading to match its surroundings so it can sneak up on prey. Only its belly patterns stay fixed.",
+            "omegaRuby": "Kecleon is capable of changing its body colors at will to blend in with its surroundings. There is one exception—this Pokémon can't change the zigzag pattern on its belly.",
+            "alphaSapphire": "Kecleon alters its body coloration to blend in with its surroundings, allowing it to sneak up on its prey unnoticed. Then it lashes out with its long, stretchy tongue to instantly ensnare the unsuspecting target.",
+            "ultraSun": "It changes its hue to blend into its surroundings. If no one takes notice of it for too long, it will pout and never reveal itself.",
+            "ultraMoon": "Its color changes for concealment and also when its mood or health changes. The darker the color, the healthier it is.",
+            "brilliantDiamond": "It can freely change its body's color. The zigzag pattern on its belly doesn't change, however.",
+            "shiningPearl": "It can freely change its body's color. The zigzag pattern on its belly doesn't change, however."
+        }
+    },
+    {
+        "no": "#0353",
+        "name": "Shuppet",
+        "entries": {
+            "ruby": "Shuppet is attracted by feelings of jealousy and vindictiveness. If someone develops strong feelings of vengeance, this Pokémon will appear in a swarm and line up beneath the eaves of that person's home.",
+            "sapphire": "Shuppet grows by feeding on dark emotions, such as vengefulness and envy, in the hearts of people. It roams through cities in search of grudges that taint people.",
+            "emerald": "This Pokémon roams about deep in the night seeking such negative emotions as grudges and envy. It retreats to its nest when the sun begins to rise.",
+            "firered": "It loves to feed on feelings like envy and malice. Its upright horn catches the emotions of people.",
+            "leafgreen": "It loves to feed on feelings like envy and malice. Its upright horn catches the emotions of people.",
+            "diamond": "It loves vengeful emotions and hangs in rows under the eaves of houses where vengeful people live.",
+            "pearl": "It loves vengeful emotions and hangs in rows under the eaves of houses where vengeful people live.",
+            "platinum": "It loves vengeful emotions and hangs in rows under the eaves of houses where vengeful people live.",
+            "heartgold": "It uses its horn to feed on envy and malice, or so it's said. It's very active at night.",
+            "soulsilver": "It uses its horn to feed on envy and malice, or so it's said. It's very active at night.",
+            "black": "It loves vengeful emotions and hangs in rows under the eaves of houses where vengeful people live.",
+            "white": "It loves vengeful emotions and hangs in rows under the eaves of houses where vengeful people live.",
+            "black2": "It feeds on the dark emotions of sadness and hatred, which make it grow steadily stronger.",
+            "white2": "It feeds on the dark emotions of sadness and hatred, which make it grow steadily stronger.",
+            "x": "It uses its horn to feed on envy and malice--or so it's said. It's very active at night.",
+            "y": "It loves vengeful emotions and hangs in rows under the eaves of houses where vengeful people live.",
+            "omegaRuby": "Shuppet is attracted by feelings of jealousy and vindictiveness. If someone develops strong feelings of vengeance, this Pokémon will appear in a swarm and line up beneath the eaves of that person's home.",
+            "alphaSapphire": "Shuppet grows by feeding on dark emotions, such as vengefulness and envy, in the hearts of people. It roams through cities in search of grudges that taint people.",
+            "ultraSun": "It eats up emotions like malice, jealousy, and resentment, so some people are grateful for its presence.",
+            "ultraMoon": "There's a proverb that says, “Shun the house where Shuppet gather in the growing dusk.”",
+            "brilliantDiamond": "They love vengeful emotions and hang in rows under the eaves of houses where vengeful people live.",
+            "shiningPearl": "They love vengeful emotions and hang in rows under the eaves of houses where vengeful people live.",
+            "scarlet": "It loves to feed on feelings like envy and malice. Its upright horn catches the emotions of people.",
+            "violet": "It feeds on the dark emotions of sadness and hatred, which make it grow steadily stronger."
+        }
+    },
+    {
+        "no": "#0354",
+        "name": "Banette",
+        "entries": {
+            "ruby": "Banette generates energy for laying strong curses by sticking pins into its own body. This Pokémon was originally a pitiful plush doll that was thrown away.",
+            "sapphire": "A cursed energy permeated the stuffing of a discarded and forgotten plush doll, giving it new life as Banette. The Pokémon's energy would escape if it were to ever open its mouth.",
+            "emerald": "An abandoned plush doll became this Pokémon. They are said to live in garbage dumps and wander about in search of the children that threw them away.",
+            "firered": "Strong feelings of hatred turned a puppet into a Pokémon. If it opens its mouth, its cursed energy escapes.",
+            "leafgreen": "Strong feelings of hatred turned a puppet into a Pokémon. If it opens its mouth, its cursed energy escapes.",
+            "diamond": "A doll that became a Pokémon over its grudge from being junked. It seeks the child that disowned it.",
+            "pearl": "A doll that became a Pokémon over its grudge from being junked. It seeks the child that disowned it.",
+            "platinum": "A doll that became a Pokémon over its grudge from being junked. It seeks the child that disowned it.",
+            "heartgold": "This Pokémon developed from an abandoned doll that amassed a grudge. It is seen in dark alleys.",
+            "soulsilver": "This Pokémon developed from an abandoned doll that amassed a grudge. It is seen in dark alleys.",
+            "black": "A doll that became a Pokémon over its grudge from being junked. It seeks the child that disowned it.",
+            "white": "A doll that became a Pokémon over its grudge from being junked. It seeks the child that disowned it.",
+            "black2": "A doll that became a Pokémon over its grudge of being thrown away. It seeks the child who disowned it.",
+            "white2": "A doll that became a Pokémon over its grudge of being thrown away. It seeks the child who disowned it.",
+            "x": "A doll that became a Pokémon over its grudge from being junked. It seeks the child that disowned it.",
+            "y": "Strong feelings of hatred turned a puppet into a Pokémon. If it opens its mouth, its cursed energy escapes.",
+            "omegaRuby": "Banette generates energy for laying strong curses by sticking pins into its own body. This Pokémon was originally a pitiful plush doll that was thrown away.",
+            "alphaSapphire": "A cursed energy permeated the stuffing of a discarded and forgotten plush doll, giving it new life as Banette. The Pokémon's energy would escape if it were to ever open its mouth.",
+            "ultraSun": "It's a stuffed toy that was thrown away and became possessed, ever searching for the one who threw it away so it can exact its revenge.",
+            "ultraMoon": "Resentment at being cast off made it spring into being. Some say that treating it well will satisfy it, and it will once more become a stuffed toy.",
+            "brilliantDiamond": "A doll bore a grudge over being junked, and it became a Pokémon. It seeks the child that disowned it.",
+            "shiningPearl": "A doll bore a grudge over being junked, and it became a Pokémon. It seeks the child that disowned it.",
+            "scarlet": "This Pokémon developed from an abandoned doll that amassed a grudge. It is seen in dark alleys.",
+            "violet": "Strong feelings of hatred turned a puppet into a Pokémon. If it opens its mouth, its cursed energy escapes."
+        }
+    },
+    {
+        "no": "#0354mega",
+        "name": "Mega Banette",
+        "entries": {
+            "ultraSun": "Extraordinary energy amplifies its cursing power to such an extent that it can't help but curse its own Trainer.",
+            "ultraMoon": "Mega Evolution increases its vindictiveness, and the cursing power that was held back by its zipper comes spilling out."
         }
     },
 ]
