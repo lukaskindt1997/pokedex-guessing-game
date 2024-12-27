@@ -18073,4 +18073,455 @@ export const Entries = [
             "legendsArceus": "Hard of heart and deft of blade, this rare form of Samurott is a product of the Pokémon's evolution in the region of Hisui. Its turbulent blows crash into foes like ceaseless pounding waves."
         }
     },
+    {
+        "no": "#0504",
+        "name": "Patrat",
+        "entries": {
+            "black": "Using food stored in cheek pouches, they can keep watch for days. They use their tails to communicate with others.",
+            "white": "Extremely cautious, they take shifts to maintain a constant watch of their nest. They feel insecure without a lookout.",
+            "black2": "Extremely cautious, one of them will always be on the lookout, but it won't notice a foe coming from behind.",
+            "white2": "Extremely cautious, one of them will always be on the lookout, but it won't notice a foe coming from behind.",
+            "x": "Using food stored in cheek pouches, they can keep watch for days. They use their tails to communicate with others.",
+            "y": "Extremely cautious, one of them will always be on the lookout, but it won't notice a foe coming from behind.",
+            "omegaRuby": "Using food stored in cheek pouches, they can keep watch for days. They use their tails to communicate with others.",
+            "alphaSapphire": "Extremely cautious, one of them will always be on the lookout, but it won't notice a foe coming from behind."
+        }
+    },
+    {
+        "no": "#0505",
+        "name": "Watchog",
+        "entries": {
+            "black": "When they see an enemy, their tails stand high, and they spit the seeds of berries stored in their cheek pouches.",
+            "white": "They make the patterns on their bodies shine in order to threaten predators. Keen eyesight lets them see in the dark.",
+            "black2": "Using luminescent matter, it makes its eyes and body glow and stuns attacking opponents.",
+            "white2": "Using luminescent matter, it makes its eyes and body glow and stuns attacking opponents.",
+            "x": "Using luminescent matter, it makes its eyes and body glow and stuns attacking opponents.",
+            "y": "When they see an enemy, their tails stand high, and they spit the seeds of berries stored in their cheek pouches.",
+            "omegaRuby": "Using luminescent matter, it makes its eyes and body glow and stuns attacking opponents.",
+            "alphaSapphire": "When they see an enemy, their tails stand high, and they spit the seeds of berries stored in their cheek pouches."
+        }
+    },
+    {
+        "no": "#0506",
+        "name": "Lillipup",
+        "entries": {
+            "black": "It faces strong opponents with great courage. But, when at a disadvantage in a fight, this intelligent Pokémon flees.",
+            "white": "The long hair around its face provides an amazing radar that lets it sense subtle changes in its surroundings.",
+            "black2": "Though it is a very brave Pokémon, it's also smart enough to check its foe's strength and avoid battle.",
+            "white2": "Though it is a very brave Pokémon, it's also smart enough to check its foe's strength and avoid battle.",
+            "x": "The long hair around its face provides an amazing radar that lets it sense subtle changes in its surroundings.",
+            "y": "Though it is a very brave Pokémon, it's also smart enough to check its foe's strength and avoid battle.",
+            "omegaRuby": "The long hair around its face provides an amazing radar that lets it sense subtle changes in its surroundings.",
+            "alphaSapphire": "Though it is a very brave Pokémon, it's also smart enough to check its foe's strength and avoid battle.",
+            "sun": "Because it doesn't yelp, it's extremely popular with Trainers who live in apartment buildings.",
+            "moon": "The long fur surrounding its face functions as radar, enabling it to probe the condition of its battle opponents.",
+            "ultraSun": "This Pokémon has excellent judgment. If it decides it can't defeat an opponent, it immediately turns tail and vamooses.",
+            "ultraMoon": "This Pokémon is popular with beginners because it's intelligent, obedient to its Trainer's commands, and easy to raise.",
+            "sword": "This Pokémon is courageous but also cautious. It uses the soft fur covering its face to collect information about its surroundings.",
+            "shield": "This Pokémon is far brighter than the average child, and Lillipup won't forget the love it receives or any abuse it suffers."
+        }
+    },
+    {
+        "no": "#0507",
+        "name": "Herdier",
+        "entries": {
+            "black": "It has black, cape-like fur that is very hard and decreases the amount of damage it receives.",
+            "white": "It loyally follows its Trainer's orders. For ages, they have helped Trainers raise Pokémon.",
+            "black2": "This very loyal Pokémon helps Trainers, and it also takes care of other Pokémon.",
+            "white2": "This very loyal Pokémon helps Trainers, and it also takes care of other Pokémon.",
+            "x": "This very loyal Pokémon helps Trainers, and it also takes care of other Pokémon.",
+            "y": "It has black, cape-like fur that is very hard and decreases the amount of damage it receives.",
+            "omegaRuby": "This very loyal Pokémon helps Trainers, and it also takes care of other Pokémon.",
+            "alphaSapphire": "It has black, cape-like fur that is very hard and decreases the amount of damage it receives.",
+            "sun": "Its dense black fur grows continuously. The high cost of keeping its hard fur properly groomed makes this a troublesome Pokémon to train.",
+            "moon": "This Pokémon obeys its master's orders faithfully. However, it refuses to listen to anything said by a person it doesn't respect.",
+            "ultraSun": "The longer its black fur grows, the harder and more impervious it gets. Claws and fangs can't easily penetrate it.",
+            "ultraMoon": "It has been living with people for so long that portrayals of it can be found on the walls of caves from long, long ago.",
+            "sword": "Herdier is a very smart and friendly Pokémon. So much so that there's a theory that Herdier was the first Pokémon to partner with people.",
+            "shield": "The black fur that covers this Pokémon's body is dense and springy. Even sharp fangs bounce right off."
+        }
+    },
+    {
+        "no": "#0508",
+        "name": "Stoutland",
+        "entries": {
+            "black": "It rescues people stranded by blizzards in the mountains. Its shaggy fur shields it from the cold.",
+            "white": "This extremely wise Pokémon excels at rescuing people stranded at sea or in the mountains.",
+            "black2": "Being wrapped in its long fur is so comfortable that a person would be fine even overnight on a wintry mountain.",
+            "white2": "Being wrapped in its long fur is so comfortable that a person would be fine even overnight on a wintry mountain.",
+            "x": "It rescues people stranded by blizzards in the mountains. Its shaggy fur shields it from the cold.",
+            "y": "Being wrapped in its long fur is so comfortable that a person would be fine even overnight on a wintry mountain.",
+            "omegaRuby": "It rescues people stranded by blizzards in the mountains. Its shaggy fur shields it from the cold.",
+            "alphaSapphire": "Being wrapped in its long fur is so comfortable that a person would be fine even overnight on a wintry mountain.",
+            "sun": "Intelligent, good-natured, and valiant, it's a trustworthy partner on rescue teams.",
+            "moon": "With this wise Pokémon, there could be no concern that it would ever attack people. Some parents even trust it to babysit.",
+            "ultraSun": "It pays no mind to the cold, thanks to its long warm coat. Stoutland in Alola look a little uncomfortable.",
+            "ultraMoon": "Its fur is long and thick. A long time ago in cold regions, every household kept a Stoutland.",
+            "sword": "These Pokémon seem to enjoy living with humans. Even a Stoutland caught in the wild will warm up to people in about three days.",
+            "shield": "Stoutland is immensely proud of its impressive moustache. It's said that moustache length is what determines social standing among this species."
+        }
+    },
+    {
+        "no": "#0509",
+        "name": "Purrloin",
+        "entries": {
+            "black": "They steal from people for fun, but their victims can't help but forgive them. Their deceptively cute act is perfect.",
+            "white": "Its cute act is a ruse. When victims let down their guard, they find their items taken. It attacks with sharp claws.",
+            "black2": "Their cute act is a ruse. They trick people and steal their valuables just to see the looks on their faces.",
+            "white2": "Their cute act is a ruse. They trick people and steal their valuables just to see the looks on their faces.",
+            "x": "Its cute act is a ruse. When victims let down their guard, they find their items taken. It attacks with sharp claws.",
+            "y": "They steal from people for fun, but their victims can't help but forgive them. Their deceptively cute act is perfect.",
+            "omegaRuby": "Its cute act is a ruse. When victims let down their guard, they find their items taken. It attacks with sharp claws.",
+            "alphaSapphire": "They steal from people for fun, but their victims can't help but forgive them. Their deceptively cute act is perfect.",
+            "sword": "It steals things from people just to amuse itself with their frustration. A rivalry exists between this Pokémon and Nickit.",
+            "shield": "Opponents that get drawn in by its adorable behavior come away with stinging scratches from its claws and stinging pride from its laughter."
+        }
+    },
+    {
+        "no": "#0510",
+        "name": "Liepard",
+        "entries": {
+            "black": "These Pokémon vanish and appear unexpectedly. Many Trainers are drawn to their beautiful form and fur.",
+            "white": "Stealthily, it sneaks up on its target, striking from behind before its victim has a chance to react.",
+            "black2": "Their beautiful form comes from the muscles they have developed. They run silently in the night.",
+            "white2": "Their beautiful form comes from the muscles they have developed. They run silently in the night.",
+            "x": "Their beautiful form comes from the muscles they have developed. They run silently in the night.",
+            "y": "Stealthily, it sneaks up on its target, striking from behind before its victim has a chance to react.",
+            "omegaRuby": "Their beautiful form comes from the muscles they have developed. They run silently in the night.",
+            "alphaSapphire": "Stealthily, it sneaks up on its target, striking from behind before its victim has a chance to react.",
+            "sword": "Don't be fooled by its gorgeous fur and elegant figure. This is a moody and vicious Pokémon.",
+            "shield": "This stealthy Pokémon sneaks up behind prey without making any sound at all. It competes with Thievul for territory."
+        }
+    },
+    {
+        "no": "#0511",
+        "name": "Pansage",
+        "entries": {
+            "black": "This Pokémon dwells deep in the forest. Eating a leaf from its head whisks weariness away as if by magic.",
+            "white": "It shares the leaf on its head with weary-looking Pokémon. These leaves are known to relieve stress.",
+            "black2": "It's good at finding berries and gathers them from all over. It's kind enough to share them with friends.",
+            "white2": "It's good at finding berries and gathers them from all over. It's kind enough to share them with friends.",
+            "x": "It shares the leaf on its head with weary-looking Pokémon. These leaves are known to relieve stress.",
+            "y": "It's good at finding berries and gathers them from all over. It's kind enough to share them with friends.",
+            "omegaRuby": "It shares the leaf on its head with weary-looking Pokémon. These leaves are known to relieve stress.",
+            "alphaSapphire": "It's good at finding berries and gathers them from all over. It's kind enough to share them with friends."
+        }
+    },
+    {
+        "no": "#0512",
+        "name": "Simisage",
+        "entries": {
+            "black": "Ill tempered, it fights by swinging its barbed tail around wildly. The leaf growing on its head is very bitter.",
+            "white": "It attacks enemies with strikes of its thorn-covered tail. This Pokémon is wild tempered.",
+            "black2": "It strikes its enemies with a thorn-covered tail. The leaf on its head is bitter.",
+            "white2": "It strikes its enemies with a thorn-covered tail. The leaf on its head is bitter.",
+            "x": "It attacks enemies with strikes of its thorn-covered tail. This Pokémon is wild tempered.",
+            "y": "Ill tempered, it fights by swinging its barbed tail around wildly. The leaf growing on its head is very bitter.",
+            "omegaRuby": "It attacks enemies with strikes of its thorn-covered tail. This Pokémon is wild tempered.",
+            "alphaSapphire": "Ill tempered, it fights by swinging its barbed tail around wildly. The leaf growing on its head is very bitter."
+        }
+    },
+    {
+        "no": "#0513",
+        "name": "Pansear",
+        "entries": {
+            "black": "When it is angered, the temperature of its head tuft reaches 600° F. It uses its tuft to roast berries.",
+            "white": "This Pokémon lives in caves in volcanoes. The fire within the tuft on its head can reach 600° F.",
+            "black2": "Very intelligent, it roasts berries before eating them. It likes to help people.",
+            "white2": "Very intelligent, it roasts berries before eating them. It likes to help people.",
+            "x": "Very intelligent, it roasts berries before eating them. It likes to help people.",
+            "y": "This Pokémon lives in caves in volcanoes. The fire within the tuft on its head can reach 600 degrees Fahrenheit.",
+            "omegaRuby": "Very intelligent, it roasts berries before eating them. It likes to help people.",
+            "alphaSapphire": "This Pokémon lives in caves in volcanoes. The fire within the tuft on its head can reach 600 degrees Fahrenheit."
+        }
+    },
+    {
+        "no": "#0514",
+        "name": "Simisear",
+        "entries": {
+            "black": "It loves sweets because they become energy for the fire burning inside its body.",
+            "white": "A flame burns inside its body. It scatters embers from its head and tail to sear its opponents.",
+            "black2": "When it gets excited, embers rise from its head and tail and it gets hot. For some reason, it loves sweets.",
+            "white2": "When it gets excited, embers rise from its head and tail and it gets hot. For some reason, it loves sweets.",
+            "x": "A flame burns inside its body. It scatters embers from its head and tail to sear its opponents.",
+            "y": "When it gets excited, embers rise from its head and tail and it gets hot. For some reason, it loves sweets.",
+            "omegaRuby": "A flame burns inside its body. It scatters embers from its head and tail to sear its opponents.",
+            "alphaSapphire": "When it gets excited, embers rise from its head and tail and it gets hot. For some reason, it loves sweets."
+        }
+    },
+    {
+        "no": "#0515",
+        "name": "Panpour",
+        "entries": {
+            "black": "The water stored inside the tuft on its head is full of nutrients. Plants that receive its water grow large.",
+            "white": "It does not thrive in dry environments. It keeps itself damp by shooting water stored in its head tuft from its tail.",
+            "black2": "The water stored inside the tuft on its head is full of nutrients. It waters plants with it using its tail.",
+            "white2": "The water stored inside the tuft on its head is full of nutrients. It waters plants with it using its tail.",
+            "x": "The water stored inside the tuft on its head is full of nutrients. It waters plants with it using its tail.",
+            "y": "The water stored inside the tuft on its head is full of nutrients. Plants that receive its water grow large.",
+            "omegaRuby": "The water stored inside the tuft on its head is full of nutrients. It waters plants with it using its tail.",
+            "alphaSapphire": "The water stored inside the tuft on its head is full of nutrients. Plants that receive its water grow large."
+        }
+    },
+    {
+        "no": "#0516",
+        "name": "Simipour",
+        "entries": {
+            "black": "The tuft on its head holds water. When the level runs low, it replenishes the tuft by siphoning up water with its tail.",
+            "white": "The high-pressure water expelled from its tail is so powerful, it can destroy a concrete wall.",
+            "black2": "It prefers places with clean water. When its tuft runs low, it replenishes it by siphoning up water with its tail.",
+            "white2": "It prefers places with clean water. When its tuft runs low, it replenishes it by siphoning up water with its tail.",
+            "x": "The high-pressure water expelled from its tail is so powerful, it can destroy a concrete wall.",
+            "y": "It prefers places with clean water. When its tuft runs low, it replenishes it by siphoning up water with its tail.",
+            "omegaRuby": "The high-pressure water expelled from its tail is so powerful, it can destroy a concrete wall.",
+            "alphaSapphire": "It prefers places with clean water. When its tuft runs low, it replenishes it by siphoning up water with its tail."
+        }
+    },
+    {
+        "no": "#0517",
+        "name": "Munna",
+        "entries": {
+            "black": "Munna always float in the air. People whose dreams are eaten by them forget what the dreams had been about.",
+            "white": "It eats the dreams of people and Pokémon. When it eats a pleasant dream, it expels pink-colored mist.",
+            "black2": "This Pokémon appears before people and Pokémon who are having nightmares and eats those dreams.",
+            "white2": "This Pokémon appears before people and Pokémon who are having nightmares and eats those dreams.",
+            "x": "This Pokémon appears before people and Pokémon who are having nightmares and eats those dreams.",
+            "y": "It eats the dreams of people and Pokémon. When it eats a pleasant dream, it expels pink-colored mist.",
+            "omegaRuby": "This Pokémon appears before people and Pokémon who are having nightmares and eats those dreams.",
+            "alphaSapphire": "It eats the dreams of people and Pokémon. When it eats a pleasant dream, it expels pink-colored mist.",
+            "sword": "Late at night, it appears beside people's pillows. As it feeds on dreams, the patterns on its body give off a faint glow.",
+            "shield": "It eats dreams and releases mist. The mist is pink when it's eating a good dream, and black when it's eating a nightmare."
+        }
+    },
+    {
+        "no": "#0518",
+        "name": "Musharna",
+        "entries": {
+            "black": "The mist emanating from their foreheads is packed with the dreams of people and Pokémon.",
+            "white": "With the mist from its forehead, it can create shapes of things from dreams it has eaten.",
+            "black2": "The dream mist coming from its forehead changes into many different colors depending on the dream that was eaten.",
+            "white2": "The dream mist coming from its forehead changes into many different colors depending on the dream that was eaten.",
+            "x": "The mist emanating from their foreheads is packed with the dreams of people and Pokémon.",
+            "y": "The dream mist coming from its forehead changes into many different colors depending on the dream that was eaten.",
+            "omegaRuby": "The mist emanating from their foreheads is packed with the dreams of people and Pokémon.",
+            "alphaSapphire": "The dream mist coming from its forehead changes into many different colors depending on the dream that was eaten.",
+            "sword": "When dark mists emanate from its body, don't get too near. If you do, your nightmares will become reality.",
+            "shield": "It drowses and dreams all the time. It's best to leave it be if it's just woken up, as it's a terrible grump when freshly roused from sleep."
+        }
+    },
+    {
+        "no": "#0519",
+        "name": "Pidove",
+        "entries": {
+            "black": "Each follows its Trainer's orders as best it can, but they sometimes fail to understand complicated commands.",
+            "white": "These Pokémon live in cities. They are accustomed to people. Flocks often gather in parks and plazas.",
+            "black2": "This very forgetful Pokémon will wait for a new order from its Trainer even though it already has one.",
+            "white2": "This very forgetful Pokémon will wait for a new order from its Trainer even though it already has one.",
+            "x": "This very forgetful Pokémon will wait for a new order from its Trainer even though it already has one.",
+            "y": "These Pokémon live in cities. They are accustomed to people. Flocks often gather in parks and plazas.",
+            "omegaRuby": "This very forgetful Pokémon will wait for a new order from its Trainer even though it already has one.",
+            "alphaSapphire": "These Pokémon live in cities. They are accustomed to people. Flocks often gather in parks and plazas.",
+            "sword": "Where people go, these Pokémon follow. If you're scattering food for them, be careful— several hundred of them can gather at once.",
+            "shield": "It's forgetful and not very bright, but many Trainers love it anyway for its friendliness and sincerity."
+        }
+    },
+    {
+        "no": "#0520",
+        "name": "Tranquill",
+        "entries": {
+            "black": "It can return to its Trainer's location regardless of the distance separating them.",
+            "white": "Many people believe that, deep in the forest where Tranquill live, there is a peaceful place where there is no war.",
+            "black2": "No matter where in the world it goes, it knows where its nest is, so it never gets separated from its Trainer.",
+            "white2": "No matter where in the world it goes, it knows where its nest is, so it never gets separated from its Trainer.",
+            "x": "Many people believe that, deep in the forest where Tranquill live, there is a peaceful place where there is no war.",
+            "y": "No matter where in the world it goes, it knows where its nest is, so it never gets separated from its Trainer.",
+            "omegaRuby": "Many people believe that, deep in the forest where Tranquill live, there is a peaceful place where there is no war.",
+            "alphaSapphire": "No matter where in the world it goes, it knows where its nest is, so it never gets separated from its Trainer.",
+            "sword": "It can fly moderately quickly. No matter how far it travels, it can always find its way back to its master and its nest.",
+            "shield": "These bright Pokémon have acute memories. Apparently delivery workers often choose them as their partners."
+        }
+    },
+    {
+        "no": "#0521male",
+        "name": "Male Unfezant",
+        "entries": {
+            "black": "Males swing their head plumage to threaten opponents. The females' flying abilities surpass those of the males.",
+            "white": "Males have plumage on their heads. They will never let themselves feel close to anyone other than their Trainers.",
+            "black2": "Males swing the plumage on their heads to threaten others, but females are better at flying.",
+            "white2": "Males swing the plumage on their heads to threaten others, but females are better at flying.",
+            "x": "Males swing their head plumage to threaten opponents. The females' flying abilities surpass those of the males.",
+            "y": "Males have plumage on their heads. They will never let themselves feel close to anyone other than their Trainers.",
+            "omegaRuby": "Males swing their head plumage to threaten opponents. The females' flying abilities surpass those of the males.",
+            "alphaSapphire": "Males have plumage on their heads. They will never let themselves feel close to anyone other than their Trainers.",
+            "sword": "Unfezant are exceptional fliers. The females are known for their stamina, while the males outclass them in terms of speed.",
+            "shield": "This Pokémon is intelligent and intensely proud. People will sit up and take notice if you become the Trainer of one."
+        }
+    },
+    {
+        "no": "#0521female",
+        "name": "Female Unfezant",
+        "entries": {
+            "sword": "Females of this species are very capable fliers, particularly notable for their stamina. They also take longer to adjust to people."
+        }
+    },
+    {
+        "no": "#0522",
+        "name": "Blitzle",
+        "entries": {
+            "black": "Its mane shines when it discharges electricity. They use their flashing manes to communicate with one another.",
+            "white": "When thunderclouds cover the sky, it will appear. It can catch lightning with its mane and store the electricity.",
+            "black2": "Its mane shines when it discharges electricity. They use the frequency and rhythm of these flashes to communicate.",
+            "white2": "Its mane shines when it discharges electricity. They use the frequency and rhythm of these flashes to communicate.",
+            "x": "When thunderclouds cover the sky, it will appear. It can catch lightning with its mane and store the electricity.",
+            "y": "Its mane shines when it discharges electricity. They use the frequency and rhythm of these flashes to communicate.",
+            "omegaRuby": "When thunderclouds cover the sky, it will appear. It can catch lightning with its mane and store the electricity.",
+            "alphaSapphire": "Its mane shines when it discharges electricity. They use the frequency and rhythm of these flashes to communicate.",
+            "scarlet": "Its heartbeat generates electricity. When Blitzle is surprised and its heart rate goes up, the voltage of its electricity also rises.",
+            "violet": "This Pokémon prefers places with lots of lightning strikes. It catches lightning with its mane and stores the electricity within its body."
+        }
+    },
+    {
+        "no": "#0523",
+        "name": "Zebstrika",
+        "entries": {
+            "black": "They have lightning-like movements. When Zebstrika run at full speed, the sound of thunder reverberates.",
+            "white": "This ill-tempered Pokémon is dangerous because when it's angry, it shoots lightning from its mane in all directions.",
+            "black2": "When this ill-tempered Pokémon runs wild, it shoots lightning from its mane in all directions.",
+            "white2": "When this ill-tempered Pokémon runs wild, it shoots lightning from its mane in all directions.",
+            "x": "When this ill-tempered Pokémon runs wild, it shoots lightning from its mane in all directions.",
+            "y": "They have lightning-like movements. When Zebstrika run at full speed, the sound of thunder reverberates.",
+            "omegaRuby": "When this ill-tempered Pokémon runs wild, it shoots lightning from its mane in all directions.",
+            "alphaSapphire": "They have lightning-like movements. When Zebstrika run at full speed, the sound of thunder reverberates.",
+            "scarlet": "This Pokémon is aggressive and has a volatile disposition. When agitated, it will illuminate its mane in yellow and fire off bolts of electricity.",
+            "violet": "Once the herd hears thunder, it chases after the storm clouds so that the Blitzle in the group can use the lightning to charge up."
+        }
+    },
+    {
+        "no": "#0524",
+        "name": "Roggenrola",
+        "entries": {
+            "black": "Its ear is hexagonal in shape. Compressed underground, its body is as hard as steel.",
+            "white": "They were discovered a hundred years ago in an earthquake fissure. Inside each one is an energy core.",
+            "black2": "The hexagonal-shaped hole is its ear. It has a tendency to walk in the direction the sound is coming from.",
+            "white2": "The hexagonal-shaped hole is its ear. It has a tendency to walk in the direction the sound is coming from.",
+            "x": "Its ear is hexagonal in shape. Compressed underground, its body is as hard as steel.",
+            "y": "They were discovered a hundred years ago in an earthquake fissure. Inside each one is an energy core.",
+            "omegaRuby": "Its ear is hexagonal in shape. Compressed underground, its body is as hard as steel.",
+            "alphaSapphire": "They were discovered a hundred years ago in an earthquake fissure. Inside each one is an energy core.",
+            "sun": "Born deep within the ground, it compares itself with similar species, such as Geodude and Carbink, to settle which has the hardest body.",
+            "moon": "The hexagonal cavity is its ear. It walks in the direction of sounds it hears, but if the sounds cease, it panics and topples over.",
+            "ultraSun": "The hexagonal hole is its ear. Deep in that ear is an energy core, so if you stick your hand in there, Roggenrola will be very angry!",
+            "ultraMoon": "It was found in a fissure in a layer of exposed rock. The material that makes up its body is dirt from several hundred years ago.",
+            "sword": "It's as hard as steel, but apparently a long soak in water will cause it to soften a bit.",
+            "shield": "When it detects a noise, it starts to move. The energy core inside it makes this Pokémon slightly warm to the touch."
+        }
+    },
+    {
+        "no": "#0525",
+        "name": "Boldore",
+        "entries": {
+            "black": "When it overflows with power, the orange crystal on its body glows. It looks for underground water in caves.",
+            "white": "Because its energy was too great to be contained, the energy leaked and formed orange crystals.",
+            "black2": "When it is healthy, its core sticks out. Always facing the same way, it swiftly moves front to back and left to right.",
+            "white2": "When it is healthy, its core sticks out. Always facing the same way, it swiftly moves front to back and left to right.",
+            "x": "Because its energy was too great to be contained, the energy leaked and formed orange crystals.",
+            "y": "When it is healthy, its core sticks out. Always facing the same way, it swiftly moves front to back and left to right.",
+            "omegaRuby": "Because its energy was too great to be contained, the energy leaked and formed orange crystals.",
+            "alphaSapphire": "When it is healthy, its core sticks out. Always facing the same way, it swiftly moves front to back and left to right.",
+            "sun": "Its orange crystal is a mass of energy. Just one crystal fragment would provide enough fuel for a hundred dump trucks.",
+            "moon": "It explores caves in search of underground water. It's not comfortable around water, so this Pokémon takes great care in lapping it up.",
+            "ultraSun": "The energy overflowing from its body has turned into orange crystals that are hard enough to smash diamonds.",
+            "ultraMoon": "Its orange crystals are lumps of powerful energy. They're valuable, so Boldore is sometimes targeted for them.",
+            "sword": "If you see its orange crystals start to glow, be wary. It's about to fire off bursts of energy.",
+            "shield": "It relies on sound in order to monitor what's in its vicinity. When angered, it will attack without ever changing the direction it's facing."
+        }
+    },
+    {
+        "no": "#0526",
+        "name": "Gigalith",
+        "entries": {
+            "black": "Compressing the energy from its internal core lets it fire off an attack capable of blowing away a mountain.",
+            "white": "The solar energy absorbed by its body's orange crystals is magnified internally and fired from its mouth.",
+            "black2": "The solar rays it absorbs are processed in its energy core and fired as a ball of light.",
+            "white2": "The solar rays it absorbs are processed in its energy core and fired as a ball of light.",
+            "x": "The solar rays it absorbs are processed in its energy core and fired as a ball of light.",
+            "y": "Compressing the energy from its internal core lets it fire off an attack capable of blowing away a mountain.",
+            "omegaRuby": "The solar rays it absorbs are processed in its energy core and fired as a ball of light.",
+            "alphaSapphire": "Compressing the energy from its internal core lets it fire off an attack capable of blowing away a mountain.",
+            "sun": "The blasts of energy it makes from sunbeams have terrifying power. However, it's not able to fire its blasts at night or on rainy days.",
+            "moon": "Known for its hefty horsepower, this Pokémon is a popular partner for construction workers.",
+            "ultraSun": "When it fires off energy with all its might, the power creates countless fissures on its body.",
+            "ultraMoon": "It absorbs rays of sunlight and shoots out energy. It's usually lurking deep beneath the surface.",
+            "sword": "This hardy Pokémon can often be found on construction sites and in mines, working alongside people and Copperajah.",
+            "shield": "Although its energy blasts can blow away a dump truck, they have a limitation—they can only be fired when the sun is out."
+        }
+    },
+    {
+        "no": "#0527",
+        "name": "Woobat",
+        "entries": {
+            "black": "Its habitat is dark forests and caves. It emits ultrasonic waves from its nose to learn about its surroundings.",
+            "white": "Suction from its nostrils enables it to stick to cave walls during sleep. It leaves a heart-shaped mark behind.",
+            "black2": "The heart-shaped mark left on a body after a Woobat has been attached to it is said to bring good fortune.",
+            "white2": "The heart-shaped mark left on a body after a Woobat has been attached to it is said to bring good fortune.",
+            "x": "Its habitat is dark forests and caves. It emits ultrasonic waves from its nose to learn about its surroundings.",
+            "y": "The heart-shaped mark left on a body after a Woobat has been attached to it is said to bring good fortune.",
+            "omegaRuby": "Its habitat is dark forests and caves. It emits ultrasonic waves from its nose to learn about its surroundings.",
+            "alphaSapphire": "The heart-shaped mark left on a body after a Woobat has been attached to it is said to bring good fortune.",
+            "sword": "While inside a cave, if you look up and see lots of heart-shaped marks lining the walls, it's evidence that Woobat live there.",
+            "shield": "It emits ultrasonic waves as it flutters about, searching for its prey—bug Pokémon."
+        }
+    },
+    {
+        "no": "#0528",
+        "name": "Swoobat",
+        "entries": {
+            "black": "It emits sound waves of various frequencies from its nose, including some powerful enough to destroy rocks.",
+            "white": "Anyone who comes into contact with the ultrasonic waves emitted by a courting male experiences a positive mood shift.",
+            "black2": "It shakes its tail vigorously when it emits ultrasonic waves strong enough to reduce concrete to rubble.",
+            "white2": "It shakes its tail vigorously when it emits ultrasonic waves strong enough to reduce concrete to rubble.",
+            "x": "It shakes its tail vigorously when it emits ultrasonic waves strong enough to reduce concrete to rubble.",
+            "y": "Anyone who comes into contact with the ultrasonic waves emitted by a courting male experiences a positive mood shift.",
+            "omegaRuby": "It shakes its tail vigorously when it emits ultrasonic waves strong enough to reduce concrete to rubble.",
+            "alphaSapphire": "Anyone who comes into contact with the ultrasonic waves emitted by a courting male experiences a positive mood shift.",
+            "sword": "Emitting powerful sound waves tires it out. Afterward, it won't be able to fly for a little while.",
+            "shield": "The auspicious shape of this Pokémon's nose apparently led some regions to consider Swoobat a symbol of good luck."
+        }
+    },
+    {
+        "no": "#0529",
+        "name": "Drilbur",
+        "entries": {
+            "black": "It can dig through the ground at a speed of 30 mph. It could give a car running aboveground a good race.",
+            "white": "It makes its way swiftly through the soil by putting both claws together and rotating at high speed.",
+            "black2": "By spinning its body, it can dig straight through the ground at a speed of 30 mph.",
+            "white2": "By spinning its body, it can dig straight through the ground at a speed of 30 mph.",
+            "x": "It makes its way swiftly through the soil by putting both claws together and rotating at high speed.",
+            "y": "By spinning its body, it can dig straight through the ground at a speed of 30 mph.",
+            "omegaRuby": "It makes its way swiftly through the soil by putting both claws together and rotating at high speed.",
+            "alphaSapphire": "By spinning its body, it can dig straight through the ground at a speed of 30 mph.",
+            "sword": "It brings its claws together and whirls around at high speed before rushing toward its prey.",
+            "shield": "It's a digger, using its claws to burrow through the ground. It causes damage to vegetable crops, so many farmers have little love for it.",
+            "scarlet": "It can dig through the ground at a speed of 30 mph. It could give a car running aboveground a good race.",
+            "violet": "It makes its way swiftly through the soil by putting both claws together and rotating at high speed."
+        }
+    },
+    {
+        "no": "#0530",
+        "name": "Excadrill",
+        "entries": {
+            "black": "It can help in tunnel construction. Its drill has evolved into steel strong enough to bore through iron plates.",
+            "white": "More than 300 feet below the surface, they build mazelike nests. Their activity can be destructive to subway tunnels.",
+            "black2": "Forming a drill with its steel claws and head, it can bore through a steel plate, no matter how thick it is.",
+            "white2": "Forming a drill with its steel claws and head, it can bore through a steel plate, no matter how thick it is.",
+            "x": "It can help in tunnel construction. Its drill has evolved into steel strong enough to bore through iron plates.",
+            "y": "More than 300 feet below the surface, they build mazelike nests. Their activity can be destructive to subway tunnels.",
+            "omegaRuby": "It can help in tunnel construction. Its drill has evolved into steel strong enough to bore through iron plates.",
+            "alphaSapphire": "More than 300 feet below the surface, they build mazelike nests. Their activity can be destructive to subway tunnels.",
+            "sword": "It's not uncommon for tunnels that appear to have formed naturally to actually be a result of Excadrill's rampant digging.",
+            "shield": "Known as the Drill King, this Pokémon can tunnel through the terrain at speeds of over 90 mph.",
+            "scarlet": "Forming a drill with its steel claws and head, it can bore through a steel plate, no matter how thick it is.",
+            "violet": "Its drill, which has evolved into steel, is strong enough to bore through iron plates. This Pokémon is a great help in tunnel construction."
+        }
+    },
 ]
