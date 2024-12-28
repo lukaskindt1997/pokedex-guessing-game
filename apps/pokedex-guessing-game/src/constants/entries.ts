@@ -19958,4 +19958,282 @@ export const Entries = [
             "shield": "The three gears that compose this Pokémon spin at high speed. Its new spiked gear isn't a living creature."
         }
     },
+    {
+        "no": "#0602",
+        "name": "Tynamo",
+        "entries": {
+            "black": "While one alone doesn't have much power, a chain of many Tynamo can be as powerful as lightning.",
+            "white": "These Pokémon move in schools. They have an electricity-generating organ, so they discharge electricity if in danger.",
+            "black2": "One alone can emit only a trickle of electricity, so a group of them gathers to unleash a powerful electric shock.",
+            "white2": "One alone can emit only a trickle of electricity, so a group of them gathers to unleash a powerful electric shock.",
+            "x": "While one alone doesn't have much power, a chain of many Tynamo can be as powerful as lightning.",
+            "y": "One alone can emit only a trickle of electricity, so a group of them gathers to unleash a powerful electric shock.",
+            "omegaRuby": "While one alone doesn't have much power, a chain of many Tynamo can be as powerful as lightning.",
+            "alphaSapphire": "One alone can emit only a trickle of electricity, so a group of them gathers to unleash a powerful electric shock.",
+            "scarlet": "While one alone doesn’t have much power, a chain of many Tynamo can be as powerful as lightning.",
+            "violet": "These Pokémon move in schools. They have an electricity-generating organ, so they discharge electricity if in danger."
+        }
+    },
+    {
+        "no": "#0603",
+        "name": "Eelektrik",
+        "entries": {
+            "black": "They coil around foes and shock them with electricity-generating organs that seem simply to be circular patterns.",
+            "white": "These Pokémon have a big appetite. When they spot their prey, they attack it and paralyze it with electricity.",
+            "black2": "It wraps itself around its prey and paralyzes it with electricity from the round spots on its sides. Then it chomps.",
+            "white2": "It wraps itself around its prey and paralyzes it with electricity from the round spots on its sides. Then it chomps.",
+            "x": "It wraps itself around its prey and paralyzes it with electricity from the round spots on its sides. Then it chomps.",
+            "y": "These Pokémon have a big appetite. When they spot their prey, they attack it and paralyze it with electricity.",
+            "omegaRuby": "It wraps itself around its prey and paralyzes it with electricity from the round spots on its sides. Then it chomps.",
+            "alphaSapphire": "These Pokémon have a big appetite. When they spot their prey, they attack it and paralyze it with electricity.",
+            "scarlet": "They coil around foes and shock them with electricity-generating organs that seem simply to be circular patterns.",
+            "violet": "These Pokémon have a big appetite. When they spot their prey, they attack it and paralyze it with electricity."
+        }
+    },
+    {
+        "no": "#0604",
+        "name": "Eelektross",
+        "entries": {
+            "black": "They crawl out of the ocean using their arms. They will attack prey on shore and immediately drag it into the ocean.",
+            "white": "With their sucker mouths, they suck in prey. Then they use their fangs to shock the prey with electricity.",
+            "black2": "It latches on to prey with its sucker mouth, sinking in its fangs and shocking the prey with powerful electricity.",
+            "white2": "It latches on to prey with its sucker mouth, sinking in its fangs and shocking the prey with powerful electricity.",
+            "x": "With their sucker mouths, they suck in prey. Then they use their fangs to shock the prey with electricity.",
+            "y": "They crawl out of the ocean using their arms. They will attack prey on shore and immediately drag it into the ocean.",
+            "omegaRuby": "With their sucker mouths, they suck in prey. Then they use their fangs to shock the prey with electricity.",
+            "alphaSapphire": "They crawl out of the ocean using their arms. They will attack prey on shore and immediately drag it into the ocean.",
+            "scarlet": "They crawl out of the ocean using their arms. They will attack prey on shore and immediately drag it into the ocean.",
+            "violet": "It latches on to prey with its sucker mouth, sinking in its fangs and shocking the prey with powerful electricity."
+        }
+    },
+    {
+        "no": "#0605",
+        "name": "Elgyem",
+        "entries": {
+            "black": "It uses its strong psychic power to squeeze its opponent's brain, causing unendurable headaches.",
+            "white": "This Pokémon had never been seen until it appeared from far in the desert 50 years ago.",
+            "black2": "Rumors of its origin are linked to a UFO crash site in the desert 50 years ago.",
+            "white2": "Rumors of its origin are linked to a UFO crash site in the desert 50 years ago.",
+            "x": "It uses its strong psychic power to squeeze its opponent's brain, causing unendurable headaches.",
+            "y": "Rumors of its origin are linked to a UFO crash site in the desert 50 years ago.",
+            "omegaRuby": "It uses its strong psychic power to squeeze its opponent's brain, causing unendurable headaches.",
+            "alphaSapphire": "Rumors of its origin are linked to a UFO crash site in the desert 50 years ago.",
+            "ultraSun": "It controls tremendous psychic power. Most reports of alien sightings are actually just people mistaking Elgyem for an alien.",
+            "ultraMoon": "This Pokémon is shrouded in mystery. It's said to have appeared from a UFO that fell from the sky about 50 years ago.",
+            "sword": "If this Pokémon stands near a TV, strange scenery will appear on the screen. That scenery is said to be from its home.",
+            "shield": "This Pokémon was discovered about 50 years ago. Its highly developed brain enables it to exert its psychic powers."
+        }
+    },
+    {
+        "no": "#0606",
+        "name": "Beheeyem",
+        "entries": {
+            "black": "It can manipulate an opponent's memory. Apparently, it communicates by flashing its three different-colored fingers.",
+            "white": "It uses psychic power to control an opponent's brain and tamper with its memories.",
+            "black2": "Apparently, it communicates by flashing its three fingers, but those patterns haven't been decoded.",
+            "white2": "Apparently, it communicates by flashing its three fingers, but those patterns haven't been decoded.",
+            "x": "Apparently, it communicates by flashing its three fingers, but those patterns haven't been decoded.",
+            "y": "It uses psychic power to control an opponent's brain and tamper with its memories.",
+            "omegaRuby": "Apparently, it communicates by flashing its three fingers, but those patterns haven't been decoded.",
+            "alphaSapphire": "It uses psychic power to control an opponent's brain and tamper with its memories.",
+            "ultraSun": "With its psychic powers, it rewrites its opponents' memories. You, too, may have already had your memories rewritten.",
+            "ultraMoon": "It has strong psychic powers. Using its fingers that flash three different colors, it controls its opponents and rewrites their memories.",
+            "sword": "Whenever a Beheeyem visits a farm, a Dubwool mysteriously disappears.",
+            "shield": "Sometimes found drifting above wheat fields, this Pokémon can control the memories of its opponents."
+        }
+    },
+    {
+        "no": "#0607",
+        "name": "Litwick",
+        "entries": {
+            "black": "Litwick shines a light that absorbs the life energy of people and Pokémon, which becomes the fuel that it burns.",
+            "white": "While shining a light and pretending to be a guide, it leeches off the life force of any who follow it.",
+            "black2": "Its flame is usually out, but it starts shining when it absorbs life force from people or Pokémon.",
+            "white2": "Its flame is usually out, but it starts shining when it absorbs life force from people or Pokémon.",
+            "x": "While shining a light and pretending to be a guide, it leeches off the life force of any who follow it.",
+            "y": "Litwick shines a light that absorbs the life energy of people and Pokémon, which becomes the fuel that it burns.",
+            "omegaRuby": "While shining a light and pretending to be a guide, it leeches off the life force of any who follow it.",
+            "alphaSapphire": "Litwick shines a light that absorbs the life energy of people and Pokémon, which becomes the fuel that it burns.",
+            "sword": "The flame on its head keeps its body slightly warm. This Pokémon takes lost children by the hand to guide them to the spirit world.",
+            "shield": "The younger the life this Pokémon absorbs, the brighter and eerier the flame on its head burns.",
+            "scarlet": "Its flame is usually out, but it starts shining when Litwick absorbs life-force from people or Pokémon.",
+            "violet": "While shining a light and pretending to be a guide, it leeches off the life-force of any who follow it."
+        }
+    },
+    {
+        "no": "#0608",
+        "name": "Lampent",
+        "entries": {
+            "black": "This ominous Pokémon is feared. Through cities it wanders, searching for the spirits of the fallen.",
+            "white": "It arrives near the moment of death and steals spirit from the body.",
+            "black2": "The spirits it absorbs fuel its baleful fire. It hangs around hospitals waiting for people to pass on.",
+            "white2": "The spirits it absorbs fuel its baleful fire. It hangs around hospitals waiting for people to pass on.",
+            "x": "The spirits it absorbs fuel its baleful fire. It hangs around hospitals waiting for people to pass on.",
+            "y": "It arrives near the moment of death and steals spirit from the body.",
+            "omegaRuby": "The spirits it absorbs fuel its baleful fire. It hangs around hospitals waiting for people to pass on.",
+            "alphaSapphire": "It arrives near the moment of death and steals spirit from the body.",
+            "sword": "This Pokémon appears just before someone passes away, so it's feared as an emissary of death.",
+            "shield": "It lurks in cities, pretending to be a lamp. Once it finds someone whose death is near, it will trail quietly after them.",
+            "scarlet": "Lampent appears at the moment of death and promptly absorbs the spirit as it leaves the body.",
+            "violet": "The spirits it absorbs fuel its baleful fire. It hangs around hospitals waiting for people to pass on."
+        }
+    },
+    {
+        "no": "#0609",
+        "name": "Chandelure",
+        "entries": {
+            "black": "It absorbs a spirit, which it then burns. By waving the flames on its arms, it puts its foes into a hypnotic trance.",
+            "white": "Being consumed in Chandelure's flame burns up the spirit, leaving the body behind.",
+            "black2": "The spirits burned up in its ominous flame lose their way and wander this world forever.",
+            "white2": "The spirits burned up in its ominous flame lose their way and wander this world forever.",
+            "x": "Being consumed in Chandelure's flame burns up the spirit, leaving the body behind.",
+            "y": "The spirits burned up in its ominous flame lose their way and wander this world forever.",
+            "omegaRuby": "Being consumed in Chandelure's flame burns up the spirit, leaving the body behind.",
+            "alphaSapphire": "The spirits burned up in its ominous flame lose their way and wander this world forever.",
+            "sword": "This Pokémon haunts dilapidated mansions. It sways its arms to hypnotize opponents with the ominous dancing of its flames.",
+            "shield": "In homes illuminated by Chandelure instead of lights, funerals were a constant occurrence— or so it's said.",
+            "scarlet": "The spirits burned up in its ominous flame lose their way and wander this world forever.",
+            "violet": "It absorbs spirits, which it then burns. By waving the flames on its arms, it puts its foes into a hypnotic trance."
+        }
+    },
+    {
+        "no": "#0610",
+        "name": "Axew",
+        "entries": {
+            "black": "They use their tusks to crush the berries they eat. Repeated regrowth makes their tusks strong and sharp.",
+            "white": "They mark their territory by leaving gashes in trees with their tusks. If a tusk breaks, a new one grows in quickly.",
+            "black2": "Its large tusks have a tendency to break, but each time they grow back, they grow in harder and sturdier.",
+            "white2": "Its large tusks have a tendency to break, but each time they grow back, they grow in harder and sturdier.",
+            "x": "They use their tusks to crush the berries they eat. Repeated regrowth makes their tusks strong and sharp.",
+            "y": "They mark their territory by leaving gashes in trees with their tusks. If a tusk breaks, a new one grows in quickly.",
+            "omegaRuby": "They use their tusks to crush the berries they eat. Repeated regrowth makes their tusks strong and sharp.",
+            "alphaSapphire": "They mark their territory by leaving gashes in trees with their tusks. If a tusk breaks, a new one grows in quickly.",
+            "sword": "These Pokémon nest in the ground and use their tusks to crush hard berries. Crushing berries is also how they test each other's strength.",
+            "shield": "They play with each other by knocking their large tusks together. Their tusks break sometimes, but they grow back so quickly that it isn't a concern.",
+            "scarlet": "This Pokémon lives in nests that are made in the ground. People in ancient times used its tusks as cooking knives.",
+            "violet": "If you see peculiar teeth marks on boulders or trees, it means an Axew is likely living nearby."
+        }
+    },
+    {
+        "no": "#0611",
+        "name": "Fraxure",
+        "entries": {
+            "black": "Since a broken tusk will not grow back, they diligently sharpen their tusks on river rocks after they've been fighting.",
+            "white": "Their tusks can shatter rocks. Territory battles between Fraxure can be intensely violent.",
+            "black2": "A broken tusk will not grow back, so it diligently sharpens its tusks on river rocks after the end of a battle.",
+            "white2": "A broken tusk will not grow back, so it diligently sharpens its tusks on river rocks after the end of a battle.",
+            "x": "Their tusks can shatter rocks. Territory battles between Fraxure can be intensely violent.",
+            "y": "A broken tusk will not grow back, so it diligently sharpens its tusks on river rocks after the end of a battle.",
+            "omegaRuby": "Their tusks can shatter rocks. Territory battles between Fraxure can be intensely violent.",
+            "alphaSapphire": "A broken tusk will not grow back, so it diligently sharpens its tusks on river rocks after the end of a battle.",
+            "sword": "After battle, this Pokémon carefully sharpens its tusks on river rocks. It needs to take care of its tusks—if one breaks, it will never grow back.",
+            "shield": "Its skin is as hard as a suit of armor. Fraxure's favorite strategy is to tackle its opponents, stabbing them with its tusks at the same time.",
+            "scarlet": "Because its tusks don’t grow back once they break, this Pokémon apparently won’t use them unless truly necessary.",
+            "violet": "Fraxure uses its thick tusks to neatly cut prey into two portions—one to eat now and one to save for later."
+        }
+    },
+    {
+        "no": "#0612",
+        "name": "Haxorus",
+        "entries": {
+            "black": "They are kind but can be relentless when defending territory. They challenge foes with tusks that can cut steel.",
+            "white": "Their sturdy tusks will stay sharp even if used to cut steel beams. These Pokémon are covered in hard armor.",
+            "black2": "Its tusks are incredibly destructive. They can easily slice through a thick, sturdy steel column every time.",
+            "white2": "Its tusks are incredibly destructive. They can easily slice through a thick, sturdy steel column every time.",
+            "x": "They are kind but can be relentless when defending territory. They challenge foes with tusks that can cut steel.",
+            "y": "Their sturdy tusks will stay sharp even if used to cut steel beams. These Pokémon are covered in hard armor.",
+            "omegaRuby": "They are kind but can be relentless when defending territory. They challenge foes with tusks that can cut steel.",
+            "alphaSapphire": "Their sturdy tusks will stay sharp even if used to cut steel beams. These Pokémon are covered in hard armor.",
+            "sword": "Its resilient tusks are its pride and joy. It licks up dirt to take in the minerals it needs to keep its tusks in top condition.",
+            "shield": "While usually kindhearted, it can be terrifying if angered. Tusks that can slice through steel beams are how Haxorus deals with its adversaries.",
+            "scarlet": "This Pokémon nests in caves and abandoned mines. It is docile, but it will become incredibly angry if its tusks are touched, so beware.",
+            "violet": "It overwhelms enemies with its prized tusks, which are sharp enough to cut through a metal transmission tower in one strike."
+        }
+    },
+    {
+        "no": "#0613",
+        "name": "Cubchoo",
+        "entries": {
+            "black": "When it is not feeling well, its mucus gets watery and the power of its Ice-type moves decreases.",
+            "white": "Its nose is always running. It sniffs the snot back up because the mucus provides the raw material for its moves.",
+            "black2": "Their snot is a barometer of health. When healthy, their snot is sticky and the power of their ice moves increases.",
+            "white2": "Their snot is a barometer of health. When healthy, their snot is sticky and the power of their ice moves increases.",
+            "x": "Its nose is always running. It sniffs the snot back up because the mucus provides the raw material for its moves.",
+            "y": "Their snot is a barometer of health. When healthy, their snot is sticky and the power of their ice moves increases.",
+            "omegaRuby": "Its nose is always running. It sniffs the snot back up because the mucus provides the raw material for its moves.",
+            "alphaSapphire": "Their snot is a barometer of health. When healthy, their snot is sticky and the power of their ice moves increases.",
+            "sword": "When this Pokémon is in good health, its snot becomes thicker and stickier. It will smear its snot on anyone it doesn't like.",
+            "shield": "It sniffles before performing a move, using its frosty snot to provide an icy element to any move that needs it.",
+            "scarlet": "Many of this species can be found along the shorelines of cold regions. If a Cubchoo lacks dangling snot, there's a chance it is sick.",
+            "violet": "When Cubchoo starts sneezing, watch out! If it spatters you with its frosty snot, you'll get frostbite."
+        }
+    },
+    {
+        "no": "#0614",
+        "name": "Beartic",
+        "entries": {
+            "black": "It can make its breath freeze at will. Very able in the water, it swims around in northern seas and catches prey.",
+            "white": "It freezes its breath to create fangs and claws of ice to fight with. Cold northern areas are its habitat.",
+            "black2": "They love the cold seas of the north. They create pathways across the ocean waters by freezing their own breath.",
+            "white2": "They love the cold seas of the north. They create pathways across the ocean waters by freezing their own breath.",
+            "x": "They love the cold seas of the north. They create pathways across the ocean waters by freezing their own breath.",
+            "y": "It freezes its breath to create fangs and claws of ice to fight with. Cold northern areas are its habitat.",
+            "omegaRuby": "They love the cold seas of the north. They create pathways across the ocean waters by freezing their own breath.",
+            "alphaSapphire": "It freezes its breath to create fangs and claws of ice to fight with. Cold northern areas are its habitat.",
+            "sword": "It swims through frigid seas, searching for prey. From its frozen breath, it forms icy fangs that are harder than steel.",
+            "shield": "It swims energetically through frigid seas. When it gets tired, it freezes the seawater with its breath so it can rest on the ice.",
+            "scarlet": "It is a ferocious, carnivorous Pokémon. Once it captures its prey, it will breathe cold air onto the prey to freeze and preserve it.",
+            "violet": "Feared as the Snow-White Demon in northern lands, Beartic uses its frosty claws and fangs to attack prey."
+        }
+    },
+    {
+        "no": "#0615",
+        "name": "Cryogonal",
+        "entries": {
+            "black": "When its body temperature goes up, it turns into steam and vanishes. When its temperature lowers, it returns to ice.",
+            "white": "They are born in snow clouds. They use chains made of ice crystals to capture prey.",
+            "black2": "They are composed of ice crystals. They capture prey with chains of ice, freezing the prey at -148° F.",
+            "white2": "They are composed of ice crystals. They capture prey with chains of ice, freezing the prey at -148° F.",
+            "x": "They are born in snow clouds. They use chains made of ice crystals to capture prey.",
+            "y": "They are composed of ice crystals. They capture prey with chains of ice, freezing the prey at -148 degrees Fahrenheit.",
+            "omegaRuby": "They are born in snow clouds. They use chains made of ice crystals to capture prey.",
+            "alphaSapphire": "They are composed of ice crystals. They capture prey with chains of ice, freezing the prey at -148 degrees Fahrenheit.",
+            "sword": "With its icy chains, Cryogonal freezes those it encounters. It then takes its victims away to somewhere unknown.",
+            "shield": "When the weather gets hot, these Pokémon turn into water vapor. Cryogonal are almost never seen during summer.",
+            "scarlet": "Cryogonal appear during cold seasons. It is said that people and Pokémon who die on snowy mountains are reborn into these Pokémon.",
+            "violet": "Cryogonal uses its chains of ice to constrict its opponents and then flash-freezes them where they stand."
+        }
+    },
+    {
+        "no": "#0616",
+        "name": "Shelmet",
+        "entries": {
+            "black": "When attacked, it defends itself by closing the lid of its shell. It can spit a sticky, poisonous liquid.",
+            "white": "It evolves when bathed in an electric-like energy along with Karrablast. The reason is still unknown.",
+            "black2": "When it and Karrablast are together, and both receive electrical stimulation, they both evolve.",
+            "white2": "When it and Karrablast are together, and both receive electrical stimulation, they both evolve.",
+            "x": "When it and Karrablast are together, and both receive electrical stimulation, they both evolve.",
+            "y": "It evolves when bathed in an electric-like energy along with Karrablast. The reason is still unknown.",
+            "omegaRuby": "When it and Karrablast are together, and both receive electrical stimulation, they both evolve.",
+            "alphaSapphire": "It evolves when bathed in an electric-like energy along with Karrablast. The reason is still unknown.",
+            "sword": "When attacked, it tightly shuts the lid of its shell. This reaction fails to protect it from Karrablast, however, because they can still get into the shell.",
+            "shield": "It has a strange physiology that responds to electricity. When together with Karrablast, Shelmet evolves for some reason."
+        }
+    },
+    {
+        "no": "#0617",
+        "name": "Accelgor",
+        "entries": {
+            "black": "When its body dries out, it weakens. So, to prevent dehydration, it wraps itself in many layers of thin membrane.",
+            "white": "Having removed its heavy shell, it becomes very light and can fight with ninja-like movements.",
+            "black2": "When its body dries out, it weakens. So it wraps a membrane around itself for protection while it spits poison.",
+            "white2": "When its body dries out, it weakens. So it wraps a membrane around itself for protection while it spits poison.",
+            "x": "Having removed its heavy shell, it becomes very light and can fight with ninja-like movements.",
+            "y": "When its body dries out, it weakens. So, to prevent dehydration, it wraps itself in many layers of thin membrane.",
+            "omegaRuby": "Having removed its heavy shell, it becomes very light and can fight with ninja-like movements.",
+            "alphaSapphire": "When its body dries out, it weakens. So, to prevent dehydration, it wraps itself in many layers of thin membrane.",
+            "sword": "It moves with blinding speed and lobs poison at foes. Featuring Accelgor as a main character is a surefire way to make a movie or comic popular.",
+            "shield": "Discarding its shell made it nimble. To keep itself from dehydrating, it wraps its body in bands of membrane."
+        }
+    },
 ]
