@@ -20236,4 +20236,234 @@ export const Entries = [
             "shield": "Discarding its shell made it nimble. To keep itself from dehydrating, it wraps its body in bands of membrane."
         }
     },
+    {
+        "no": "#0618",
+        "name": "Stunfisk",
+        "entries": {
+            "black": "Its skin is very hard, so it is unhurt even if stepped on by sumo wrestlers. It smiles when transmitting electricity.",
+            "white": "It conceals itself in the mud of the seashore. Then it waits. When prey touch it, it delivers a jolt of electricity.",
+            "black2": "When its opponent can't be paralyzed, it contorts itself with unexpected speed and flops away.",
+            "white2": "When its opponent can't be paralyzed, it contorts itself with unexpected speed and flops away.",
+            "x": "Its skin is very hard, so it is unhurt even if stepped on by sumo wrestlers. It smiles when transmitting electricity.",
+            "y": "It conceals itself in the mud of the seashore. Then it waits. When prey touch it, it delivers a jolt of electricity.",
+            "omegaRuby": "Its skin is very hard, so it is unhurt even if stepped on by sumo wrestlers. It smiles when transmitting electricity.",
+            "alphaSapphire": "It conceals itself in the mud of the seashore. Then it waits. When prey touch it, it delivers a jolt of electricity.",
+            "sword": "Thanks to bacteria that lived in the mud flats with it, this Pokémon developed the organs it uses to generate electricity.",
+            "shield": "For some reason, this Pokémon smiles slightly when it emits a strong electric current from the yellow markings on its body."
+        }
+    },
+    {
+        "no": "#0618galar",
+        "name": "Galarian Stunfisk",
+        "entries": {
+            "sword": "Living in mud with a high iron content has given it a strong steel body.",
+            "shield": "Its conspicuous lips lure prey in as it lies in wait in the mud. When prey gets close, Stunfisk clamps its jagged steel fins down on them."
+        }
+    },
+    {
+        "no": "#0619",
+        "name": "Mienfoo",
+        "entries": {
+            "black": "In fights, they dominate with onslaughts of flowing, continuous attacks. With their sharp claws, they cut enemies.",
+            "white": "They have mastered elegant combos. As they concentrate, their battle moves become swifter and more precise.",
+            "black2": "It takes pride in the speed at which it can use moves. What it loses in power, it makes up for in quantity.",
+            "white2": "It takes pride in the speed at which it can use moves. What it loses in power, it makes up for in quantity.",
+            "x": "It takes pride in the speed at which it can use moves. What it loses in power, it makes up for in quantity.",
+            "y": "In fights, they dominate with onslaughts of flowing, continuous attacks. With their sharp claws, they cut enemies.",
+            "omegaRuby": "It takes pride in the speed at which it can use moves. What it loses in power, it makes up for in quantity.",
+            "alphaSapphire": "In fights, they dominate with onslaughts of flowing, continuous attacks. With their sharp claws, they cut enemies.",
+            "ultraSun": "They can often be seen in packs in the morning, slowly moving their bodies through a series of poses.",
+            "ultraMoon": "They seclude themselves in the mountains and devote themselves to training. The form of their kicks and chops differs from pack to pack.",
+            "sword": "In one minute, a well-trained Mienfoo can chop with its arms more than 100 times.",
+            "shield": "Though small, Mienfoo's temperament is fierce. Any creature that approaches Mienfoo carelessly will be met with a flurry of attacks.",
+            "scarlet": "In fights, they dominate with onslaughts of flowing, continuous attacks. With their sharp claws, they cut enemies.",
+            "violet": "They seclude themselves in the mountains and devote themselves to training. The form of their kicks and chops differs from pack to pack."
+        }
+    },
+    {
+        "no": "#0620",
+        "name": "Mienshao",
+        "entries": {
+            "black": "It wields the fur on its arms like a whip. Its arm attacks come with such rapidity that they cannot even be seen.",
+            "white": "They use the long fur on their arms as a whip to strike their opponents.",
+            "black2": "Using the long fur on its arms like whips, it launches into combo attacks that, once started, no one can stop.",
+            "white2": "Using the long fur on its arms like whips, it launches into combo attacks that, once started, no one can stop.",
+            "x": "It wields the fur on its arms like a whip. Its arm attacks come with such rapidity that they cannot even be seen.",
+            "y": "Using the long fur on its arms like whips, it launches into combo attacks that, once started, no one can stop.",
+            "omegaRuby": "It wields the fur on its arms like a whip. Its arm attacks come with such rapidity that they cannot even be seen.",
+            "alphaSapphire": "Using the long fur on its arms like whips, it launches into combo attacks that, once started, no one can stop.",
+            "ultraSun": "It overwhelms its opponents with continuous attacks and then slowly stores up power before delivering the finishing blow.",
+            "ultraMoon": "When Mienshao lets out a bizarre wail, you're in danger. A flurry of kicks and chops too fast to see is about to be unleashed!",
+            "sword": "When Mienshao comes across a truly challenging opponent, it will lighten itself by biting off the fur on its arms.",
+            "shield": "Delivered at blinding speeds, kicks from this Pokémon can shatter massive boulders into tiny pieces.",
+            "scarlet": "When Mienshao lets out a bizarre wail, you're in danger. A flurry of kicks and chops too fast to see is about to be unleashed!",
+            "violet": "Using the long fur on its arms like whips, it launches into combo attacks that, once started, no one can stop."
+        }
+    },
+    {
+        "no": "#0621",
+        "name": "Druddigon",
+        "entries": {
+            "black": "It warms its body by absorbing sunlight with its wings. When its body temperature falls, it can no longer move.",
+            "white": "It races through narrow caves, using its sharp claws to catch prey. The skin on its face is harder than a rock.",
+            "black2": "It runs through the narrow tunnels formed by Excadrill and Onix. It uses its sharp claws to catch prey.",
+            "white2": "It runs through the narrow tunnels formed by Excadrill and Onix. It uses its sharp claws to catch prey.",
+            "x": "It races through narrow caves, using its sharp claws to catch prey. The skin on its face is harder than a rock.",
+            "y": "It warms its body by absorbing sunlight with its wings. When its body temperature falls, it can no longer move.",
+            "omegaRuby": "It races through narrow caves, using its sharp claws to catch prey. The skin on its face is harder than a rock.",
+            "alphaSapphire": "It warms its body by absorbing sunlight with its wings. When its body temperature falls, it can no longer move.",
+            "ultraSun": "The red skin on its face is harder than rock. In narrow caves, it squares off against its enemies and charges face-first right into them.",
+            "ultraMoon": "It infiltrates tunnels that Pokémon like Diglett and Dugtrio have dug and quietly waits for prey to pass through.",
+            "sword": "Druddigon lives in caves, but it never skips sunbathing—it won't be able to move if its body gets too cold.",
+            "shield": "Druddigon are vicious and cunning. They take up residence in nests dug out by other Pokémon, treating the stolen nests as their own lairs."
+        }
+    },
+    {
+        "no": "#0622",
+        "name": "Golett",
+        "entries": {
+            "black": "The energy that burns inside it enables it to move, but no one has yet been able to identify this energy.",
+            "white": "These Pokémon are thought to have been created by the science of an ancient and mysterious civilization.",
+            "black2": "Ancient science fashioned this Pokémon from clay. It's been active for thousands of years.",
+            "white2": "Ancient science fashioned this Pokémon from clay. It's been active for thousands of years.",
+            "x": "The energy that burns inside it enables it to move, but no one has yet been able to identify this energy.",
+            "y": "Ancient science fashioned this Pokémon from clay. It's been active for thousands of years.",
+            "omegaRuby": "The energy that burns inside it enables it to move, but no one has yet been able to identify this energy.",
+            "alphaSapphire": "Ancient science fashioned this Pokémon from clay. It's been active for thousands of years.",
+            "ultraSun": "Its movements are powered by a mysterious energy. It has continued to move since ancient times, so its power may soon run out.",
+            "ultraMoon": "Although ancient people apparently built it by working with clay, the source of its energy is unclear.",
+            "sword": "They were sculpted from clay in ancient times. No one knows why, but some of them are driven to continually line up boulders.",
+            "shield": "This Pokémon was created from clay. It received orders from its master many thousands of years ago, and it still follows those orders to this day.",
+            "scarlet": "These Pokémon are thought to have been created by the science of an ancient and mysterious civilization.",
+            "violet": "Its movements are powered by a mysterious energy. It has continued to move since ancient times, so its power may soon run out."
+        }
+    },
+    {
+        "no": "#0623",
+        "name": "Golurk",
+        "entries": {
+            "black": "It flies across the sky at Mach speeds. Removing the seal on its chest makes its internal energy go out of control.",
+            "white": "It is said that Golurk were ordered to protect people and Pokémon by the ancient people who made them.",
+            "black2": "Golurk were created to protect people and Pokémon. They run on a mysterious energy.",
+            "white2": "Golurk were created to protect people and Pokémon. They run on a mysterious energy.",
+            "x": "It is said that Golurk were ordered to protect people and Pokémon by the ancient people who made them.",
+            "y": "It flies across the sky at Mach speeds. Removing the seal on its chest makes its internal energy go out of control.",
+            "omegaRuby": "It is said that Golurk were ordered to protect people and Pokémon by the ancient people who made them.",
+            "alphaSapphire": "It flies across the sky at Mach speeds. Removing the seal on its chest makes its internal energy go out of control.",
+            "ultraSun": "Some say that ancient people invented Golurk to serve as a laborer. It follows its master's orders faithfully.",
+            "ultraMoon": "When the seal on its chest is removed, it rages indiscriminately, turning the whole town around it into a mountain of rubble.",
+            "sword": "Artillery platforms built into the walls of ancient castles served as perches from which Golurk could fire energy beams.",
+            "shield": "There's a theory that inside Golurk is a perpetual motion machine that produces limitless energy, but this belief hasn't been proven.",
+            "scarlet": "When the seal on its chest is removed, it rages indiscriminately. During such rampages, it can turn a whole town into a mountain of rubble.",
+            "violet": "Golurk were created by ancient people to protect both people and Pokémon. They run on a mysterious energy."
+        }
+    },
+    {
+        "no": "#0624",
+        "name": "Pawniard",
+        "entries": {
+            "black": "Blades comprise this Pokémon's entire body. If battling dulls the blades, it sharpens them on stones by the river.",
+            "white": "They fight at Bisharp's command. They cling to their prey and inflict damage by sinking their blades into it.",
+            "black2": "Ignoring their injuries, groups attack by sinking the blades that cover their bodies into their prey.",
+            "white2": "Ignoring their injuries, groups attack by sinking the blades that cover their bodies into their prey.",
+            "x": "Blades comprise this Pokémon's entire body. If battling dulls the blades, it sharpens them on stones by the river.",
+            "y": "Ignoring their injuries, groups attack by sinking the blades that cover their bodies into their prey.",
+            "omegaRuby": "Blades comprise this Pokémon's entire body. If battling dulls the blades, it sharpens them on stones by the river.",
+            "alphaSapphire": "Ignoring their injuries, groups attack by sinking the blades that cover their bodies into their prey.",
+            "ultraSun": "After shredding its prey, it sharpens its blades on a stone by the river. Each Pawniard has its own favorite sharpening stone.",
+            "ultraMoon": "It follows Bisharp's orders to a tee when it attacks enemies. After slashing an opponent, Pawniard clangs both of its blades together.",
+            "sword": "It uses river stones to maintain the cutting edges of the blades covering its body. These sharpened blades allow it to bring down opponents.",
+            "shield": "A pack of these Pokémon forms to serve a Bisharp boss. Each Pawniard trains diligently, dreaming of one day taking the lead.",
+            "scarlet": "Pawniard will fearlessly challenge even powerful foes. In a pinch, it will cling to opponents and pierce them with the blades all over its body.",
+            "violet": "Any chips in its blades would prove fatal for it. After each battle, it diligently maintains its blades using its favorite sharpening stone."
+        }
+    },
+    {
+        "no": "#0625",
+        "name": "Bisharp",
+        "entries": {
+            "black": "It leads a group of Pawniard. It battles to become the boss, but will be driven from the group if it loses.",
+            "white": "Bisharp pursues prey in the company of a large group of Pawniard. Then Bisharp finishes off the prey.",
+            "black2": "This pitiless Pokémon commands a group of Pawniard to hound prey into immobility. It then moves in to finish the prey off.",
+            "white2": "This pitiless Pokémon commands a group of Pawniard to hound prey into immobility. It then moves in to finish the prey off.",
+            "x": "This pitiless Pokémon commands a group of Pawniard to hound prey into immobility. It then moves in to finish the prey off.",
+            "y": "Bisharp pursues prey in the company of a large group of Pawniard. Then Bisharp finishes off the prey.",
+            "omegaRuby": "This pitiless Pokémon commands a group of Pawniard to hound prey into immobility. It then moves in to finish the prey off.",
+            "alphaSapphire": "Bisharp pursues prey in the company of a large group of Pawniard. Then Bisharp finishes off the prey.",
+            "ultraSun": "No matter how strong the Bisharp, it's said that if the blade on its head is chipped, it will retire from its position as the boss.",
+            "ultraMoon": "It leads a group of Pawniard. Bisharp doesn't even change its expression when it deals the finishing blow to an opponent.",
+            "sword": "It's accompanied by a large retinue of Pawniard. Bisharp keeps a keen eye on its minions, ensuring none of them even think of double-crossing it.",
+            "shield": "Violent conflicts erupt between Bisharp and Fraxure over places where sharpening stones can be found.",
+            "scarlet": "This Pokémon commands a group of several Pawniard. Groups that are defeated in territorial disputes are absorbed by the winning side.",
+            "violet": "Bisharp mercilessly cuts its opponents to pieces with the sharp blades covering its body. It will do anything to win."
+        }
+    },
+    {
+        "no": "#0626",
+        "name": "Bouffalant",
+        "entries": {
+            "black": "Their fluffy fur absorbs damage, even if they strike foes with a fierce headbutt.",
+            "white": "They charge wildly and headbutt everything. Their headbutts have enough destructive force to derail a train.",
+            "black2": "They are known to charge so wildly that if a train were to enter their territory, they would send it flying.",
+            "white2": "They are known to charge so wildly that if a train were to enter their territory, they would send it flying.",
+            "x": "They charge wildly and headbutt everything. Their headbutts have enough destructive force to derail a train.",
+            "y": "Their fluffy fur absorbs damage, even if they strike foes with a fierce headbutt.",
+            "omegaRuby": "They charge wildly and headbutt everything. Their headbutts have enough destructive force to derail a train.",
+            "alphaSapphire": "Their fluffy fur absorbs damage, even if they strike foes with a fierce headbutt.",
+            "sword": "These Pokémon can crush a car with no more than a headbutt. Bouffalant with more hair on their heads hold higher positions within the herd.",
+            "shield": "These Pokémon live in herds of about 20 individuals. Bouffalant that betray the herd will lose the hair on their heads for some reason."
+        }
+    },
+    {
+        "no": "#0627",
+        "name": "Rufflet",
+        "entries": {
+            "black": "They crush berries with their talons. They bravely stand up to any opponent, no matter how strong it is.",
+            "white": "They will challenge anything, even strong opponents, without fear. Their frequent fights help them become stronger.",
+            "black2": "It stands up to massive opponents, not out of courage, but out of recklessness. But that is how it gets stronger.",
+            "white2": "It stands up to massive opponents, not out of courage, but out of recklessness. But that is how it gets stronger.",
+            "x": "They crush berries with their talons. They bravely stand up to any opponent, no matter how strong it is.",
+            "y": "They will challenge anything, even strong opponents, without fear. Their frequent fights help them become stronger.",
+            "omegaRuby": "They crush berries with their talons. They bravely stand up to any opponent, no matter how strong it is.",
+            "alphaSapphire": "They will challenge anything, even strong opponents, without fear. Their frequent fights help them become stronger.",
+            "sun": "They pick fights indiscriminately. They grow stronger and more powerful each time they faint or are injured.",
+            "moon": "With its sharp claws, this Pokémon pierces its prey, and then it pecks at them. Although it also consumes berries, it's a carnivore at heart.",
+            "ultraSun": "With its powerful legs and sturdy claws, it can crack even the hard shells of Shellder and pluck out their insides.",
+            "ultraMoon": "Known as a natural-born warrior, soon after its hatching, it will challenge its parent to a fight in order to gain their acceptance.",
+            "sword": "If it spies a strong Pokémon, Rufflet can't resist challenging it to a battle. But if Rufflet loses, it starts bawling.",
+            "shield": "A combative Pokémon, it's ready to pick a fight with anyone. It has talons that can crush hard berries.",
+            "legendsArceus": "Its chick-like looks belie its hotheadedness. It challenges its parents at every opportunity, desperate to prove its strength.",
+            "scarlet": "They pick fights indiscriminately. They grow stronger and more powerful each time they faint or are injured.",
+            "violet": "With its sharp claws, this Pokémon pierces its prey, and then it pecks at them. Although it also consumes berries, it's a carnivore at heart."
+        }
+    },
+    {
+        "no": "#0628",
+        "name": "Braviary",
+        "entries": {
+            "black": "They fight for their friends without any thought about danger to themselves. One can carry a car while flying.",
+            "white": "The more scars they have, the more respect these brave soldiers of the sky get from their peers.",
+            "black2": "For the sake of its friends, this brave warrior of the sky will not stop battling, even if injured.",
+            "white2": "For the sake of its friends, this brave warrior of the sky will not stop battling, even if injured.",
+            "x": "For the sake of its friends, this brave warrior of the sky will not stop battling, even if injured.",
+            "y": "They fight for their friends without any thought about danger to themselves. One can carry a car while flying.",
+            "omegaRuby": "For the sake of its friends, this brave warrior of the sky will not stop battling, even if injured.",
+            "alphaSapphire": "They fight for their friends without any thought about danger to themselves. One can carry a car while flying.",
+            "sun": "With its brave disposition, it fears nothing—not even death. Ancient Alolan people respected it, referring to it as “the hero of the sky.“",
+            "moon": "It's thought that people disturbed their habitats in the past, so Braviary banded together to fight back.",
+            "ultraSun": "The more scars it has on its front, the more heroic it's considered to be. Those with many scars on their back are mocked by the flock.",
+            "ultraMoon": "Known as “the hero of the skies,” this Pokémon is so proud and so brave that it will never retreat, even when it's injured.",
+            "sword": "Known for its bravery and pride, this majestic Pokémon is often seen as a motif for various kinds of emblems.",
+            "shield": "Because this Pokémon is hotheaded and belligerent, it's Corviknight that's taken the role of transportation in Galar.",
+            "scarlet": "The more scars they have, the more respect these brave soldiers of the sky get from their peers.",
+            "violet": "For the sake of its friends, this brave warrior of the sky will not stop battling, even if injured."
+        }
+    },
+    {
+        "no": "#0628hisui",
+        "name": "Hisuian Braviary",
+        "entries": {
+            "legendsArceus": "Screaming a bloodcurdling battle cry, this huge and ferocious bird Pokémon goes out on the hunt. It blasts lakes with shock waves, then scoops up any prey that float to the water's surface."
+        }
+    },
 ]
