@@ -18524,4 +18524,387 @@ export const Entries = [
             "violet": "Its drill, which has evolved into steel, is strong enough to bore through iron plates. This Pokémon is a great help in tunnel construction."
         }
     },
+    {
+        "no": "#0531",
+        "name": "Audino",
+        "entries": {
+            "black": "It touches others with the feelers on its ears, using the sound of their heartbeats to tell how they are feeling.",
+            "white": "Its auditory sense is astounding. It has a radarlike ability to understand its surroundings through slight sounds.",
+            "black2": "Using the feelers on its ears, it can tell how someone is feeling or when an egg might hatch.",
+            "white2": "Using the feelers on its ears, it can tell how someone is feeling or when an egg might hatch.",
+            "x": "Using the feelers on its ears, it can tell how someone is feeling or when an egg might hatch.",
+            "y": "It touches others with the feelers on its ears, using the sound of their heartbeats to tell how they are feeling.",
+            "omegaRuby": "Using the feelers on its ears, it can tell how someone is feeling or when an egg might hatch.",
+            "alphaSapphire": "It touches others with the feelers on its ears, using the sound of their heartbeats to tell how they are feeling.",
+            "sword": "Audino's sense of hearing is superb. Not even a pebble rolling along over a mile away will escape Audino's ears.",
+            "shield": "This Pokémon has a kind heart. By touching with its feelers, Audino can gauge other creatures' feelings and physical conditions."
+        }
+    },
+    {
+        "no": "#0532",
+        "name": "Timburr",
+        "entries": {
+            "black": "It fights by swinging a piece of lumber around. It is close to evolving when it can handle the lumber without difficulty.",
+            "white": "These Pokémon appear at building sites and help out with construction. They always carry squared logs.",
+            "black2": "Always carrying squared logs, they help out with construction. As they grow, they carry bigger logs.",
+            "white2": "Always carrying squared logs, they help out with construction. As they grow, they carry bigger logs.",
+            "x": "These Pokémon appear at building sites and help out with construction. They always carry squared logs.",
+            "y": "Always carrying squared logs, they help out with construction. As they grow, they carry bigger logs.",
+            "omegaRuby": "These Pokémon appear at building sites and help out with construction. They always carry squared logs.",
+            "alphaSapphire": "Always carrying squared logs, they help out with construction. As they grow, they carry bigger logs.",
+            "sword": "It loves helping out with construction projects. It loves it so much that if rain causes work to halt, it swings its log around and throws a tantrum.",
+            "shield": "Timburr that have started carrying logs that are about three times their size are nearly ready to evolve.",
+            "scarlet": "Always carrying squared logs, they help out with construction. As they grow, they carry bigger logs.",
+            "violet": "It fights by swinging a piece of lumber around. It is close to evolving when it can handle heavy lumber without difficulty."
+        }
+    },
+    {
+        "no": "#0533",
+        "name": "Gurdurr",
+        "entries": {
+            "black": "This Pokémon is so muscular and strongly built that even a group of wrestlers could not make it budge an inch.",
+            "white": "They strengthen their bodies by carrying steel beams. They show off their big muscles to their friends.",
+            "black2": "With strengthened bodies, they skillfully wield steel beams to take down buildings.",
+            "white2": "With strengthened bodies, they skillfully wield steel beams to take down buildings.",
+            "x": "With strengthened bodies, they skillfully wield steel beams to take down buildings.",
+            "y": "This Pokémon is so muscular and strongly built that even a group of wrestlers could not make it budge an inch.",
+            "omegaRuby": "With strengthened bodies, they skillfully wield steel beams to take down buildings.",
+            "alphaSapphire": "This Pokémon is so muscular and strongly built that even a group of wrestlers could not make it budge an inch.",
+            "sword": "It shows off its muscles to Machoke and other Gurdurr. If it fails to measure up to the other Pokémon, it lies low for a little while.",
+            "shield": "Gurdurr excels at demolition—construction is not its forte. In any case, there's skill in the way this Pokémon wields its metal beam.",
+            "scarlet": "They strengthen their bodies by carrying steel beams. They show off their big muscles to their friends.",
+            "violet": "This Pokémon is so muscular and strongly built that even a group of wrestlers could not make it budge an inch."
+        }
+    },
+    {
+        "no": "#0534",
+        "name": "Conkeldurr",
+        "entries": {
+            "black": "It is thought that Conkeldurr taught humans how to make concrete more than 2,000 years ago.",
+            "white": "They use concrete pillars as walking canes. They know moves that enable them to swing the pillars freely in battle.",
+            "black2": "Rather than rely on force, they master moves that utilize the centrifugal force of spinning concrete.",
+            "white2": "Rather than rely on force, they master moves that utilize the centrifugal force of spinning concrete.",
+            "x": "It is thought that Conkeldurr taught humans how to make concrete more than 2,000 years ago.",
+            "y": "Rather than rely on force, they master moves that utilize the centrifugal force of spinning concrete.",
+            "omegaRuby": "It is thought that Conkeldurr taught humans how to make concrete more than 2,000 years ago.",
+            "alphaSapphire": "Rather than rely on force, they master moves that utilize the centrifugal force of spinning concrete.",
+            "sword": "Concrete mixed by Conkeldurr is much more durable than normal concrete, even when the compositions of the two materials are the same.",
+            "shield": "When going all out, this Pokémon throws aside its concrete pillars and leaps at opponents to pummel them with its fists.",
+            "scarlet": "It is thought that Conkeldurr taught humans how to make concrete more than 2,000 years ago.",
+            "violet": "Rather than rely on their strength, they master moves that make good use of centrifugal force to swing around concrete."
+        }
+    },
+    {
+        "no": "#0535",
+        "name": "Tympole",
+        "entries": {
+            "black": "They warn others of danger by vibrating their cheeks to create a high-pitched sound.",
+            "white": "By vibrating its cheeks, it emits sound waves imperceptible to humans. It uses the rhythm of these sounds to talk.",
+            "black2": "By vibrating its cheeks, it emits sound waves imperceptible to humans and warns others of danger.",
+            "white2": "By vibrating its cheeks, it emits sound waves imperceptible to humans and warns others of danger.",
+            "x": "By vibrating its cheeks, it emits sound waves imperceptible to humans and warns others of danger.",
+            "y": "By vibrating its cheeks, it emits sound waves imperceptible to humans. It uses the rhythm of these sounds to talk.",
+            "omegaRuby": "By vibrating its cheeks, it emits sound waves imperceptible to humans and warns others of danger.",
+            "alphaSapphire": "By vibrating its cheeks, it emits sound waves imperceptible to humans. It uses the rhythm of these sounds to talk.",
+            "sword": "Graceful ripples running across the water's surface are a sure sign that Tympole are singing in high-pitched voices below.",
+            "shield": "It uses sound waves to communicate with others of its kind. People and other Pokémon species can't hear its cries of warning."
+        }
+    },
+    {
+        "no": "#0536",
+        "name": "Palpitoad",
+        "entries": {
+            "black": "When they vibrate the bumps on their heads, they can make waves in water or earthquake-like vibrations on land.",
+            "white": "It lives in the water and on land. It uses its long, sticky tongue to capture prey.",
+            "black2": "It lives in the water and on land. It uses its long, sticky tongue to immobilize its opponents.",
+            "white2": "It lives in the water and on land. It uses its long, sticky tongue to immobilize its opponents.",
+            "x": "When they vibrate the bumps on their heads, they can make waves in water or earthquake-like vibrations on land.",
+            "y": "It lives in the water and on land. It uses its long, sticky tongue to immobilize its opponents.",
+            "omegaRuby": "When they vibrate the bumps on their heads, they can make waves in water or earthquake-like vibrations on land.",
+            "alphaSapphire": "It lives in the water and on land. It uses its long, sticky tongue to immobilize its opponents.",
+            "sword": "It weakens its prey with sound waves intense enough to cause headaches, then entangles them with its sticky tongue.",
+            "shield": "On occasion, their cries are sublimely pleasing to the ear. Palpitoad with larger lumps on their bodies can sing with a wider range of sounds."
+        }
+    },
+    {
+        "no": "#0537",
+        "name": "Seismitoad",
+        "entries": {
+            "black": "They shoot paralyzing liquid from their head bumps. They use vibration to hurt their opponents.",
+            "white": "It increases the power of its punches by vibrating the bumps on its fists. It can turn a boulder to rubble with one punch.",
+            "black2": "By putting power into its bumps, it creates vibrations and increases the power of its punches.",
+            "white2": "By putting power into its bumps, it creates vibrations and increases the power of its punches.",
+            "x": "It increases the power of its punches by vibrating the bumps on its fists. It can turn a boulder to rubble with one punch.",
+            "y": "They shoot paralyzing liquid from their head bumps. They use vibration to hurt their opponents.",
+            "omegaRuby": "It increases the power of its punches by vibrating the bumps on its fists. It can turn a boulder to rubble with one punch.",
+            "alphaSapphire": "They shoot paralyzing liquid from their head bumps. They use vibration to hurt their opponents.",
+            "sword": "The vibrating of the bumps all over its body causes earthquake-like tremors. Seismitoad and Croagunk are similar species.",
+            "shield": "This Pokémon is popular among the elderly, who say the vibrations of its lumps are great for massages."
+        }
+    },
+    {
+        "no": "#0538",
+        "name": "Throh",
+        "entries": {
+            "black": "When it tightens its belt, it becomes stronger. Wild Throh use vines to weave their own belts.",
+            "white": "When they encounter foes bigger than themselves, they try to throw them. They always travel in packs of five.",
+            "black2": "When it encounters a foe bigger than itself, it wants to throw it. It changes belts as it gets stronger.",
+            "white2": "When it encounters a foe bigger than itself, it wants to throw it. It changes belts as it gets stronger.",
+            "x": "When it tightens its belt, it becomes stronger. Wild Throh use vines to weave their own belts.",
+            "y": "When it encounters a foe bigger than itself, it wants to throw it. It changes belts as it gets stronger.",
+            "omegaRuby": "When it tightens its belt, it becomes stronger. Wild Throh use vines to weave their own belts.",
+            "alphaSapphire": "When it encounters a foe bigger than itself, it wants to throw it. It changes belts as it gets stronger.",
+            "sword": "It performs throwing moves with first-rate skill. Over the course of many battles, Throh's belt grows darker as it absorbs its wearer's sweat.",
+            "shield": "They train in groups of five. Any member that can't keep up will discard its belt and leave the group."
+        }
+    },
+    {
+        "no": "#0539",
+        "name": "Sawk",
+        "entries": {
+            "black": "The sound of Sawk punching boulders and trees can be heard all the way from the mountains where they train.",
+            "white": "Tying their belts gets them pumped and makes their punches more destructive. Disturbing their training angers them.",
+            "black2": "Desiring the strongest karate chop, they seclude themselves in mountains and train without sleeping.",
+            "white2": "Desiring the strongest karate chop, they seclude themselves in mountains and train without sleeping.",
+            "x": "Desiring the strongest karate chop, they seclude themselves in mountains and train without sleeping.",
+            "y": "Tying their belts gets them pumped and makes their punches more destructive. Disturbing their training angers them.",
+            "omegaRuby": "Desiring the strongest karate chop, they seclude themselves in mountains and train without sleeping.",
+            "alphaSapphire": "Tying their belts gets them pumped and makes their punches more destructive. Disturbing their training angers them.",
+            "sword": "If you see a Sawk training in the mountains in its single-minded pursuit of strength, it's best to quietly pass by.",
+            "shield": "The karate chops of a Sawk that's trained itself to the limit can cleave the ocean itself."
+        }
+    },
+    {
+        "no": "#0540",
+        "name": "Sewaddle",
+        "entries": {
+            "black": "Leavanny dress it in clothes they made for it when it hatched. It hides its head in its hood while it is sleeping.",
+            "white": "This Pokémon makes clothes for itself. It chews up leaves and sews them with sticky thread extruded from its mouth.",
+            "black2": "Since this Pokémon makes its own clothes out of leaves, it is a popular mascot for fashion designers.",
+            "white2": "Since this Pokémon makes its own clothes out of leaves, it is a popular mascot for fashion designers.",
+            "x": "This Pokémon makes clothes for itself. It chews up leaves and sews them with sticky thread extruded from its mouth.",
+            "y": "Since this Pokémon makes its own clothes out of leaves, it is a popular mascot for fashion designers.",
+            "omegaRuby": "This Pokémon makes clothes for itself. It chews up leaves and sews them with sticky thread extruded from its mouth.",
+            "alphaSapphire": "Since this Pokémon makes its own clothes out of leaves, it is a popular mascot for fashion designers.",
+            "scarlet": "Sewaddle chews on leaves to make its clothing. It's trying to mimic the leafy garment Leavanny first dressed it in.",
+            "violet": "The bumps on their heads are sensory organs. When Sewaddle meet, they greet each other by rubbing these bumps together."
+        }
+    },
+    {
+        "no": "#0541",
+        "name": "Swadloon",
+        "entries": {
+            "black": "Forests where Swadloon live have superb foliage because the nutrients they make from fallen leaves nourish the plant life.",
+            "white": "It protects itself from the cold by wrapping up in leaves. It stays on the move, eating leaves in forests.",
+            "black2": "Preferring dark, damp places, it spends the entire day eating fallen leaves that lie around it.",
+            "white2": "Preferring dark, damp places, it spends the entire day eating fallen leaves that lie around it.",
+            "x": "Forests where Swadloon live have superb foliage because the nutrients they make from fallen leaves nourish the plant life.",
+            "y": "It protects itself from the cold by wrapping up in leaves. It stays on the move, eating leaves in forests.",
+            "omegaRuby": "Forests where Swadloon live have superb foliage because the nutrients they make from fallen leaves nourish the plant life.",
+            "alphaSapphire": "It protects itself from the cold by wrapping up in leaves. It stays on the move, eating leaves in forests.",
+            "scarlet": "Swadloon lives quietly at the feet of trees. It prefers eating fallen leaves that have grown soft rather than fresh ones.",
+            "violet": "Swadloon wraps itself in leaves for protection. It uses the two leaves atop its head to detect air movements and feel out its surroundings."
+        }
+    },
+    {
+        "no": "#0542",
+        "name": "Leavanny",
+        "entries": {
+            "black": "Upon finding a small Pokémon, it weaves clothing for it from leaves, using the cutters on its arms and sticky silk.",
+            "white": "It keeps its eggs warm with heat from fermenting leaves. It also uses leaves to make warm wrappings for Sewaddle.",
+            "black2": "Upon finding a small Pokémon, it weaves clothing for it from leaves by using the sticky silk secreted from its mouth.",
+            "white2": "Upon finding a small Pokémon, it weaves clothing for it from leaves by using the sticky silk secreted from its mouth.",
+            "x": "Upon finding a small Pokémon, it weaves clothing for it from leaves by using the sticky silk secreted from its mouth.",
+            "y": "It keeps its eggs warm with heat from fermenting leaves. It also uses leaves to make warm wrappings for Sewaddle.",
+            "omegaRuby": "Upon finding a small Pokémon, it weaves clothing for it from leaves by using the sticky silk secreted from its mouth.",
+            "alphaSapphire": "It keeps its eggs warm with heat from fermenting leaves. It also uses leaves to make warm wrappings for Sewaddle.",
+            "scarlet": "This gentle Pokémon has strong protective instincts. The leaves on its arms are sharp enough to slice a thick tree in half with one stroke.",
+            "violet": "It fashions clothing from woven leaves. Though gentle in disposition, it will show no mercy to foes who target young Pokémon."
+        }
+    },
+    {
+        "no": "#0543",
+        "name": "Venipede",
+        "entries": {
+            "black": "Its bite injects a potent poison, enough to paralyze large bird Pokémon that try to prey on it.",
+            "white": "It discovers what is going on around it by using the feelers on its head and tail. It is brutally aggressive.",
+            "black2": "Using the feelers on its head and tail, it picks up vibrations in the air to determine its prey's location and state.",
+            "white2": "Using the feelers on its head and tail, it picks up vibrations in the air to determine its prey's location and state.",
+            "x": "It discovers what is going on around it by using the feelers on its head and tail. It is brutally aggressive.",
+            "y": "Its bite injects a potent poison, enough to paralyze large bird Pokémon that try to prey on it.",
+            "omegaRuby": "It discovers what is going on around it by using the feelers on its head and tail. It is brutally aggressive.",
+            "alphaSapphire": "Its bite injects a potent poison, enough to paralyze large bird Pokémon that try to prey on it.",
+            "sword": "Venipede and Sizzlipede are similar species, but when the two meet, a huge fight ensues.",
+            "shield": "Its fangs are highly venomous. If this Pokémon finds prey it thinks it can eat, it leaps for them without any thought of how things might turn out."
+        }
+    },
+    {
+        "no": "#0544",
+        "name": "Whirlipede",
+        "entries": {
+            "black": "Protected by a hard shell, it spins its body like a wheel and crashes furiously into its enemies.",
+            "white": "It is usually motionless, but when attacked, it rotates at high speed and then crashes into its opponent.",
+            "black2": "Storing energy for evolution, it sits. But, when predators approach, it moves to stab them with poison spikes.",
+            "white2": "Storing energy for evolution, it sits. But, when predators approach, it moves to stab them with poison spikes.",
+            "x": "Protected by a hard shell, it spins its body like a wheel and crashes furiously into its enemies.",
+            "y": "It is usually motionless, but when attacked, it rotates at high speed and then crashes into its opponent.",
+            "omegaRuby": "Protected by a hard shell, it spins its body like a wheel and crashes furiously into its enemies.",
+            "alphaSapphire": "It is usually motionless, but when attacked, it rotates at high speed and then crashes into its opponent.",
+            "sword": "This Pokémon spins itself rapidly and charges into its opponents. Its top speed is just over 60 mph.",
+            "shield": "Whirlipede protects itself with a sturdy shell and poisonous spikes while it stores up the energy it'll need for evolution."
+        }
+    },
+    {
+        "no": "#0545",
+        "name": "Scolipede",
+        "entries": {
+            "black": "With quick movements, it chases down its foes, attacking relentlessly with its horns until it prevails.",
+            "white": "Highly aggressive, it uses the claws near its neck to dig into its opponents and poison them.",
+            "black2": "It clasps its prey with the claws on its neck until it stops moving. Then it finishes it off with deadly poison.",
+            "white2": "It clasps its prey with the claws on its neck until it stops moving. Then it finishes it off with deadly poison.",
+            "x": "It clasps its prey with the claws on its neck until it stops moving. Then it finishes it off with deadly poison.",
+            "y": "With quick movements, it chases down its foes, attacking relentlessly with its horns until it prevails.",
+            "omegaRuby": "It clasps its prey with the claws on its neck until it stops moving. Then it finishes it off with deadly poison.",
+            "alphaSapphire": "With quick movements, it chases down its foes, attacking relentlessly with its horns until it prevails.",
+            "sword": "Scolipede latches on to its prey with the claws on its neck before slamming them into the ground and jabbing them with its claw's toxic spikes.",
+            "shield": "Scolipede engage in fierce territorial battles with Centiskorch. At the end of one of these battles, the victor makes a meal of the loser."
+        }
+    },
+    {
+        "no": "#0546",
+        "name": "Cottonee",
+        "entries": {
+            "black": "When attacked, it escapes by shooting cotton from its body. The cotton serves as a decoy to distract the attacker.",
+            "white": "They go wherever the wind takes them. On rainy days, their bodies are heavier, so they take shelter beneath big trees.",
+            "black2": "Perhaps because they feel more at ease in a group, they stick to others they find. They end up looking like a cloud.",
+            "white2": "Perhaps because they feel more at ease in a group, they stick to others they find. They end up looking like a cloud.",
+            "x": "When attacked, it escapes by shooting cotton from its body. The cotton serves as a decoy to distract the attacker.",
+            "y": "Perhaps because they feel more at ease in a group, they stick to others they find. They end up looking like a cloud.",
+            "omegaRuby": "When attacked, it escapes by shooting cotton from its body. The cotton serves as a decoy to distract the attacker.",
+            "alphaSapphire": "Perhaps because they feel more at ease in a group, they stick to others they find. They end up looking like a cloud.",
+            "sun": "When it finds others of its kind, they all stick together. When enough of them have collected, the mass resembles a cumulonimbus cloud.",
+            "moon": "Pillows and beds stuffed with cotton exhaled by Cottonee are soft and puffy, light and airy—altogether top quality.",
+            "ultraSun": "To protect itself, it shoots cotton from its body. When it gets wet in the rain, its cotton grows moist and heavy, and it can't move as well.",
+            "ultraMoon": "When attacked, it expels cotton from its body to create a diversion. The cotton it loses grows back in quickly.",
+            "sword": "It shoots cotton from its body to protect itself. If it gets caught up in hurricane-strength winds, it can get sent to the other side of the Earth.",
+            "shield": "Weaving together the cotton of both Cottonee and Eldegoss produces exquisite cloth that's highly prized by many luxury brands.",
+            "scarlet": "Pillows and beds stuffed with cotton exhaled by Cottonee are soft and puffy, light and airy— altogether top quality.",
+            "violet": "When attacked, it escapes by shooting cotton from its body. The cotton serves as a decoy to distract the attacker."
+        }
+    },
+    {
+        "no": "#0547",
+        "name": "Whimsicott",
+        "entries": {
+            "black": "Like the wind, it can slip through any gap, no matter how small. It leaves balls of white fluff behind.",
+            "white": "Riding whirlwinds, they appear. These Pokémon sneak through gaps into houses and cause all sorts of mischief.",
+            "black2": "They appear along with whirlwinds. They pull pranks, such as moving furniture and leaving balls of cotton in homes.",
+            "white2": "They appear along with whirlwinds. They pull pranks, such as moving furniture and leaving balls of cotton in homes.",
+            "x": "They appear along with whirlwinds. They pull pranks, such as moving furniture and leaving balls of cotton in homes.",
+            "y": "Like the wind, it can slip through any gap, no matter how small. It leaves balls of white fluff behind.",
+            "omegaRuby": "They appear along with whirlwinds. They pull pranks, such as moving furniture and leaving balls of cotton in homes.",
+            "alphaSapphire": "Like the wind, it can slip through any gap, no matter how small. It leaves balls of white fluff behind.",
+            "sun": "It rides on the wind and slips into people's homes. After it has turned a room into a cotton-filled mess, it giggles to itself and takes off.",
+            "moon": "This Pokémon appears, riding upon the wind. But if the wind gusts up, it'll blow the cotton on this Pokémon's head clean off.",
+            "ultraSun": "This nuisance sneaks into people's homes, where it hides important things and scatters cotton all over the place.",
+            "ultraMoon": "Whimsicott doesn't live in a fixed location. It floats around on whirling winds, appearing all over the place to perform its mischief.",
+            "sword": "It scatters cotton all over the place as a prank. If it gets wet, it'll become too heavy to move and have no choice but to answer for its mischief.",
+            "shield": "As long as this Pokémon bathes in sunlight, its cotton keeps growing. If too much cotton fluff builds up, Whimsicott tears it off and scatters it.",
+            "scarlet": "Like the wind, it can slip through any gap, no matter how small. It leaves balls of white fluff behind.",
+            "violet": "It rides on the wind and slips into people’s homes. After it has turned a room into a cotton- filled mess, it giggles to itself and takes off."
+        }
+    },
+    {
+        "no": "#0548",
+        "name": "Petilil",
+        "entries": {
+            "black": "The leaves on its head are very bitter. Eating one of these leaves is known to refresh a tired body.",
+            "white": "Since they prefer moist, nutrient-rich soil, the areas where Petilil live are known to be good for growing plants.",
+            "black2": "The leaves on its head grow right back even if they fall out. These bitter leaves refresh those who eat them.",
+            "white2": "The leaves on its head grow right back even if they fall out. These bitter leaves refresh those who eat them.",
+            "x": "The leaves on its head are very bitter. Eating one of these leaves is known to refresh a tired body.",
+            "y": "Since they prefer moist, nutrient-rich soil, the areas where Petilil live are known to be good for growing plants.",
+            "omegaRuby": "The leaves on its head are very bitter. Eating one of these leaves is known to refresh a tired body.",
+            "alphaSapphire": "Since they prefer moist, nutrient-rich soil, the areas where Petilil live are known to be good for growing plants.",
+            "sun": "Although the leaves on its head are bitter enough to cause dizziness, they provide relief from weariness—even more so when boiled.",
+            "moon": "By pruning the leaves on its head with regularity, this Pokémon can be grown into a fine plump shape.",
+            "ultraSun": "Some say if you dry the leaves on its head, boil them down, and drink the infusion, your vigor will return, so Petilil is popular with the elderly.",
+            "ultraMoon": "They prefer clean water and soil. When the environment they live in turns bad, the whole bunch will up and move to a new area.",
+            "sword": "Petilil appears around sources of clean water. Boiling leaves from this Pokémon's head results in a liquid that's sometimes used as a bug repellent.",
+            "shield": "The deeper the color of a Petilil's leaves, the healthier the Pokémon is. Petilil sometimes make its home in a well-tended field or flowerbed.",
+            "legendsArceus": "The leaves on its head are highly valued for medicinal purposes. Dry the leaves in the sun, boil them, and then drink the bitter decoction for remarkably effective relief from fatigue.",
+            "scarlet": "The leaves on its head grow right back even if they fall out. These bitter leaves refresh those who eat them.",
+            "violet": "If the leaves on its head are pruned with regularity, this Pokémon can be grown into a fine plump shape."
+        }
+    },
+    {
+        "no": "#0549",
+        "name": "Lilligant",
+        "entries": {
+            "black": "Even veteran Trainers face a challenge in getting its beautiful flower to bloom. This Pokémon is popular with celebrities.",
+            "white": "The fragrance of the garland on its head has a relaxing effect. It withers if a Trainer does not take good care of it.",
+            "black2": "The fragrance of the garland on its head has a relaxing effect, but taking care of it is very difficult.",
+            "white2": "The fragrance of the garland on its head has a relaxing effect, but taking care of it is very difficult.",
+            "x": "The fragrance of the garland on its head has a relaxing effect. It withers if a Trainer does not take good care of it.",
+            "y": "Even veteran Trainers face a challenge in getting its beautiful flower to bloom. This Pokémon is popular with celebrities.",
+            "omegaRuby": "The fragrance of the garland on its head has a relaxing effect. It withers if a Trainer does not take good care of it.",
+            "alphaSapphire": "Even veteran Trainers face a challenge in getting its beautiful flower to bloom. This Pokémon is popular with celebrities.",
+            "sun": "No matter how much time and money is spent raising it, its flowers are the most beautiful when they bloom in the wild.",
+            "moon": "As soon as it finds a male to be its partner, the beautiful flower on its head darkens, droops, and withers away.",
+            "ultraSun": "The fragrance of its flower differs slightly depending on the soil where it grew up. Sniffing the aroma calms your heart and mind.",
+            "ultraMoon": "It's well liked by other Pokémon because of its beauty. The flower on its head needs constant care, or it will soon wither and rot.",
+            "sword": "It's believed that even first-rate gardeners have a hard time getting the flower on a Lilligant's head to bloom.",
+            "shield": "Essential oils made from Lilligant flowers have a sublime scent, but they're also staggeringly expensive.",
+            "scarlet": "The fragrance of the garland on its head has a relaxing effect, but taking care of it is very difficult.",
+            "violet": "No matter how much time and money is spent raising it, its flowers are the most beautiful when they bloom in the wild."
+        }
+    },
+    {
+        "no": "#0549hisui",
+        "name": "Hisuian Lilligant",
+        "entries": {
+            "legendsArceus": "I suspect that its well-developed legs are the result of a life spent on mountains covered in deep snow. The scent it exudes from its flower crown heartens those in proximity."
+        }
+    },
+    {
+        "no": "#0550",
+        "name": "Red-Striped Basculin",
+        "entries": {
+            "black": "Red and blue Basculin get along so poorly, they'll start fighting instantly. These Pokémon are very hostile.",
+            "white": "Red and blue Basculin usually do not get along, but sometimes members of one school mingle with the other's school.",
+            "black2": "Red- and blue-striped Basculin are very violent and always fighting. They are also remarkably tasty.",
+            "white2": "Red- and blue-striped Basculin are very violent and always fighting. They are also remarkably tasty.",
+            "x": "Red- and blue-striped Basculin are very violent and always fighting. They are also remarkably tasty.",
+            "y": "Red and blue Basculin usually do not get along, but sometimes members of one school mingle with the other's school.",
+            "omegaRuby": "Red- and blue-striped Basculin are very violent and always fighting. They are also remarkably tasty.",
+            "alphaSapphire": "Red and blue Basculin usually do not get along, but sometimes members of one school mingle with the other's school.",
+            "ultraSun": "Savage, violent Pokémon, red and blue Basculin are always fighting each other over territory.",
+            "ultraMoon": "When a school of Basculin appears in a lake, everything else disappears, except for Corphish and Crawdaunt. That's how violent Basculin are.",
+            "sword": "Anglers love the fight this Pokémon puts up on the hook. And there are always more to catch— many people release them into lakes illicitly.",
+            "shield": "In the past, it often appeared on the dinner table. The meat of red-striped Basculin is on the fatty side, and it's more popular with the youth.",
+            "scarlet": "Its temperament is vicious and aggressive. This Pokémon is also full of vitality and can multiply rapidly before anyone notices.",
+            "violet": "It's so vicious that it's called the Thug of the River. Yet Basculin is still targeted by predators, such as Dondozo and Bombirdier."
+        }
+    },
+    {
+        "no": "#0550blue",
+        "name": "Blue-Striped Basculin",
+        "entries": {
+            "ultraSun": "Even Basculin, which devours everything it can with its huge jaws, is nothing more than food to organisms stronger than itself.",
+            "ultraMoon": "Some people call it “the thug of the lake.” Whether the differences in color are meaningful is not yet known.",
+            "sword": "Blue-striped Basculin used to be a common food source. They apparently have an inoffensive, light flavor.",
+            "shield": "Known for their violence, these Pokémon have the most fights with schools of red-striped Basculin.",
+            "scarlet": "These Pokémon form schools with others of the same color. The greatest foe of a school of blue Basculin is a school of red Basculin.",
+            "violet": "The power of its jaws is immense—enough to leave teeth marks in iron sheets. Its personality is also extremely vicious."
+        }
+    },
+    {
+        "no": "#0550white",
+        "name": "White-Striped Basculin",
+        "entries": {
+            "legendsArceus": "Though it differs from other Basculin in several respects, including demeanor—this one is gentle—I have categorized it as a regional form given the vast array of shared qualities.",
+            "scarlet": "They live in frigid seas, forming schools and sharing food among themselves. When the time comes, they return to the river they were born in.",
+            "violet": "Its ecology is starkly different from that of other Basculin, so theories that it's a totally different species have gained traction in recent years."
+        }
+    },
 ]
