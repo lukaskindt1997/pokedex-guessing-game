@@ -18907,4 +18907,1055 @@ export const Entries = [
             "violet": "Its ecology is starkly different from that of other Basculin, so theories that it's a totally different species have gained traction in recent years."
         }
     },
+    {
+        "no": "#0551",
+        "name": "Sandile",
+        "entries": {
+            "black": "They live buried in the sands of the desert. The sun-warmed sands prevent their body temperature from dropping.",
+            "white": "It moves along below the sand's surface, except for its nose and eyes. A dark membrane shields its eyes from the sun.",
+            "black2": "They live hidden under hot desert sands in order to keep their body temperature from dropping.",
+            "white2": "They live hidden under hot desert sands in order to keep their body temperature from dropping.",
+            "x": "It moves along below the sand's surface, except for its nose and eyes. A dark membrane shields its eyes from the sun.",
+            "y": "They live buried in the sands of the desert. The sun-warmed sands prevent their body temperature from dropping.",
+            "omegaRuby": "It moves along below the sand's surface, except for its nose and eyes. A dark membrane shields its eyes from the sun.",
+            "alphaSapphire": "They live buried in the sands of the desert. The sun-warmed sands prevent their body temperature from dropping.",
+            "sun": "It submerges itself in sand and moves as if swimming. This wise behavior keeps its enemies from finding it and maintains its temperature.",
+            "moon": "It conceals itself in the sand and chomps down on the legs of any prey that unwarily walk over it. Its favorite food is Trapinch.",
+            "ultraSun": "Alola, where it's warm all year round, is a comfortable environment for this Pokémon. Sometimes you'll even see it outside of deserts.",
+            "ultraMoon": "Sandile's still not good at hunting, so it mostly eats things that have collapsed in the desert. It's called “the cleaner of the desert.”",
+            "sword": "The desert gets cold at night, so when the sun sets, this Pokémon burrows deep into the sand and sleeps until sunrise.",
+            "shield": "Sandile is small, but its legs and lower body are powerful. Pushing sand aside as it goes, Sandile moves through the desert as if it's swimming.",
+            "scarlet": "It submerges itself in sand and moves as if swimming. This wise behavior keeps its enemies from finding it and maintains its temperature.",
+            "violet": "They live hidden under hot desert sands in order to keep their body temperature from dropping."
+        }
+    },
+    {
+        "no": "#0552",
+        "name": "Krokorok",
+        "entries": {
+            "black": "They live in groups of a few individuals. Protective membranes shield their eyes from sandstorms.",
+            "white": "The special membrane covering its eyes can sense the heat of objects, so it can see its surroundings even in darkness.",
+            "black2": "Protected by thin membranes, their eyes can see even in the dead of night. They live in groups of a few individuals.",
+            "white2": "Protected by thin membranes, their eyes can see even in the dead of night. They live in groups of a few individuals.",
+            "x": "They live in groups of a few individuals. Protective membranes shield their eyes from sandstorms.",
+            "y": "The special membrane covering its eyes can sense the heat of objects, so it can see its surroundings even in darkness.",
+            "omegaRuby": "They live in groups of a few individuals. Protective membranes shield their eyes from sandstorms.",
+            "alphaSapphire": "The special membrane covering its eyes can sense the heat of objects, so it can see its surroundings even in darkness.",
+            "sun": "They move in groups of a few individuals. A female is often the leader of the group, and the males will gather food.",
+            "moon": "Thanks to the special membrane covering its eyes, it can see its surroundings clearly, even in the middle of the night.",
+            "ultraSun": "Krokorok really hates it when its body gets cold. On nights when the temperature drops, it digs deep into the desert sands.",
+            "ultraMoon": "It buries some of its prey in the sand to use as emergency meals when its hunts are unsuccessful.",
+            "sword": "Krokorok has specialized eyes that enable it to see in the dark. This ability lets Krokorok hunt in the dead of night without getting lost.",
+            "shield": "Although this Pokémon has specialized eyes that allow it to see in the dark, Krokorok won't move much at night—the desert gets cold after sunset.",
+            "scarlet": "Protected by thin membranes, their eyes can see even in the dead of night. They live in groups of a few individuals.",
+            "violet": "Thanks to the special membrane covering its eyes, it can see its surroundings clearly, even in the middle of the night."
+        }
+    },
+    {
+        "no": "#0553",
+        "name": "Krookodile",
+        "entries": {
+            "black": "They never allow prey to escape. Their jaws are so powerful, they can crush the body of an automobile.",
+            "white": "It can expand the focus of its eyes, enabling it to see objects in the far distance as if it were using binoculars.",
+            "black2": "Very violent Pokémon, they try to clamp down on anything that moves in front of their eyes.",
+            "white2": "Very violent Pokémon, they try to clamp down on anything that moves in front of their eyes.",
+            "x": "Very violent Pokémon, they try to clamp down on anything that moves in front of their eyes.",
+            "y": "They never allow prey to escape. Their jaws are so powerful, they can crush the body of an automobile.",
+            "omegaRuby": "Very violent Pokémon, they try to clamp down on anything that moves in front of their eyes.",
+            "alphaSapphire": "They never allow prey to escape. Their jaws are so powerful, they can crush the body of an automobile.",
+            "sun": "Its unique faculty of sight can detect small prey more than 30 miles away, even in the midst of a sandstorm.",
+            "moon": "After clamping down with its powerful jaws, it twists its body around to rip its prey in half.",
+            "ultraSun": "When it spots prey, even at a distance of over 30 miles, it swims through the desert as if it were water, then jumps out and chomps them.",
+            "ultraMoon": "It conceals itself in sandstorms that Flygon whip up and waits patiently for prey to appear.",
+            "sword": "This Pokémon is known as the Bully of the Sands. Krookodile's mighty jaws can bite through heavy plates of iron with almost no effort at all.",
+            "shield": "While terribly aggressive, Krookodile also has the patience to stay hidden under sand for days, lying in wait for prey.",
+            "scarlet": "After clamping down with its powerful jaws, it twists its body around to rip its prey in half.",
+            "violet": "Its unique faculty of sight can detect small prey more than 30 miles away, even in the midst of a sandstorm."
+        }
+    },
+    {
+        "no": "#0554",
+        "name": "Darumaka",
+        "entries": {
+            "black": "When its internal fire is burning, it cannot calm down and it runs around. When the fire diminishes, it falls asleep.",
+            "white": "Darumaka's droppings are hot, so people used to put them in their clothes to keep themselves warm.",
+            "black2": "When it sleeps, it pulls its limbs into its body and its internal fire goes down to 1,100° F.",
+            "white2": "When it sleeps, it pulls its limbs into its body and its internal fire goes down to 1,100° F.",
+            "x": "Darumaka's droppings are hot, so people used to put them in their clothes to keep themselves warm.",
+            "y": "When it sleeps, it pulls its limbs into its body and its internal fire goes down to 1,100 degrees Fahrenheit.",
+            "omegaRuby": "Darumaka's droppings are hot, so people used to put them in their clothes to keep themselves warm.",
+            "alphaSapphire": "When it sleeps, it pulls its limbs into its body and its internal fire goes down to 1,100 degrees Fahrenheit.",
+            "sword": "It derives its power from fire burning inside its body. If the fire dwindles, this Pokémon will immediately fall asleep.",
+            "shield": "This popular symbol of good fortune will never fall over in its sleep, no matter how it's pushed or pulled."
+        }
+    },
+    {
+        "no": "#0554galar",
+        "name": "Galarian Darumaka",
+        "entries": {
+            "sword": "It lived in snowy areas for so long that its fire sac cooled off and atrophied. It now has an organ that generates cold instead.",
+            "shield": "The colder they get, the more energetic they are. They freeze their breath to make snowballs, using them as ammo for playful snowball fights."
+        }
+    },
+    {
+        "no": "#0555",
+        "name": "Darmanitan",
+        "entries": {
+            "black": "Its internal fire burns at 2,500° F, making enough power that it can destroy a dump truck with one punch.",
+            "white": "When weakened in battle, it transforms into a stone statue. Then it sharpens its mind and fights on mentally.",
+            "black2": "When one is injured in a fierce battle, it hardens into a stone-like form. Then it meditates and sharpens its mind.",
+            "white2": "When one is injured in a fierce battle, it hardens into a stone-like form. Then it meditates and sharpens its mind.",
+            "x": "When one is injured in a fierce battle, it hardens into a stone-like form. Then it meditates and sharpens its mind.",
+            "y": "Its internal fire burns at 2,500 degrees Fahrenheit, making enough power that it can destroy a dump truck with one punch.",
+            "omegaRuby": "When one is injured in a fierce battle, it hardens into a stone-like form. Then it meditates and sharpens its mind.",
+            "alphaSapphire": "Its internal fire burns at 2,500 degrees Fahrenheit, making enough power that it can destroy a dump truck with one punch.",
+            "sword": "The thick arms of this hot-blooded Pokémon can deliver punches capable of obliterating a dump truck.",
+            "shield": "This Pokémon's power level rises along with the temperature of its fire, which can reach 2,500 degrees Fahrenheit."
+        }
+    },
+    {
+        "no": "#0555zen",
+        "name": "Darmanitan (Zen Mode)",
+        "entries": {
+            "sword": "Through meditation, it calms its raging spirit and hones its psychic powers.",
+            "shield": "When wounded, it stops moving. It goes as still as stone to meditate, sharpening its mind and spirit."
+        }
+    },
+    {
+        "no": "#0555galar",
+        "name": "Galarian Darmanitan",
+        "entries": {
+            "sword": "On days when blizzards blow through, it comes down to where people live. It stashes food in the snowball on its head, taking it home for later.",
+            "shield": "Though it has a gentle disposition, it's also very strong. It will quickly freeze the snowball on its head before going for a headbutt."
+        }
+    },
+    {
+        "no": "#0555galarzen",
+        "name": "Galarian Darmanitan (Zen Mode)",
+        "entries": {
+            "sword": "Anger has reignited its atrophied flame sac. This Pokémon spews fire everywhere as it rampages indiscriminately.",
+            "shield": "Darmanitan takes this form when enraged. It won't stop spewing flames until its rage has settled, even if its body starts to melt."
+        }
+    },
+    {
+        "no": "#0556",
+        "name": "Maractus",
+        "entries": {
+            "black": "It uses an up-tempo song and dance to drive away the bird Pokémon that prey on its flower seeds.",
+            "white": "Arid regions are their habitat. They move rhythmically, making a sound similar to maracas.",
+            "black2": "When it moves rhythmically, it makes a sound similar to maracas, making the surprised Pokémon flee.",
+            "white2": "When it moves rhythmically, it makes a sound similar to maracas, making the surprised Pokémon flee.",
+            "x": "It uses an up-tempo song and dance to drive away the bird Pokémon that prey on its flower seeds.",
+            "y": "Arid regions are their habitat. They move rhythmically, making a sound similar to maracas.",
+            "omegaRuby": "It uses an up-tempo song and dance to drive away the bird Pokémon that prey on its flower seeds.",
+            "alphaSapphire": "Arid regions are their habitat. They move rhythmically, making a sound similar to maracas.",
+            "sword": "With noises that could be mistaken for the rattles of maracas, it creates an upbeat rhythm, startling bird Pokémon and making them fly off in a hurry.",
+            "shield": "Once each year, this Pokémon scatters its seeds. They're jam-packed with nutrients, making them a precious food source out in the desert."
+        }
+    },
+    {
+        "no": "#0557",
+        "name": "Dwebble",
+        "entries": {
+            "black": "This Pokémon can easily melt holes in hard rocks with a liquid secreted from its mouth.",
+            "white": "It makes a hole in a suitable rock. If that rock breaks, the Pokémon remains agitated until it locates a replacement.",
+            "black2": "When it finds a stone of a suitable size, it secretes a liquid from its mouth to open up a hole to crawl into.",
+            "white2": "When it finds a stone of a suitable size, it secretes a liquid from its mouth to open up a hole to crawl into.",
+            "x": "It makes a hole in a suitable rock. If that rock breaks, the Pokémon remains agitated until it locates a replacement.",
+            "y": "When it finds a stone of a suitable size, it secretes a liquid from its mouth to open up a hole to crawl into.",
+            "omegaRuby": "It makes a hole in a suitable rock. If that rock breaks, the Pokémon remains agitated until it locates a replacement.",
+            "alphaSapphire": "When it finds a stone of a suitable size, it secretes a liquid from its mouth to open up a hole to crawl into.",
+            "sword": "When it finds a stone appealing, it creates a hole inside it and uses it as its home. This Pokémon is the natural enemy of Roggenrola and Rolycoly.",
+            "shield": "It first tries to find a rock to live in, but if there are no suitable rocks to be found, Dwebble may move in to the ports of a Hippowdon."
+        }
+    },
+    {
+        "no": "#0558",
+        "name": "Crustle",
+        "entries": {
+            "black": "Competing for territory, Crustle fight viciously. The one whose boulder is broken is the loser of the battle.",
+            "white": "It possesses legs of enormous strength, enabling it to carry heavy slabs for many days, even when crossing arid land.",
+            "black2": "When its boulder is broken in battles for territory, it feels unsure and begins to weaken.",
+            "white2": "When its boulder is broken in battles for territory, it feels unsure and begins to weaken.",
+            "x": "It possesses legs of enormous strength, enabling it to carry heavy slabs for many days, even when crossing arid land.",
+            "y": "Competing for territory, Crustle fight viciously. The one whose boulder is broken is the loser of the battle.",
+            "omegaRuby": "It possesses legs of enormous strength, enabling it to carry heavy slabs for many days, even when crossing arid land.",
+            "alphaSapphire": "Competing for territory, Crustle fight viciously. The one whose boulder is broken is the loser of the battle.",
+            "sword": "This highly territorial Pokémon prefers dry climates. It won't come out of its boulder on rainy days.",
+            "shield": "Its thick claws are its greatest weapons. They're mighty enough to crack Rhyperior's carapace."
+        }
+    },
+    {
+        "no": "#0559",
+        "name": "Scraggy",
+        "entries": {
+            "black": "Its skin has a rubbery elasticity, so it can reduce damage by defensively pulling its skin up to its neck.",
+            "white": "It immediately headbutts anyone that makes eye contact with it. Its skull is massively thick.",
+            "black2": "Proud of its sturdy skull, it suddenly headbutts everything, but its weight makes it unstable, too.",
+            "white2": "Proud of its sturdy skull, it suddenly headbutts everything, but its weight makes it unstable, too.",
+            "x": "Its skin has a rubbery elasticity, so it can reduce damage by defensively pulling its skin up to its neck.",
+            "y": "Proud of its sturdy skull, it suddenly headbutts everything, but its weight makes it unstable, too.",
+            "omegaRuby": "Its skin has a rubbery elasticity, so it can reduce damage by defensively pulling its skin up to its neck.",
+            "alphaSapphire": "Proud of its sturdy skull, it suddenly headbutts everything, but its weight makes it unstable, too.",
+            "ultraSun": "They move in small groups, walking around lazily. Anyone who makes eye contact gets smacked with a headbutt.",
+            "ultraMoon": "It stretches its saggy skin up to its neck to protect itself. The saggier their skin, the more respect they garner.",
+            "sword": "If it locks eyes with you, watch out! Nothing and no one is safe from the reckless headbutts of this troublesome Pokémon.",
+            "shield": "It protects itself with its durable skin. It's thought that this Pokémon will evolve once its skin has completely stretched out.",
+            "scarlet": "It stretches its saggy skin up to its neck to protect itself. Among Scraggy, individuals with saggier skin apparently garner more respect.",
+            "violet": "It will abruptly headbutt anyone that makes eye contact with it. Its skull is extremely hard."
+        }
+    },
+    {
+        "no": "#0560",
+        "name": "Scrafty",
+        "entries": {
+            "black": "Groups of them beat up anything that enters their territory. Each can spit acidic liquid from its mouth.",
+            "white": "It can smash concrete blocks with its kicking attacks. The one with the biggest crest is the group leader.",
+            "black2": "It pulls up its shed skin to protect itself while it kicks. The bigger the crest, the more respected it is.",
+            "white2": "It pulls up its shed skin to protect itself while it kicks. The bigger the crest, the more respected it is.",
+            "x": "It pulls up its shed skin to protect itself while it kicks. The bigger the crest, the more respected it is.",
+            "y": "It can smash concrete blocks with its kicking attacks. The one with the biggest crest is the group leader.",
+            "omegaRuby": "It pulls up its shed skin to protect itself while it kicks. The bigger the crest, the more respected it is.",
+            "alphaSapphire": "It can smash concrete blocks with its kicking attacks. The one with the biggest crest is the group leader.",
+            "ultraSun": "This Pokémon may be rude, but it takes very good care of its family, its friends, and its turf.",
+            "ultraMoon": "It taunts its opponents by spitting. It has a certain territory that it never leaves its whole life long.",
+            "sword": "As halfhearted as this Pokémon's kicks may seem, they pack enough power to shatter Conkeldurr's concrete pillars.",
+            "shield": "While mostly known for having the temperament of an aggressive ruffian, this Pokémon takes very good care of its family, friends, and territory.",
+            "scarlet": "Groups of them beat up anything that enters their territory. Each can spit acidic liquid from its mouth.",
+            "violet": "This Pokémon may be rude, but it takes very good care of its family, its friends, and its turf."
+        }
+    },
+    {
+        "no": "#0561",
+        "name": "Sigilyph",
+        "entries": {
+            "black": "They never vary the route they fly, because their memories of guarding an ancient city remain steadfast.",
+            "white": "The guardians of an ancient city, they use their psychic power to attack enemies that invade their territory.",
+            "black2": "The guardians of an ancient city, they always fly the same route while keeping watch for invaders.",
+            "white2": "The guardians of an ancient city, they always fly the same route while keeping watch for invaders.",
+            "x": "The guardians of an ancient city, they use their psychic power to attack enemies that invade their territory.",
+            "y": "The guardians of an ancient city, they always fly the same route while keeping watch for invaders.",
+            "omegaRuby": "The guardians of an ancient city, they use their psychic power to attack enemies that invade their territory.",
+            "alphaSapphire": "The guardians of an ancient city, they always fly the same route while keeping watch for invaders.",
+            "sword": "Psychic power allows these Pokémon to fly. Some say they were the guardians of an ancient city. Others say they were the guardians' emissaries.",
+            "shield": "A discovery was made in the desert where Sigilyph fly. The ruins of what may have been an ancient city were found beneath the sands."
+        }
+    },
+    {
+        "no": "#0562",
+        "name": "Yamask",
+        "entries": {
+            "black": "Each of them carries a mask that used to be its face when it was human. Sometimes they look at it and cry.",
+            "white": "These Pokémon arose from the spirits of people interred in graves in past ages. Each retains memories of its former life.",
+            "black2": "These Pokémon arose from the spirits of people interred in graves. Each retains memories of its former life.",
+            "white2": "These Pokémon arose from the spirits of people interred in graves. Each retains memories of its former life.",
+            "x": "These Pokémon arose from the spirits of people interred in graves. Each retains memories of its former life.",
+            "y": "Each of them carries a mask that used to be its face when it was human. Sometimes they look at it and cry.",
+            "omegaRuby": "These Pokémon arose from the spirits of people interred in graves. Each retains memories of its former life.",
+            "alphaSapphire": "Each of them carries a mask that used to be its face when it was human. Sometimes they look at it and cry.",
+            "sword": "It wanders through ruins by night, carrying a mask that's said to have been the face it had when it was still human.",
+            "shield": "The spirit of a person from a bygone age became this Pokémon. It rambles through ruins, searching for someone who knows its face."
+        }
+    },
+    {
+        "no": "#0562galar",
+        "name": "Galarian Yamask",
+        "entries": {
+            "sword": "A clay slab with cursed engravings took possession of a Yamask. The slab is said to be absorbing the Yamask's dark power.",
+            "shield": "It's said that this Pokémon was formed when an ancient clay tablet was drawn to a vengeful spirit."
+        }
+    },
+    {
+        "no": "#0563",
+        "name": "Cofagrigus",
+        "entries": {
+            "black": "It has been said that they swallow those who get too close and turn them into mummies. They like to eat gold nuggets.",
+            "white": "They pretend to be elaborate coffins to teach lessons to grave robbers. Their bodies are covered in pure gold.",
+            "black2": "Grave robbers who mistake them for real coffins and get too close end up trapped inside their bodies.",
+            "white2": "Grave robbers who mistake them for real coffins and get too close end up trapped inside their bodies.",
+            "x": "It has been said that they swallow those who get too close and turn them into mummies. They like to eat gold nuggets.",
+            "y": "Grave robbers who mistake them for real coffins and get too close end up trapped inside their bodies.",
+            "omegaRuby": "It has been said that they swallow those who get too close and turn them into mummies. They like to eat gold nuggets.",
+            "alphaSapphire": "Grave robbers who mistake them for real coffins and get too close end up trapped inside their bodies.",
+            "sword": "This Pokémon has a body of sparkling gold. People say it no longer remembers that it was once human.",
+            "shield": "There are many depictions of Cofagrigus decorating ancient tombs. They're symbols of the wealth that kings of bygone eras had."
+        }
+    },
+    {
+        "no": "#0564",
+        "name": "Tirtouga",
+        "entries": {
+            "black": "Restored from a fossil, this Pokémon can dive to depths beyond half a mile.",
+            "white": "About 100 million years ago, these Pokémon swam in oceans. It is thought they also went on land to attack prey.",
+            "black2": "This Pokémon was restored from a fossil. It swam skillfully and dove to depths beyond half a mile.",
+            "white2": "This Pokémon was restored from a fossil. It swam skillfully and dove to depths beyond half a mile.",
+            "x": "About 100 million years ago, these Pokémon swam in oceans. It is thought they also went on land to attack prey.",
+            "y": "Restored from a fossil, this Pokémon can dive to depths beyond half a mile.",
+            "omegaRuby": "About 100 million years ago, these Pokémon swam in oceans. It is thought they also went on land to attack prey.",
+            "alphaSapphire": "Restored from a fossil, this Pokémon can dive to depths beyond half a mile.",
+            "sun": "Based on studies of its skeletal structure, it can apparently dive to ocean depths of over half a mile.",
+            "moon": "Reputed to be the ancestor of most turtle Pokémon, it lived in warm seas approximately a hundred million years ago.",
+            "ultraSun": "It was restored from an ancient fossil. Tirtouga lived in the sea but came up onto the land to search for prey.",
+            "ultraMoon": "Its hunting grounds encompassed a broad area, from the land to more than half a mile deep in the ocean.",
+            "sword": "This Pokémon inhabited ancient seas. Although it can only crawl, it still comes up onto land in search of prey.",
+            "shield": "Tirtouga is considered to be the ancestor of many turtle Pokémon. It was restored to life from a fossil."
+        }
+    },
+    {
+        "no": "#0565",
+        "name": "Carracosta",
+        "entries": {
+            "black": "They can live both in the ocean and on land. A slap from one of them is enough to open a hole in the bottom of a tanker.",
+            "white": "Incredible jaw strength enables them to chew up steel beams and rocks along with their prey.",
+            "black2": "It could knock out a foe with a slap from one of its developed front appendages and chew it up, shell or bones and all.",
+            "white2": "It could knock out a foe with a slap from one of its developed front appendages and chew it up, shell or bones and all.",
+            "x": "They can live both in the ocean and on land. A slap from one of them is enough to open a hole in the bottom of a tanker.",
+            "y": "It could knock out a foe with a slap from one of its developed front appendages and chew it up, shell or bones and all.",
+            "omegaRuby": "They can live both in the ocean and on land. A slap from one of them is enough to open a hole in the bottom of a tanker.",
+            "alphaSapphire": "It could knock out a foe with a slap from one of its developed front appendages and chew it up, shell or bones and all.",
+            "sun": "It constructed its sturdy shell by crunching and swallowing the hard shells or bones of its prey.",
+            "moon": "Active both on land and in the sea, this Pokémon drags its land-based prey into the water to finish it off.",
+            "ultraSun": "Its jaws are terrifyingly powerful. It could eat Omastar and Omanyte whole and not be bothered in the slightest by their shells.",
+            "ultraMoon": "Carracosta eats every last bit of the prey it catches, even the shells and bones, to further strengthen its sturdy shell.",
+            "sword": "Carracosta completely devours its prey—bones, shells, and all. Because of this, Carracosta's own shell grows thick and sturdy.",
+            "shield": "This Pokémon emerges from the water in search of prey despite the fact that it moves more slowly on land."
+        }
+    },
+    {
+        "no": "#0566",
+        "name": "Archen",
+        "entries": {
+            "black": "Said to be an ancestor of bird Pokémon, they were unable to fly and moved about by hopping from one branch to another.",
+            "white": "Revived from a fossil, this Pokémon is thought to be the ancestor of all bird Pokémon.",
+            "black2": "It was revived from an ancient fossil. Not able to fly, it lived in treetops and hopped from one branch to another.",
+            "white2": "It was revived from an ancient fossil. Not able to fly, it lived in treetops and hopped from one branch to another.",
+            "x": "Revived from a fossil, this Pokémon is thought to be the ancestor of all bird Pokémon.",
+            "y": "Said to be an ancestor of bird Pokémon, they were unable to fly and moved about by hopping from one branch to another.",
+            "omegaRuby": "Revived from a fossil, this Pokémon is thought to be the ancestor of all bird Pokémon.",
+            "alphaSapphire": "Said to be an ancestor of bird Pokémon, they were unable to fly and moved about by hopping from one branch to another.",
+            "sun": "It is the ancestor of all bird Pokémon. Archen itself could not actually fly but moved by hopping from treetop to treetop.",
+            "moon": "To all appearances flightless, it was able to glide down from tall treetops to snag its prey.",
+            "ultraSun": "Once thought to be the ancestor of all bird Pokémon, some of the latest research suggests that may not be the case.",
+            "ultraMoon": "Restored from a fossil, this ancient bird Pokémon has wings but can't yet fly.",
+            "sword": "This Pokémon was successfully restored from a fossil. As research suggested, Archen is unable to fly. But it's very good at jumping.",
+            "shield": "Archen is said to be the ancestor of bird Pokémon. It lived in treetops, eating berries and bug Pokémon."
+        }
+    },
+    {
+        "no": "#0567",
+        "name": "Archeops",
+        "entries": {
+            "black": "They are intelligent and will cooperate to catch prey. From the ground, they use a running start to take flight.",
+            "white": "It runs better than it flies. It catches prey by running at speeds comparable to those of an automobile.",
+            "black2": "It runs better than it flies. It takes off into the sky by running at a speed of 25 mph.",
+            "white2": "It runs better than it flies. It takes off into the sky by running at a speed of 25 mph.",
+            "x": "They are intelligent and will cooperate to catch prey. From the ground, they use a running start to take flight.",
+            "y": "It runs better than it flies. It takes off into the sky by running at a speed of 25 mph.",
+            "omegaRuby": "They are intelligent and will cooperate to catch prey. From the ground, they use a running start to take flight.",
+            "alphaSapphire": "It runs better than it flies. It takes off into the sky by running at a speed of 25 mph.",
+            "sun": "Although apparently able to fly, they tended to run along the ground, averaging speeds of roughly 25 mph.",
+            "moon": "They hunted in flocks. When one Archeops had the prey cornered, another would swoop on it.",
+            "ultraSun": "This ancient Pokémon's plumage is delicate, so if anyone other than an experienced professional tries to restore it, they will fail.",
+            "ultraMoon": "Said to be an ancestor of bird Pokémon, the muscles it uses to flap its wings are still weak, so it needs a long runway in order to take off.",
+            "sword": "It needs a running start to take off. If Archeops wants to fly, it first needs to run nearly 25 mph, building speed over a course of about 2.5 miles.",
+            "shield": "Though capable of flight, Archeops was apparently better at hunting on the ground."
+        }
+    },
+    {
+        "no": "#0568",
+        "name": "Trubbish",
+        "entries": {
+            "black": "Inhaling the gas they belch will make you sleep for a week. They prefer unsanitary places.",
+            "white": "The combination of garbage bags and industrial waste caused the chemical reaction that created this Pokémon.",
+            "black2": "Wanting more garbage, they follow people who litter. They always belch poison gas.",
+            "white2": "Wanting more garbage, they follow people who litter. They always belch poison gas.",
+            "x": "The combination of garbage bags and industrial waste caused the chemical reaction that created this Pokémon.",
+            "y": "Inhaling the gas they belch will make you sleep for a week. They prefer unsanitary places.",
+            "omegaRuby": "The combination of garbage bags and industrial waste caused the chemical reaction that created this Pokémon.",
+            "alphaSapphire": "Inhaling the gas they belch will make you sleep for a week. They prefer unsanitary places.",
+            "sun": "Unsanitary places are what they like best. They can be spotted in Alola, often with Grimer in hot pursuit.",
+            "moon": "It gorges on trash until its stomach is full. Then it belches toxic gas. An unlucky whiff of gas will put a person in the hospital.",
+            "ultraSun": "Poisonous gas leaks out of it when it breathes. Muk that catch a whiff of that stench will come drooling.",
+            "ultraMoon": "If a young Pokémon or child breathes in the toxic gas that Trubbish belches out, it could be a life-threatening situation.",
+            "sword": "Its favorite places are unsanitary ones. If you leave trash lying around, you could even find one of these Pokémon living in your room.",
+            "shield": "This Pokémon was born from a bag stuffed with trash. Galarian Weezing relish the fumes belched by Trubbish."
+        }
+    },
+    {
+        "no": "#0569",
+        "name": "Garbodor",
+        "entries": {
+            "black": "It clenches opponents with its left arm and finishes them off with foul-smelling poison gas belched from its mouth.",
+            "white": "They absorb garbage and make it part of their bodies. They shoot a poisonous liquid from their right-hand fingertips.",
+            "black2": "Consuming garbage makes new kinds of poison gases and liquids inside their bodies.",
+            "white2": "Consuming garbage makes new kinds of poison gases and liquids inside their bodies.",
+            "x": "It clenches opponents with its left arm and finishes them off with foul-smelling poison gas belched from its mouth.",
+            "y": "Consuming garbage makes new kinds of poison gases and liquids inside their bodies.",
+            "omegaRuby": "It clenches opponents with its left arm and finishes them off with foul-smelling poison gas belched from its mouth.",
+            "alphaSapphire": "Consuming garbage makes new kinds of poison gases and liquids inside their bodies.",
+            "sun": "Beware the poisonous liquid it shoots from its right arm. If even a little of it gets on you, you'll experience the effects of the unidentified toxin.",
+            "moon": "For a time, their numbers increased explosively in Alola. Since the arrival of Grimer, their population has decreased dramatically.",
+            "ultraSun": "It locks opponents in place with its left hand, immobilizing them by entirely dousing their bodies with poisonous liquid.",
+            "ultraMoon": "Some say the reason Garbodor in Alola are a little stronger than their counterparts elsewhere is the presence of Muk, their natural enemy.",
+            "sword": "This Pokémon eats trash, which turns into poison inside its body. The main component of the poison depends on what sort of trash was eaten.",
+            "shield": "The toxic liquid it launches from its right arm is so virulent that it can kill a weakened creature instantly."
+        }
+    },
+    {
+        "no": "#0569gmax",
+        "name": "Gigantamax Garbodor",
+        "entries": {
+            "sword": "Due to Gigantamax energy, this Pokémon's toxic gas has become much thicker, congealing into masses shaped like discarded toys.",
+            "shield": "It sprays toxic gas from its mouth and fingers. If the gas engulfs you, the toxins will seep in all the way down to your bones."
+        }
+    },
+    {
+        "no": "#0570",
+        "name": "Zorua",
+        "entries": {
+            "black": "It changes into the forms of others to surprise them. Apparently, it often transforms into a silent child.",
+            "white": "To protect themselves from danger, they hide their true identities by transforming into people and Pokémon.",
+            "black2": "It changes so it looks just like its foe, tricks it, and then uses that opportunity to flee.",
+            "white2": "It changes so it looks just like its foe, tricks it, and then uses that opportunity to flee.",
+            "x": "It changes so it looks just like its foe, tricks it, and then uses that opportunity to flee.",
+            "y": "To protect themselves from danger, they hide their true identities by transforming into people and Pokémon.",
+            "omegaRuby": "It changes so it looks just like its foe, tricks it, and then uses that opportunity to flee.",
+            "alphaSapphire": "To protect themselves from danger, they hide their true identities by transforming into people and Pokémon.",
+            "ultraSun": "This Pokémon has a cowardly disposition, so when it's not around friends, it basically always stays transformed as something else.",
+            "ultraMoon": "If a normally talkative child suddenly stops talking, it may have been replaced by Zorua.",
+            "sword": "Zorua is a timid Pokémon. This disposition seems to be what led to the development of Zorua's ability to take on the forms of other creatures.",
+            "shield": "Zorua sometimes transforms into a person and goes into cities to search for food. When Zorua does this, it usually takes on the form of a child.",
+            "scarlet": "It changes into the forms of others to surprise them. Apparently, it often transforms into a silent child.",
+            "violet": "To protect themselves from danger, they hide their true identities by transforming into people and Pokémon."
+        }
+    },
+    {
+        "no": "#0570hisui",
+        "name": "Hisuian Zorua",
+        "entries": {
+            "legendsArceus": "A once-departed soul, returned to life in Hisui. Derives power from resentment, which rises as energy atop its head and takes on the forms of foes. In this way, Zorua vents lingering malice."
+        }
+    },
+    {
+        "no": "#0571",
+        "name": "Zoroark",
+        "entries": {
+            "black": "Bonds between these Pokémon are very strong. It protects the safety of its pack by tricking its opponents.",
+            "white": "Each has the ability to fool a large group of people simultaneously. They protect their lair with illusory scenery.",
+            "black2": "Stories say those who tried to catch Zoroark were trapped in an illusion and punished.",
+            "white2": "Stories say those who tried to catch Zoroark were trapped in an illusion and punished.",
+            "x": "Each has the ability to fool a large group of people simultaneously. They protect their lair with illusory scenery.",
+            "y": "Bonds between these Pokémon are very strong. It protects the safety of its pack by tricking its opponents.",
+            "omegaRuby": "Each has the ability to fool a large group of people simultaneously. They protect their lair with illusory scenery.",
+            "alphaSapphire": "Bonds between these Pokémon are very strong. It protects the safety of its pack by tricking its opponents.",
+            "ultraSun": "It doesn't just transform itself—it also has the power to make hundreds of people see its illusions.",
+            "ultraMoon": "If it thinks humans are going to discover its den, Zoroark shows them visions that make them wander around in the woods.",
+            "sword": "This Pokémon cares deeply about others of its kind, and it will conjure terrifying illusions to keep its den and pack safe.",
+            "shield": "Seeking to ease the burden of solitude, lonely Trainers tell Zoroark to show illusions to them.",
+            "scarlet": "Stories say those who tried to catch Zoroark were trapped in an illusion and punished.",
+            "violet": "Each has the ability to fool a large group of people simultaneously. They protect their lair with illusory scenery."
+        }
+    },
+    {
+        "no": "#0571hisui",
+        "name": "Hisuian Zoroark",
+        "entries": {
+            "legendsArceus": "With its disheveled white fur, it looks like an embodiment of death. Heedless of its own safety, Zoroark attacks its nemeses with a bitter energy so intense, it lacerates Zoroark's own body."
+        }
+    },
+    {
+        "no": "#0572",
+        "name": "Minccino",
+        "entries": {
+            "black": "They greet one another by rubbing each other with their tails, which are always kept well groomed and clean.",
+            "white": "These Pokémon prefer a tidy habitat. They are always sweeping and dusting, using their tails as brooms.",
+            "black2": "Minccino greet each other by grooming one another thoroughly with their tails.",
+            "white2": "Minccino greet each other by grooming one another thoroughly with their tails.",
+            "x": "Minccino greet each other by grooming one another thoroughly with their tails.",
+            "y": "These Pokémon prefer a tidy habitat. They are always sweeping and dusting, using their tails as brooms.",
+            "omegaRuby": "Minccino greet each other by grooming one another thoroughly with their tails.",
+            "alphaSapphire": "These Pokémon prefer a tidy habitat. They are always sweeping and dusting, using their tails as brooms.",
+            "ultraSun": "A clean freak that will not allow even the slightest mess, it uses its tail like a mop to thoroughly clean any and all filth.",
+            "ultraMoon": "When its tail has gotten dirty from self-cleaning or from cleaning its nest, Minccino spends a whole day washing its tail in clean spring water.",
+            "sword": "The way it brushes away grime with its tail can be helpful when cleaning. But its focus on spotlessness can make cleaning more of a hassle.",
+            "shield": "They pet each other with their tails as a form of greeting. Of the two, the one whose tail is fluffier is a bit more boastful.",
+            "scarlet": "When its tail has gotten dirty from self-cleaning or from cleaning its nest, Minccino spends a whole day washing its tail in clean springwater.",
+            "violet": "These Pokémon like things neat and tidy. They are always sweeping and dusting their habitat, using their tails as brooms."
+        }
+    },
+    {
+        "no": "#0573",
+        "name": "Cinccino",
+        "entries": {
+            "black": "Their white fur is coated in a special oil that makes it easy for them to deflect attacks.",
+            "white": "Their white fur feels amazing to touch. Their fur repels dust and prevents static electricity from building up.",
+            "black2": "Cinccino's body is coated in a special oil that helps it deflect attacks, such as punches.",
+            "white2": "Cinccino's body is coated in a special oil that helps it deflect attacks, such as punches.",
+            "x": "Their white fur feels amazing to touch. Their fur repels dust and prevents static electricity from building up.",
+            "y": "Cinccino's body is coated in a special oil that helps it deflect attacks, such as punches.",
+            "omegaRuby": "Their white fur feels amazing to touch. Their fur repels dust and prevents static electricity from building up.",
+            "alphaSapphire": "Cinccino's body is coated in a special oil that helps it deflect attacks, such as punches.",
+            "ultraSun": "The white parts of its coat are covered in an oil secreted from its body, so this Pokémon can slide right away from its enemies' attacks.",
+            "ultraMoon": "The oil that seeps from its body is really smooth. For people troubled by bad skin, this oil is an effective treatment.",
+            "sword": "Its body secretes oil that this Pokémon spreads over its nest as a coating to protect it from dust. Cinccino won't tolerate even a speck of the stuff.",
+            "shield": "A special oil that seeps through their fur helps them avoid attacks. The oil fetches a high price at market.",
+            "scarlet": "Their white fur is coated in a special oil that makes it easy for them to deflect attacks.",
+            "violet": "The oil that seeps from its body is really smooth. For people troubled by bad skin, this oil is an effective treatment."
+        }
+    },
+    {
+        "no": "#0574",
+        "name": "Gothita",
+        "entries": {
+            "black": "Their ribbonlike feelers increase their psychic power. They are always staring at something.",
+            "white": "They intently observe both Trainers and Pokémon. Apparently, they are looking at something that only Gothita can see.",
+            "black2": "It stares intently at everything. It can become so obsessed with watching that it doesn't notice attacks.",
+            "white2": "It stares intently at everything. It can become so obsessed with watching that it doesn't notice attacks.",
+            "x": "Their ribbonlike feelers increase their psychic power. They are always staring at something.",
+            "y": "They intently observe both Trainers and Pokémon. Apparently, they are looking at something that only Gothita can see.",
+            "omegaRuby": "Their ribbonlike feelers increase their psychic power. They are always staring at something.",
+            "alphaSapphire": "They intently observe both Trainers and Pokémon. Apparently, they are looking at something that only Gothita can see.",
+            "sword": "Though they're still only babies, there's psychic power stored in their ribbonlike feelers, and sometimes they use that power to fight.",
+            "shield": "Even when nobody seems to be around, Gothita can still be heard making a muted cry. Many believe it's speaking to something only it can see.",
+            "scarlet": "This Pokémon is normally very innocent. When it is staring at something invisible, it is unblinking and utterly silent.",
+            "violet": "Beware of touching the ribbon-shaped feelers that control its psychic power. Gothita will begin bawling if you do."
+        }
+    },
+    {
+        "no": "#0575",
+        "name": "Gothorita",
+        "entries": {
+            "black": "They use hypnosis to control people and Pokémon. Tales of Gothorita leading people astray are told in every corner.",
+            "white": "Starlight is the source of their power. At night, they mark star positions by using psychic power to float stones.",
+            "black2": "According to many old tales, it creates friends for itself by controlling sleeping children on starry nights.",
+            "white2": "According to many old tales, it creates friends for itself by controlling sleeping children on starry nights.",
+            "x": "Starlight is the source of their power. At night, they mark star positions by using psychic power to float stones.",
+            "y": "According to many old tales, it creates friends for itself by controlling sleeping children on starry nights.",
+            "omegaRuby": "Starlight is the source of their power. At night, they mark star positions by using psychic power to float stones.",
+            "alphaSapphire": "According to many old tales, it creates friends for itself by controlling sleeping children on starry nights.",
+            "sword": "It's said that when stars shine in the night sky, this Pokémon will spirit away sleeping children. Some call it the Witch of Punishment.",
+            "shield": "On nights when the stars shine, this Pokémon's psychic power is at its strongest. It's unknown just what link Gothorita has to the greater universe.",
+            "scarlet": "This Pokémon will hypnotize children to put them to sleep before carrying them away. Be wary of nights when the starlight is bright.",
+            "violet": "Using its psychic power, it arranges pebbles to form the shapes of constellations. Some people believe this Pokémon came from outer space."
+        }
+    },
+    {
+        "no": "#0576",
+        "name": "Gothitelle",
+        "entries": {
+            "black": "Starry skies thousands of light-years away are visible in the space distorted by their intense psychic power.",
+            "white": "They can predict the future from the placement and movement of the stars. They can see Trainers' life spans.",
+            "black2": "It can see the future from the movement of the stars. When it learns its Trainer's life span, it cries in sadness.",
+            "white2": "It can see the future from the movement of the stars. When it learns its Trainer's life span, it cries in sadness.",
+            "x": "Starry skies thousands of light-years away are visible in the space distorted by their intense psychic power.",
+            "y": "They can predict the future from the placement and movement of the stars. They can see Trainers' life spans.",
+            "omegaRuby": "Starry skies thousands of light-years away are visible in the space distorted by their intense psychic power.",
+            "alphaSapphire": "They can predict the future from the placement and movement of the stars. They can see Trainers' life spans.",
+            "sword": "It has tremendous psychic power, but it dislikes conflict. It's also able to predict the future based on the movement of the stars.",
+            "shield": "A criminal who was shown his fate by a Gothitelle went missing that same day and was never seen again.",
+            "scarlet": "Gothitelle unleashes psychic energy and shows opponents dreams of the universe’s end. These dreams are apparently ethereal and beautiful.",
+            "violet": "It gazes at the stars to predict the future. It acts somewhat detached because it has seen the end of all existence."
+        }
+    },
+    {
+        "no": "#0577",
+        "name": "Solosis",
+        "entries": {
+            "black": "They drive away attackers by unleashing psychic power. They can use telepathy to talk with others.",
+            "white": "Because their bodies are enveloped in a special liquid, they can survive in any environment.",
+            "black2": "Because their bodies are enveloped in a special liquid, they are fine in any environment, no matter how severe.",
+            "white2": "Because their bodies are enveloped in a special liquid, they are fine in any environment, no matter how severe.",
+            "x": "Because their bodies are enveloped in a special liquid, they are fine in any environment, no matter how severe.",
+            "y": "They drive away attackers by unleashing psychic power. They can use telepathy to talk with others.",
+            "omegaRuby": "Because their bodies are enveloped in a special liquid, they are fine in any environment, no matter how severe.",
+            "alphaSapphire": "They drive away attackers by unleashing psychic power. They can use telepathy to talk with others.",
+            "sword": "It communicates with others telepathically. Its body is encapsulated in liquid, but if it takes a heavy blow, the liquid will leak out.",
+            "shield": "Many say that the special liquid covering this Pokémon's body would allow it to survive in the vacuum of space.",
+            "scarlet": "Because their bodies are enveloped in a special liquid, they can survive in any environment.",
+            "violet": "They drive away attackers by unleashing psychic power. They can use telepathy to talk with others."
+        }
+    },
+    {
+        "no": "#0578",
+        "name": "Duosion",
+        "entries": {
+            "black": "Since they have two divided brains, at times they suddenly try to take two different actions at once.",
+            "white": "When their brains, now divided in two, are thinking the same thoughts, these Pokémon exhibit their maximum power.",
+            "black2": "When their two divided brains think the same thoughts, their psychic power is maximized.",
+            "white2": "When their two divided brains think the same thoughts, their psychic power is maximized.",
+            "x": "Since they have two divided brains, at times they suddenly try to take two different actions at once.",
+            "y": "When their two divided brains think the same thoughts, their psychic power is maximized.",
+            "omegaRuby": "Since they have two divided brains, at times they suddenly try to take two different actions at once.",
+            "alphaSapphire": "When their two divided brains think the same thoughts, their psychic power is maximized.",
+            "sword": "Its psychic power can supposedly cover a range of more than half a mile—but only if its two brains can agree with each other.",
+            "shield": "Its brain has split into two, and the two halves rarely think alike. Its actions are utterly unpredictable.",
+            "scarlet": "Since they have two divided brains, at times they suddenly try to take two different actions at once.",
+            "violet": "When their brains, now divided in two, are thinking the same thoughts, these Pokémon exhibit their maximum power."
+        }
+    },
+    {
+        "no": "#0579",
+        "name": "Reuniclus",
+        "entries": {
+            "black": "When Reuniclus shake hands, a network forms between their brains, increasing their psychic power.",
+            "white": "These remarkably intelligent Pokémon fight by controlling arms that can grip with rock-crushing power.",
+            "black2": "They use psychic power to control their arms, which are made of a special liquid. They can crush boulders psychically.",
+            "white2": "They use psychic power to control their arms, which are made of a special liquid. They can crush boulders psychically.",
+            "x": "They use psychic power to control their arms, which are made of a special liquid. They can crush boulders psychically.",
+            "y": "When Reuniclus shake hands, a network forms between their brains, increasing their psychic power.",
+            "omegaRuby": "They use psychic power to control their arms, which are made of a special liquid. They can crush boulders psychically.",
+            "alphaSapphire": "When Reuniclus shake hands, a network forms between their brains, increasing their psychic power.",
+            "sword": "While it could use its psychic abilities in battle, this Pokémon prefers to swing its powerful arms around to beat opponents into submission.",
+            "shield": "It's said that drinking the liquid surrounding Reuniclus grants wisdom. Problem is, the liquid is highly toxic to anything besides Reuniclus itself.",
+            "scarlet": "Their arms are made of a special liquid. They use psychic power to control these arms and crush boulders.",
+            "violet": "When Reuniclus shake hands, a network forms between their brains, increasing their psychic power."
+        }
+    },
+    {
+        "no": "#0580",
+        "name": "Ducklett",
+        "entries": {
+            "black": "These bird Pokémon are excellent divers. They swim around in the water eating their favorite food--peat moss.",
+            "white": "When attacked, it uses its feathers to splash water, escaping under cover of the spray.",
+            "black2": "They are better at swimming than flying, and they happily eat their favorite food, peat moss, as they dive underwater.",
+            "white2": "They are better at swimming than flying, and they happily eat their favorite food, peat moss, as they dive underwater.",
+            "x": "When attacked, it uses its feathers to splash water, escaping under cover of the spray.",
+            "y": "They are better at swimming than flying, and they happily eat their favorite food, peat moss, as they dive underwater.",
+            "omegaRuby": "When attacked, it uses its feathers to splash water, escaping under cover of the spray.",
+            "alphaSapphire": "They are better at swimming than flying, and they happily eat their favorite food, peat moss, as they dive underwater.",
+            "scarlet": "It's not very good at flying yet. It watches the dances of its Swanna parents to learn how to move its wings.",
+            "violet": "It strengthens its body by diving in to the depths of ponds, swimming around while looking for bog moss to eat."
+        }
+    },
+    {
+        "no": "#0581",
+        "name": "Swanna",
+        "entries": {
+            "black": "Swanna start to dance at dusk. The one dancing in the middle is the leader of the flock.",
+            "white": "It administers sharp, powerful pecks with its bill. It whips its long neck to deliver forceful repeated strikes.",
+            "black2": "Despite their elegant appearance, they can flap their wings strongly and fly for thousands of miles.",
+            "white2": "Despite their elegant appearance, they can flap their wings strongly and fly for thousands of miles.",
+            "x": "Despite their elegant appearance, they can flap their wings strongly and fly for thousands of miles.",
+            "y": "Swanna start to dance at dusk. The one dancing in the middle is the leader of the flock.",
+            "omegaRuby": "Despite their elegant appearance, they can flap their wings strongly and fly for thousands of miles.",
+            "alphaSapphire": "Swanna start to dance at dusk. The one dancing in the middle is the leader of the flock.",
+            "scarlet": "Centered around its leader, the flock dances in perfect sync to strengthen its unity.",
+            "violet": "It's said that many artists have taken inspiration from the sight of Swanna performing a beautiful dance in the light of dawn."
+        }
+    },
+    {
+        "no": "#0582",
+        "name": "Vanillite",
+        "entries": {
+            "black": "The temperature of their breath is -58° F. They create snow crystals and make snow fall in the areas around them.",
+            "white": "This Pokémon formed from icicles bathed in energy from the morning sun. It sleeps buried in snow.",
+            "black2": "Theoretically, this Pokémon formed from icicles bathed in energy from the morning sun. Their breath is -58° F.",
+            "white2": "Theoretically, this Pokémon formed from icicles bathed in energy from the morning sun. Their breath is -58° F.",
+            "x": "The temperature of their breath is -58 degrees Fahrenheit. They create snow crystals and make snow fall in the areas around them.",
+            "y": "This Pokémon formed from icicles bathed in energy from the morning sun. It sleeps buried in snow.",
+            "omegaRuby": "The temperature of their breath is -58 degrees Fahrenheit. They create snow crystals and make snow fall in the areas around them.",
+            "alphaSapphire": "This Pokémon formed from icicles bathed in energy from the morning sun. It sleeps buried in snow.",
+            "sun": "Born of an icicle, this Pokémon uses its frosty breath to make ice crystals, causing snow to fall.",
+            "moon": "It feels pleasantly cool when embraced. This Pokémon is treasured by households in warm regions.",
+            "ultraSun": "It exhales cold air that is at –58 degrees Fahrenheit. When it's in a warm place, it shrinks little by little.",
+            "ultraMoon": "When the morning sun hit an icicle, it wished not to melt, and thus Vanillite was born. At night, it buries itself in snow to sleep.",
+            "sword": "Unable to survive in hot areas, it makes itself comfortable by breathing out air cold enough to cause snow. It burrows into the snow to sleep.",
+            "shield": "Supposedly, this Pokémon was born from an icicle. It spews out freezing air at −58 degrees Fahrenheit to make itself more comfortable."
+        }
+    },
+    {
+        "no": "#0583",
+        "name": "Vanillish",
+        "entries": {
+            "black": "Snowy mountains are this Pokémon's habitat. During an ancient ice age, they moved to southern areas.",
+            "white": "It conceals itself from enemy eyes by creating many small ice particles and hiding among them.",
+            "black2": "They cool down the surrounding air and create ice particles, which they use to freeze their foes.",
+            "white2": "They cool down the surrounding air and create ice particles, which they use to freeze their foes.",
+            "x": "They cool down the surrounding air and create ice particles, which they use to freeze their foes.",
+            "y": "Snowy mountains are this Pokémon's habitat. During an ancient ice age, they moved to southern areas.",
+            "omegaRuby": "They cool down the surrounding air and create ice particles, which they use to freeze their foes.",
+            "alphaSapphire": "Snowy mountains are this Pokémon's habitat. During an ancient ice age, they moved to southern areas.",
+            "sun": "Hot days cause its body to melt. It can be restored by refreezing it, but the process leaves its body slightly warped.",
+            "moon": "This Pokémon has existed since the Ice Age. It controls particles of ice, freezes its opponents, and then shatters them with a headbutt.",
+            "ultraSun": "It sprays its enemies with grains of ice to freeze them. Most Vanillish in Alola are smaller than average.",
+            "ultraMoon": "This hearty Pokémon survived the Ice Age. It's incredibly popular in very hot regions.",
+            "sword": "By drinking pure water, it grows its icy body. This Pokémon can be hard to find on days with warm, sunny weather.",
+            "shield": "It blasts enemies with cold air reaching −148 degrees Fahrenheit, freezing them solid. But it spares their lives afterward—it's a kind Pokémon."
+        }
+    },
+    {
+        "no": "#0584",
+        "name": "Vanilluxe",
+        "entries": {
+            "black": "Swallowing large amounts of water, they make snow clouds inside their bodies and attack their foes with violent blizzards.",
+            "white": "If both heads get angry simultaneously, this Pokémon expels a blizzard, burying everything in snow.",
+            "black2": "Swallowing large amounts of water, they make snow clouds inside their bodies and, when angry, cause violent blizzards.",
+            "white2": "Swallowing large amounts of water, they make snow clouds inside their bodies and, when angry, cause violent blizzards.",
+            "x": "If both heads get angry simultaneously, this Pokémon expels a blizzard, burying everything in snow.",
+            "y": "Swallowing large amounts of water, they make snow clouds inside their bodies and, when angry, cause violent blizzards.",
+            "omegaRuby": "If both heads get angry simultaneously, this Pokémon expels a blizzard, burying everything in snow.",
+            "alphaSapphire": "Swallowing large amounts of water, they make snow clouds inside their bodies and, when angry, cause violent blizzards.",
+            "sun": "Each of its two heads has a brain, and when they are in agreement, it attacks its enemies by exhaling a violent blizzard.",
+            "moon": "Even if it loses one of its heads, it can live relatively problem-free. It makes snow clouds inside its body.",
+            "ultraSun": "It blasts blizzards from its two mouths. It can create snow anywhere, so it gets a lot of love from skiers and snowboarders.",
+            "ultraMoon": "Vanilluxe is born when two Vanillish, half-melted by the day's light, stick to each other and freeze together in the cold return of night.",
+            "sword": "When its anger reaches a breaking point, this Pokémon unleashes a fierce blizzard that freezes every creature around it, be they friend or foe.",
+            "shield": "People believe this Pokémon formed when two Vanillish stuck together. Its body temperature is roughly 21 degrees Fahrenheit."
+        }
+    },
+    {
+        "no": "#0585spring",
+        "name": "Deerling (Spring Form)",
+        "entries": {
+            "black": "The color and scent of their fur changes to match the mountain grass. When they sense hostility, they hide in the grass.",
+            "white": "The turning of the seasons changes the color and scent of this Pokémon's fur. People use it to mark the seasons.",
+            "black2": "Their coloring changes according to the seasons and can be slightly affected by the temperature and humidity as well.",
+            "white2": "Their coloring changes according to the seasons and can be slightly affected by the temperature and humidity as well.",
+            "x": "Their coloring changes according to the seasons and can be slightly affected by the temperature and humidity as well.",
+            "y": "The turning of the seasons changes the color and scent of this Pokémon's fur. People use it to mark the seasons.",
+            "omegaRuby": "Their coloring changes according to the seasons and can be slightly affected by the temperature and humidity as well.",
+            "alphaSapphire": "The turning of the seasons changes the color and scent of this Pokémon's fur. People use it to mark the seasons.",
+            "scarlet": "Deerling have different scents depending on the season. In early spring, these Pokémon give off a delicate, sweet, and calming scent.",
+            "violet": "Despite Deerling's adorable appearance, farmers consider it a nuisance since it loves plant shoots and will eat them all up."
+        }
+    },
+    {
+        "no": "#0585summer",
+        "name": "Deerling (Summer Form)",
+        "entries": {
+            "scarlet": "To prevent Deerling from entering their fields, many farmers will have several Lycanroc stand guard, as they are the natural enemy of Deerling.",
+            "violet": "Deerling have different scents depending on the season. When a distinct grassy smell starts to waft from one, you know that summer has begun."
+        }
+    },
+    {
+        "no": "#0585autumn",
+        "name": "Deerling (Autumn Form)",
+        "entries": {
+            "scarlet": "These Pokémon are not shy—they will behave as they please, even in front of people. If you feed one of them, it will quickly take a liking to you.",
+            "violet": "Deerling have different scents depending on the season. In this form, Deerling have a softly sweet scent that lingers in the nose."
+        }
+    },
+    {
+        "no": "#0585winter",
+        "name": "Deerling (Winter Form)",
+        "entries": {
+            "scarlet": "Deerling’s scent changes with the seasons, but when the Pokémon is in its Winter Form, it has hardly any scent at all.",
+            "violet": "This Pokémon will playfully headbutt those it gets along well with. It has antlers hidden under its flower, so the headbutts are a little painful."
+        }
+    },
+    {
+        "no": "#0586spring",
+        "name": "Sawsbuck (Spring Form)",
+        "entries": {
+            "black": "They migrate according to the seasons. People can tell the season by looking at Sawsbuck's horns.",
+            "white": "The plants growing on its horns change according to the season. The leaders of the herd possess magnificent horns.",
+            "black2": "They migrate according to the seasons, so some people call Sawsbuck the harbingers of spring.",
+            "white2": "They migrate according to the seasons, so some people call Sawsbuck the harbingers of spring.",
+            "x": "They migrate according to the seasons. People can tell the season by looking at Sawsbuck's horns.",
+            "y": "They migrate according to the seasons, so some people call Sawsbuck the harbingers of spring.",
+            "omegaRuby": "They migrate according to the seasons. People can tell the season by looking at Sawsbuck's horns.",
+            "alphaSapphire": "They migrate according to the seasons, so some people call Sawsbuck the harbingers of spring.",
+            "scarlet": "It seems that a Sawsbuck with many flowers on its antlers will grow at a slightly slower pace because the flowers absorb the Pokémon’s nutrients.",
+            "violet": "There are many Sawsbuck enthusiasts. The paler the pink flowers that bloom on its antlers, the more beautiful the Sawsbuck is considered to be."
+        }
+    },
+    {
+        "no": "#0586summer",
+        "name": "Sawsbuck (Summer Form)",
+        "entries": {
+            "scarlet": "There are many Sawsbuck enthusiasts. The thicker and larger the branches and leaves on its antlers, the more majestic the Sawsbuck is thought to be.",
+            "violet": "This Pokémon's leaves can be made into a black tea, the taste of which varies depending on the region of origin. Paldea's is especially aromatic."
+        }
+    },
+    {
+        "no": "#0586autumn",
+        "name": "Sawsbuck (Autumn Form)",
+        "entries": {
+            "scarlet": "There are many Sawsbuck enthusiasts. The darker the red of the foliage that hangs from its antlers, the more stylish the Sawsbuck is thought to be.",
+            "violet": "Sawsbuck in their Autumn Form are known for having very short tempers. The males fight each other incessantly."
+        }
+    },
+    {
+        "no": "#0586winter",
+        "name": "Sawsbuck (Winter Form)",
+        "entries": {
+            "scarlet": "It’s said that Sawsbuck are calm and easy to tame during the season when they take on this form, so it’s the perfect time to make one your partner.",
+            "violet": "Though there are many enthusiasts for Sawsbuck as a species, this seasonal form in particular is not very popular."
+        }
+    },
+    {
+        "no": "#0587",
+        "name": "Emolga",
+        "entries": {
+            "black": "The energy made in its cheeks' electric pouches is stored inside its membrane and released while it is gliding.",
+            "white": "They live on treetops and glide using the inside of a cape-like membrane while discharging electricity.",
+            "black2": "It glides on its outstretched membrane while shocking foes with the electricity stored in the pouches on its cheeks.",
+            "white2": "It glides on its outstretched membrane while shocking foes with the electricity stored in the pouches on its cheeks.",
+            "x": "They live on treetops and glide using the inside of a cape-like membrane while discharging electricity.",
+            "y": "The energy made in its cheeks' electric pouches is stored inside its membrane and released while it is gliding.",
+            "omegaRuby": "They live on treetops and glide using the inside of a cape-like membrane while discharging electricity.",
+            "alphaSapphire": "The energy made in its cheeks' electric pouches is stored inside its membrane and released while it is gliding.",
+            "sun": "It glides using its cape-like membrane. Electrical energy scatters from it, shocking its friends and foes alike.",
+            "moon": "It grills berries and bug Pokémon with electric shocks and makes a meal of them. It usually nests in the holes gouged in trees by Pikipek.",
+            "ultraSun": "They store up electricity to fly through the air. When thunder cracks at night, sometimes there are almost enough of them to blot out the sky.",
+            "ultraMoon": "As it flies, it scatters electricity around, so bird Pokémon keep their distance. That's why Emolga can keep all its food to itself.",
+            "sword": "As Emolga flutters through the air, it crackles with electricity. This Pokémon is cute, but it can cause a lot of trouble.",
+            "shield": "This Pokémon absolutely loves sweet berries. Sometimes it stuffs its cheeks full of so much food that it can't fly properly."
+        }
+    },
+    {
+        "no": "#0588",
+        "name": "Karrablast",
+        "entries": {
+            "black": "These mysterious Pokémon evolve when they receive electrical stimulation while they are in the same place as Shelmet.",
+            "white": "When they feel threatened, they spit an acidic liquid to drive attackers away. This Pokémon targets Shelmet.",
+            "black2": "For some reason they evolve when they receive electrical energy while they are attacking Shelmet.",
+            "white2": "For some reason they evolve when they receive electrical energy while they are attacking Shelmet.",
+            "x": "These mysterious Pokémon evolve when they receive electrical stimulation while they are in the same place as Shelmet.",
+            "y": "For some reason they evolve when they receive electrical energy while they are attacking Shelmet.",
+            "omegaRuby": "These mysterious Pokémon evolve when they receive electrical stimulation while they are in the same place as Shelmet.",
+            "alphaSapphire": "For some reason they evolve when they receive electrical energy while they are attacking Shelmet.",
+            "sword": "Its strange physiology reacts to electrical energy in interesting ways. The presence of a Shelmet will cause this Pokémon to evolve.",
+            "shield": "It spits a liquid from its mouth to melt through Shelmet's shell. Karrablast doesn't eat the shell— it eats only the contents."
+        }
+    },
+    {
+        "no": "#0589",
+        "name": "Escavalier",
+        "entries": {
+            "black": "They fly around at high speed, striking with their pointed spears. Even when in trouble, they face opponents bravely.",
+            "white": "These Pokémon evolve by wearing the shell covering of a Shelmet. The steel armor protects their whole body.",
+            "black2": "Wearing the shell covering they stole from Shelmet, they defend themselves and attack with two lances.",
+            "white2": "Wearing the shell covering they stole from Shelmet, they defend themselves and attack with two lances.",
+            "x": "Wearing the shell covering they stole from Shelmet, they defend themselves and attack with two lances.",
+            "y": "These Pokémon evolve by wearing the shell covering of a Shelmet. The steel armor protects their whole body.",
+            "omegaRuby": "Wearing the shell covering they stole from Shelmet, they defend themselves and attack with two lances.",
+            "alphaSapphire": "These Pokémon evolve by wearing the shell covering of a Shelmet. The steel armor protects their whole body.",
+            "sword": "They use shells they've stolen from Shelmet to arm and protect themselves. They're very popular Pokémon in the Galar region.",
+            "shield": "It charges its enemies, lances at the ready. An image of one of its duels is captured in a famous painting of Escavalier clashing with Sirfetch'd."
+        }
+    },
+    {
+        "no": "#0590",
+        "name": "Foongus",
+        "entries": {
+            "black": "It lures people in with its Poké Ball pattern, then releases poison spores. Why it resembles a Poké Ball is unknown.",
+            "white": "For some reason, this Pokémon resembles a Poké Ball. They release poison spores to repel those who try to catch them.",
+            "black2": "It lures Pokémon with its pattern that looks just like a Poké Ball then releases poison spores.",
+            "white2": "It lures Pokémon with its pattern that looks just like a Poké Ball then releases poison spores.",
+            "x": "It lures people in with its Poké Ball pattern, then releases poison spores. Why it resembles a Poké Ball is unknown.",
+            "y": "It lures Pokémon with its pattern that looks just like a Poké Ball, then releases poison spores.",
+            "omegaRuby": "It lures people in with its Poké Ball pattern, then releases poison spores. Why it resembles a Poké Ball is unknown.",
+            "alphaSapphire": "It lures Pokémon with its pattern that looks just like a Poké Ball, then releases poison spores.",
+            "sword": "No one knows what the Poké Ball-like pattern on Foongus means or why Foongus has it.",
+            "shield": "The spores released from this Pokémon's hands are highly poisonous, but when thoroughly dried, the spores can be used as stomach medicine.",
+            "scarlet": "There is a theory that the developer of the modern-day Poké Ball really liked Foongus, but this has not been confirmed.",
+            "violet": "This Pokémon prefers damp places. It spurts out poison spores to repel approaching enemies."
+        }
+    },
+    {
+        "no": "#0591",
+        "name": "Amoonguss",
+        "entries": {
+            "black": "It lures prey close by dancing and waving its arm caps, which resemble Poké Balls, in a swaying motion.",
+            "white": "They show off their Poké Ball caps to lure prey, but very few Pokémon are fooled by this.",
+            "black2": "It moves the caps on both arms and does a dance to lure prey. It prefers damp places.",
+            "white2": "It moves the caps on both arms and does a dance to lure prey. It prefers damp places.",
+            "x": "They show off their Poké Ball caps to lure prey, but very few Pokémon are fooled by this.",
+            "y": "It lures prey close by dancing and waving its arm caps, which resemble Poké Balls, in a swaying motion.",
+            "omegaRuby": "They show off their Poké Ball caps to lure prey, but very few Pokémon are fooled by this.",
+            "alphaSapphire": "It lures prey close by dancing and waving its arm caps, which resemble Poké Balls, in a swaying motion.",
+            "sword": "This Pokémon puffs poisonous spores at its foes. If the spores aren't washed off quickly, they'll grow into mushrooms wherever they land.",
+            "shield": "Amoonguss generally doesn't move as much. It tends to stand still near Poké Balls that have been dropped on the ground.",
+            "scarlet": "Be wary of the poisonous spores it releases. Mushrooms resembling Amoonguss’s caps will grow out of anywhere the spores touch.",
+            "violet": "Amoonguss mimics Poké Balls. It is not yet clear whether this mimicry is effective against other Pokémon."
+        }
+    },
+    {
+        "no": "#0592male",
+        "name": "Male Frillish",
+        "entries": {
+            "black": "With its thin, veil-like arms wrapped around the body of its opponent, it sinks to the ocean floor.",
+            "white": "They paralyze prey with poison, then drag them down to their lairs, five miles below the surface.",
+            "black2": "If its veil-like arms stun and wrap a foe, that foe will be dragged miles below the surface, never to return.",
+            "white2": "If its veil-like arms stun and wrap a foe, that foe will be dragged miles below the surface, never to return.",
+            "x": "They paralyze prey with poison, then drag them down to their lairs, five miles below the surface.",
+            "y": "If its veil-like arms stun and wrap a foe, that foe will be dragged miles below the surface, never to return.",
+            "omegaRuby": "They paralyze prey with poison, then drag them down to their lairs, five miles below the surface.",
+            "alphaSapphire": "If its veil-like arms stun and wrap a foe, that foe will be dragged miles below the surface, never to return.",
+            "ultraSun": "It wraps its veillike arms and legs around prey swimming by and drags them down to the depths of the ocean.",
+            "ultraMoon": "Using the invisible poison spikes on its veillike arms and legs, it paralyzes its enemies and causes them to drown.",
+            "sword": "It envelops its prey in its veillike arms and draws it down to the deeps, five miles below the ocean's surface.",
+            "shield": "Legend has it that the residents of a sunken ancient city changed into these Pokémon."
+        }
+    },
+    {
+        "no": "#0592female",
+        "name": "Female Frillish",
+        "entries": {
+            "shield": "Its thin, veillike arms have tens of thousands of poisonous stingers. Females have slightly longer stingers."
+        }
+    },
+    {
+        "no": "#0593male",
+        "name": "Male Jellicent",
+        "entries": {
+            "black": "The fate of the ships and crew that wander into Jellicent's habitat: all sunken, all lost, all vanished.",
+            "white": "They propel themselves by expelling absorbed seawater from their bodies. Their favorite food is life energy.",
+            "black2": "Its body is mostly seawater. It's said there's a castle of ships Jellicent have sunk on the seafloor.",
+            "white2": "Its body is mostly seawater. It's said there's a castle of ships Jellicent have sunk on the seafloor.",
+            "x": "Its body is mostly seawater. It's said there's a castle of ships Jellicent have sunk on the seafloor.",
+            "y": "The fate of the ships and crew that wander into Jellicent's habitat: all sunken, all lost, all vanished.",
+            "omegaRuby": "Its body is mostly seawater. It's said there's a castle of ships Jellicent have sunk on the seafloor.",
+            "alphaSapphire": "The fate of the ships and crew that wander into Jellicent's habitat: all sunken, all lost, all vanished.",
+            "ultraSun": "Jellicent is always hanging around fancy cruise ships and tankers, hoping to drag away its prey.",
+            "ultraMoon": "Fishermen are terrified of Jellicent. It's rumored to drag them into the sea and steal their lives away.",
+            "sword": "Most of this Pokémon's body composition is identical to sea water. It makes sunken ships its lair.",
+            "shield": "Whenever a full moon hangs in the night sky, schools of Jellicent gather near the surface of the sea, waiting for their prey to appear."
+        }
+    },
+    {
+        "no": "#0593female",
+        "name": "Female Jellicent",
+        "entries": {
+            "sword": "These Pokémon have body compositions that are mostly identical to seawater. They make their lairs from sunken ships.",
+            "shield": "The crown on its head gets bigger and bigger as it absorbs more and more of the life-force of other creatures."
+        }
+    },
+    {
+        "no": "#0594",
+        "name": "Alomomola",
+        "entries": {
+            "black": "The special membrane enveloping Alomomola has the ability to heal wounds.",
+            "white": "Floating in the open sea is how they live. When they find a wounded Pokémon, they embrace it and bring it to shore.",
+            "black2": "It gently holds injured and weak Pokémon in its fins. Its special membrane heals their wounds.",
+            "white2": "It gently holds injured and weak Pokémon in its fins. Its special membrane heals their wounds.",
+            "x": "Floating in the open sea is how they live. When they find a wounded Pokémon, they embrace it and bring it to shore.",
+            "y": "It gently holds injured and weak Pokémon in its fins. Its special membrane heals their wounds.",
+            "omegaRuby": "Floating in the open sea is how they live. When they find a wounded Pokémon, they embrace it and bring it to shore.",
+            "alphaSapphire": "It gently holds injured and weak Pokémon in its fins. Its special membrane heals their wounds.",
+            "sun": "It uses its special mucus to close the wounds of injured Pokémon. The reason for this behavior remains unknown.",
+            "moon": "They float upon the open sea. Many water Pokémon gather in the area around Alomomola.",
+            "ultraSun": "Fishermen take them along on long voyages, because if you have an Alomomola with you, there'll be no need for a doctor or medicine.",
+            "ultraMoon": "The reason it helps Pokémon in a weakened condition is that any Pokémon coming after them may also attack Alomomola.",
+            "scarlet": "It gently holds injured and weak Pokémon in its fins. Its special membrane heals their wounds.",
+            "violet": "They float upon the open sea. Many water Pokémon gather in the area around Alomomola."
+        }
+    },
+    {
+        "no": "#0595",
+        "name": "Joltik",
+        "entries": {
+            "black": "Joltik that live in cities have learned a technique for sucking electricity from the outlets in houses.",
+            "white": "They attach themselves to large-bodied Pokémon and absorb static electricity, which they store in an electric pouch.",
+            "black2": "Since it can't generate its own electricity, it sticks onto large-bodied Pokémon and absorbs static electricity.",
+            "white2": "Since it can't generate its own electricity, it sticks onto large-bodied Pokémon and absorbs static electricity.",
+            "x": "Since it can't generate its own electricity, it sticks onto large-bodied Pokémon and absorbs static electricity.",
+            "y": "They attach themselves to large-bodied Pokémon and absorb static electricity, which they store in an electric pouch.",
+            "omegaRuby": "Since it can't generate its own electricity, it sticks onto large-bodied Pokémon and absorbs static electricity.",
+            "alphaSapphire": "They attach themselves to large-bodied Pokémon and absorb static electricity, which they store in an electric pouch.",
+            "sword": "Joltik can be found clinging to other Pokémon. It's soaking up static electricity because it can't produce a charge on its own.",
+            "shield": "Joltik latch on to other Pokémon and suck out static electricity. They're often found sticking to Yamper's hindquarters.",
+            "scarlet": "Joltik that live in cities have learned a technique for sucking electricity from the outlets in houses.",
+            "violet": "Since it can’t generate its own electricity, it sticks onto large-bodied Pokémon and absorbs static electricity."
+        }
+    },
+    {
+        "no": "#0596",
+        "name": "Galvantula",
+        "entries": {
+            "black": "When attacked, they create an electric barrier by spitting out many electrically charged threads.",
+            "white": "They employ an electrically charged web to trap their prey. While it is immobilized by shock, they leisurely consume it.",
+            "black2": "It creates barriers from electrified silk that stun foes. This works as a weapon as well as a defense.",
+            "white2": "It creates barriers from electrified silk that stun foes. This works as a weapon as well as a defense.",
+            "x": "They employ an electrically charged web to trap their prey. While it is immobilized by shock, they leisurely consume it.",
+            "y": "When attacked, they create an electric barrier by spitting out many electrically charged threads.",
+            "omegaRuby": "They employ an electrically charged web to trap their prey. While it is immobilized by shock, they leisurely consume it.",
+            "alphaSapphire": "When attacked, they create an electric barrier by spitting out many electrically charged threads.",
+            "sword": "It launches electrified fur from its abdomen as its means of attack. Opponents hit by the fur could be in for three full days and nights of paralysis.",
+            "shield": "It lays traps of electrified threads near the nests of bird Pokémon, aiming to snare chicks that are not yet good at flying.",
+            "scarlet": "They employ an electrically charged web to trap their prey. While it is immobilized by shock, they leisurely consume it.",
+            "violet": "When attacked, they create an electric barrier by spitting out many electrically charged threads."
+        }
+    },
+    {
+        "no": "#0597",
+        "name": "Ferroseed",
+        "entries": {
+            "black": "When threatened, it attacks by shooting a barrage of spikes, which gives it a chance to escape by rolling away.",
+            "white": "They stick their spikes into cave walls and absorb the minerals they find in the rock.",
+            "black2": "It absorbs the iron it finds in the rock while clinging to the ceiling. It shoots spikes when in danger.",
+            "white2": "It absorbs the iron it finds in the rock while clinging to the ceiling. It shoots spikes when in danger.",
+            "x": "When threatened, it attacks by shooting a barrage of spikes, which gives it a chance to escape by rolling away.",
+            "y": "It absorbs the iron it finds in the rock while clinging to the ceiling. It shoots spikes when in danger.",
+            "omegaRuby": "When threatened, it attacks by shooting a barrage of spikes, which gives it a chance to escape by rolling away.",
+            "alphaSapphire": "It absorbs the iron it finds in the rock while clinging to the ceiling. It shoots spikes when in danger.",
+            "sword": "It defends itself by launching spikes, but its aim isn't very good at first. Only after a lot of practice will it improve.",
+            "shield": "Mossy caves are their preferred dwellings. Enzymes contained in mosses help Ferroseed's spikes grow big and strong."
+        }
+    },
+    {
+        "no": "#0598",
+        "name": "Ferrothorn",
+        "entries": {
+            "black": "It fights by swinging around its three spiky feelers. A hit from these steel spikes can reduce a boulder to rubble.",
+            "white": "They attach themselves to cave ceilings, firing steel spikes at targets passing beneath them.",
+            "black2": "By swinging around its three spiky feelers and shooting spikes, it can obliterate an opponent.",
+            "white2": "By swinging around its three spiky feelers and shooting spikes, it can obliterate an opponent.",
+            "x": "By swinging around its three spiky feelers and shooting spikes, it can obliterate an opponent.",
+            "y": "They attach themselves to cave ceilings, firing steel spikes at targets passing beneath them.",
+            "omegaRuby": "By swinging around its three spiky feelers and shooting spikes, it can obliterate an opponent.",
+            "alphaSapphire": "They attach themselves to cave ceilings, firing steel spikes at targets passing beneath them.",
+            "sword": "This Pokémon scrapes its spikes across rocks, and then uses the tips of its feelers to absorb the nutrients it finds within the stone.",
+            "shield": "Its spikes are harder than steel. This Pokémon crawls across rock walls by stabbing the spikes on its feelers into the stone."
+        }
+    },
+    {
+        "no": "#0599",
+        "name": "Klink",
+        "entries": {
+            "black": "The two minigears that mesh together are predetermined. Each will rebound from other minigears without meshing.",
+            "white": "Interlocking two bodies and spinning around generates the energy they need to live.",
+            "black2": "Two bodies comprise a fixed pair. They spin around each other to generate energy.",
+            "white2": "Two bodies comprise a fixed pair. They spin around each other to generate energy.",
+            "x": "Interlocking two bodies and spinning around generates the energy they need to live.",
+            "y": "The two minigears that mesh together are predetermined. Each will rebound from other minigears without meshing.",
+            "omegaRuby": "Interlocking two bodies and spinning around generates the energy they need to live.",
+            "alphaSapphire": "The two minigears that mesh together are predetermined. Each will rebound from other minigears without meshing.",
+            "sword": "The two minigears that compose this Pokémon are closer than twins. They mesh well only with each other.",
+            "shield": "It's suspected that Klink were the inspiration behind ancient people's invention of the first gears."
+        }
+    },
+    {
+        "no": "#0600",
+        "name": "Klang",
+        "entries": {
+            "black": "By changing the direction in which it rotates, it communicates its feelings to others. When angry, it rotates faster.",
+            "white": "Spinning minigears are rotated at high speed and repeatedly fired away. It is dangerous if the gears don't return.",
+            "black2": "A minigear and big gear comprise its body. If the minigear it launches at a foe doesn't return, it will die.",
+            "white2": "A minigear and big gear comprise its body. If the minigear it launches at a foe doesn't return, it will die.",
+            "x": "By changing the direction in which it rotates, it communicates its feelings to others. When angry, it rotates faster.",
+            "y": "A minigear and big gear comprise its body. If the minigear it launches at a foe doesn't return, it will die.",
+            "omegaRuby": "By changing the direction in which it rotates, it communicates its feelings to others. When angry, it rotates faster.",
+            "alphaSapphire": "A minigear and big gear comprise its body. If the minigear it launches at a foe doesn't return, it will die.",
+            "sword": "When Klang goes all out, the minigear links up perfectly with the outer part of the big gear, and this Pokémon's rotation speed increases sharply.",
+            "shield": "Many companies in the Galar region choose Klang as their logo. This Pokémon is considered the symbol of industrial technology."
+        }
+    },
+    {
+        "no": "#0601",
+        "name": "Klinklang",
+        "entries": {
+            "black": "Its red core functions as an energy tank. It fires the charged energy through its spikes into an area.",
+            "white": "The gear with the red core is rotated at high speed for a rapid energy charge.",
+            "black2": "The minigear spins at high speed. Then the energy from the red core charges the minigear to make it ready to fire.",
+            "white2": "The minigear spins at high speed. Then the energy from the red core charges the minigear to make it ready to fire.",
+            "x": "The gear with the red core is rotated at high speed for a rapid energy charge.",
+            "y": "Its red core functions as an energy tank. It fires the charged energy through its spikes into an area.",
+            "omegaRuby": "The gear with the red core is rotated at high speed for a rapid energy charge.",
+            "alphaSapphire": "Its red core functions as an energy tank. It fires the charged energy through its spikes into an area.",
+            "sword": "From its spikes, it launches powerful blasts of electricity. Its red core contains an enormous amount of energy.",
+            "shield": "The three gears that compose this Pokémon spin at high speed. Its new spiked gear isn't a living creature."
+        }
+    },
 ]
