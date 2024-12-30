@@ -21282,4 +21282,232 @@ export const Entries = [
             "violet": "The mane of a male Pyroar heats up to over 3,600 degrees Fahrenheit during battle. Merely approaching it will cause severe burns."
         }
     },
+    {
+        "no": "#0668",
+        "name": "Pyroar",
+        "entries": {
+            "x": "The male with the largest mane of fire is the leader of the pride.",
+            "y": "With fiery breath of more than 10,000 degrees Fahrenheit, they viciously threaten any challenger. The females protect the pride's cubs.",
+            "omegaRuby": "The male with the largest mane of fire is the leader of the pride.",
+            "alphaSapphire": "With fiery breath of more than 10,000 degrees Fahrenheit, they viciously threaten any challenger. The females protect the pride's cubs.",
+            "ultraSun": "The males are usually lazy, but when attacked by a strong foe, a male will protect its friends with no regard for its own safety.",
+            "ultraMoon": "The temperature of its breath is over 10,000 degrees Fahrenheit, but Pyroar doesn't use it on its prey. This Pokémon prefers to eat raw meat.",
+            "scarlet": "The females of a pride work together to bring down prey. It’s thanks to them that their pride doesn’t starve.",
+            "violet": "The mane of a male Pyroar heats up to over 3,600 degrees Fahrenheit during battle. Merely approaching it will cause severe burns."
+        }
+    },
+    {
+        "no": "#0669red",
+        "name": "Flabébé (Red Flower)",
+        "entries": {
+            "x": "It draws out and controls the hidden power of flowers. The flower Flabébé holds is most likely part of its body.",
+            "y": "When it finds a flower it likes, it dwells on that flower its whole life long. It floats in the wind's embrace with an untroubled heart.",
+            "omegaRuby": "It draws out and controls the hidden power of flowers. The flower Flabébé holds is most likely part of its body.",
+            "alphaSapphire": "When it finds a flower it likes, it dwells on that flower its whole life long. It floats in the wind's embrace with an untroubled heart.",
+            "ultraSun": "It's not safe without the power of a flower, but it will keep traveling around until it finds one with the color and shape it wants.",
+            "ultraMoon": "Flabébé wears a crown made from pollen it's collected from its flower. The crown has hidden healing properties.",
+            "scarlet": "This Pokémon can draw forth the power hidden within blooming wild flowers. It is particularly fond of red flowers.",
+            "violet": "This Flabébé rides a red flower. Immediately after birth, this Pokémon begins flying around in search of a flower it likes."
+        }
+    },
+    {
+        "no": "#0669yellow",
+        "name": "Flabébé (Yellow Flower)",
+        "entries": {
+            "scarlet": "This Flabébé rides a yellow flower. The Pokémon is defenseless and vulnerable before it has found and received power from a flower.",
+            "violet": "It unleashes a variety of moves by drawing forth the power hidden within flowers. This Pokémon is particularly fond of yellow flowers."
+        }
+    },
+    {
+        "no": "#0669orange",
+        "name": "Flabébé (Orange Flower)",
+        "entries": {
+            "scarlet": "This Flabébé rides an orange flower. On its head, it wears a crown of pollen that has healing properties.",
+            "violet": "It receives strength from flowers and gives them some of its energy in return. This Pokémon likes orange flowers best of all."
+        }
+    },
+    {
+        "no": "#0669blue",
+        "name": "Flabébé (Blue Flower)",
+        "entries": {
+            "scarlet": "Once it finds a flower it likes, this Pokémon will spend the rest of its life taking care of its flower. This Flabébé rides a blue flower.",
+            "violet": "This Pokémon likes blue flowers best of all. It floats upward using the power emanating from its flower and bobs along lightly through the air."
+        }
+    },
+    {
+        "no": "#0669white",
+        "name": "Flabébé (White Flower)",
+        "entries": {
+            "scarlet": "This Flabébé rides a white flower. The wind blows this Pokémon around as it drifts in search of flower gardens.",
+            "violet": "When evening falls, it searches out a place blooming with flowers of the same white color as itself, and then it goes to sleep."
+        }
+    },
+    {
+        "no": "#0670red",
+        "name": "Floette (Red Flower)",
+        "entries": {
+            "x": "It flutters around fields of flowers and cares for flowers that are starting to wilt. It draws out the hidden power of flowers to battle.",
+            "y": "When the flowers of a well-tended flower bed bloom, it appears and celebrates with an elegant dance.",
+            "omegaRuby": "It flutters around fields of flowers and cares for flowers that are starting to wilt. It draws out the hidden power of flowers to battle.",
+            "alphaSapphire": "When the flowers of a well-tended flower bed bloom, it appears and celebrates with an elegant dance.",
+            "ultraSun": "It raises flowers and uses them as weapons. The more gorgeous the blossom, the more power it contains.",
+            "ultraMoon": "It gives its own power to flowers, pouring its heart into caring for them. Floette never forgives anyone who messes up a flower bed.",
+            "scarlet": "This Pokémon draws forth what power is left in withered flowers to make them healthy again. It holds a red flower.",
+            "violet": "This Pokémon uses red wavelengths of light to pour its own energy into flowers and draw forth their latent potential."
+        }
+    },
+    {
+        "no": "#0670eternal",
+        "name": "Floette (Eternal Flower)",
+        "entries": {
+            "ultraSun": "The flower it's holding can no longer be found blooming anywhere. It's also thought to contain terrifying power.",
+            "ultraMoon": "Terrifying energy is concealed within its ominous flower, but Floette still swings it about innocently."
+        }
+    },
+    {
+        "no": "#0670yellow",
+        "name": "Floette (Yellow Flower)",
+        "entries": {
+            "scarlet": "This Pokémon can draw forth the power hidden within yellow flowers. This power then becomes the moves Floette uses to protect itself.",
+            "violet": "Floette can draw forth the latent capabilities of Grass-type Pokémon. It syncs with yellow flowers."
+        }
+    },
+    {
+        "no": "#0670orange",
+        "name": "Floette (Orange Flower)",
+        "entries": {
+            "scarlet": "This Pokémon can draw forth the most power when in sync with orange flowers, compared to flowers of other colors.",
+            "violet": "This Pokémon cannot use moves on its own. When it syncs with flowers, it becomes able to use Grass-type moves."
+        }
+    },
+    {
+        "no": "#0670blue",
+        "name": "Floette (Blue Flower)",
+        "entries": {
+            "scarlet": "Whenever this Pokémon finds flowering plants that are withering, it will bring them back to its territory and care for them until they are healthy.",
+            "violet": "It exchanges power with flowers via wavelengths of visible light. This form of Floette can sync with the wavelength that produces the color blue."
+        }
+    },
+    {
+        "no": "#0670white",
+        "name": "Floette (White Flower)",
+        "entries": {
+            "scarlet": "Floette that are fond of white flowers can also easily sync with flowers of other colors.",
+            "violet": "If it finds someone messing up a flower bed, it will attack them without mercy. This Floette takes particularly good care of white flowers."
+        }
+    },
+    {
+        "no": "#0671red",
+        "name": "Florges (Red Flower)",
+        "entries": {
+            "x": "It claims exquisite flower gardens as its territory, and it obtains power from basking in the energy emitted by flowering plants.",
+            "y": "In times long past, governors of castles would invite Florges to create flower gardens to embellish the castle domains.",
+            "omegaRuby": "It claims exquisite flower gardens as its territory, and it obtains power from basking in the energy emitted by flowering plants.",
+            "alphaSapphire": "In times long past, governors of castles would invite Florges to create flower gardens to embellish the castle domains.",
+            "ultraSun": "It controls the flowers it grows. The petal blizzards that Florges triggers are overwhelming in their beauty and power.",
+            "ultraMoon": "Its life can span several hundred years. It's said to devote its entire life to protecting gardens.",
+            "scarlet": "This Pokémon creates an impressive flower garden in its territory. It draws forth the power of the red flowers around its neck.",
+            "violet": "They say that flower gardens created by Florges are constantly showered with a power that can heal both body and spirit."
+        }
+    },
+    {
+        "no": "#0671yellow",
+        "name": "Florges (Yellow Flower)",
+        "entries": {
+            "scarlet": "It is said that there was once a Florges that protected the garden of a castle for over 300 years.",
+            "violet": "This Pokémon battles by drawing forth the power of yellow flowers. It ruthlessly punishes anyone who tramples on flowering plants."
+        }
+    },
+    {
+        "no": "#0671orange",
+        "name": "Florges (Orange Flower)",
+        "entries": {
+            "scarlet": "Its orange flowers fire off powerful beams, attacking as if they were a battery of artillery.",
+            "violet": "In times long past, castle governors would lovingly raise Florges to care for their castles' exquisite gardens."
+        }
+    },
+    {
+        "no": "#0671blue",
+        "name": "Florges (Blue Flower)",
+        "entries": {
+            "scarlet": "Though usually compassionate, Florges will hunt down anyone who vandalizes its flower garden, showing no mercy even if they beg for their lives.",
+            "violet": "Blue pigments were tremendously expensive in the past, so paintings of blue Florges are highly valuable."
+        }
+    },
+    {
+        "no": "#0671white",
+        "name": "Florges (White Flower)",
+        "entries": {
+            "scarlet": "A flower garden made by a white-flowered Florges will be beautifully decorated with flowering plants of many different colors.",
+            "violet": "A Florges adorned with white flowers can sync with the wavelengths of various colors to draw forth their power."
+        }
+    },
+    {
+        "no": "#0672",
+        "name": "Skiddo",
+        "entries": {
+            "x": "Thought to be one of the first Pokémon to live in harmony with humans, it has a placid disposition.",
+            "y": "If it has sunshine and water, it doesn't need to eat, because it can generate energy from the leaves on its back.",
+            "omegaRuby": "Thought to be one of the first Pokémon to live in harmony with humans, it has a placid disposition.",
+            "alphaSapphire": "If it has sunshine and water, it doesn't need to eat, because it can generate energy from the leaves on its back.",
+            "scarlet": "Until recently, people living in the mountains would ride on the back of these Pokémon to traverse the mountain paths.",
+            "violet": "As long as it has sunlight and water, Skiddo can make energy with the leaves on its body, allowing it to live on rocky mountains barren of food."
+        }
+    },
+    {
+        "no": "#0673",
+        "name": "Gogoat",
+        "entries": {
+            "x": "It can tell how its Trainer is feeling by subtle shifts in the grip on its horns. This empathic sense lets them run as if one being.",
+            "y": "They inhabit mountainous regions. The leader of the herd is decided by a battle of clashing horns.",
+            "omegaRuby": "It can tell how its Trainer is feeling by subtle shifts in the grip on its horns. This empathic sense lets them run as if one being.",
+            "alphaSapphire": "They inhabit mountainous regions. The leader of the herd is decided by a battle of clashing horns.",
+            "scarlet": "It can sense the feelings of others by touching them with its horns. This species has assisted people with their work since 5,000 years ago.",
+            "violet": "These Pokémon live in herds in mountainous places. The victor in their contests of clashing horns will become the leader of the herd."
+        }
+    },
+    {
+        "no": "#0674",
+        "name": "Pancham",
+        "entries": {
+            "x": "It does its best to be taken seriously by its enemies, but its glare is not sufficiently intimidating. Chewing on a leaf is its trademark.",
+            "y": "It does its level best to glare and pull a scary face, but it can't help grinning if anyone pats its head.",
+            "omegaRuby": "It does its best to be taken seriously by its enemies, but its glare is not sufficiently intimidating. Chewing on a leaf is its trademark.",
+            "alphaSapphire": "It does its level best to glare and pull a scary face, but it can't help grinning if anyone pats its head.",
+            "sun": "It grows up imitating the behavior of Pangoro, which it looks up to as a leader.",
+            "moon": "There's no point to the leaf in its mouth, aside from an effort to look cool. It's mischievous, so it's not well suited to inexperienced Trainers.",
+            "ultraSun": "It follows Pangoro around like a henchman. When Pancham makes a big mistake, its leaf gets taken away.",
+            "ultraMoon": "It's desperate to intimidate its opponents. Be nice and pretend to be scared if you catch it glaring at you intensely.",
+            "sword": "It chooses a Pangoro as its master and then imitates its master's actions. This is how it learns to battle and hunt for prey.",
+            "shield": "Wanting to make sure it's taken seriously, Pancham's always giving others a glare. But if it's not focusing, it ends up smiling."
+        }
+    },
+    {
+        "no": "#0675",
+        "name": "Pangoro",
+        "entries": {
+            "x": "Although it possesses a violent temperament, it won't put up with bullying. It uses the leaf in its mouth to sense the movements of its enemies.",
+            "y": "It charges ahead and bashes its opponents like a berserker, uncaring about any hits it might take. Its arms are mighty enough to snap a telephone pole.",
+            "omegaRuby": "Although it possesses a violent temperament, it won't put up with bullying. It uses the leaf in its mouth to sense the movements of its enemies.",
+            "alphaSapphire": "It charges ahead and bashes its opponents like a berserker, uncaring about any hits it might take. Its arms are mighty enough to snap a telephone pole.",
+            "sun": "It boasts superb physical strength. Those who wish to become Pangoro's Trainer have no choice but to converse with their fists.",
+            "moon": "From the slight twitches of its bamboo leaf, it deduces its opponent's movements. It's eager to tussle but kindhearted toward its companions.",
+            "ultraSun": "This rowdy Pokémon boasts great physical strength. Many Trainers are also smitten by its lively character.",
+            "ultraMoon": "Pangoro is the type to talk with its fists. It doesn't say much as it pummels opponents with enough force to send a dump truck flying.",
+            "sword": "This Pokémon is quick to anger, and it has no problem using its prodigious strength to get its way. It lives for duels against Obstagoon.",
+            "shield": "Using its leaf, Pangoro can predict the moves of its opponents. It strikes with punches that can turn a dump truck into scrap with just one hit."
+        }
+    },
+    {
+        "no": "#0676",
+        "name": "Furfrou",
+        "entries": {
+            "x": "Trimming its fluffy fur not only makes it more elegant but also increases the swiftness of its movements.",
+            "y": "Historically, in the Kalos region, these Pokémon were the designated guardians of the king.",
+            "omegaRuby": "Trimming its fluffy fur not only makes it more elegant but also increases the swiftness of its movements.",
+            "alphaSapphire": "Historically, in the Kalos region, these Pokémon were the designated guardians of the king.",
+            "ultraSun": "There was an era when aristocrats would compete to see who could trim their Furfrou's fur into the most exquisite style.",
+            "ultraMoon": "Left alone, its fur will grow longer and longer, but it will only allow someone it trusts to cut it."
+        }
+    },
 ]
