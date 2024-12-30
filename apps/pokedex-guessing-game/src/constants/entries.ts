@@ -20998,4 +20998,288 @@ export const Entries = [
             "shield": "The fur on its belly retains heat exceptionally well. People used to make heavy winter clothing from fur shed by this Pokémon."
         }
     },
+    {
+        "no": "#0661",
+        "name": "Fletchling",
+        "entries": {
+            "x": "These friendly Pokémon send signals to one another with beautiful chirps and tail-feather movements.",
+            "y": "Despite the beauty of its lilting voice, it's merciless to intruders that enter its territory.",
+            "omegaRuby": "These friendly Pokémon send signals to one another with beautiful chirps and tail-feather movements.",
+            "alphaSapphire": "Despite the beauty of its lilting voice, it's merciless to intruders that enter its territory.",
+            "sun": "This amiable Pokémon is easy to train. But when battle is joined, it shows its ferocious side.",
+            "moon": "When it's excited, its temperature can double, spiking hormone production in its body.",
+            "ultraSun": "While it's an amiable Pokémon, if you touch it unexpectedly, it will heat up its body in an instant, and you'll be burned.",
+            "ultraMoon": "Its body is always warm. Trainers who live in cold areas apparently sleep with it in their bed.",
+            "sword": "Its melodious cries are actually warnings. Fletchling will mercilessly peck at anything that enters its territory.",
+            "shield": "When this Pokémon gets excited, its body temperature increases sharply. If you touch a Fletchling with bare hands, you might get burned.",
+            "scarlet": "This Pokémon is normally calm, but once it enters battle, its hormonal balance changes and it becomes aggressive.",
+            "violet": "Fletchling can be found in both rural and urban areas. They once had a huge territorial dispute with Squawkabilly. Fights broke out all over town."
+        }
+    },
+    {
+        "no": "#0662",
+        "name": "Fletchinder",
+        "entries": {
+            "x": "From its beak, it expels embers that set the tall grass on fire. Then it pounces on the bewildered prey that pop out of the grass.",
+            "y": "The hotter the flame sac on its belly, the faster it can fly, but it takes some time to get the fire going.",
+            "omegaRuby": "From its beak, it expels embers that set the tall grass on fire. Then it pounces on the bewildered prey that pop out of the grass.",
+            "alphaSapphire": "The hotter the flame sac on its belly, the faster it can fly, but it takes some time to get the fire going.",
+            "sun": "From its beak, it fires embers at its prey. Once it has caught them, it grills them at high heat before feasting upon them.",
+            "moon": "It will not tolerate other Fletchinder entering its territory, which has a radius of several miles.",
+            "ultraSun": "It scatters embers in the tall grass. Then bug Pokémon, frightened by the flames, come flying out, and Fletchinder gobbles them up.",
+            "ultraMoon": "Its speed right after takeoff already puts it in the top speed class of all bird Pokémon.",
+            "sword": "Fletchinder launches embers into the den of its prey. When the prey comes leaping out, Fletchinder's sharp talons finish it off.",
+            "shield": "Fletchinder are exceedingly territorial and aggressive. These Pokémon fight among themselves over feeding grounds.",
+            "scarlet": "Fletchinder scatters embers in tall grass where bug Pokémon might be hiding and then catches them as they come leaping out.",
+            "violet": "Its territory has a radius of just over a mile. If any bird Pokémon should enter, it will show them no mercy."
+        }
+    },
+    {
+        "no": "#0663",
+        "name": "Talonflame",
+        "entries": {
+            "x": "In the fever of an exciting battle, it showers embers from the gaps between its feathers and takes to the air.",
+            "y": "When attacking prey, it can reach speeds of up to 310 mph. It finishes its prey off with a colossal kick.",
+            "omegaRuby": "In the fever of an exciting battle, it showers embers from the gaps between its feathers and takes to the air.",
+            "alphaSapphire": "When attacking prey, it can reach speeds of up to 310 mph. It finishes its prey off with a colossal kick.",
+            "sun": "Its favorite foods are Wingull and Pikipek. It attacks with a powerful kick and grasps them firmly in its talons.",
+            "moon": "It zooms directly at its prey at flight speeds of close to 310 mph, while fiery embers scatter from gaps in its feathers.",
+            "ultraSun": "Its tough wings don't allow fire to pass through them. A long time ago, firefighters' outfits were made from Talonflame wings.",
+            "ultraMoon": "Bird Pokémon make up most of its diet. It approaches at high speeds and smacks them down to the ground with its powerful kick.",
+            "sword": "Talonflame mainly preys upon other bird Pokémon. To intimidate opponents, it sends embers spewing from gaps between its feathers.",
+            "shield": "Talonflame dives toward prey at speeds of up to 310 mph and assaults them with powerful kicks, giving the prey no chance to escape.",
+            "scarlet": "It has top-notch flying capabilities. It flies around easily, even while carrying prey that weighs more than 220 lbs.",
+            "violet": "When it gets excited, it vents sparks from the gaps between its feathers. These unburnable feathers are used as a fireproof material."
+        }
+    },
+    {
+        "no": "#0664",
+        "name": "Scatterbug",
+        "entries": {
+            "x": "When under attack from bird Pokémon, it spews a poisonous black powder that causes paralysis on contact.",
+            "y": "The powder that covers its body regulates its temperature, so it can live in any region or climate.",
+            "omegaRuby": "When under attack from bird Pokémon, it spews a poisonous black powder that causes paralysis on contact.",
+            "alphaSapphire": "The powder that covers its body regulates its temperature, so it can live in any region or climate.",
+            "scarlet": "Any poison this Pokémon takes in is converted into a black powder and secreted. That's why Scatterbug can eat poisonous leaves and roots.",
+            "violet": "This Pokémon scatters poisonous powder to repel enemies. It will eat different plants depending on where it lives."
+        }
+    },
+    {
+        "no": "#0665",
+        "name": "Spewpa",
+        "entries": {
+            "x": "It lives hidden within thicket shadows. When predators attack, it quickly bristles the fur covering its body in an effort to threaten them.",
+            "y": "The beaks of bird Pokémon can't begin to scratch its stalwart body. To defend itself, it spews powder.",
+            "omegaRuby": "It lives hidden within thicket shadows. When predators attack, it quickly bristles the fur covering its body in an effort to threaten them.",
+            "alphaSapphire": "The beaks of bird Pokémon can't begin to scratch its stalwart body. To defend itself, it spews powder.",
+            "scarlet": "If Rufflet attacks this Pokémon by pecking at it, it will retaliate with its sharp fur and poisonous black powder.",
+            "violet": "Spewpa doesn't live in a fixed location. It roams where it pleases across the fields and mountains, building up the energy it needs to evolve."
+        }
+    },
+    {
+        "no": "#0666polar",
+        "name": "Vivillon (Polar Pattern)",
+        "entries": {
+            "x": "Vivillon with many different patterns are found all over the world. These patterns are affected by the climate of their habitat.",
+            "y": "The patterns on this Pokémon's wings depend on the climate and topography of its habitat. It scatters colorful scales.",
+            "omegaRuby": "Vivillon with many different patterns are found all over the world. These patterns are affected by the climate of their habitat.",
+            "alphaSapphire": "The patterns on this Pokémon's wings depend on the climate and topography of its habitat. It scatters colorful scales.",
+            "sword": "The patterns on this Pokémon depend on the climate and topography of the land it was born in. This form is from snowy lands.",
+            "shield": "This Pokémon was born in a snowy land. It scatters colorful, toxic scales from its wings during battle."
+        }
+    },
+    {
+        "no": "#0666archipelago",
+        "name": "Vivillon (Archipelago Pattern)",
+        "entries": {
+            "scarlet": "The patterns on this Pokémon depend on the climate and topography of the land it was born in. This form is from places with many islands.",
+            "violet": "This Pokémon was born in a place with many islands. It scatters colorful, toxic scales from its wings during battle."
+        }
+    },
+    {
+        "no": "#0666continental",
+        "name": "Vivillon (Continental Pattern)",
+        "entries": {
+            "scarlet": "The patterns on this Pokémon depend on the climate and topography of the land it was born in. This form is from lands of vast space.",
+            "violet": "This Pokémon was born in a land of vast space. It scatters colorful, toxic scales from its wings during battle."
+        }
+    },
+    {
+        "no": "#0666elegant",
+        "name": "Vivillon (Elegant Pattern)",
+        "entries": {
+            "scarlet": "The patterns on this Pokémon depend on the climate and topography of the land it was born in. This form is from lands with distinct seasons.",
+            "violet": "This Pokémon was born in a land with distinct seasons. It scatters colorful, toxic scales from its wings during battle."
+        }
+    },
+    {
+        "no": "#0666fancy",
+        "name": "Vivillon (Fancy Pattern)",
+        "entries": {
+            "scarlet": "The patterns on this Pokémon depend on the climate and topography of the land it was born in. This form is from a mysterious land.",
+            "violet": "This Pokémon was born in a mysterious land. It scatters colorful, toxic scales from its wings during battle."
+        }
+    },
+    {
+        "no": "#0666garden",
+        "name": "Vivillon (Garden Pattern)",
+        "entries": {
+            "scarlet": "The patterns on this Pokémon depend on the climate and topography of the land it was born in. This form is from verdant lands.",
+            "violet": "This Pokémon was born in a verdant land. It scatters colorful, toxic scales from its wings during battle."
+        }
+    },
+    {
+        "no": "#0666highPlains",
+        "name": "Vivillon (High Plains Pattern)",
+        "entries": {
+            "scarlet": "The patterns on this Pokémon depend on the climate and topography of the land it was born in. This form is from lands with little rain.",
+            "violet": "This Pokémon was born in a land with little rain. It scatters colorful, toxic scales from its wings during battle."
+        }
+    },
+    {
+        "no": "#0666icySnow",
+        "name": "Vivillon (Icy Snow Pattern)",
+        "entries": {
+            "scarlet": "The patterns on this Pokémon depend on the climate and topography of the land it was born in. This form is from frigid lands.",
+            "violet": "This Pokémon was born in frigid lands. It scatters colorful, toxic scales from its wings during battle."
+        }
+    },
+    {
+        "no": "#0666jungle",
+        "name": "Vivillon (Jungle Pattern)",
+        "entries": {
+            "scarlet": "The patterns on this Pokémon depend on the climate and topography of the land it was born in. This form is from lands of tropical rain forests.",
+            "violet": "This Pokémon was born in a land of tropical rain forests. It scatters colorful, toxic scales from its wings during battle."
+        }
+    },
+    {
+        "no": "#0666marine",
+        "name": "Vivillon (Marine Pattern)",
+        "entries": {
+            "scarlet": "The patterns on this Pokémon depend on the climate and topography of the land it was born in. This form is from lands with ocean breezes.",
+            "violet": "This Pokémon was born in a land with ocean breezes. It scatters colorful, toxic scales from its wings during battle."
+        }
+    },
+    {
+        "no": "#0666meadow",
+        "name": "Vivillon (Meadow Pattern)",
+        "entries": {
+            "scarlet": "The patterns on this Pokémon depend on the climate and topography of the land it was born in. This form is from lands where flowers bloom.",
+            "violet": "This Pokémon was born in a land where flowers bloom. It scatters colorful, toxic scales from its wings during battle."
+        }
+    },
+    {
+        "no": "#0666modern",
+        "name": "Vivillon (Modern Pattern)",
+        "entries": {
+            "scarlet": "The patterns on this Pokémon depend on the climate and topography of the land it was born in. This form is from sun-drenched lands.",
+            "violet": "This Pokémon was born in a sun-drenched land. It scatters colorful, toxic scales from its wings during battle."
+        }
+    },
+    {
+        "no": "#0666monsoon",
+        "name": "Vivillon (Monsoon Pattern)",
+        "entries": {
+            "scarlet": "The patterns on this Pokémon depend on the climate and topography of the land it was born in. This form is from lands with intense rainfall.",
+            "violet": "This Pokémon was born in a land with intense rainfall. It scatters colorful, toxic scales from its wings during battle."
+        }
+    },
+    {
+        "no": "#0666ocean",
+        "name": "Vivillon (Ocean Pattern)",
+        "entries": {
+            "scarlet": "The patterns on this Pokémon depend on the climate and topography of the land it was born in. This form is from lands of perpetual summer.",
+            "violet": "This Pokémon was born in a land of perpetual summer. It scatters colorful, toxic scales from its wings during battle."
+        }
+    },
+    {
+        "no": "#0666pokeBall",
+        "name": "Vivillon (Poké Ball Pattern)",
+        "entries": {
+            "scarlet": "The patterns on this Pokémon depend on the climate and topography of the land it was born in. This form is from a special land.",
+            "violet": "This Pokémon was born in a special land. It scatters colorful, toxic scales from its wings during battle."
+        }
+    },
+    {
+        "no": "#0666river",
+        "name": "Vivillon (River Pattern)",
+        "entries": {
+            "scarlet": "The patterns on this Pokémon depend on the climate and topography of the land it was born in. This form is from lands where large rivers flow.",
+            "violet": "This Pokémon was born in a land where large rivers flow. It scatters colorful, toxic scales from its wings during battle."
+        }
+    },
+    {
+        "no": "#0666sandstorm",
+        "name": "Vivillon (Sandstorm Pattern)",
+        "entries": {
+            "scarlet": "The patterns on this Pokémon depend on the climate and topography of the land it was born in. This form is from parched lands.",
+            "violet": "This Pokémon was born in a parched land. It scatters colorful, toxic scales from its wings during battle."
+        }
+    },
+    {
+        "no": "#0666savanna",
+        "name": "Vivillon (Savanna Pattern)",
+        "entries": {
+            "scarlet": "The patterns on this Pokémon depend on the climate and topography of the land it was born in. This form is from lands with a tropical climate.",
+            "violet": "This Pokémon was born in a land with a tropical climate. It scatters colorful, toxic scales from its wings during battle."
+        }
+    },
+    {
+        "no": "#0666sun",
+        "name": "Vivillon (Sun Pattern)",
+        "entries": {
+            "scarlet": "The patterns on this Pokémon depend on the climate and topography of the land it was born in. This form is from lands bathed in light.",
+            "violet": "This Pokémon was born in a land bathed in light. It scatters colorful, toxic scales from its wings during battle."
+        }
+    },
+    {
+        "no": "#0666tundra",
+        "name": "Vivillon (Archipelago Pattern)",
+        "entries": {
+            "scarlet": "The patterns on this Pokémon depend on the climate and topography of the land it was born in. This form is from lands of severe cold.",
+            "violet": "This Pokémon was born in a land of severe cold. It scatters colorful, toxic scales from its wings during battle."
+        }
+    },
+    {
+        "no": "#0667",
+        "name": "Litleo",
+        "entries": {
+            "x": "The stronger the opponent it faces, the more heat surges from its mane and the more power flows through its body.",
+            "y": "They set off on their own from their pride and live by themselves to become stronger. These hot-blooded Pokémon are quick to fight.",
+            "omegaRuby": "The stronger the opponent it faces, the more heat surges from its mane and the more power flows through its body.",
+            "alphaSapphire": "They set off on their own from their pride and live by themselves to become stronger. These hot-blooded Pokémon are quick to fight.",
+            "ultraSun": "When they're young, they live with a pride. Once they're able to hunt prey on their own, they're kicked out and have to make their own way.",
+            "ultraMoon": "This hot-blooded Pokémon is filled with curiosity. When it gets angry or starts fighting, its short mane gets hot.",
+            "scarlet": "When Litleo are young, female Pyroar will teach them how to hunt. Once the Litleo mature, they will leave the pride and set out on their own.",
+            "violet": "The more a Litleo trains its body and spirit by battling mighty enemies, the hotter its mane will grow."
+        }
+    },
+    {
+        "no": "#0667",
+        "name": "Litleo",
+        "entries": {
+            "x": "The stronger the opponent it faces, the more heat surges from its mane and the more power flows through its body.",
+            "y": "They set off on their own from their pride and live by themselves to become stronger. These hot-blooded Pokémon are quick to fight.",
+            "omegaRuby": "The stronger the opponent it faces, the more heat surges from its mane and the more power flows through its body.",
+            "alphaSapphire": "They set off on their own from their pride and live by themselves to become stronger. These hot-blooded Pokémon are quick to fight.",
+            "ultraSun": "When they're young, they live with a pride. Once they're able to hunt prey on their own, they're kicked out and have to make their own way.",
+            "ultraMoon": "This hot-blooded Pokémon is filled with curiosity. When it gets angry or starts fighting, its short mane gets hot.",
+            "scarlet": "When Litleo are young, female Pyroar will teach them how to hunt. Once the Litleo mature, they will leave the pride and set out on their own.",
+            "violet": "The more a Litleo trains its body and spirit by battling mighty enemies, the hotter its mane will grow."
+        }
+    },
+    {
+        "no": "#0668",
+        "name": "Pyroar",
+        "entries": {
+            "x": "The male with the largest mane of fire is the leader of the pride.",
+            "y": "With fiery breath of more than 10,000 degrees Fahrenheit, they viciously threaten any challenger. The females protect the pride's cubs.",
+            "omegaRuby": "The male with the largest mane of fire is the leader of the pride.",
+            "alphaSapphire": "With fiery breath of more than 10,000 degrees Fahrenheit, they viciously threaten any challenger. The females protect the pride's cubs.",
+            "ultraSun": "The males are usually lazy, but when attacked by a strong foe, a male will protect its friends with no regard for its own safety.",
+            "ultraMoon": "The temperature of its breath is over 10,000 degrees Fahrenheit, but Pyroar doesn't use it on its prey. This Pokémon prefers to eat raw meat.",
+            "scarlet": "The females of a pride work together to bring down prey. It’s thanks to them that their pride doesn’t starve.",
+            "violet": "The mane of a male Pyroar heats up to over 3,600 degrees Fahrenheit during battle. Merely approaching it will cause severe burns."
+        }
+    },
 ]
