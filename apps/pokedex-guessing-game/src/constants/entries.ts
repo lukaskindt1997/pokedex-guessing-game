@@ -20466,4 +20466,536 @@ export const Entries = [
             "legendsArceus": "Screaming a bloodcurdling battle cry, this huge and ferocious bird Pokémon goes out on the hunt. It blasts lakes with shock waves, then scoops up any prey that float to the water's surface."
         }
     },
+    {
+        "no": "#0629",
+        "name": "Vullaby",
+        "entries": {
+            "black": "Its wings are too tiny to allow it to fly. As the time approaches for it to evolve, it discards the bones it was wearing.",
+            "white": "They tend to guard their posteriors with suitable bones they have found. They pursue weak Pokémon.",
+            "black2": "Their wings are too tiny to allow them to fly. They guard their posteriors with bones that were gathered by Mandibuzz.",
+            "white2": "Their wings are too tiny to allow them to fly. They guard their posteriors with bones that were gathered by Mandibuzz.",
+            "x": "Its wings are too tiny to allow it to fly. As the time approaches for it to evolve, it discards the bones it was wearing.",
+            "y": "Their wings are too tiny to allow them to fly. They guard their posteriors with bones that were gathered by Mandibuzz.",
+            "omegaRuby": "Its wings are too tiny to allow it to fly. As the time approaches for it to evolve, it discards the bones it was wearing.",
+            "alphaSapphire": "Their wings are too tiny to allow them to fly. They guard their posteriors with bones that were gathered by Mandibuzz.",
+            "sun": "It protects its plump posterior with the bones of prey it has consumed. As it grows, it replaces the bones.",
+            "moon": "It can't fly yet and must wait until its wings have developed more. Since it's still at a playful age, it hops around friskily.",
+            "ultraSun": "Mandibuzz gives it the bones it wears. Vullaby's wings are short, so it can't fly yet, but it jumps around, dreaming of wide open skies.",
+            "ultraMoon": "Its healthy appetite leads to visible growth spurts. It often has to replace the bones it wears as its size increases.",
+            "sword": "It wears a bone to protect its rear. It often squabbles with others of its kind over particularly comfy bones.",
+            "shield": "Vullaby grow quickly. Bones that have gotten too small for older Vullaby to wear often get passed down to younger ones in the nest.",
+            "scarlet": "They tend to guard their posteriors with suitable bones they have found. They pursue weak Pokémon.",
+            "violet": "Its healthy appetite leads to visible growth spurts. It often has to replace the bones it wears as its size increases."
+        }
+    },
+    {
+        "no": "#0630",
+        "name": "Mandibuzz",
+        "entries": {
+            "black": "It makes a nest out of bones it finds. It grabs weakened prey in its talons and hauls it to its nest of bones.",
+            "white": "Watching from the sky, they swoop to strike weakened Pokémon on the ground. They decorate themselves with bones.",
+            "black2": "They fly in circles around the sky. When they spot prey, they attack and carry it back to their nest with ease.",
+            "white2": "They fly in circles around the sky. When they spot prey, they attack and carry it back to their nest with ease.",
+            "x": "They fly in circles around the sky. When they spot prey, they attack and carry it back to their nest with ease.",
+            "y": "Watching from the sky, they swoop to strike weakened Pokémon on the ground. They decorate themselves with bones.",
+            "omegaRuby": "They fly in circles around the sky. When they spot prey, they attack and carry it back to their nest with ease.",
+            "alphaSapphire": "Watching from the sky, they swoop to strike weakened Pokémon on the ground. They decorate themselves with bones.",
+            "sun": "They adorn themselves beautifully with bones. This is supposedly an effort to attract males, but no male Mandibuzz have ever been found.",
+            "moon": "It circles in the sky, keeping a keen eye out for Pokémon in a weakened state. Its choicest food is Cubone.",
+            "ultraSun": "It skillfully arranges the bones of its prey to construct its nest. Most of the bones are Cubone.",
+            "ultraMoon": "It's always searching for food for Vullaby. When it finds a weak Pokémon, Mandibuzz swoops it right off to its nest.",
+            "sword": "Although it's a bit of a ruffian, this Pokémon will take lost Vullaby under its wing and care for them till they're ready to leave the nest.",
+            "shield": "They adorn themselves with bones. There seem to be fashion trends among them, as different bones come into and fall out of popularity.",
+            "scarlet": "It's always searching for food for Vullaby. When it finds a weak Pokémon, Mandibuzz swoops it right off to its nest.",
+            "violet": "Watching from the sky, they attack weakened prey on the ground. They have a habit of decorating themselves with bones."
+        }
+    },
+    {
+        "no": "#0631",
+        "name": "Heatmor",
+        "entries": {
+            "black": "It breathes through a hole in its tail while it burns with an internal fire. Durant is its prey.",
+            "white": "Using their very hot, flame-covered tongues, they burn through Durant's steel bodies and consume their insides.",
+            "black2": "It draws in air through its tail, transforms it into fire, and uses it like a tongue. It melts Durant and eats them.",
+            "white2": "It draws in air through its tail, transforms it into fire, and uses it like a tongue. It melts Durant and eats them.",
+            "x": "Using their very hot, flame-covered tongues, they burn through Durant's steel bodies and consume their insides.",
+            "y": "It draws in air through its tail, transforms it into fire, and uses it like a tongue. It melts Durant and eats them.",
+            "omegaRuby": "Using their very hot, flame-covered tongues, they burn through Durant's steel bodies and consume their insides.",
+            "alphaSapphire": "It draws in air through its tail, transforms it into fire, and uses it like a tongue. It melts Durant and eats them.",
+            "sword": "There's a hole in its tail that allows it to draw in the air it needs to keep its fire burning. If the hole gets blocked, this Pokémon will fall ill.",
+            "shield": "A flame serves as its tongue, melting through the hard shell of Durant so that Heatmor can devour their insides."
+        }
+    },
+    {
+        "no": "#0632",
+        "name": "Durant",
+        "entries": {
+            "black": "They attack in groups, covering themselves in steel armor to protect themselves from Heatmor.",
+            "white": "Durant dig nests in mountains. They build their complicated, interconnected tunnels into mazes.",
+            "black2": "Individuals each play different roles in driving Heatmor, their natural predator, away from their colony.",
+            "white2": "Individuals each play different roles in driving Heatmor, their natural predator, away from their colony.",
+            "x": "Individuals each play different roles in driving Heatmor, their natural predator, away from their colony.",
+            "y": "They attack in groups, covering themselves in steel armor to protect themselves from Heatmor.",
+            "omegaRuby": "Individuals each play different roles in driving Heatmor, their natural predator, away from their colony.",
+            "alphaSapphire": "They attack in groups, covering themselves in steel armor to protect themselves from Heatmor.",
+            "sword": "They lay their eggs deep inside their nests. When attacked by Heatmor, they retaliate using their massive mandibles.",
+            "shield": "With their large mandibles, these Pokémon can crunch their way through rock. They work together to protect their eggs from Sandaconda."
+        }
+    },
+    {
+        "no": "#0633",
+        "name": "Deino",
+        "entries": {
+            "black": "It tends to bite everything, and it is not a picky eater. Approaching it carelessly is dangerous.",
+            "white": "They cannot see, so they tackle and bite to learn about their surroundings. Their bodies are covered in wounds.",
+            "black2": "Lacking sight, it's unaware of its surroundings, so it bumps into things and eats anything that moves.",
+            "white2": "Lacking sight, it's unaware of its surroundings, so it bumps into things and eats anything that moves.",
+            "x": "They cannot see, so they tackle and bite to learn about their surroundings. Their bodies are covered in wounds.",
+            "y": "Lacking sight, it's unaware of its surroundings, so it bumps into things and eats anything that moves.",
+            "omegaRuby": "They cannot see, so they tackle and bite to learn about their surroundings. Their bodies are covered in wounds.",
+            "alphaSapphire": "Lacking sight, it's unaware of its surroundings, so it bumps into things and eats anything that moves.",
+            "sword": "When it encounters something, its first urge is usually to bite it. If it likes what it tastes, it will commit the associated scent to memory.",
+            "shield": "Because it can't see, this Pokémon is constantly biting at everything it touches, trying to keep track of its surroundings.",
+            "scarlet": "It can’t see, so its first approach to examining things is to bite them. You will be covered in wounds until a Deino warms up to you.",
+            "violet": "It nests deep inside a cave. Food there is scarce, so Deino will sink its teeth into anything that moves and attempt to eat it."
+        }
+    },
+    {
+        "no": "#0634",
+        "name": "Zweilous",
+        "entries": {
+            "black": "After it has eaten up all the food in its territory, it moves to another area. Its two heads do not get along.",
+            "white": "Since their two heads do not get along and compete with each other for food, they always eat too much.",
+            "black2": "The two heads do not get along. Whichever head eats more than the other gets to be the leader.",
+            "white2": "The two heads do not get along. Whichever head eats more than the other gets to be the leader.",
+            "x": "The two heads do not get along. Whichever head eats more than the other gets to be the leader.",
+            "y": "After it has eaten up all the food in its territory, it moves to another area. Its two heads do not get along.",
+            "omegaRuby": "The two heads do not get along. Whichever head eats more than the other gets to be the leader.",
+            "alphaSapphire": "After it has eaten up all the food in its territory, it moves to another area. Its two heads do not get along.",
+            "sword": "While hunting for prey, Zweilous wanders its territory, its two heads often bickering over which way to go.",
+            "shield": "Their two heads will fight each other over a single piece of food. Zweilous are covered in scars even without battling others.",
+            "scarlet": "The two heads do not get along at all. If you don’t give each head the same amount of attention, they’ll begin fighting out of jealousy.",
+            "violet": "The two heads have different likes and dislikes. Because the heads fight with each other, Zweilous gets stronger without needing to rely on others."
+        }
+    },
+    {
+        "no": "#0635",
+        "name": "Hydreigon",
+        "entries": {
+            "black": "This brutal Pokémon travels the skies on its six wings. Anything that moves seems like a foe to it, triggering its attack.",
+            "white": "The heads on their arms do not have brains. They use all three heads to consume and destroy everything.",
+            "black2": "It responds to movement by attacking. This scary, three-headed Pokémon devours everything in its path!",
+            "white2": "It responds to movement by attacking. This scary, three-headed Pokémon devours everything in its path!",
+            "x": "The heads on their arms do not have brains. They use all three heads to consume and destroy everything.",
+            "y": "It responds to movement by attacking. This scary, three-headed Pokémon devours everything in its path!",
+            "omegaRuby": "The heads on their arms do not have brains. They use all three heads to consume and destroy everything.",
+            "alphaSapphire": "It responds to movement by attacking. This scary, three-headed Pokémon devours everything in its path!",
+            "sword": "There are a slew of stories about villages that were destroyed by Hydreigon. It bites anything that moves.",
+            "shield": "The three heads take turns sinking their teeth into the opponent. Their attacks won't slow until their target goes down.",
+            "scarlet": "Only the central head has a brain. It is very intelligent, but it thinks only of destruction.",
+            "violet": "It's said that Hydreigon grew ferocious because people in times long past loathed it, considering it to be evil incarnate and attacking it relentlessly."
+        }
+    },
+    {
+        "no": "#0636",
+        "name": "Larvesta",
+        "entries": {
+            "black": "This Pokémon was believed to have been born from the sun. When it evolves, its entire body is engulfed in flames.",
+            "white": "The base of volcanoes is where they make their homes. They shoot fire from their five horns to repel attacking enemies.",
+            "black2": "Said to have been born from the sun, it spews fire from its horns and encases itself in a cocoon of fire when it evolves.",
+            "white2": "Said to have been born from the sun, it spews fire from its horns and encases itself in a cocoon of fire when it evolves.",
+            "x": "Said to have been born from the sun, it spews fire from its horns and encases itself in a cocoon of fire when it evolves.",
+            "y": "The base of volcanoes is where they make their homes. They shoot fire from their five horns to repel attacking enemies.",
+            "omegaRuby": "Said to have been born from the sun, it spews fire from its horns and encases itself in a cocoon of fire when it evolves.",
+            "alphaSapphire": "The base of volcanoes is where they make their homes. They shoot fire from their five horns to repel attacking enemies.",
+            "ultraSun": "When battling opponents, it sprays fire from its five horns. The max temperature of the flames can reach nearly 5,500 degrees Fahrenheit.",
+            "ultraMoon": "It protects itself with flame. Long years ago, people believed Larvesta had a nest on the sun.",
+            "sword": "The people of ancient times believed that Larvesta fell from the sun.",
+            "shield": "Larvesta's body is warm all over. It spouts fire from the tips of its horns to intimidate predators and scare prey.",
+            "scarlet": "This Pokémon was called the Larva That Stole the Sun. The fire Larvesta spouts from its horns can cut right through a sheet of iron.",
+            "violet": "In ancient times, Larvesta was worshiped as the emissary of the sun. However, it was also viewed as a burden since it often caused forest fires."
+        }
+    },
+    {
+        "no": "#0637",
+        "name": "Volcarona",
+        "entries": {
+            "black": "When volcanic ash darkened the atmosphere, it is said that Volcarona's fire provided a replacement for the sun.",
+            "white": "A sea of fire engulfs the surroundings of their battles, since they use their six wings to scatter their ember scales.",
+            "black2": "Thought to be an embodiment of the sun, it appeared during a bitterly cold winter and saved Pokémon from freezing.",
+            "white2": "Thought to be an embodiment of the sun, it appeared during a bitterly cold winter and saved Pokémon from freezing.",
+            "x": "A sea of fire engulfs the surroundings of their battles, since they use their six wings to scatter their ember scales.",
+            "y": "When volcanic ash darkened the atmosphere, it is said that Volcarona's fire provided a replacement for the sun.",
+            "omegaRuby": "A sea of fire engulfs the surroundings of their battles, since they use their six wings to scatter their ember scales.",
+            "alphaSapphire": "When volcanic ash darkened the atmosphere, it is said that Volcarona's fire provided a replacement for the sun.",
+            "ultraSun": "As it flies, it scatters its flaming scales. It was feared by ancient people, who referred to it as ”the rage of the sun.”",
+            "ultraMoon": "According to legends, it was hatched from a flaming cocoon to save people and Pokémon that were suffering from the cold.",
+            "sword": "Volcarona scatters burning scales. Some say it does this to start fires. Others say it's trying to rescue those that suffer in the cold.",
+            "shield": "This Pokémon emerges from a cocoon formed of raging flames. Ancient murals depict Volcarona as a deity of fire.",
+            "scarlet": "Its burning body causes it to be unpopular in hot parts of the world, but in cold ones, Volcarona is revered as an embodiment of the sun.",
+            "violet": "This Pokémon scatters burning scales. Most of the danger of these scales is not in their heat—it's in the way they rob the surrounding air of oxygen."
+        }
+    },
+    {
+        "no": "#0638",
+        "name": "Cobalion",
+        "entries": {
+            "black": "This legendary Pokémon battled against humans to protect Pokémon. Its personality is calm and composed.",
+            "white": "It has a body and heart of steel. Its glare is sufficient to make even an unruly Pokémon obey it.",
+            "black2": "It has a body and heart of steel. It worked with its allies to punish people when they hurt Pokémon.",
+            "white2": "It has a body and heart of steel. It worked with its allies to punish people when they hurt Pokémon.",
+            "x": "It has a body and heart of steel. Its glare is sufficient to make even an unruly Pokémon obey it.",
+            "y": "It has a body and heart of steel. It worked with its allies to punish people when they hurt Pokémon.",
+            "omegaRuby": "It has a body and heart of steel. Its glare is sufficient to make even an unruly Pokémon obey it.",
+            "alphaSapphire": "It has a body and heart of steel. It worked with its allies to punish people when they hurt Pokémon.",
+            "sword": "This Pokémon appears in a legend alongside Terrakion and Virizion, fighting against humans in defense of the Unova region's Pokémon.",
+            "shield": "From the moment it's born, this Pokémon radiates the air of a leader. Its presence will calm even vicious foes."
+        }
+    },
+    {
+        "no": "#0639",
+        "name": "Terrakion",
+        "entries": {
+            "black": "This Pokémon came to the defense of Pokémon that had lost their homes in a war among humans.",
+            "white": "Its charge is strong enough to break through a giant castle wall in one blow. This Pokémon is spoken of in legends.",
+            "black2": "Spoken of in legend, this Pokémon used its phenomenal power to destroy a castle in its effort to protect Pokémon.",
+            "white2": "Spoken of in legend, this Pokémon used its phenomenal power to destroy a castle in its effort to protect Pokémon.",
+            "x": "Its charge is strong enough to break through a giant castle wall in one blow. This Pokémon is spoken of in legends.",
+            "y": "Spoken of in legend, this Pokémon used its phenomenal power to destroy a castle in its effort to protect Pokémon.",
+            "omegaRuby": "Its charge is strong enough to break through a giant castle wall in one blow. This Pokémon is spoken of in legends.",
+            "alphaSapphire": "Spoken of in legend, this Pokémon used its phenomenal power to destroy a castle in its effort to protect Pokémon.",
+            "sword": "It has phenomenal power. It will mercilessly crush anyone or anything that bullies small Pokémon.",
+            "shield": "In Unovan legend, Terrakion battled against humans in an effort to protect other Pokémon."
+        }
+    },
+    {
+        "no": "#0640",
+        "name": "Virizion",
+        "entries": {
+            "black": "This Pokémon fought humans in order to protect its friends. Legends about it continue to be passed down.",
+            "white": "Its head sprouts horns as sharp as blades. Using whirlwind-like movements, it confounds and swiftly cuts opponents.",
+            "black2": "Legends say this Pokémon confounded opponents with its swift movements.",
+            "white2": "Legends say this Pokémon confounded opponents with its swift movements.",
+            "x": "Its head sprouts horns as sharp as blades. Using whirlwind-like movements, it confounds and swiftly cuts opponents.",
+            "y": "Legends say this Pokémon confounded opponents with its swift movements.",
+            "omegaRuby": "Its head sprouts horns as sharp as blades. Using whirlwind-like movements, it confounds and swiftly cuts opponents.",
+            "alphaSapphire": "Legends say this Pokémon confounded opponents with its swift movements.",
+            "sword": "A legend tells of this Pokémon working together with Cobalion and Terrakion to protect the Pokémon of the Unova region.",
+            "shield": "It darts around opponents with a flurry of quick movements, slicing them up with its horns."
+        }
+    },
+    {
+        "no": "#0641",
+        "name": "Tornadus (Incarnate Form)",
+        "entries": {
+            "black": "The lower half of its body is wrapped in a cloud of energy. It zooms through the sky at 200 mph.",
+            "white": "Tornadus expels massive energy from its tail, causing severe storms. Its power is great enough to blow houses away.",
+            "black2": "In every direction it flies, creating winds so powerful, they blow everything away.",
+            "white2": "In every direction it flies, creating winds so powerful, they blow everything away.",
+            "x": "The lower half of its body is wrapped in a cloud of energy. It zooms through the sky at 200 mph.",
+            "y": "Tornadus expels massive energy from its tail, causing severe storms. Its power is great enough to blow houses away.",
+            "omegaRuby": "The lower half of its body is wrapped in a cloud of energy. It zooms through the sky at 200 mph.",
+            "alphaSapphire": "Tornadus expels massive energy from its tail, causing severe storms. Its power is great enough to blow houses away.",
+            "legendsArceus": "This storm-stirring Pokémon is said to cause the seasons to turn by whipping up the air. I suspect its humanlike form to be a false one."
+        }
+    },
+    {
+        "no": "#0641therian",
+        "name": "Tornadus (Therian Form)",
+        "entries": {
+            "legendsArceus": "An example of what is known as a “form change,” though I suspect this strange avian guise to be Tornadus's true form. Tornadus has been sighted crossing the ocean while in this form."
+        }
+    },
+    {
+        "no": "#0642",
+        "name": "Thundurus (Incarnate Form)",
+        "entries": {
+            "black": "Countless charred remains mar the landscape of places through which Thundurus has passed.",
+            "white": "The spikes on its tail discharge immense bolts of lightning. It flies around the Unova region firing off lightning bolts.",
+            "black2": "As it flies around, it shoots lightning all over the place and causes forest fires. It is therefore disliked.",
+            "white2": "As it flies around, it shoots lightning all over the place and causes forest fires. It is therefore disliked.",
+            "x": "The spikes on its tail discharge immense bolts of lightning. It flies around the Unova region firing off lightning bolts.",
+            "y": "As it flies around, it shoots lightning all over the place and causes forest fires. It is therefore disliked.",
+            "omegaRuby": "The spikes on its tail discharge immense bolts of lightning. It flies around the Unova region firing off lightning bolts.",
+            "alphaSapphire": "As it flies around, it shoots lightning all over the place and causes forest fires. It is therefore disliked.",
+            "legendsArceus": "They say this wielder of electricity has waged war with its nemesis, Tornadus, since time immemorial. The lightning bolts it hurls pierce the very earth and enrich the soil."
+        }
+    },
+    {
+        "no": "#0642therian",
+        "name": "Thundurus (Therian Form)",
+        "entries": {
+            "legendsArceus": "Quick as a flash, it materializes out of nowhere. It pulverizes foes into nothingness with showers of devastatingly powerful lightning bolts launched from the string of orbs on its tail."
+        }
+    },
+    {
+        "no": "#0643",
+        "name": "Reshiram",
+        "entries": {
+            "black": "This Pokémon appears in legends. It sends flames into the air from its tail, burning up everything around it.",
+            "white": "When Reshiram's tail flares, the heat energy moves the atmosphere and changes the world's weather.",
+            "black2": "This legendary Pokémon can scorch the world with fire. It helps those who want to build a world of truth.",
+            "white2": "This legendary Pokémon can scorch the world with fire. It helps those who want to build a world of truth.",
+            "x": "This legendary Pokémon can scorch the world with fire. It helps those who want to build a world of truth.",
+            "y": "When Reshiram's tail flares, the heat energy moves the atmosphere and changes the world's weather.",
+            "omegaRuby": "This legendary Pokémon can scorch the world with fire. It helps those who want to build a world of truth.",
+            "alphaSapphire": "When Reshiram's tail flares, the heat energy moves the atmosphere and changes the world's weather.",
+            "sword": "Flames spew from its tail as it flies through the sky like a jet airplane. It's said that this Pokémon will scorch the world.",
+            "shield": "According to myth, if people ignore truth and let themselves become consumed by greed, Reshiram will arrive to burn their kingdoms down."
+        }
+    },
+    {
+        "no": "#0644",
+        "name": "Zekrom",
+        "entries": {
+            "black": "Concealing itself in lightning clouds, it flies throughout the Unova region. It creates electricity in its tail.",
+            "white": "This Pokémon appears in legends. In its tail, it has a giant generator that creates electricity.",
+            "black2": "This legendary Pokémon can scorch the world with lightning. It assists those who want to build an ideal world.",
+            "white2": "This legendary Pokémon can scorch the world with lightning. It assists those who want to build an ideal world.",
+            "x": "This legendary Pokémon can scorch the world with lightning. It assists those who want to build an ideal world.",
+            "y": "Concealing itself in lightning clouds, it flies throughout the Unova region. It creates electricity in its tail.",
+            "omegaRuby": "This legendary Pokémon can scorch the world with lightning. It assists those who want to build an ideal world.",
+            "alphaSapphire": "Concealing itself in lightning clouds, it flies throughout the Unova region. It creates electricity in its tail.",
+            "sword": "When the interior part of its tail spins like a motor, Zekrom can generate many bolts of lightning to blast its surroundings.",
+            "shield": "Mythology tells us that if people lose the righteousness in their hearts, their kingdoms will be razed by Zekrom's lightning."
+        }
+    },
+    {
+        "no": "#0645",
+        "name": "Landorus (Incarnate Form)",
+        "entries": {
+            "black": "Lands visited by Landorus grant such bountiful crops that it has been hailed as ”The Guardian of the Fields.”",
+            "white": "The energy that comes pouring from its tail increases the nutrition in the soil, making crops grow to great size.",
+            "black2": "From the forces of lightning and wind, it creates energy to give nutrients to the soil and make the land abundant.",
+            "white2": "From the forces of lightning and wind, it creates energy to give nutrients to the soil and make the land abundant.",
+            "x": "Lands visited by Landorus grant such bountiful crops that it has been hailed as ”The Guardian of the Fields.”",
+            "y": "From the forces of lightning and wind, it creates energy to give nutrients to the soil and make the land abundant.",
+            "omegaRuby": "Lands visited by Landorus grant such bountiful crops that it has been hailed as ”The Guardian of the Fields.”",
+            "alphaSapphire": "From the forces of lightning and wind, it creates energy to give nutrients to the soil and make the land abundant.",
+            "legendsArceus": "When the incarnations of wind and of lightning clash, Landorus arrives to quell the conflict. After the tempests and thunderbolts abate, the land is sure to be blessed with bountiful harvests."
+        }
+    },
+    {
+        "no": "#0645therian",
+        "name": "Landorus (Therian Form)",
+        "entries": {
+            "legendsArceus": "Landorus soars through the sky in this form, bestowing plentiful harvests upon the land and earning the people's reverence. It can traverse the whole of Hisui in a mere couple of hours."
+        }
+    },
+    {
+        "no": "#0646",
+        "name": "Kyurem",
+        "entries": {
+            "black": "It generates a powerful, freezing energy inside itself, but its body became frozen when the energy leaked out.",
+            "white": "It can produce ultracold air. Its body is frozen.",
+            "black2": "This legendary ice Pokémon waits for a hero to fill in the missing parts of its body with truth or ideals.",
+            "white2": "This legendary ice Pokémon waits for a hero to fill in the missing parts of its body with truth or ideals.",
+            "x": "This legendary ice Pokémon waits for a hero to fill in the missing parts of its body with truth or ideals.",
+            "y": "It generates a powerful, freezing energy inside itself, but its body became frozen when the energy leaked out.",
+            "omegaRuby": "This legendary ice Pokémon waits for a hero to fill in the missing parts of its body with truth or ideals.",
+            "alphaSapphire": "It generates a powerful, freezing energy inside itself, but its body became frozen when the energy leaked out.",
+            "sword": "Dwelling within it is a power even greater than that of Reshiram or Zekrom, but the extreme cold keeps that power bound.",
+            "shield": "It appears that this Pokémon uses its powers over ice to freeze its own body in order to stabilize its cellular structure."
+        }
+    },
+    {
+        "no": "#0646white",
+        "name": "White Kyurem",
+        "entries": {
+            "sword": "The sameness of Reshiram's and Kyurem's genes allowed Kyurem to absorb Reshiram. Kyurem can now use the power of both fire and ice.",
+            "shield": "It has foreseen that a world of truth will arrive for people and Pokémon. It strives to protect that future."
+        }
+    },
+    {
+        "no": "#0646black",
+        "name": "Black Kyurem",
+        "entries": {
+            "sword": "It's said that this Pokémon battles in order to protect the ideal world that will exist in the future for people and Pokémon.",
+            "shield": "The sameness of Zekrom's and Kyurem's genes allowed Kyurem to absorb Zekrom. Kyurem can now use the power of both electricity and ice."
+        }
+    },
+    {
+        "no": "#0647",
+        "name": "Keldeo",
+        "entries": {
+            "black": "By blasting water from its hooves, it can glide across water. It excels at using leg moves while battling.",
+            "white": "It crosses the world, running over the surfaces of oceans and rivers. It appears at scenic waterfronts.",
+            "black2": "When it is resolute, its body fills with power and it becomes swifter. Its jumps are then too fast to follow.",
+            "white2": "When it is resolute, its body fills with power and it becomes swifter. Its jumps are then too fast to follow.",
+            "x": "It crosses the world, running over the surfaces of oceans and rivers. It appears at scenic waterfronts.",
+            "y": "When it is resolute, its body fills with power and it becomes swifter. Its jumps are then too fast to follow.",
+            "omegaRuby": "It crosses the world, running over the surfaces of oceans and rivers. It appears at scenic waterfronts.",
+            "alphaSapphire": "When it is resolute, its body fills with power and it becomes swifter. Its jumps are then too fast to follow.",
+            "sword": "Cobalion, Terrakion, and Virizion taught this Pokémon how to fight. It dashes across the world, seeking more opportunities to further its training.",
+            "shield": "They say that Keldeo must survive harsh battles and fully develop the horn on its forehead before this Pokémon's true power will awaken."
+        }
+    },
+    {
+        "no": "#0647resolute",
+        "name": "Keldeo (Resolute Form)",
+        "entries": {
+            "sword": "Keldeo has strengthened its resolve for battle, filling its body with power and changing its form.",
+            "shield": "The power that lay hidden in its body now covers its horn, turning it into a sword that can slice through anything."
+        }
+    },
+    {
+        "no": "#0648",
+        "name": "Meloetta",
+        "entries": {
+            "black": "Its melodies are sung with a special vocalization method that can control the feelings of those who hear it.",
+            "white": "Many famous songs have been inspired by the melodies that Meloetta plays.",
+            "black2": "The melodies sung by Meloetta have the power to make Pokémon that hear them happy or sad.",
+            "white2": "The melodies sung by Meloetta have the power to make Pokémon that hear them happy or sad.",
+            "x": "The melodies sung by Meloetta have the power to make Pokémon that hear them happy or sad.",
+            "y": "Its melodies are sung with a special vocalization method that can control the feelings of those who hear it.",
+            "omegaRuby": "The melodies sung by Meloetta have the power to make Pokémon that hear them happy or sad.",
+            "alphaSapphire": "Its melodies are sung with a special vocalization method that can control the feelings of those who hear it."
+        }
+    },
+    {
+        "no": "#0649",
+        "name": "Genesect",
+        "entries": {
+            "black": "Over 300 million years ago, it was feared as the strongest of hunters. It has been modified by Team Plasma.",
+            "white": "This ancient bug Pokémon was altered by Team Plasma. They upgraded the cannon on its back.",
+            "black2": "This Pokémon existed 300 million years ago. Team Plasma altered it and attached a cannon to its back.",
+            "white2": "This Pokémon existed 300 million years ago. Team Plasma altered it and attached a cannon to its back.",
+            "x": "This ancient bug Pokémon was altered by Team Plasma. They upgraded the cannon on its back.",
+            "y": "This Pokémon existed 300 million years ago. Team Plasma altered it and attached a cannon to its back.",
+            "omegaRuby": "This ancient bug Pokémon was altered by Team Plasma. They upgraded the cannon on its back.",
+            "alphaSapphire": "This Pokémon existed 300 million years ago. Team Plasma altered it and attached a cannon to its back."
+        }
+    },
+    {
+        "no": "#0650",
+        "name": "Chespin",
+        "entries": {
+            "x": "The quills on its head are usually soft. When it flexes them, the points become so hard and sharp that they can pierce rock.",
+            "y": "Such a thick shell of wood covers its head and back that even a direct hit from a truck wouldn't faze it.",
+            "omegaRuby": "The quills on its head are usually soft. When it flexes them, the points become so hard and sharp that they can pierce rock.",
+            "alphaSapphire": "Such a thick shell of wood covers its head and back that even a direct hit from a truck wouldn't faze it.",
+            "scarlet": "When Chespin tenses up just before landing a headbutt, the spikes on its head sharpen to points, piercing the enemy’s body on contact.",
+            "violet": "Eating lots of berries makes the bark shell that covers Chespin’s head and body grow sturdier."
+        }
+    },
+    {
+        "no": "#0651",
+        "name": "Quilladin",
+        "entries": {
+            "x": "It relies on its sturdy shell to deflect predators' attacks. It counterattacks with its sharp quills.",
+            "y": "They strengthen their lower bodies by running into one another. They are very kind and won't start fights.",
+            "omegaRuby": "It relies on its sturdy shell to deflect predators' attacks. It counterattacks with its sharp quills.",
+            "alphaSapphire": "They strengthen their lower bodies by running into one another. They are very kind and won't start fights.",
+            "scarlet": "It’s protected by a sturdy shell. The shell is also very heavy, which naturally strengthens Quilladin’s lower body.",
+            "violet": "It can send a trailer flying with a tackle. It’s numb to pain, so even violent collisions don’t faze it."
+        }
+    },
+    {
+        "no": "#0652",
+        "name": "Chesnaught",
+        "entries": {
+            "x": "Its Tackle is forceful enough to flip a 50-ton tank. It shields its allies from danger with its own body.",
+            "y": "When it takes a defensive posture with its fists guarding its face, it could withstand a bomb blast.",
+            "omegaRuby": "Its Tackle is forceful enough to flip a 50-ton tank. It shields its allies from danger with its own body.",
+            "alphaSapphire": "When it takes a defensive posture with its fists guarding its face, it could withstand a bomb blast.",
+            "scarlet": "When its allies are in trouble, Chesnaught creates a shield with its arms and uses its own body to block attacks.",
+            "violet": "Its gentle disposition would have it avoid conflict, but it gives opponents a thrashing with its thorned fists when the situation calls for it."
+        }
+    },
+    {
+        "no": "#0653",
+        "name": "Fennekin",
+        "entries": {
+            "x": "Eating a twig fills it with energy, and its roomy ears give vent to air hotter than 390 degrees Fahrenheit.",
+            "y": "As it walks, it munches on a twig in place of a snack. It intimidates opponents by puffing hot air out of its ears.",
+            "omegaRuby": "Eating a twig fills it with energy, and its roomy ears give vent to air hotter than 390 degrees Fahrenheit.",
+            "alphaSapphire": "As it walks, it munches on a twig in place of a snack. It intimidates opponents by puffing hot air out of its ears.",
+            "scarlet": "This Pokémon gets worked up easily. Its body can also overheat, so it uses its ears to dissipate the heat and calm down.",
+            "violet": "Twigs make for Fennekin’s snacks. When it nibbles on twigs, it finds the courage to face strong foes."
+        }
+    },
+    {
+        "no": "#0654",
+        "name": "Braixen",
+        "entries": {
+            "x": "It has a twig stuck in its tail. With friction from its tail fur, it sets the twig on fire and launches into battle.",
+            "y": "When the twig is plucked from its tail, friction sets the twig alight. The flame is used to send signals to its allies.",
+            "omegaRuby": "It has a twig stuck in its tail. With friction from its tail fur, it sets the twig on fire and launches into battle.",
+            "alphaSapphire": "When the twig is plucked from its tail, friction sets the twig alight. The flame is used to send signals to its allies.",
+            "scarlet": "It ignites the twig from its tail and waves the twig around to signal its allies. To indicate danger, it draws circles in the air with the twig’s flame.",
+            "violet": "Braixen’s branch ignites as it’s pulled from the Pokémon’s tail. Braixen then uses the flame to spark powerful attacks."
+        }
+    },
+    {
+        "no": "#0655",
+        "name": "Delphox",
+        "entries": {
+            "x": "It gazes into the flame at the tip of its branch to achieve a focused state, which allows it to see into the future.",
+            "y": "Using psychic power, it generates a fiery vortex of 5,400 degrees Fahrenheit, incinerating foes swept into this whirl of flame.",
+            "omegaRuby": "It gazes into the flame at the tip of its branch to achieve a focused state, which allows it to see into the future.",
+            "alphaSapphire": "Using psychic power, it generates a fiery vortex of 5,400 degrees Fahrenheit, incinerating foes swept into this whirl of flame.",
+            "scarlet": "It leaves burn marks in the ground with the flame at the tip of its wand. Long ago, people used the shapes of these burn marks for divination.",
+            "violet": "It controls flames telekinetically, trapping its foes in a fiery vortex surpassing 5,400 degrees Fahrenheit and burning them to a crisp."
+        }
+    },
+    {
+        "no": "#0656",
+        "name": "Froakie",
+        "entries": {
+            "x": "It secretes flexible bubbles from its chest and back. The bubbles reduce the damage it would otherwise take when attacked.",
+            "y": "It protects its skin by covering its body in delicate bubbles. Beneath its happy-go-lucky air, it keeps a watchful eye on its surroundings.",
+            "omegaRuby": "It secretes flexible bubbles from its chest and back. The bubbles reduce the damage it would otherwise take when attacked.",
+            "alphaSapphire": "It protects its skin by covering its body in delicate bubbles. Beneath its happy-go-lucky air, it keeps a watchful eye on its surroundings.",
+            "scarlet": "Its happy-go-lucky look is an act intended to fool its enemies. It will suddenly drop the facade and overwhelm its foes with its blinding speed.",
+            "violet": "It utilizes its extraordinary jumping abilities to flummox its foes, throwing springy bubbles at them from above their heads."
+        }
+    },
+    {
+        "no": "#0657",
+        "name": "Frogadier",
+        "entries": {
+            "x": "It can throw bubble-covered pebbles with precise control, hitting empty cans up to a hundred feet away.",
+            "y": "Its swiftness is unparalleled. It can scale a tower of more than 2,000 feet in a minute's time.",
+            "omegaRuby": "It can throw bubble-covered pebbles with precise control, hitting empty cans up to a hundred feet away.",
+            "alphaSapphire": "Its swiftness is unparalleled. It can scale a tower of more than 2,000 feet in a minute's time.",
+            "scarlet": "It excels at devising battle strategies that make use of the terrain, and it never misses its mark when throwing bubble-covered pebbles.",
+            "violet": "The tips of its fingers and toes stick firmly to vertical surfaces. Frogadier can scale skyscrapers with ease."
+        }
+    },
+    {
+        "no": "#0658",
+        "name": "Greninja",
+        "entries": {
+            "x": "It creates throwing stars out of compressed water. When it spins them and throws them at high speed, these stars can split metal in two.",
+            "y": "It appears and vanishes with a ninja's grace. It toys with its enemies using swift movements, while slicing them with throwing stars of sharpest water.",
+            "omegaRuby": "It creates throwing stars out of compressed water. When it spins them and throws them at high speed, these stars can split metal in two.",
+            "alphaSapphire": "It appears and vanishes with a ninja's grace. It toys with its enemies using swift movements, while slicing them with throwing stars of sharpest water.",
+            "scarlet": "The movement of air against the long tongue Greninja keeps wrapped around its neck allows it to sense enemies it can’t see.",
+            "violet": "It makes shuriken out of mucus excreted from its thighs. These shuriken can cut cleanly through steel cables."
+        }
+    },
+    {
+        "no": "#0659",
+        "name": "Bunnelby",
+        "entries": {
+            "x": "They use their large ears to dig burrows. They will dig the whole night through.",
+            "y": "It has ears like shovels. Digging holes strengthens its ears so much that they can sever thick roots effortlessly.",
+            "omegaRuby": "They use their large ears to dig burrows. They will dig the whole night through.",
+            "alphaSapphire": "It has ears like shovels. Digging holes strengthens its ears so much that they can sever thick roots effortlessly.",
+            "sword": "It excels at digging holes. Using its ears, it can dig a nest 33 feet deep in one night.",
+            "shield": "It's very sensitive to danger. The sound of Corviknight's flapping will have Bunnelby digging a hole to hide underground in moments."
+        }
+    },
+    {
+        "no": "#0660",
+        "name": "Diggersby",
+        "entries": {
+            "x": "With their powerful ears, they can heft boulders of a ton or more with ease. They can be a big help at construction sites.",
+            "y": "As powerful as an excavator, its ears can reduce dense bedrock to rubble. When it's finished digging, it lounges lazily.",
+            "omegaRuby": "With their powerful ears, they can heft boulders of a ton or more with ease. They can be a big help at construction sites.",
+            "alphaSapphire": "As powerful as an excavator, its ears can reduce dense bedrock to rubble. When it's finished digging, it lounges lazily.",
+            "sword": "With power equal to an excavator, it can dig through dense bedrock. It's a huge help during tunnel construction.",
+            "shield": "The fur on its belly retains heat exceptionally well. People used to make heavy winter clothing from fur shed by this Pokémon."
+        }
+    },
 ]
