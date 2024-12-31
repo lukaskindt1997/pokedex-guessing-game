@@ -21283,20 +21283,6 @@ export const Entries = [
         }
     },
     {
-        "no": "#0668",
-        "name": "Pyroar",
-        "entries": {
-            "x": "The male with the largest mane of fire is the leader of the pride.",
-            "y": "With fiery breath of more than 10,000 degrees Fahrenheit, they viciously threaten any challenger. The females protect the pride's cubs.",
-            "omegaRuby": "The male with the largest mane of fire is the leader of the pride.",
-            "alphaSapphire": "With fiery breath of more than 10,000 degrees Fahrenheit, they viciously threaten any challenger. The females protect the pride's cubs.",
-            "ultraSun": "The males are usually lazy, but when attacked by a strong foe, a male will protect its friends with no regard for its own safety.",
-            "ultraMoon": "The temperature of its breath is over 10,000 degrees Fahrenheit, but Pyroar doesn't use it on its prey. This Pokémon prefers to eat raw meat.",
-            "scarlet": "The females of a pride work together to bring down prey. It’s thanks to them that their pride doesn’t starve.",
-            "violet": "The mane of a male Pyroar heats up to over 3,600 degrees Fahrenheit during battle. Merely approaching it will cause severe burns."
-        }
-    },
-    {
         "no": "#0669red",
         "name": "Flabébé (Red Flower)",
         "entries": {
@@ -22389,6 +22375,1124 @@ export const Entries = [
             "shield": "For Primarina, every battle's a stage. Its singing and the dancing of its balloons will mesmerize the audience.",
             "scarlet": "To Primarina, every battle is a stage. It takes down its prey with beautiful singing and dancing.",
             "violet": "Also known as a songstress, it is a sight to behold on moonlit nights when it sings in front of the colony it leads."
+        }
+    },
+    {
+        "no": "#0731",
+        "name": "Pikipek",
+        "entries": {
+            "sun": "It can peck at a rate of 16 times a second to drill holes in trees. It uses the holes for food storage and for nesting.",
+            "moon": "This Pokémon feeds on berries, whose leftover seeds become the ammunition for the attacks it fires off from its mouth.",
+            "ultraSun": "It pecks at trees with its hard beak. You can get some idea of its mood or condition from the rhythm of its pecking.",
+            "ultraMoon": "It may look spindly, but its neck muscles are heavy-duty. It can peck at a tree 16 times per second!",
+            "scarlet": "Using its beak to strike 16 times per second, it opens holes in even the hardest of trees.",
+            "violet": "Pikipek has strong muscles in its neck, so it won’t hurt itself even if it violently shakes its head."
+        }
+    },
+    {
+        "no": "#0732",
+        "name": "Trumbeak",
+        "entries": {
+            "sun": "It eats berries and stores their seeds in its beak. When it encounters enemies or prey, it fires off all the seeds in a burst.",
+            "moon": "By bending its beak, it can produce a variety of calls and brand itself a noisy nuisance for its neighbors.",
+            "ultraSun": "It can bend the tip of its beak to produce over a hundred different cries at will.",
+            "ultraMoon": "From its mouth, it fires the seeds of berries it has eaten. The scattered seeds give rise to new plants.",
+            "scarlet": "It flies around using a hundred different cries in various ways to declare its territory to others.",
+            "violet": "When it encounters foes, it launches the many seeds stored in its beak in a radial burst."
+        }
+    },
+    {
+        "no": "#0733",
+        "name": "Toucannon",
+        "entries": {
+            "sun": "When it battles, its beak heats up. The temperature can easily exceed 212 degrees Fahrenheit, causing severe burns when it hits.",
+            "moon": "Within its beak, its internal gas ignites, explosively launching seeds with enough power to pulverize boulders.",
+            "ultraSun": "They smack beaks with others of their kind to communicate. The strength and number of hits tell each other how they feel.",
+            "ultraMoon": "Known for forming harmonious couples, this Pokémon is brought to wedding ceremonies as a good luck charm.",
+            "scarlet": "The compressed gas in Toucannon’s beak launches seeds with such force that they can shatter large boulders.",
+            "violet": "Pairs of Toucannon are considered symbols of companionship, as these Pokémon will raise the temperature of their beaks to warm each other."
+        }
+    },
+    {
+        "no": "#0734",
+        "name": "Yungoos",
+        "entries": {
+            "sun": "With its sharp fangs, it will bite anything. It did not originally live in Alola but was imported from another region.",
+            "moon": "It wanders around in a never-ending search for food. At dusk, it collapses from exhaustion and falls asleep on the spot.",
+            "ultraSun": "Its stomach takes up most of its long torso. It's a big eater, so the amount Trainers have to spend on its food is no laughing matter.",
+            "ultraMoon": "Although it will eat anything, it prefers fresh living things, so it marches down streets in search of prey.",
+            "scarlet": "Its stomach fills most of its torso. It wanders the same path every day, searching for fresh food.",
+            "violet": "It spends its waking hours searching for food. When Yungoos is hungry, its ferocity gains a certain edge."
+        }
+    },
+    {
+        "no": "#0735",
+        "name": "Gumshoos",
+        "entries": {
+            "sun": "When it finds a trace of its prey, it patiently stakes out the location...but it's always snoozing by nightfall.",
+            "moon": "It adores having Rattata and Raticate for dinner, but as it's diurnal, it never encounters them. This Pokémon boasts incredible patience.",
+            "ultraSun": "Although it wasn't originally found in Alola, this Pokémon was brought over a long time ago when there was a huge Rattata outbreak.",
+            "ultraMoon": "Patient by nature, this Pokémon loses control of itself and pounces when it spots its favorite meal—Rattata!",
+            "scarlet": "Once it finds signs of prey, it will patiently stake out the location, waiting until the sun goes down.",
+            "violet": "Gumshoos specializes in relentlessly tracking down prey. The simple-minded Skwovet doesn't seem to provide Gumshoos enough challenge."
+        }
+    },
+    {
+        "no": "#0736",
+        "name": "Grubbin",
+        "entries": {
+            "sun": "Its strong jaw enables it to scrape trees and slurp out the sap. It normally lives underground.",
+            "moon": "They often gather near places frequented by electric Pokémon in order to avoid being attacked by bird Pokémon.",
+            "ultraSun": "If you find its nest, you shouldn't stick your hand inside. You'll get bitten by an irritated Grubbin.",
+            "ultraMoon": "It spits a sticky thread to stop opponents in their tracks, and then it grabs them in its sharp, sturdy mandibles to take them down.",
+            "sword": "Its natural enemies, like Rookidee, may flee rather than risk getting caught in its large mandibles that can snap thick tree branches.",
+            "shield": "It uses its big jaws to dig nests into the forest floor, and it loves to feed on sweet tree sap.",
+            "scarlet": "Grubbin normally live underground, but if they get unearthed by Hoothoot, they may be found gathered around electric Pokémon.",
+            "violet": "It spits sticky thread and winds them around branches, then swings nimbly from tree to tree in a pendulum-like motion."
+        }
+    },
+    {
+        "no": "#0737",
+        "name": "Charjabug",
+        "entries": {
+            "sun": "Its body is capable of storing electricity. On camping trips, people are grateful to have one around.",
+            "moon": "From the food it digests, it generates electricity, and it stores this energy in its electric sac.",
+            "ultraSun": "It buries itself in fallen leaves and barely moves, munching away on humus. If you accidentally step on one, you'll get a shock!",
+            "ultraMoon": "Its stout shell provides excellent defense from attacks. It uses electricity on persistent opponents.",
+            "sword": "While its durable shell protects it from attacks, Charjabug strikes at enemies with jolts of electricity discharged from the tips of its jaws.",
+            "shield": "Its digestive processes convert the leaves it eats into electricity. An electric sac in its belly stores the electricity for later use.",
+            "scarlet": "Protected by a sturdy shell, Charjabug eats large quantities of fresh and decomposing leaf litter in order to evolve.",
+            "violet": "As it digests fallen leaves, it generates and stores electricity, which it can discharge from the tips of its jaws."
+        }
+    },
+    {
+        "no": "#0738",
+        "name": "Vikavolt",
+        "entries": {
+            "sun": "It zips around, on sharp lookout for an opening. It concentrates electrical energy within its large jaws and uses it to zap its enemies.",
+            "moon": "It produces electricity via an electrical organ in its abdomen. It overwhelms bird Pokémon with shocking beams of electrical energy.",
+            "ultraSun": "It has an organ that generates electricity in its abdomen. It concentrates energy in its strong jaws and fires off powerful jolts of electricity.",
+            "ultraMoon": "Vikavolt flusters opponents with acrobatic flying maneuvers. This creates an opening for it to deliver an electric beam attack.",
+            "sword": "It builds up electricity in its abdomen, focuses it through its jaws, and then fires the electricity off in concentrated beams.",
+            "shield": "If it carries a Charjabug to use as a spare battery, a flying Vikavolt can rapidly fire high-powered beams of electricity.",
+            "scarlet": "Displaying exceptional mobility, it weaves between trees and shoots down bird Pokémon with its electromagnetic beams.",
+            "violet": "When carrying a Charjabug, Vikavolt can receive electricity from it and then rapidly fire powerful electromagnetic beams from its large jaws."
+        }
+    },
+    {
+        "no": "#0739",
+        "name": "Crabrawler",
+        "entries": {
+            "sun": "While guarding its weak points with its pincers, it looks for an opening and unleashes punches. When it loses, it foams at the mouth and faints.",
+            "moon": "It punches so much, its pincers often come off from overuse, but they grow back quickly. What little meat they contain is rich and delicious.",
+            "ultraSun": "Its hard pincers are well suited to both offense and defense. Fights between two Crabrawler are like boxing matches.",
+            "ultraMoon": "Crabrawler has been known to mistake Exeggutor for a coconut tree and climb it. The enraged Exeggutor shakes it off and stomps it.",
+            "scarlet": "This Pokémon punches trees and eats the berries that drop down, training itself and getting food at the same time.",
+            "violet": "If it loses its pincers, they'll quickly regrow. The pincers are popular ingredients in paella since their shells produce a tasty soup stock."
+        }
+    },
+    {
+        "no": "#0740",
+        "name": "Crabominable",
+        "entries": {
+            "sun": "It aimed for the top but got lost and ended up on a snowy mountain. Being forced to endure the cold, this Pokémon evolved and grew fur.",
+            "moon": "It just throws punches indiscriminately. In times of desperation, it can lop off its own pincers and fire them like rockets.",
+            "ultraSun": "It stores coldness in its pincers and pummels its foes. It can even smash thick walls of ice to bits!",
+            "ultraMoon": "Before it stops to think, it just starts pummeling. There are records of its turning back avalanches with a flurry of punches.",
+            "scarlet": "The detached pincers of these Pokémon are delicious. Some Trainers bring Lechonk into the mountains just to search for them.",
+            "violet": "Though its punches are powerful, this Pokémon's movements are sluggish. It blows icy bubbles from its mouth to immobilize its opponents."
+        }
+    },
+    {
+        "no": "#0741baile",
+        "name": "Oricorio (Baile Style)",
+        "entries": {
+            "sun": "It beats its wings together to create fire. As it moves in the steps of its beautiful dance, it bathes opponents in intense flames.",
+            "moon": "This Oricorio has sipped red nectar. Its passionate dance moves cause its enemies to combust in both body and mind.",
+            "ultraSun": "It wins the hearts of its enemies with its passionate dancing and then uses the opening it creates to burn them up with blazing flames.",
+            "ultraMoon": "This Oricorio has drunk red nectar. If its Trainer gives the wrong order, this passionate Pokémon becomes fiercely angry.",
+            "scarlet": "This Pokémon is incredibly popular, possibly because its passionate dancing is a great match with the temperament of Paldean people.",
+            "violet": "This form of Oricorio has sipped red nectar. It whips up blazing flames as it moves to the steps of its passionate dance."
+        }
+    },
+    {
+        "no": "#0741pomPom",
+        "name": "Oricorio (Pom-Pom Style)",
+        "entries": {
+            "sun": "This Oricorio has sipped bright yellow nectar. Its bright, cheerful dance melts the hearts of its enemies.",
+            "moon": "It creates an electric charge by rubbing its feathers together. It dances over to its enemies and delivers shocking electrical punches.",
+            "ultraSun": "It lifts its opponents' spirits with its cheerful dance moves. When they let their guard down, it electrocutes them with a jolt.",
+            "ultraMoon": "This Oricorio has drunk bright yellow nectar. When it sees someone looking glum, it will try to cheer them up with a dance.",
+            "scarlet": "This form of Oricorio has sipped yellow nectar. It uses nimble steps to approach opponents, then knocks them out with electric punches.",
+            "violet": "The energetic, cheerful dance of these Oricorio is popular with children, but the Oricorio themselves are hard to find in Paldea."
+        }
+    },
+    {
+        "no": "#0741pau",
+        "name": "Oricorio (Pa'u Style)",
+        "entries": {
+            "sun": "This Oricorio relaxes by swaying gently. This increases its psychic energy, which it then fires at its enemies.",
+            "moon": "This Oricorio has sipped pink nectar. Its enemies' hearts melt at the sight of its gently swaying hips.",
+            "ultraSun": "It relaxes its opponents with its elegant dancing. When they let their guard down, it showers them with psychic energy.",
+            "ultraMoon": "This Oricorio has sipped pink nectar. It gets so caught up in its dancing that it sometimes doesn't hear its Trainer's orders.",
+            "scarlet": "The airy dance of these Oricorio is popular as a means of maintaining good health, but the Oricorio themselves are hard to find in Paldea.",
+            "violet": "This form of Oricorio has sipped pink nectar. It elevates its mind with the gentle steps of its dance, then unleashes its psychic energy."
+        }
+    },
+    {
+        "no": "#0741sensu",
+        "name": "Oricorio (Sensu Style)",
+        "entries": {
+            "sun": "This Oricorio has sipped purple nectar. Its elegant, attractive dance will send the minds and hearts of its enemies to another world.",
+            "moon": "It summons the dead with its dreamy dancing. From their malice, it draws power with which to curse its enemies.",
+            "ultraSun": "It charms its opponents with its refined dancing. When they let their guard down, it places a curse on them that will bring on their demise.",
+            "ultraMoon": "This Oricorio has sipped purple nectar. Some dancers use its graceful, elegant dancing as inspiration.",
+            "scarlet": "This form of Oricorio has sipped purple nectar. It uses ethereal dance steps to call forth the spirits of the dead.",
+            "violet": "The elegant, attractive dance of these Oricorio is popular with adults, but the Oricorio themselves are hard to find in Paldea."
+        }
+    },
+    {
+        "no": "#0742",
+        "name": "Cutiefly",
+        "entries": {
+            "sun": "It feeds on the nectar and pollen of flowers. Because it's able to sense auras, it can identify which flowers are about to bloom.",
+            "moon": "Myriads of Cutiefly flutter above the heads of people who have auras resembling those of flowers.",
+            "ultraSun": "Nectar and pollen are its favorite fare. In fields of flowers, it gets into skirmishes with Butterfree over food.",
+            "ultraMoon": "Cutiefly can pick up the auras of living things. It skillfully reads those auras to predict its foes' movements and make fools of them.",
+            "sword": "Nectar and pollen are its favorite fare. You can find Cutiefly hovering around Gossifleur, trying to get some of Gossifleur's pollen.",
+            "shield": "An opponent's aura can tell Cutiefly what that opponent's next move will be. Then Cutiefly can glide around the attack and strike back.",
+            "scarlet": "When it senses the auras of people or Pokémon who are having fun, it will draw close and give them a painful poke with its long proboscis.",
+            "violet": "Cutiefly sucks up pollen and nectar with its long proboscis. It stores any pollen it doesn't finish eating in its fur."
+        }
+    },
+    {
+        "no": "#0743",
+        "name": "Ribombee",
+        "entries": {
+            "sun": "It rolls up pollen into puffs. It makes many different varieties, some used as food and others used in battle.",
+            "moon": "Some of Ribombee's pollen puffs are highly nutritious. They are sometimes sold as supplements.",
+            "ultraSun": "Rain makes pollen damp, so Ribombee hates rain. When it sees ominous clouds, it finds a hollow in a tree, where it waits stock-still.",
+            "ultraMoon": "It can predict the weather from moisture levels and wind direction. Ribombee only reveals itself when there are a few clear days in a row.",
+            "sword": "It makes pollen puffs from pollen and nectar. The puffs' effects depend on the type of ingredients and how much of each one is used.",
+            "shield": "Ribombee absolutely hate getting wet or rained on. In the cloudy Galar region, they are very seldom seen.",
+            "scarlet": "Ribombee can sense when people or Pokémon are feeling down, and it will cheer them up with handmade pollen puffs.",
+            "violet": "Pollen puffs created by skilled Ribombee can relieve fatigue, making the puffs a popular commodity."
+        }
+    },
+    {
+        "no": "#0744",
+        "name": "Rockruff",
+        "entries": {
+            "sun": "It's considered to be a good Pokémon for beginners because of its friendliness, but its disposition grows rougher as it grows up.",
+            "moon": "This Pokémon has lived with people since times long ago. It can sense when its Trainer is in the dumps and will stick close by its Trainer's side.",
+            "ultraSun": "As they develop, their disposition grows more violent and aggressive. Many Trainers find them too much to handle and abandon them.",
+            "ultraMoon": "When it rubs the rocks on its neck against you, that's proof of its love for you. However, the rocks are sharp, so the gesture is quite painful!",
+            "sword": "This Pokémon can bond very strongly with its Trainer, but it also has a habit of biting. Raising a Rockruff for a long time can be challenging.",
+            "shield": "This Pokémon intimidates opponents by striking the ground with the rocks on its neck. The moment an opponent flinches, Rockruff attacks.",
+            "scarlet": "This Pokémon is very friendly when it's young. Its disposition becomes vicious once it matures, but it never forgets the kindness of its master.",
+            "violet": "This Pokémon travels in a pack with others until it grows up. When its mood turns sour, it starts striking the ground with the rocks on its neck."
+        }
+    },
+    {
+        "no": "#0745midday",
+        "name": "Lycanroc (Midday Form)",
+        "entries": {
+            "sun": "Its quick movements confuse its enemies. Well equipped with claws and fangs, it also uses the sharp rocks in its mane as weapons.",
+            "moon": "When properly raised from a young age, it will become a trustworthy partner that will absolutely never betray its Trainer.",
+            "ultraSun": "The sharp rocks in its mane can cut like knives. Lycanroc wears its prey down by degrees before finishing them off.",
+            "ultraMoon": "The rocks in its mane are sharper than a knife. Fragments that break off are treasured as good luck charms.",
+            "sword": "This Lycanroc is calm and cautious. The rocks jutting from its mane are razor sharp.",
+            "shield": "With swift movements, this Pokémon gradually backs its prey into a corner. Lycanroc's fangs are always aimed toward opponents' weak spots.",
+            "scarlet": "Lycanroc attacks its prey with its sharp claws and fangs. It loyally obeys the instructions of a Trainer it trusts.",
+            "violet": "It has a calm and collected demeanor. It swiftly closes in on its prey, then slices them with the rocks in its mane."
+        }
+    },
+    {
+        "no": "#0745midnight",
+        "name": "Lycanroc (Midnight Form)",
+        "entries": {
+            "sun": "The more intimidating the opponent it faces, the more this Pokémon's blood boils. It will attack with no regard for its own safety.",
+            "moon": "It goads its enemies into attacking, withstands the hits, and in return, delivers a headbutt, crushing their bones with its rocky mane.",
+            "ultraSun": "It has no problem ignoring orders it doesn't like. It doesn't seem to mind getting hurt at all—as long as it can finish off its opponent.",
+            "ultraMoon": "They live alone without forming packs. They will only listen to orders from Trainers who can draw out their true power.",
+            "sword": "This form of Lycanroc is reckless. It charges headlong at its opponents, attacking without any care about what injuries it might receive.",
+            "shield": "It's invigorated by powerful opponents–the stronger the better. A full-force headbutt from one of these Lycanroc can shatter giant boulders.",
+            "scarlet": "This Pokémon uses its rocky mane to slash any who approach. It will even disobey its Trainer if it dislikes the orders it was given.",
+            "violet": "This Lycanroc has an extremely vicious temperament. It will happily sustain injuries for the sake of taking down its opponent."
+        }
+    },
+    {
+        "no": "#0745dusk",
+        "name": "Lycanroc (Dusk Form)",
+        "entries": {
+            "ultraSun": "Bathed in the setting sun of evening, Lycanroc has undergone a special kind of evolution. An intense fighting spirit underlies its calmness.",
+            "ultraMoon": "This strange form is the result of its evolving at dusk. It's very rare in Alola.",
+            "sword": "This form of Lycanroc is normally calm and quiet. Once a battle begins, however, this Pokémon displays a ferocious fighting spirit.",
+            "shield": "These Pokémon have both calm and ferocious qualities. Their temperamental nature makes them a difficult species to raise.",
+            "scarlet": "Normally this Pokémon doesn’t even bark, but once it enters battle, it will relentlessly drive the opponent into a corner.",
+            "violet": "These Pokémon have both calm and ferocious qualities. It's said that this form of Lycanroc is the most troublesome to raise."
+        }
+    },
+    {
+        "no": "#0746",
+        "name": "Wishiwashi",
+        "entries": {
+            "sun": "When it's in trouble, its eyes moisten and begin to shine. The shining light attracts its comrades, and they stand together against their enemies.",
+            "moon": "It's awfully weak and notably tasty, so everyone is always out to get it. As it happens, anyone trying to bully it receives a painful lesson.",
+            "ultraSun": "They're weak, so they move in schools. However, they can also often be seen all alone, having strayed from the school.",
+            "ultraMoon": "When it's in a jam, its shining eyes attract others of its kind. The light from its eyes is visible almost 25 miles away.",
+            "sword": "Individually, they're incredibly weak. It's by gathering up into schools that they're able to confront opponents.",
+            "shield": "When it senses danger, its eyes tear up. The sparkle of its tears signals other Wishiwashi to gather."
+        }
+    },
+    {
+        "no": "#0746school",
+        "name": "Wishiwashi (School Form)",
+        "entries": {
+            "sun": "Weak Wishiwashi school together to concentrate their power. Their united force makes them the demon of the sea, feared near and far.",
+            "moon": "At their appearance, even Gyarados will flee. When they team up to use Water Gun, its power exceeds that of Hydro Pump.",
+            "ultraSun": "Wishiwashi assemble in this formation to face off against strong foes. It boasts a strength that earned it the name “demon of the sea.”",
+            "ultraMoon": "Called “demon of the sea” by some, when Wishiwashi are injured in battle and their numbers dwindle, they become a regular school.",
+            "sword": "On their own, they're very weak. But when Wishiwashi pool their power together in a school, they become a demon of the sea.",
+            "shield": "When facing tough opponents, they get into formation. But if they get wounded in battle, they'll scatter and become solitary again."
+        }
+    },
+    {
+        "no": "#0747",
+        "name": "Mareanie",
+        "entries": {
+            "sun": "It plunges the poison spike on its head into its prey. When the prey has weakened, Mareanie deals the finishing blow with its 10 tentacles.",
+            "moon": "It's found crawling on beaches and seafloors. The coral that grows on Corsola's head is as good as a five-star banquet to this Pokémon.",
+            "ultraSun": "They eat Corsola branches, so Mareanie are hated by craftsmen who work with Corsola branches that have naturally fallen off.",
+            "ultraMoon": "Aside from its head, its body parts regenerate quickly if they're cut off. After a good night's sleep, Mareanie is back to normal.",
+            "sword": "The first symptom of its sting is numbness. The next is an itching sensation so intense that it's impossible to resist the urge to claw at your skin.",
+            "shield": "Unlike their Alolan counterparts, the Mareanie of the Galar region have not yet figured out that the branches of Corsola are delicious.",
+            "scarlet": "This Pokémon wanders the seaside looking for food. It often gets electric shocks from broken Pincurchin spines that it tries to eat.",
+            "violet": "It has excellent regenerative capabilities. Legs that a Mareanie has lost have a very bitter, astringent flavor—they're not suitable as food."
+        }
+    },
+    {
+        "no": "#0748",
+        "name": "Toxapex",
+        "entries": {
+            "sun": "Toxapex crawls along the ocean floor on its 12 legs. It leaves a trail of Corsola bits scattered in its wake.",
+            "moon": "Those attacked by Toxapex's poison will suffer intense pain for three days and three nights. Post-recovery, there will be some aftereffects.",
+            "ultraSun": "To attack, this Pokémon sends toxic spikes flying at its enemies. Ones that come close get mown down by the claws on its feet.",
+            "ultraMoon": "With its 12 legs, it creates a dome to shelter within. The flow of the tides doesn't affect Toxapex in there, so it's very comfortable.",
+            "sword": "To survive in the cold waters of Galar, this Pokémon forms a dome with its legs, enclosing its body so it can capture its own body heat.",
+            "shield": "Within the poison sac in its body is a poison so toxic that Pokémon as large as Wailord will still be suffering three days after it first takes effect.",
+            "scarlet": "This Pokémon lives within a dome made by its own legs. Toxapex monitors its surroundings by sensing the flow of the tide through its spikes.",
+            "violet": "Toxapex gets into fierce battles with Bruxish over areas where warm ocean currents flow, but the odds are always against it."
+        }
+    },
+    {
+        "no": "#0749",
+        "name": "Mudbray",
+        "entries": {
+            "sun": "The mud stuck to Mudbray's hooves enhances its grip and its powerful running gait.",
+            "moon": "It has a stubborn, individualistic disposition. Eating dirt, making mud, and playing in the mire all form part of its daily routine.",
+            "ultraSun": "It loves playing in the mud. If it isn't showered with mud on a daily basis, it gets stressed out and stops listening to its Trainer.",
+            "ultraMoon": "Possessing mighty power, Mudbray can be loaded with 50 times its own body weight and will be totally fine.",
+            "sword": "Loads weighing up to 50 times as much as its own body weight pose no issue for this Pokémon. It's skilled at making use of mud.",
+            "shield": "It eats dirt to create mud and smears this mud all over its feet, giving them the grip needed to walk on rough terrain without slipping.",
+            "scarlet": "This Pokémon covers itself in mud that it has regurgitated. The mud won’t dry out even if it’s exposed to the sun for a long time.",
+            "violet": "Though a slow walker, Mudbray is plenty strong. Its pace doesn't change even when it's loaded with 50 times its own body weight."
+        }
+    },
+    {
+        "no": "#0750",
+        "name": "Mudsdale",
+        "entries": {
+            "sun": "It spits a mud that provides resistance to both wind and rain, so the walls of old houses were often coated with it.",
+            "moon": "Its heavy, mud-covered kicks are its best means of attack, and it can reduce large trucks to scrap without breaking a sweat.",
+            "ultraSun": "It remains calm and unmoving no matter the situation. It mixes dirt with the saliva in its mouth to make a special kind of mud.",
+            "ultraMoon": "It can trudge mountain roads without rest for three days and three nights, all the while dragging a 10-ton load.",
+            "sword": "Mud that hardens around a Mudsdale's legs sets harder than stone. It's so hard that it allows this Pokémon to scrap a truck with a single kick.",
+            "shield": "Mudsdale has so much stamina that it could carry over 10 tons across the Galar region without rest or sleep.",
+            "scarlet": "This Pokémon has been treasured not just for its physical labor but also because it produces high-quality mud used for making pottery.",
+            "violet": "Its legs are fortified with mud and harder than stone, and they can reduce a large truck to scrap with one kick."
+        }
+    },
+    {
+        "no": "#0751",
+        "name": "Dewpider",
+        "entries": {
+            "sun": "It crawls onto the land in search of food. Its water bubble allows it to breathe and protects its soft head.",
+            "moon": "When it comes across enemies or potential prey, this Pokémon smashes its water-bubble-covered head into them.",
+            "ultraSun": "When two Dewpider meet, they display their water bubbles to each other. Then the one with the smaller bubble gets out of the other's way.",
+            "ultraMoon": "It can only breathe oxygen that has dissolved in water, so it wears a water bubble on its head when it walks around on land.",
+            "sword": "It forms a water bubble at the rear of its body and then covers its head with it. Meeting another Dewpider means comparing water-bubble sizes.",
+            "shield": "Dewpider normally lives underwater. When it comes onto land in search of food, it takes water with it in the form of a bubble on its head.",
+            "scarlet": "Dewpider uses sticky threads to create the water bubble that covers its head, so the bubble very rarely bursts.",
+            "violet": "It supports the water bubble that envelops its head with three of its legs. Sometimes it secretly swaps which legs are holding up the bubble."
+        }
+    },
+    {
+        "no": "#0752",
+        "name": "Araquanid",
+        "entries": {
+            "sun": "It delivers headbutts with the water bubble on its head. Small Pokémon get sucked into the bubble, where they drown.",
+            "moon": "Despite what its appearance suggests, it cares for others. If it finds vulnerable, weak Pokémon, it protectively brings them into its water bubble.",
+            "ultraSun": "It usually passes its time in the water. When its belly is full, it stores its subdued prey in the water bubble on its head.",
+            "ultraMoon": "It has a habit of storing things it values in its water bubble. If its Trainer doesn't watch out, Araquanid will try to put them in its bubble!",
+            "sword": "It launches water bubbles with its legs, drowning prey within the bubbles. This Pokémon can then take its time to savor its meal.",
+            "shield": "It acts as a caretaker for Dewpider, putting them inside its bubble and letting them eat any leftover food.",
+            "scarlet": "A caring Pokémon, Araquanid carries Dewpider around inside its water bubble to protect them as it walks. It protects its food in its bubble too.",
+            "violet": "It launches sticky water bubbles. Foes who lose consciousness while trapped inside these bubbles will get torn apart by Araquanid’s gnashing jaws."
+        }
+    },
+    {
+        "no": "#0753",
+        "name": "Fomantis",
+        "entries": {
+            "sun": "During the day, it sleeps and soaks up light. When night falls, it walks around looking for a safer place to sleep.",
+            "moon": "They give off a sweet and refreshing scent. Cutiefly often gather near the tall grass where Fomantis are hiding.",
+            "ultraSun": "When the sun rises, Fomantis spreads its four leaves and bathes in the sunlight. The tip of its head has a pleasant aroma.",
+            "ultraMoon": "It loves the sunshine. When it basks in the sunlight regularly, it grows up with vivid coloration.",
+            "sword": "When bathed in sunlight, this Pokémon emits a pleasantly sweet scent, which causes bug Pokémon to gather around it.",
+            "shield": "During the day, Fomantis basks in sunlight and sleeps peacefully. It wakes and moves around at night.",
+            "scarlet": "Fomantis hates having its naps interrupted. It fires off beams using energy it gathers by bathing in the sun.",
+            "violet": "Many Trainers give their Fomantis their own flowerpots so they can sunbathe in peace and quiet."
+        }
+    },
+    {
+        "no": "#0754",
+        "name": "Lurantis",
+        "entries": {
+            "sun": "It requires a lot of effort to maintain Lurantis's vivid coloring, but some collectors enjoy this work and treat it as their hobby.",
+            "moon": "It fires beams from its sickle-shaped petals. These beams are powerful enough to cleave through thick metal plates.",
+            "ultraSun": "For self-protection, it pretends to be a bug Pokémon. Both of its arms bear keen-edged petals.",
+            "ultraMoon": "As it slashes into its enemies, it looks like it's dancing. Its elegant appearance has led some to call it the most glamorous Grass Pokémon.",
+            "sword": "This Pokémon resembles a beautiful flower. A properly raised Lurantis will have gorgeous, brilliant colors.",
+            "shield": "The petals on this Pokémon's arms are thin and super sharp, and they can fire laser beams if Lurantis gathers light first.",
+            "scarlet": "By masquerading as a bug Pokémon, it lowers the guard of actual bug Pokémon lured in by a scent of sweet flowers. Its sickles bring them down.",
+            "violet": "A lot of time and effort is required to maintain the vivid colors of its petals. This Pokémon puts its Trainer's attentiveness to the test."
+        }
+    },
+    {
+        "no": "#0755",
+        "name": "Morelull",
+        "entries": {
+            "sun": "It scatters spores that flicker and glow. Anyone seeing these lights falls into a deep slumber.",
+            "moon": "As it drowses the day away, it nourishes itself by sucking from tree roots. It wakens at the fall of night, wandering off in search of a new tree.",
+            "ultraSun": "It scatters its shining spores around itself. Even though they're dangerous, nighttime tours of forests where Morelull live are popular.",
+            "ultraMoon": "It likes damp dark places. When night falls, the spores filling the caps of its mushrooms glow.",
+            "sword": "Pokémon living in the forest eat the delicious caps on Morelull's head. The caps regrow overnight.",
+            "shield": "Morelull live in forests that stay dark even during the day. They scatter flickering spores that put enemies to sleep."
+        }
+    },
+    {
+        "no": "#0756",
+        "name": "Shiinotic",
+        "entries": {
+            "sun": "Forests where Shiinotic live are treacherous to enter at night. People confused by its strange lights can never find their way home again.",
+            "moon": "It emits flickering spores that cause drowsiness. When its prey succumb to sleep, this Pokémon feeds on them by sucking in their energy.",
+            "ultraSun": "It puts its prey to sleep and siphons off their vitality through the tip of its arms. If one of its kind is weakened, it helps by sending it vitality.",
+            "ultraMoon": "When it starts fighting for territory with Parasect, the entire area gets completely coated in spores!",
+            "sword": "Its flickering spores lure in prey and put them to sleep. Once this Pokémon has its prey snoozing, it drains their vitality with its fingertips.",
+            "shield": "If you see a light deep in a forest at night, don't go near. Shiinotic will make you fall fast asleep."
+        }
+    },
+    {
+        "no": "#0757",
+        "name": "Salandit",
+        "entries": {
+            "sun": "It burns its bodily fluids to create a poisonous gas. When its enemies become disoriented from inhaling the gas, it attacks them.",
+            "moon": "Volcanoes or dry, craggy places are its home. It emanates a sweet-smelling poisonous gas that attracts bug Pokémon, then attacks them.",
+            "ultraSun": "The males will do whatever the females tell them. They give the females most of their food. Due to malnutrition, the males can't evolve.",
+            "ultraMoon": "It weakens opponents and sends them reeling with its poisonous gas. Salandit doesn't deal well with Spinda, since it's always reeling.",
+            "sword": "Its venom sacs produce a fluid that this Pokémon then heats up with the flame in its tail. This process creates Salandit's poisonous gas.",
+            "shield": "This sneaky Pokémon will slink behind its prey and immobilize it with poisonous gas before the prey even realizes Salandit is there.",
+            "scarlet": "It taunts its prey and lures them into narrow, rocky areas where it then sprays them with toxic gas to make them dizzy and take them down.",
+            "violet": "Only female Salandit can produce gas laden with pheromones. Males entranced by this gas will do whatever the females tell them."
+        }
+    },
+    {
+        "no": "#0758",
+        "name": "Salazzle",
+        "entries": {
+            "sun": "For some reason, only females have been found. It creates a reverse harem of male Salandit that it lives with.",
+            "moon": "Filled with pheromones, its poisonous gas can be diluted to use in the production of luscious perfumes.",
+            "ultraSun": "Salazzle lives deep in caves and forces the Salandit it has attracted with its pheromones to serve it.",
+            "ultraMoon": "It punishes Salandit that couldn't bring it food with a fierce slap of its flame-spewing palm.",
+            "sword": "Only female Salazzle exist. They emit a gas laden with pheromones to captivate male Salandit.",
+            "shield": "The winner of competitions between Salazzle is decided by which one has the most male Salandit with it.",
+            "scarlet": "Salazzle makes its opponents light-headed with poisonous gas, then captivates them with alluring movements to turn them into loyal servants.",
+            "violet": "When two Salazzle meet, they will use their pheromone gas to fight over the males in each other's group."
+        }
+    },
+    {
+        "no": "#0759",
+        "name": "Stufful",
+        "entries": {
+            "sun": "Despite its adorable appearance, when it gets angry and flails about, its arms and legs could knock a pro wrestler sprawling.",
+            "violet": "A touch from anyone except a known friend sends it into a surging frenzy. It's an incredibly dangerous Pokémon.",
+            "ultraSun": "It boasts power enough to split large trees in half. The organ on its rear releases an odor that it uses to communicate with others of its kind.",
+            "ultraMoon": "Stufful hates to be hugged or touched in any way. It will squirm, thrash, and resist with amazing power.",
+            "sword": "Its fluffy fur is a delight to pet, but carelessly reaching out to touch this Pokémon could result in painful retaliation.",
+            "shield": "The way it protects itself by flailing its arms may be an adorable sight, but stay well away. This is flailing that can snap thick tree trunks."
+        }
+    },
+    {
+        "no": "#0760",
+        "name": "Bewear",
+        "entries": {
+            "sun": "This immensely dangerous Pokémon possesses overwhelming physical strength. Its habitat is generally off-limits.",
+            "moon": "This Pokémon has the habit of hugging its companions. Many Trainers have left this world after their spines were squashed by its hug.",
+            "ultraSun": "It waves its hands wildly in intimidation and warning. Life is over for anyone who doesn't run away as fast as possible.",
+            "ultraMoon": "It boasts tremendous physical strength. Many people call it the most dangerous Pokémon in the Alola region.",
+            "sword": "Once it accepts you as a friend, it tries to show its affection with a hug. Letting it do that is dangerous—it could easily shatter your bones.",
+            "shield": "The moves it uses to take down its prey would make a martial artist jealous. It tucks subdued prey under its arms to carry them to its nest."
+        }
+    },
+    {
+        "no": "#0761",
+        "name": "Bounsweet",
+        "entries": {
+            "sun": "A delectable aroma pours from its body. They are often swallowed whole by Toucannon lured by that wafting deliciousness.",
+            "moon": "Although it's too sugary for human consumption, Bounsweet's sweat can be watered down into a juice with just the right amount of sweetness.",
+            "ultraSun": "Because of its sweet, delicious aroma, bird Pokémon are always after it, but it's not intelligent enough to care.",
+            "ultraMoon": "It tries to resist being swallowed by a bird Pokémon by spinning the sepals on its head. It's usually a fruitless attempt.",
+            "sword": "Its body gives off a sweet, fruity scent that is extremely appetizing to bird Pokémon.",
+            "shield": "When under attack, it secretes a sweet and delicious sweat. The scent only calls more enemies to it.",
+            "scarlet": "Its sweat is sweet, like syrup made from boiled-down fruit. Because of this, Bounsweet was highly valued in the past, when sweeteners were scarce.",
+            "violet": "A Greedent drawn in by the sweet scent of these Pokémon will tuck the Bounsweet in among the berries in its tail and carry them all away."
+        }
+    },
+    {
+        "no": "#0762",
+        "name": "Steenee",
+        "entries": {
+            "sun": "The sepals on its head developed to protect its body. These are quite hard, so even if pecked by bird Pokémon, this Pokémon is totally fine.",
+            "moon": "This Pokémon is always bouncing around energetically. Other Pokémon are attracted by its lively appearance and pleasant aroma.",
+            "ultraSun": "It's protected by its hard sepals, so it plays with bird Pokémon without worry. They peck it relentlessly, but it doesn't care.",
+            "ultraMoon": "It bounces around, swinging the sepals on its head with abandon. They're quite painful when they smack you!",
+            "sword": "As it twirls like a dancer, a sweet smell spreads out around it. Anyone who inhales the scent will feel a surge of happiness.",
+            "shield": "Any Corvisquire that pecks at this Pokémon will be greeted with a smack from its sepals followed by a sharp kick.",
+            "scarlet": "Steenee spreads a sweet scent that makes others feel invigorated. This same scent is popular for antiperspirants.",
+            "violet": "Steenee bounces energetically through forests. If the rind that peels off its body is pulverized, it can be used to treat stomach pains."
+        }
+    },
+    {
+        "no": "#0763",
+        "name": "Tsareena",
+        "entries": {
+            "sun": "Its long, striking legs aren't just for show but to be used to kick with skill. In victory, it shows off by kicking the defeated, laughing boisterously.",
+            "moon": "A Pokémon known for the beauty of its well-shaped legs, it sometimes appears as a mascot in advertisements for beauty salons.",
+            "ultraSun": "A master of grand and beautiful kicks, it can knock out even kickboxing champions with a single blow.",
+            "ultraMoon": "A Pokémon with an aggressive personality and a mastery of kicking, it cackles every time it kicks an opponent.",
+            "sword": "This feared Pokémon has long, slender legs and a cruel heart. It shows no mercy as it stomps on its opponents.",
+            "shield": "A kick from the hardened tips of this Pokémon's legs leaves a wound in the opponent's body and soul that will never heal.",
+            "scarlet": "This Pokémon is proud and aggressive. However, it is said that a Tsareena will instantly become calm if someone touches the crown on its calyx.",
+            "violet": "This Pokémon launches fierce yet elegant kicks with its long, slender legs. It views Quaquaval as its rival."
+        }
+    },
+    {
+        "no": "#0764",
+        "name": "Comfey",
+        "entries": {
+            "sun": "It attaches flowers to its highly nutritious vine. This revitalizes the flowers, and they give off an aromatic scent.",
+            "moon": "Baths prepared with the flowers from its vine have a relaxing effect, so this Pokémon is a hit with many people.",
+            "ultraSun": "It stretches sticky vines out from its head and picks flowers to adorn itself with. When it doesn't have any flowers, it feels uneasy.",
+            "ultraMoon": "It picks flowers and sticks them to its body with fluids it produces. The aroma that wafts from its petals has a healing effect.",
+            "sword": "Comfey picks flowers with its vine and decorates itself with them. For some reason, flowers won't wither once they're attached to a Comfey.",
+            "shield": "These Pokémon smell very nice. All Comfey wear different flowers, so each of these Pokémon has its own individual scent.",
+            "scarlet": "It uses its vine to pick flowers. The flowers that Comfey attaches to itself develop healing properties.",
+            "violet": "It prefers areas with lots of flowers. A Comfey adorned with flowers is a happy Comfey, and the flowers gain healing effects."
+        }
+    },
+    {
+        "no": "#0765",
+        "name": "Oranguru",
+        "entries": {
+            "sun": "Known for its extreme intelligence, this Pokémon will look down on inexperienced Trainers, so it's best suited to veteran Trainers.",
+            "moon": "Deep in the jungle, high in the lofty canopy, this Pokémon abides. On rare occasions, it shows up at the beach to match wits with Slowking.",
+            "ultraSun": "It normally spends its time meditating in the treetops. It throws Poké Balls and gives other Pokémon orders as it pleases.",
+            "ultraMoon": "Oranguru don't get along with each other, so they're always engaging in battles of wits to decide which one is superior.",
+            "sword": "With waves of its fan—made from leaves and its own fur—Oranguru skillfully gives instructions to other Pokémon.",
+            "shield": "It knows the forest inside and out. If it comes across a wounded Pokémon, Oranguru will gather medicinal herbs to treat it.",
+            "scarlet": "People used to mistake Oranguru for a human when they saw it issue command after command to the other Pokémon of the forest.",
+            "violet": "This Pokémon lives quietly in the depths of the forest. The purple, cape-like fur gets longer and longer as Oranguru ages."
+        }
+    },
+    {
+        "no": "#0766",
+        "name": "Passimian",
+        "entries": {
+            "sun": "They form groups of roughly 20 individuals. Their mutual bond is remarkable—they will never let down a comrade.",
+            "moon": "They battle with hard berries for weapons. Their techniques are passed from the boss to the group, generation upon generation.",
+            "ultraSun": "They use their saliva to stick leaves to their shoulders. You can tell what troop they belong to from the position of the leaves.",
+            "ultraMoon": "Berries are its weapons as well as the staple of its diet. The one that can throw a berry the farthest is the boss of the troop.",
+            "sword": "Displaying amazing teamwork, they follow the orders of their boss as they all help out in the search for their favorite berries.",
+            "shield": "Passimian live in groups of about 20, with each member performing an assigned role. Through cooperation, the group survives.",
+            "scarlet": "This Pokémon battles by throwing hard berries. It won’t obey a Trainer who throws Poké Balls without skill.",
+            "violet": "The boss chooses 10 members of the group to go out hunting. The hunting party will evenly split the food they find with the rest of the group."
+        }
+    },
+    {
+        "no": "#0767",
+        "name": "Wimpod",
+        "entries": {
+            "sun": "This Pokémon is a coward. As it desperately dashes off, the flailing of its many legs leaves a sparkling clean path in its wake.",
+            "moon": "Its habitat varies from beaches to seabeds. A natural scavenger, it will gleefully chow down on anything edible, no matter how rotten.",
+            "ultraSun": "It will pick up anything it finds on the ground. Sometimes it finds coins, so Murkrow and Meowth will go after it.",
+            "ultraMoon": "An astonishingly cowardly Pokémon, Wimpod will whir its legs at high speeds to run away if anything comes near it.",
+            "sword": "It's nature's cleaner—it eats anything and everything, including garbage and rotten things. The ground near its nest is always clean.",
+            "shield": "Wimpod gather in swarms, constantly on the lookout for danger. They scatter the moment they detect an enemy's presence."
+        }
+    },
+    {
+        "no": "#0768",
+        "name": "Golisopod",
+        "entries": {
+            "sun": "With a flashing slash of its giant sharp claws, it cleaves seawater—or even air—right in two.",
+            "moon": "It battles skillfully with its six arms, but spends most of its time peacefully meditating in caves deep beneath the sea.",
+            "ultraSun": "The shell covering its body is as hard as diamond. This Pokémon will do anything it takes to win.",
+            "ultraMoon": "Its claws, which it can extend and retract at will, are its greatest weapons. Golisopod is sometimes accompanied by Wimpod.",
+            "sword": "It will do anything to win, taking advantage of every opening and finishing opponents off with the small claws on its front legs.",
+            "shield": "They live in sunken ships or in holes in the seabed. When Golisopod and Grapploct battle, the loser becomes the winner's meal."
+        }
+    },
+    {
+        "no": "#0769",
+        "name": "Sandygast",
+        "entries": {
+            "sun": "Born from a sand mound playfully built by a child, this Pokémon embodies the grudges of the departed.",
+            "moon": "It takes control of anyone who puts a hand in its mouth. And so it adds to the accumulation of its sand-mound body.",
+            "ultraSun": "It likes the shovel on its head, so Sandygast will get serious and fight any children who come to take it back.",
+            "ultraMoon": "If you build sand mounds when you're playing, destroy them before you go home, or they may get possessed and become Sandygast.",
+            "sword": "Grudges of the dead have possessed a mound of sand and become a Pokémon. Sandygast is fond of the shovel on its head.",
+            "shield": "Sandygast mainly inhabits beaches. It takes control of anyone who puts their hand into its mouth, forcing them to make its body bigger.",
+            "scarlet": "If it loses its shovel, it will stick something else— like a branch—in its head to make do until it finds another shovel.",
+            "violet": "It flings sand into the eyes of its prey and tries to close in on them while they're blinded, but since Sandygast is so slow, the prey tends to escape."
+        }
+    },
+    {
+        "no": "#0770",
+        "name": "Palossand",
+        "entries": {
+            "sun": "Possessed people controlled by this Pokémon transformed its sand mound into a castle. As it evolved, its power to curse grew ever stronger.",
+            "moon": "Buried beneath the castle are masses of dried-up bones from those whose vitality it has drained.",
+            "ultraSun": "Each of its grains of sand has its own will. Palossand eats small Pokémon and siphons away their vital essence while they're still alive.",
+            "ultraMoon": "Once it has whipped up a sandstorm to halt its opponents in their tracks, this terrifying Pokémon snatches away their vitality.",
+            "sword": "Palossand is known as the Beach Nightmare. It pulls its prey down into the sand by controlling the sand itself, and then it sucks out their souls.",
+            "shield": "This Pokémon lives on beaches, but it hates water. Palossand can't maintain its castle-like shape if it gets drenched by a heavy rain.",
+            "scarlet": "The terrifying Palossand drags smaller Pokémon into its sandy body. Once its victims are trapped, it drains them of their vitality whenever it pleases.",
+            "violet": "From the hollows in its arms, it fires the bones of its victims, which are all dried up after being drained of their vitality."
+        }
+    },
+    {
+        "no": "#0771",
+        "name": "Pyukumuku",
+        "entries": {
+            "sun": "It lives in shallow seas, such as areas near a beach. It can eject its internal organs, which it uses to engulf its prey or battle enemies.",
+            "moon": "These Pokémon line the beaches. The sticky mucous that covers their bodies can be used to soothe sunburned skin. How convenient!",
+            "ultraSun": "The tradition known as Pyukumuku chucking started from the custom of throwing Pyukumuku back into the sea after they wash onshore.",
+            "ultraMoon": "Its entire body is covered in its own slime. If you accidentally step on one, you'll slip, and it will get mad and smack you!",
+            "sword": "It lives in warm, shallow waters. If it encounters a foe, it will spit out its internal organs as a means to punch them.",
+            "shield": "It's covered in a slime that keeps its skin moist, allowing it to stay on land for days without drying up."
+        }
+    },
+    {
+        "no": "#0772",
+        "name": "Type: Null",
+        "entries": {
+            "sun": "The heavy control mask it wears suppresses its intrinsic capabilities. This Pokémon has some hidden special power.",
+            "moon": "Due to the danger that this synthetic Pokémon may go on a rampage, it wears a control mask to restrain its power.",
+            "ultraSun": "A Pokémon weapon developed for a specific mission, it went berserk during an experiment, so it was cryogenically frozen.",
+            "ultraMoon": "There's danger of its going on a rampage, so its true power is sealed away beneath its control mask.",
+            "sword": "Rumor has it that the theft of top-secret research notes led to a new instance of this Pokémon being created in the Galar region.",
+            "shield": "It was modeled after a mighty Pokémon of myth. The mask placed upon it limits its power in order to keep it under control."
+        }
+    },
+    {
+        "no": "#0773",
+        "name": "Silvally (Normal Type)",
+        "entries": {
+            "sun": "Its trust in its partner is what awakens it. This Pokémon is capable of changing its type, a flexibility that is well displayed in battle.",
+            "moon": "Although its name was Type: Null at first, the boy who evolved it into this form gave it the name by which it is now known.",
+            "ultraSun": "This is its form once it has awakened and evolved. Freed from its heavy mask, its speed is greatly increased.",
+            "ultraMoon": "Through the bond it formed with its Trainer, its will was strengthened, and it was able to destroy its control mask.",
+            "sword": "A solid bond of trust between this Pokémon and its Trainer awakened the strength hidden within Silvally. It can change its type at will.",
+            "shield": "The final factor needed to release this Pokémon's true power was a strong bond with a Trainer it trusts."
+        }
+    },
+    {
+        "no": "#0773other",
+        "name": "Silvally (Other Types)",
+        "entries": {
+            "sun": "It destroyed its own control mask. It has become capable of changing its type by equipping special memories.",
+            "moon": "Upon awakening, its RKS System is activated. By employing specific memories, this Pokémon can adapt its type to confound its enemies.",
+            "ultraSun": "Having been awakened successfully, it can change its type and battle—just like a certain Pokémon depicted in legends.",
+            "ultraMoon": "Its capacity to change types unleashed, it shines silver due to the energy springing forth from within.",
+            "sword": "Thanks to its awakened powers, it can change to the <Type> type to match the memory it has equipped.",
+            "shield": "It has the ability to change its type based on the memory it's holding. This is its <Type>-type form."
+        }
+    },
+    {
+        "no": "#0774",
+        "name": "Minior (Meteor Form)",
+        "entries": {
+            "sun": "Originally making its home in the ozone layer, it hurtles to the ground when the shell enclosing its body grows too heavy.",
+            "moon": "Strong impacts can knock it out of its shell. This Pokémon was born from mutated nanoparticles.",
+            "ultraSun": "It lives in the ozone layer, where it becomes food for stronger Pokémon. When it tries to run away, it falls to the ground.",
+            "ultraMoon": "Although its outer shell is uncommonly durable, the shock of falling to the ground smashes the shell to smithereens.",
+            "scarlet": "This Pokémon is born in the ozone layer. It falls to the ground once the outer shell enclosing its core grows heavy.",
+            "violet": "It will react when touched or called to, but it’s unknown whether such responses indicate consciousness."
+        }
+    },
+    {
+        "no": "#0774core",
+        "name": "Minior (Core)",
+        "entries": {
+            "sun": "It eats dust in the atmosphere. The composition of the dust determines the color of its core.",
+            "moon": "If its core stays exposed, it will soon die off. It's possible that it may survive if it's put into a Poké Ball quickly enough.",
+            "ultraSun": "Places where Minior fall from the night sky are few and far between, with Alola being one of the precious few.",
+            "ultraMoon": "This is its form when its shell has fallen off. The color of its core depends on the materials that made up the food it ate.",
+            "scarlet": "Minior that fall to the ground try to return to space, but their wish will not come true—all they can do is fade away.",
+            "violet": "It feeds on dust in the atmosphere. The color of its core is said to be determined by the composition of the dust it eats."
+        }
+    },
+    {
+        "no": "#0775",
+        "name": "Komala",
+        "entries": {
+            "sun": "It is born asleep, and it dies asleep. All its movements are apparently no more than the results of it tossing and turning in its dreams.",
+            "moon": "The log it holds was given to it by its parents at birth. It has also been known to cling to the arm of a friendly Trainer.",
+            "ultraSun": "It stays asleep from the moment it's born. When it falls into a deep sleep, it stops moving altogether.",
+            "ultraMoon": "It remains asleep from birth to death as a result of the sedative properties of the leaves that form its diet.",
+            "scarlet": "Komala spends its entire life sleeping. It feeds on leaves that contain a potent poison only Komala can break down.",
+            "violet": "A potent anesthetic can be made by diluting Komala's drool. This anesthetic was used for surgeries in the past."
+        }
+    },
+    {
+        "no": "#0776",
+        "name": "Turtonator",
+        "entries": {
+            "sun": "The shell on its back is chemically unstable and explodes violently if struck. The hole in its stomach is its weak point.",
+            "moon": "It gushes fire and poisonous gases from its nostrils. Its dung is an explosive substance and can be put to various uses.",
+            "ultraSun": "It lives in volcanoes and eats sulfur and other minerals. Materials from the food it eats form the basis of its explosive shell.",
+            "ultraMoon": "Its exploding shell poses a real danger but is sensitive to moisture. On rainy days, Turtonator takes silent refuge in caves.",
+            "sword": "Explosive substances coat the shell on its back. Enemies that dare attack it will be blown away by an immense detonation.",
+            "shield": "Eating sulfur in its volcanic habitat is what causes explosive compounds to develop in its shell. Its droppings are also dangerously explosive."
+        }
+    },
+    {
+        "no": "#0777",
+        "name": "Togedemaru",
+        "entries": {
+            "sun": "The spiny fur on its back is normally at rest. When this Pokémon becomes agitated, its fur stands on end and stabs into its attackers.",
+            "moon": "The long hairs on its back act as lightning rods. The bolts of lightning it attracts are stored as energy in its electric sac.",
+            "ultraSun": "When it's surprised or agitated, the 14 fur spikes on its back will stand up involuntarily.",
+            "ultraMoon": "Its capacity to produce electricity is somewhat limited, so it gets charged up by letting lightning strike it!",
+            "sword": "With the long hairs on its back, this Pokémon takes in electricity from other electric Pokémon. It stores what it absorbs in an electric sac.",
+            "shield": "When it's in trouble, it curls up into a ball, makes its fur spikes stand on end, and then discharges electricity indiscriminately."
+        }
+    },
+    {
+        "no": "#0778",
+        "name": "Mimikyu (Disguised Form)",
+        "entries": {
+            "sun": "Its actual appearance is unknown. A scholar who saw what was under its rag was overwhelmed by terror and died from the shock.",
+            "moon": "A lonely Pokémon, it conceals its terrifying appearance beneath an old rag so it can get closer to people and other Pokémon.",
+            "ultraSun": "Although it's a quiet, lonely Pokémon, if you try to look at what's under its rag, it will become agitated and resist violently.",
+            "ultraMoon": "A gust of wind revealed what hides under this Pokémon's rag to a passing Trainer, who went home and died painfully that very night.",
+            "sword": "It wears a rag fashioned into a Pikachu costume in an effort to look less scary. Unfortunately, the costume only makes it creepier.",
+            "shield": "There was a scientist who peeked under Mimikyu's old rag in the name of research. The scientist died of a mysterious disease.",
+            "scarlet": "This Pokémon lives in dark places untouched by sunlight. When it appears before humans, it hides itself under a cloth that resembles a Pikachu.",
+            "violet": "Mimikyu was only recently identified as a Pokémon. Previously, people thought it was just a ghost wearing a cloth."
+        }
+    },
+    {
+        "no": "#0778busted",
+        "name": "Mimikyu (Busted Form)",
+        "entries": {
+            "sun": "After going to all the effort of disguising itself, its neck was broken. Whatever is inside is probably unharmed, but it's still feeling sad.",
+            "moon": "If its neck is broken or its rag torn during an attack, it works through the night to patch it.",
+            "ultraSun": "It stands in front of a mirror, trying to fix its broken neck as if its life depended on it. It has a hard time getting it right, so it's crying inside.",
+            "ultraMoon": "Sad that its true identity may be exposed, Mimikyu will mercilessly seek revenge on any opponent that breaks its neck.",
+            "sword": "There will be no forgiveness for any who reveal that it was pretending to be Pikachu. It will bring the culprit down, even at the cost of its own life.",
+            "shield": "Its disguise made from an old rag allowed it to avoid an attack, but the impact broke the neck of the disguise. Now everyone knows it's a Mimikyu.",
+            "scarlet": "Even as it struggles beneath the cloth to repair the broken neck of its disguise, Mimikyu keeps up its impersonation of Pikachu.",
+            "violet": "It has taken damage and can no longer hold the head of its cloth disguise upright. For as long as it lives, Mimikyu will never forget its attacker."
+        }
+    },
+    {
+        "no": "#0779",
+        "name": "Bruxish",
+        "entries": {
+            "sun": "When it unleashes its psychic power from the protuberance on its head, the grating sound of grinding teeth echoes through the area.",
+            "moon": "It stuns its prey with psychokinesis and then grinds them to mush with its strong teeth. Even Shellder's shell is no match for it.",
+            "ultraSun": "It burrows beneath the sand, radiating psychic power from the protuberance on its head. It waits for prey as it surveys the area.",
+            "ultraMoon": "Its skin is thick enough to fend off Mareanie's spikes. With its robust teeth, Bruxish crunches up the spikes and eats them.",
+            "scarlet": "It grinds its teeth with great force to stimulate its brain. It fires the psychic energy created by this process from the protuberance on its head.",
+            "violet": "When sunlight reflects on the ripples created by a Bruxish grinding its teeth, the water all around sparkles brilliantly."
+        }
+    },
+    {
+        "no": "#0780",
+        "name": "Drampa",
+        "entries": {
+            "sun": "It has a compassionate personality, but if it is angered, it completely destroys its surroundings with its intense breath.",
+            "moon": "This Pokémon is friendly to people and loves children most of all. It comes from deep in the mountains to play with children it likes in town.",
+            "ultraSun": "If a child it has made friends with is bullied, Drampa will find the bully's house and burn it to the ground.",
+            "ultraMoon": "It appears in towns and plays with the children. Drampa will protect kids when they're in danger, so their moms don't have to worry.",
+            "sword": "The mountains it calls home are nearly two miles in height. On rare occasions, it descends to play with the children living in the towns below.",
+            "shield": "Drampa is a kind and friendly Pokémon—up until it's angered. When that happens, it stirs up a gale and flattens everything around."
+        }
+    },
+    {
+        "no": "#0781",
+        "name": "Dhelmise",
+        "entries": {
+            "sun": "Swinging its massive anchor, it can KO Wailord in a single blow. What appears to be green seaweed is actually its body.",
+            "moon": "The soul of seaweed adrift in the waves became reborn as this Pokémon. It maintains itself with new infusions of seabed detritus and seaweed.",
+            "ultraSun": "It wraps its prey in green seaweed and sucks away their vitality. It only likes to go after big prey like Wailord.",
+            "ultraMoon": "Its chain-like green seaweed can stretch outward for hundreds of yards. For some reason, it gets along well with Skrelp.",
+            "sword": "After a piece of seaweed merged with debris from a sunken ship, it was reborn as this ghost Pokémon.",
+            "shield": "After lowering its anchor, it waits for its prey. It catches large Wailord and drains their life-force."
+        }
+    },
+    {
+        "no": "#0782",
+        "name": "Jangmo-o",
+        "entries": {
+            "sun": "It expresses its feelings by smacking its scales. Metallic sounds echo through the tall mountains where Jangmo-o lives.",
+            "moon": "They live in mountains where no trace of humans can be detected. Jangmo-o grow little by little as they battle one another.",
+            "ultraSun": "It smacks the scales on its head against rocks or against the ground to frighten its opponents. It can also contact its friends with these noises.",
+            "ultraMoon": "It will never show an enemy its back in battle. Ancient warriors liked Jangmo-o for its valiant disposition and made it one of their own.",
+            "sword": "They learn to fight by smashing their head scales together. The dueling strengthens both their skills and their spirits.",
+            "shield": "Jangmo-o strikes its scales to communicate with others of its kind. Its scales are actually fur that's become as hard as metal.",
+            "scarlet": "The scale atop its head is useful for both offense and defense. It bravely stands and faces its foes rather than turning tail, even if its foes are strong.",
+            "violet": "They communicate with their allies using the sounds their scales make when struck. A group of these Pokémon causes quite a racket."
+        }
+    },
+    {
+        "no": "#0783",
+        "name": "Hakamo-o",
+        "entries": {
+            "sun": "It leaps at its prey with a courageous shout. Its scaly punches tear its opponents to shreds.",
+            "moon": "It sheds and regrows its scales on a continuous basis. The scales become harder and sharper each time they're regrown.",
+            "ultraSun": "It makes noise by clanging its scales together. When the rhythm has reached its peak, Hakamo-o attacks.",
+            "ultraMoon": "The scales it sheds can be molded and processed to make pots and pans. They conduct heat well, so they're a popular item.",
+            "sword": "The scaleless, scarred parts of its body are signs of its strength. It shows them off to defeated opponents.",
+            "shield": "Before attacking its enemies, it clashes its scales together and roars. Its sharp claws shred the opposition.",
+            "scarlet": "It gets into fistfights so intense that the scales on its arms peel off. Bare arms are a sign of valiance.",
+            "violet": "It fires itself up by striking its scales with force as it dances. Its roar is a battle cry."
+        }
+    },
+    {
+        "no": "#0784",
+        "name": "Kommo-o",
+        "entries": {
+            "sun": "When it spots enemies, it threatens them by jingling the scales on its tail. Weak opponents will crack and flee in panic.",
+            "moon": "Its rigid scales function as offense and defense. In the past, its scales were processed and used to make weapons and other commodities.",
+            "ultraSun": "When it howls after finishing off its prey, the metallic sounds of its celebrating comrades can be heard from all around.",
+            "ultraMoon": "It battles valiantly with its fists, which are armored in steel scales. Kommo-o specializes in uppercuts.",
+            "sword": "It clatters its tail scales to unnerve opponents. This Pokémon will battle only those who stand steadfast in the face of this display.",
+            "shield": "Certain ruins have paintings of ancient warriors wearing armor made of Kommo-o scales.",
+            "scarlet": "It lets its arm hang, and then ”quick as a flash” swings upward to land its specialty punch and send the opponent flying high into the sky.",
+            "violet": "It bashes its scales to test its opponents' mettle. The sound of struck Kommo-o scales frightens weaker foes and sends them running."
+        }
+    },
+    {
+        "no": "#0785",
+        "name": "Tapu Koko",
+        "entries": {
+            "sun": "This guardian deity of Melemele is brimming with curiosity. It summons thunderclouds and stores their lightning inside its body.",
+            "moon": "It confuses its enemies by flying too quickly for the eye to follow. It has a hair-trigger temper but forgets what made it angry an instant later.",
+            "ultraSun": "Although it's called a guardian deity, if a person or Pokémon puts it in a bad mood, it will become a malevolent deity and attack.",
+            "ultraMoon": "The lightning-wielding guardian deity of Melemele, Tapu Koko is brimming with curiosity and appears before people from time to time."
+        }
+    },
+    {
+        "no": "#0786",
+        "name": "Tapu Lele",
+        "entries": {
+            "sun": "This guardian deity of Akala is guilelessly cruel. The fragrant aroma of flowers is the source of its energy.",
+            "moon": "As it flutters about, it scatters its strangely glowing scales. Touching them is said to restore good health on the spot.",
+            "ultraSun": "It heals the wounds of people and Pokémon by sprinkling them with its sparkling scales. This guardian deity is worshiped on Akala.",
+            "ultraMoon": "Although called a guardian deity, Tapu Lele is devoid of guilt about its cruel disposition and can be described as nature incarnate."
+        }
+    },
+    {
+        "no": "#0787",
+        "name": "Tapu Bulu",
+        "entries": {
+            "sun": "It pulls large trees up by the roots and swings them around. It causes vegetation to grow, and then it absorbs energy from the growth.",
+            "moon": "The guardian deity of Ula'ula is a lazy Pokémon. It commands plants to immobilize its foes and then deals them a savage blow with its horns.",
+            "ultraSun": "Although it's called a guardian deity, it's violent enough to crush anyone it sees as an enemy.",
+            "ultraMoon": "It makes ringing sounds with its tail to let others know where it is, avoiding unneeded conflicts. This guardian deity of Ula'ula controls plants."
+        }
+    },
+    {
+        "no": "#0788",
+        "name": "Tapu Fini",
+        "entries": {
+            "sun": "The dense fog it creates brings the downfall and destruction of its confused enemies. Ocean currents are the source of its energy.",
+            "moon": "The guardian deity of Poni, it can control water. People say it can create pure water that will wash away any uncleanness.",
+            "ultraSun": "This guardian deity of Poni Island manipulates water. Because it lives deep within a thick fog, it came to be both feared and revered.",
+            "ultraMoon": "Although it's called a guardian deity, terrible calamities sometimes befall those who recklessly approach Tapu Fini."
+        }
+    },
+    {
+        "no": "#0789",
+        "name": "Cosmog",
+        "entries": {
+            "sun": "Its body is gaseous and frail. It slowly grows as it collects dust from the atmosphere.",
+            "moon": "In ages past, it was called the child of the stars. It's said to be a Pokémon from another world, but no specific details are known.",
+            "ultraSun": "Even though its helpless, gaseous body can be blown away by the slightest breeze, it doesn't seem to care.",
+            "ultraMoon": "Whether or not it's a Pokémon from this world is a mystery. When it's in a jam, it warps away to a safe place to hide.",
+            "sword": "This Pokémon came from another universe. Its gaseous body is so light that even a gentle breeze can blow it away.",
+            "shield": "Cosmog is very curious but not very cautious, often placing itself in danger. If things start to look dicey, it teleports away."
+        }
+    },
+    {
+        "no": "#0790",
+        "name": "Cosmoem",
+        "entries": {
+            "sun": "Motionless as if dead, its body is faintly warm to the touch. In the distant past, it was called the cocoon of the stars.",
+            "moon": "There's something accumulating around the black core within its hard shell. People think this Pokémon may come from another world.",
+            "ultraSun": "The king who ruled Alola in times of antiquity called it the “cocoon of the stars” and built an altar to worship it.",
+            "ultraMoon": "As it absorbs light, Cosmoem continues to grow. Its golden shell is surprisingly solid.",
+            "sword": "The absorption of starlight fuels this Pokémon's growth. The shell that encases it is harder than any known material.",
+            "shield": "It sucks in dust from the air at an astounding rate, frantically building up energy within its core as preparation for evolution."
+        }
+    },
+    {
+        "no": "#0791",
+        "name": "Solgaleo",
+        "entries": {
+            "sun": "It is said to live in another world. The intense light it radiates from the surface of its body can make the darkest of nights light up like midday.",
+            "moon": "This Pokémon is said to be a male evolution of Cosmog. At the activation of its third eye, it departs for another world.",
+            "ultraSun": "Sometimes the result of its opening an Ultra Wormhole is that energy and life-forms from other worlds are called here to this world.",
+            "ultraMoon": "In writings from the distant past, it's called by the name “the beast that devours the sun.”",
+            "sword": "When light radiates from its body, this Pokémon could almost appear to be the sun. It will dispel any darkness and light up the world.",
+            "shield": "Solgaleo was once known as the Beast That Devours the Sun. Energy in the form of light radiates boundlessly from it."
+        }
+    },
+    {
+        "no": "#0792",
+        "name": "Lunala",
+        "entries": {
+            "sun": "It is said to be a female evolution of Cosmog. When its third eye activates, away it flies to another world.",
+            "moon": "Said to live in another world, this Pokémon devours light, drawing the moonless dark veil of night over the brightness of day.",
+            "ultraSun": "Records of it exist in writings from long, long ago, where it was known by the name “the beast that calls the moon.”",
+            "ultraMoon": "It sometimes summons unknown powers and life-forms here to this world from holes that lead to other worlds.",
+            "sword": "Known as the Beast That Calls the Moon, this Pokémon lives by taking in any and all light and converting it into its own energy.",
+            "shield": "It steals the light from its surroundings and then becomes the full moon, showering its own light across the night sky."
+        }
+    },
+    {
+        "no": "#0793",
+        "name": "Nihilego",
+        "entries": {
+            "sun": "One of several mysterious Ultra Beasts. People on the street report observing those infested by it suddenly becoming violent.",
+            "moon": "One of the Ultra Beasts. It's unclear whether or not this Pokémon is sentient, but sometimes it can be observed behaving like a young girl.",
+            "ultraSun": "A life-form from another world, it was dubbed a UB and is thought to produce a strong neurotoxin.",
+            "ultraMoon": "It appeared in this world from an Ultra Wormhole. Nihilego appears to be a parasite that lives by feeding on people and Pokémon."
+        }
+    },
+    {
+        "no": "#0794",
+        "name": "Buzzwole",
+        "entries": {
+            "sun": "This Ultra Beast appeared from another world. It shows off its body, but whether that display is a boast or a threat remains unclear.",
+            "moon": "A mysterious life-form called an Ultra Beast. Witnesses saw it pulverize a dump truck with a single punch.",
+            "ultraSun": "Although it's alien to this world and a danger here, it's apparently a common organism in the world where it normally lives.",
+            "ultraMoon": "Buzzwole goes around showing off its abnormally swollen muscles. It is one kind of Ultra Beast."
+        }
+    },
+    {
+        "no": "#0795",
+        "name": "Pheromosa",
+        "entries": {
+            "sun": "One of the dangerous Ultra Beasts, it has been spotted running across the land at terrific speeds.",
+            "moon": "One of the Ultra Beasts. It refuses to touch anything, perhaps because it senses some uncleanness in this world.",
+            "ultraSun": "A life-form that lives in another world, its body is thin and supple, but it also possesses great power.",
+            "ultraMoon": "Although it's alien to this world and a danger here, it's apparently a common organism in the world where it normally lives."
+        }
+    },
+    {
+        "no": "#0796",
+        "name": "Xurkitree",
+        "entries": {
+            "sun": "One of the mysterious life-forms known as Ultra Beasts. Astonishing electric shocks emanate from its entire body, according to witnesses.",
+            "moon": "It appeared from the Ultra Wormhole. It raided a power plant, so people think it energizes itself with electricity.",
+            "ultraSun": "Although it's alien to this world and a danger here, it's apparently a common organism in the world where it normally lives.",
+            "ultraMoon": "They've been dubbed Ultra Beasts. Some of them stand unmoving, like trees, with their arms and legs stuck into the ground."
+        }
+    },
+    {
+        "no": "#0797",
+        "name": "Celesteela",
+        "entries": {
+            "sun": "It appeared from the Ultra Wormhole. Witnesses observed it flying across the sky at high speed.",
+            "moon": "One kind of Ultra Beast. Witnesses have seen it burn down a forest by expelling gas from its two arms.",
+            "ultraSun": "One of the dangerous UBs, high energy readings can be detected coming from both of its huge arms.",
+            "ultraMoon": "Although it's alien to this world and a danger here, it's apparently a common organism in the world where it normally lives."
+        }
+    },
+    {
+        "no": "#0798",
+        "name": "Kartana",
+        "entries": {
+            "sun": "This Ultra Beast came from the Ultra Wormhole. It seems not to attack enemies on its own, but its sharp body is a dangerous weapon in itself.",
+            "moon": "One of the Ultra Beast life-forms, it was observed cutting down a gigantic steel tower with one stroke of its blade.",
+            "ultraSun": "This Ultra Beast's body, which is as thin as paper, is like a sharpened sword.",
+            "ultraMoon": "Although it's alien to this world and a danger here, it's apparently a common organism in the world where it normally lives."
+        }
+    },
+    {
+        "no": "#0799",
+        "name": "Guzzlord",
+        "entries": {
+            "sun": "It has gobbled mountains and swallowed whole buildings, according to reports. It's one of the Ultra Beasts.",
+            "moon": "A dangerous Ultra Beast, it appears to be eating constantly, but for some reason its droppings have never been found.",
+            "ultraSun": "Although it's alien to this world and a danger here, it's apparently a common organism in the world where it normally lives.",
+            "ultraMoon": "An unknown life-form called a UB. It may be constantly hungry—it is certainly always devouring something."
+        }
+    },
+    {
+        "no": "#0800",
+        "name": "Necrozma",
+        "entries": {
+            "sun": "Reminiscent of the Ultra Beasts, this life-form, apparently asleep underground, is thought to have come from another world in ancient times.",
+            "moon": "Light is apparently the source of its energy. It has an extraordinarily vicious disposition and is constantly firing off laser beams.",
+            "ultraSun": "It looks somehow pained as it rages around in search of light, which serves as its energy. It's apparently from another world.",
+            "ultraMoon": "Light is the source of its energy. If it isn't devouring light, impurities build up in it and on it, and Necrozma darkens and stops moving.",
+            "sword": "It survives by absorbing light. After a long time spent slumbering underground, impurities accumulated within it, causing its body to darken.",
+            "shield": "It needs light to survive, and it goes on a rampage seeking it out. Its laser beams will cut anything to pieces."
+        }
+    },
+    {
+        "no": "#0800duskMane",
+        "name": "Dusk Mane Necrozma",
+        "entries": {
+            "ultraSun": "This is its form while it is devouring the light of Solgaleo. It pounces on foes and then slashes them with the claws on its four limbs and back.",
+            "ultraMoon": "This is Necrozma's form while it's absorbing the power of Solgaleo, making it extremely ferocious and impossible to control.",
+            "sword": "When it dominates Solgaleo, it takes on this form. It's a vicious Pokémon, mangling prey with its many claws—including those on its back.",
+            "shield": "Necrozma has attached itself to Solgaleo. It siphons away its host's limitless energy, exploiting that energy to fuel a rampage."
+        }
+    },
+    {
+        "no": "#0800dawnWings",
+        "name": "Dawn Wings Necrozma",
+        "entries": {
+            "ultraSun": "Lunala no longer has a will of its own. Now under the control of Necrozma, it continuously expels all of its energy.",
+            "ultraMoon": "This is its form while it's devouring the light of Lunala. It grasps foes in its giant claws and rips them apart with brute force.",
+            "sword": "Necrozma has subjugated Lunala entirely, forcing the unfortunate Pokémon to emit its light energy for Necrozma to consume.",
+            "shield": "When Necrozma latches on to Lunala, it becomes vicious, seeing enemies everywhere it looks. It will burn the world with lasers."
+        }
+    },
+    {
+        "no": "#0800ultra",
+        "name": "Ultra Necrozma",
+        "entries": {
+            "ultraSun": "This is its form when it has absorbed overwhelming light energy. It fires laser beams from all over its body.",
+            "ultraMoon": "The light pouring out from all over its body affects living things and nature, impacting them in various ways."
+        }
+    },
+    {
+        "no": "#0801",
+        "name": "Magearna",
+        "entries": {
+            "sun": "This artificial Pokémon, constructed more than 500 years ago, can understand human speech but cannot itself speak.",
+            "moon": "Its mechanized body is merely a vessel. Its true self is its Soul-Heart, an artificial soul.",
+            "ultraSun": "It synchronizes its consciousness with others to understand their feelings. This faculty makes it useful for taking care of people.",
+            "ultraMoon": "Built roughly 500 years ago by a scientist, the part called the Soul-Heart is the actual life-form."
+        }
+    },
+    {
+        "no": "#0801original",
+        "name": "Magearna (Original Color)",
+        "entries": {
+            "sun": "This beautiful form reflects Magearna's appearance when first presented to a king's daughter 500 years ago.",
+            "moon": "This gorgeous Magearna looks as it did at the time of its invention. Its luxurious decoration pleased the king's daughter.",
+            "ultraSun": "This is its form from almost 500 years ago. Its body is nothing more than a container—its artificial heart is the actual life-form.",
+            "ultraMoon": "It functions thanks to its artificial soul. The vivid decoration is proof that it was presented as a gift to royalty."
+        }
+    },
+    {
+        "no": "#0802",
+        "name": "Marshadow",
+        "entries": {
+            "sun": "Able to conceal itself in shadows, it never appears before humans, so its very existence was the stuff of myth.",
+            "moon": "It lurks in the shadows of others, copying their movements and powers. This Pokémon is craven and cowering.",
+            "ultraSun": "It slips into the shadows of others and mimics their powers and movements. As it improves, it becomes stronger than those it's imitating.",
+            "ultraMoon": "It sinks into the shadows of people and Pokémon, where it can understand their feelings and copy their capabilities.",
+            "sword": "By slipping into the shadow of a martial arts master and copying their movements, this Pokémon learned the ultimate techniques.",
+            "shield": "This Pokémon can conceal itself in any shadow, so it went undiscovered for a long time."
+        }
+    },
+    {
+        "no": "#0803",
+        "name": "Poipole",
+        "entries": {
+            "ultraSun": "This Ultra Beast is well enough liked to be chosen as a first partner in its own world.",
+            "ultraMoon": "An Ultra Beast that lives in a different world, it cackles wildly as it sprays its opponents with poison from the needles on its head."
+        }
+    },
+    {
+        "no": "#0804",
+        "name": "Naganadel",
+        "entries": {
+            "ultraSun": "It stores hundreds of liters of poisonous liquid inside its body. It is one of the organisms known as UBs.",
+            "ultraMoon": "One kind of Ultra Beast, it fires a glowing, venomous liquid from its needles. This liquid is also immensely adhesive."
+        }
+    },
+    {
+        "no": "#0805",
+        "name": "Stakataka",
+        "entries": {
+            "ultraSun": "It appeared from an Ultra Wormhole. Each one appears to be made up of many life-forms stacked one on top of each other.",
+            "ultraMoon": "When stone walls started moving and attacking, the brute's true identity was this mysterious life-form, which brings to mind an Ultra Beast."
+        }
+    },
+    {
+        "no": "#0806",
+        "name": "Blacephalon",
+        "entries": {
+            "ultraSun": "It slithers toward people. Then, without warning, it triggers the explosion of its own head. It's apparently one kind of Ultra Beast.",
+            "ultraMoon": "A UB that appeared from an Ultra Wormhole, it causes explosions, then takes advantage of opponents' surprise to rob them of their vitality."
+        }
+    },
+    {
+        "no": "#0807",
+        "name": "Zeraora",
+        "entries": {
+            "ultraSun": "It electrifies its claws and tears its opponents apart with them. Even if they dodge its attack, they'll be electrocuted by the flying sparks.",
+            "ultraMoon": "It approaches its enemies at the speed of lightning, then tears them limb from limb with its sharp claws.",
+            "sword": "It runs as fast as lightning strikes, shredding its opponents with its high-voltage claws.",
+            "shield": "Electricity sparks from the pads on its limbs. Wherever Zeraora runs, lightning flashes and thunder echoes."
+        }
+    },
+    {
+        "no": "#0808",
+        "name": "Meltan",
+        "entries": {
+            "letsGoPikachu": "It melts particles of iron and other metals found in the subsoil, so it can absorb them into its body of molten steel.",
+            "letsGoEevee": "It melts particles of iron and other metals found in the subsoil, so it can absorb them into its body of molten steel.",
+            "sword": "It dissolves and eats metal. Circulating liquid metal within its body is how it generates energy.",
+            "shield": "They live as a group, but when the time comes, one strong Meltan will absorb all the others and evolve."
+        }
+    },
+    {
+        "no": "#0809",
+        "name": "Melmetal",
+        "entries": {
+            "letsGoPikachu": "Revered long ago for its capacity to create iron from nothing, for some reason it has come back to life after 3,000 years.",
+            "letsGoEevee": "Revered long ago for its capacity to create iron from nothing, for some reason it has come back to life after 3,000 years.",
+            "sword": "At the end of its life-span, Melmetal will rust and fall apart. The small shards left behind will eventually be reborn as Meltan.",
+            "shield": "Centrifugal force is behind the punches of Melmetal's heavy hex-nut arms. Melmetal is said to deliver the strongest punches of all Pokémon."
+        }
+    },
+    {
+        "no": "#0809gigantamax",
+        "name": "Gigantamax Melmetal",
+        "entries": {
+            "sword": "In a distant land, there are legends about a cyclopean giant. In fact, the giant was a Melmetal that was flooded with Gigantamax energy.",
+            "shield": "It can send electric beams streaking out from the hole in its belly. The beams' tremendous energy can vaporize an opponent in one shot."
         }
     },
 ]
