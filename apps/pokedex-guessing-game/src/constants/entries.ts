@@ -23495,4 +23495,176 @@ export const Entries = [
             "shield": "It can send electric beams streaking out from the hole in its belly. The beams' tremendous energy can vaporize an opponent in one shot."
         }
     },
+    {
+        "no": "#0810",
+        "name": "Grookey",
+        "entries": {
+            "sword": "When it uses its special stick to strike up a beat, the sound waves produced carry revitalizing energy to the plants and flowers in the area.",
+            "shield": "It attacks with rapid beats of its stick. As it strikes with amazing speed, it gets more and more pumped.",
+            "scarlet": "The stick Grookey holds has grown harder and more flexible after soaking in the energy that emanates from inside Grookey’s body.",
+            "violet": "As Grookey strikes everything in sight with its stick, it has more and more fun, and its rhythm becomes livelier."
+        }
+    },
+    {
+        "no": "#0811",
+        "name": "Thwackey",
+        "entries": {
+            "sword": "The faster a Thwackey can beat out a rhythm with its two sticks, the more respect it wins from its peers.",
+            "shield": "When it's drumming out rapid beats in battle, it gets so caught up in the rhythm that it won't even notice that it's already knocked out its opponent.",
+            "scarlet": "It skillfully uses its two sticks not only for drumming out rapid beats but also for pummeling opponents during battle.",
+            "violet": "It becomes intensely focused while it drums out vigorous beats—so much so that sometimes it won’t listen to its Trainer’s commands."
+        }
+    },
+    {
+        "no": "#0812",
+        "name": "Rillaboom",
+        "entries": {
+            "sword": "By drumming, it taps into the power of its special tree stump. The roots of the stump follow its direction in battle.",
+            "shield": "The one with the best drumming techniques becomes the boss of the troop. It has a gentle disposition and values harmony among its group.",
+            "scarlet": "Though it has a calm disposition, it won’t tolerate those who drum up discord. It strictly disciplines offenders until they learn their lesson.",
+            "violet": "When one Rillaboom challenges another who leads a troop, a drumming battle commences. The victor becomes the troop’s new boss."
+        }
+    },
+    {
+        "no": "#0812gmax",
+        "name": "Gigantamax Rillaboom",
+        "entries": {
+            "sword": "Gigantamax energy has caused Rillaboom's stump to grow into a drum set that resembles a forest.",
+            "shield": "Rillaboom has become one with its forest of drums and continues to lay down beats that shake all of Galar."
+        }
+    },
+    {
+        "no": "#0813",
+        "name": "Scorbunny",
+        "entries": {
+            "sword": "A warm-up of running around gets fire energy coursing through this Pokémon's body. Once that happens, it's ready to fight at full power.",
+            "shield": "It has special pads on the backs of its feet, and one on its nose. Once it's raring to fight, these pads radiate tremendous heat.",
+            "scarlet": "Once its body has heated up, Scorbunny can use the full extent of its power. That’s why it does warm-up exercises.",
+            "violet": "Fire energy gathers in the pads of its feet, raising their temperature. Once hot, Scorbunny’s footpads can deal heavy damage to opponents."
+        }
+    },
+    {
+        "no": "#0814",
+        "name": "Raboot",
+        "entries": {
+            "sword": "Its thick and fluffy fur protects it from the cold and enables it to use hotter fire moves.",
+            "shield": "It kicks berries right off the branches of trees and then juggles them with its feet, practicing its footwork.",
+            "scarlet": "Thanks to its soft and fluffy fur, Raboot can easily heat up its fire energy and produce flames with more power.",
+            "violet": "While it prides itself on its varied kicking moves, it can also deliver powerful headbutts once its flames have heated up its forehead."
+        }
+    },
+    {
+        "no": "#0815",
+        "name": "Cinderace",
+        "entries": {
+            "sword": "It juggles a pebble with its feet, turning it into a burning soccer ball. Its shots strike opponents hard and leave them scorched.",
+            "shield": "It's skilled at both offense and defense, and it gets pumped up when cheered on. But if it starts showboating, it could put itself in a tough spot.",
+            "scarlet": "Although Cinderace loses its cool easily, it will battle flawlessly for a Trainer it trusts.",
+            "violet": "Using a ball that it made out of flames, Cinderace blinds its opponents and keeps them at bay."
+        }
+    },
+    {
+        "no": "#0815gmax",
+        "name": "Gigantamax Cinderace",
+        "entries": {
+            "sword": "Infused with Cinderace's fighting spirit, the gigantic Pyro Ball never misses its targets and completely roasts opponents.",
+            "shield": "Gigantamax energy can sometimes cause the diameter of this Pokémon's fireball to exceed 300 feet."
+        }
+    },
+    {
+        "no": "#0816",
+        "name": "Sobble",
+        "entries": {
+            "sword": "When scared, this Pokémon cries. Its tears pack the chemical punch of 100 onions, and attackers won't be able to resist weeping.",
+            "shield": "When it gets wet, its skin changes color, and this Pokémon becomes invisible as if it were camouflaged.",
+            "scarlet": "It gets berries to eat by shooting them down with bullets of water it spurts from its mouth. Its aim is perfect.",
+            "violet": "It’s a very cautious Pokémon. When it has no choice but to battle, it hides itself before attacking."
+        }
+    },
+    {
+        "no": "#0817",
+        "name": "Drizzile",
+        "entries": {
+            "sword": "A clever combatant, this Pokémon battles using water balloons created with moisture secreted from its palms.",
+            "shield": "Highly intelligent but also very lazy, it keeps enemies out of its territory by laying traps everywhere.",
+            "scarlet": "It extends its long, slimy tongue at blinding speeds and finishes off its prey with great skill.",
+            "violet": "Highly intelligent but also very lazy, it defends its home by laying traps."
+        }
+    },
+    {
+        "no": "#0818",
+        "name": "Inteleon",
+        "entries": {
+            "sword": "It has many hidden capabilities, such as fingertips that can shoot water and a membrane on its back that it can use to glide through the air.",
+            "shield": "Its nictitating membranes let it pick out foes' weak points so it can precisely blast them with water that shoots from its fingertips at Mach 3.",
+            "scarlet": "It uses special lenses in its eyes to sense things about its opponents—like their body heat—then attacks once it identifies a weak spot.",
+            "violet": "It may present itself as being well-mannered, but deep down, it still has a lazy side. It will slack off when its Trainer isn’t looking."
+        }
+    },
+    {
+        "no": "#0818gmax",
+        "name": "Gigantamax Inteleon",
+        "entries": {
+            "sword": "Gigantamax Inteleon's Water Gun move fires at Mach 7. As the Pokémon takes aim, it uses the crest on its head to gauge wind and temperature.",
+            "shield": "It has excellent sniping skills. Shooting a berry rolling along over nine miles away is a piece of cake for this Pokémon."
+        }
+    },
+    {
+        "no": "#0819",
+        "name": "Skwovet",
+        "entries": {
+            "sword": "Found throughout the Galar region, this Pokémon becomes uneasy if its cheeks are ever completely empty of berries.",
+            "shield": "It eats berries nonstop—a habit that has made it more resilient than it looks. It'll show up on farms, searching for yet more berries.",
+            "scarlet": "It stores berries in its cheeks. When there are no berries to be found, Skwovet will stuff pebbles into its cheeks to stave off its cravings.",
+            "violet": "No matter how much it stuffs its belly with food, it is always anxious about getting hungry again. So, it stashes berries in its cheeks and tail."
+        }
+    },
+    {
+        "no": "#0820",
+        "name": "Greedent",
+        "entries": {
+            "sword": "It stashes berries in its tail—so many berries that they fall out constantly. But this Pokémon is a bit slow-witted, so it doesn't notice the loss.",
+            "shield": "Common throughout the Galar region, this Pokémon has strong teeth and can chew through the toughest of berry shells.",
+            "scarlet": "If it spots a berry tree, it will immediately go to gather berries without a sideways glance—even if it’s in the middle of a battle.",
+            "violet": "This Pokémon makes off with heaps of fallen berries by wrapping them in its tail, which is roughly twice the length of its body."
+        }
+    },
+    {
+        "no": "#0821",
+        "name": "Rookidee",
+        "entries": {
+            "sword": "It will bravely challenge any opponent, no matter how powerful. This Pokémon benefits from every battle—even a defeat increases its strength a bit.",
+            "shield": "Jumping nimbly about, this small-bodied Pokémon takes advantage of even the slightest opportunity to disorient larger opponents.",
+            "scarlet": "This Pokémon is brave and reckless. The white markings around a Rookidee's eyes intimidate fainthearted Pokémon.",
+            "violet": "The females are fussier than the males. If another creature dirties a female Rookidee's wings, it'll peck the offender relentlessly in a burning rage."
+        }
+    },
+    {
+        "no": "#0822",
+        "name": "Corvisquire",
+        "entries": {
+            "sword": "Smart enough to use tools in battle, these Pokémon have been seen picking up rocks and flinging them or using ropes to wrap up enemies.",
+            "shield": "The lessons of many harsh battles have taught it how to accurately judge an opponent's strength.",
+            "scarlet": "It’s said that the reason behind Corvisquire’s high level of intelligence is the large size of its brain relative to those of other bird Pokémon.",
+            "violet": "This intelligent Pokémon will quickly learn how to use any tool it can hold in its beak or its talons."
+        }
+    },
+    {
+        "no": "#0823",
+        "name": "Corviknight",
+        "entries": {
+            "sword": "This Pokémon reigns supreme in the skies of the Galar region. The black luster of its steel body could drive terror into the heart of any foe.",
+            "shield": "With their great intellect and flying skills, these Pokémon very successfully act as the Galar region's airborne taxi service.",
+            "scarlet": "Corviknight can’t serve as a taxi service in Paldea because the Pokémon’s natural predators will attack it while it flies, endangering the customer.",
+            "violet": "Although its wings have partly turned to steel and become heavy as a result, this Pokémon flies through the skies with ease."
+        }
+    },
+    {
+        "no": "#0823gmax",
+        "name": "Gigantamax Corviknight",
+        "entries": {
+            "sword": "Imbued with Gigantamax energy, its wings can whip up winds more forceful than any a hurricane could muster. The gusts blow everything away.",
+            "shield": "The eight feathers on its back are called blade birds, and they can launch off its body to attack foes independently."
+        }
+    },
 ]
